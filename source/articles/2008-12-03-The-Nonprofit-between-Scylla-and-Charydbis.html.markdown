@@ -1,0 +1,17 @@
+---
+title: The Nonprofit between Scylla and Charydbis
+date: '2008-12-03'
+tags:
+- art
+- cartoon
+- greek
+- nonprofit
+- random
+wp:post_id: '275'
+link: http://island94.dev/2008/12/the-nonprofit-between-scylla-and-charydbis/
+wp:post_type: post
+---
+
+<p><a href="http://www.flickr.com/photos/bensheldon/3079520555/" title="the Nonprofit between Scylla &amp; Chaydbis by bensheldon, on Flickr"><img src="http://farm4.static.flickr.com/3165/3079520555_a9db691c8d.jpg" width="500" height="445" alt="the Nonprofit between Scylla &amp; Chaydbis" /></a></p>
+<p>In my <a href="http://management.bu.edu/exec/elc/inml/index.shtml">Boston University Institute for Nonprofit Management and Leadership</a> program, we always get up to the edge of talking about the interplay between resource development and need, but then it always seems to drift away.  So this is my contribution: if you swing too far towards either (ignoring the other), you're toast.</p>
+<p>And for the record, available resources and community need are external to your organization.  Also, my art is lousy.  And if you find this interesting, you should read my previous post on <a href="http://island94.org/articles/strengthening-organizations-through-community-engagement">Community Engagement</a>.</p>

@@ -1,0 +1,16 @@
+---
+title: Tee
+date: '2007-09-03'
+tags:
+- help
+- programming
+- unix
+wp:post_id: '143'
+link: http://island94.dev/2007/09/tee/
+wp:post_type: post
+---
+
+<blockquote>tee is a Unix command that displays the output of a program and copies it into a file.</blockquote>
+<code>lint program.c | tee program.lint
+
+</code>

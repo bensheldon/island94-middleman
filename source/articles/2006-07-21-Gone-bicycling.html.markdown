@@ -1,0 +1,33 @@
+---
+title: Gone bicycling
+date: '2006-07-21'
+tags:
+- bicycle
+- Boston
+- Jamaica Plain
+- summer
+- time lapse
+- video
+wp:post_id: '78'
+link: http://island94.dev/2006/07/gone-bicycling/
+wp:post_type: post
+---
+
+The heatwave in Boston finally broke yesterday bringing some much needed coolness to the city. As soon as I got home from work, I hopped on my bike and took a nice relaxing ride.  In Jamaica Plain, where I live, there is a long bike and walking path that follows the Orange Line subway nearly into Downtown Boston.  The path runs from Forest Hills all the way to Back Bay Station near Copley Plaza.
+
+<div style="text-align:center";>
+	
+	<a href="http://blip.tv/file/get/Bensheldon-GoneBicycling824.mp4?source=3"><img border="0" src="http://blip.tv/uploadedFiles/Bensheldon-GoneBicycling633.jpg" /></a>
+	<br />
+	<a href="http://blip.tv/file/get/Bensheldon-GoneBicycling824.mp4?source=3">Watch the Video</a>
+	       
+	
+</div>
+
+music by Mutandina
+"Juego"
+magnatune.com
+
+<!--break-->
+I strapped the camera to my bike using some velcro cable ties and a sock for shock absorption.
+

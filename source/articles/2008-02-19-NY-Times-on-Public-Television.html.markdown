@@ -1,0 +1,16 @@
+---
+title: NY Times on Public Television
+date: '2008-02-19'
+tags:
+- broadcasting
+- tv
+wp:post_id: '201'
+link: http://island94.dev/2008/02/ny-times-on-public-television/
+wp:post_type: post
+---
+
+<blockquote>
+The average PBS show on prime time now scores about a 1.4 Nielsen rating, or roughly what the wrestling show “Friday Night Smackdown” gets.
+</blockquote>
+
+Probably the average reader of the NY Times doesn't think much of Friday Night Smackdown (I don't really), but it gets a pretty good following.  So in my opinion, contrary to what I think this <a href="http://www.nytimes.com/2008/02/17/arts/television/17mcgr.html">editorial</a> is intending, that's not a very damning statistic.

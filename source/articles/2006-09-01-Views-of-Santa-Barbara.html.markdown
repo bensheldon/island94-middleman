@@ -1,0 +1,10 @@
+---
+title: Views of Santa Barbara
+date: '2006-09-01'
+tags: []
+wp:post_id: '95'
+link: http://island94.dev/2006/09/views-of-santa-barbara/
+wp:post_type: post
+---
+
+<a href="http://en.wikipedia.org/wiki/Santa_Barbara%2C_California">Santa Barbara</a>, California is a beautiful town.  I went to school there and when I can, try to visit...though now I live in Boston, which makes it difficult.

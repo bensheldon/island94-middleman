@@ -1,0 +1,21 @@
+---
+title: 3 Fortunes
+date: '2009-03-18'
+tags:
+- advice
+- committment
+- everything
+- food
+- success
+wp:post_id: '562'
+link: http://island94.dev/2009/03/3-fortunes/
+wp:post_type: post
+---
+
+Three fortunes I received following pho:
+<ol>
+	<li><em>Encourage me, and I will not forget you.
+</em></li>
+	<li><em>Commitment is the hinge upon which the door to success hangs.</em></li>
+	<li><em>Everything serves to further.</em></li>
+</ol>

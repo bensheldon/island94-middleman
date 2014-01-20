@@ -1,0 +1,18 @@
+---
+title: Vote Ben
+date: '2006-07-21'
+tags:
+- Danielle
+- me
+- photos
+- politics
+wp:post_id: '79'
+link: http://island94.dev/2006/07/vote-ben/
+wp:post_type: post
+---
+
+<a href="http://www.flickr.com/photos/bensheldon/194901832/" title="Photo Sharing"><img src="http://static.flickr.com/73/194901832_da125ed6ca_m.jpg" width="180" height="240" alt="Vote Ben" class="centered" /></a>
+
+My friend Danielle took this ridiculous photo of me aboard the <em>Thomas Leighton</em> (known locally as the "Tippy Tommy") operating out of Portsmouth, New Hampshire.  We were at the wedding of a friend taking place on the Piscataqua River, the third fastest-flowing navigable river in the world.
+
+I feel I look very political-worthy in this picture; all I need is to airbrush the tie into an American flag.<!--break-->

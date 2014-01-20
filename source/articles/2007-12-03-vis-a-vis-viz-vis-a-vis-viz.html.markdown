@@ -1,0 +1,15 @@
+---
+title: vis-a-vis viz. vis-a-vis, viz.
+date: '2007-12-03'
+tags:
+- definition
+- dictionary
+- language
+wp:post_id: '182'
+link: http://island94.dev/2007/12/vis-a-vis-viz-vis-a-vis-viz/
+wp:post_type: post
+---
+
+<a href="http://en.wiktionary.org/wiki/viz">viz.</a> - namely, as follows, that is to say; introduces and element or list... an abbreviation for "videlicet"
+
+<a href="http://en.wiktionary.org/wiki/viz">vis-a-vis</a> -  (1) face to face with another (2) In relation to or compared with: Canada's role vis-a-vis the United States in Afghanistan (3) as opposed to

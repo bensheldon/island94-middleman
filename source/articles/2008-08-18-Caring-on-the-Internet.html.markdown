@@ -1,0 +1,27 @@
+---
+title: Caring on the Internet
+date: '2008-08-18'
+tags:
+- blog
+- internet
+- media
+wp:post_id: '242'
+link: http://island94.dev/2008/08/caring-on-the-internet/
+wp:post_type: post
+---
+
+I really liked this series of comments on a <a href="http://www.boingboing.net/2008/08/17/how-the-daily-shows.html#comment-262112">BoingBoing post</a>
+
+<blockquote>
+
+<em>#3 posted by pAULbOWEN , August 17, 2008 12:48 PM</em>
+
+I should care because?
+
+<em>#4 posted by zarl , August 17, 2008 12:53 PM</em>
+
+Nobody cares that you don't care.
+
+</blockquote>
+
+
