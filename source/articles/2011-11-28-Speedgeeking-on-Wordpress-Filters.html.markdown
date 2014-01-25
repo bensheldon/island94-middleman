@@ -10,6 +10,7 @@ wp_link: "/2011/11/speedgeeking-on-wordpress-filters/"
 wp:post_type: post
 redirects:
 - "/2011/11/speedgeeking-on-wordpress-filters/"
+- "/?p=2957"
 ---
 
 ![](2011-11-28-Speedgeeking-on-Wordpress-Filters/Wordpress-Filters-Presentation-600x305.png "Wordpress Filters Presentation")

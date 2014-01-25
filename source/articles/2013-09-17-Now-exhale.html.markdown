@@ -7,6 +7,7 @@ wp_link: "/2013/09/now-exhale/"
 wp:post_type: post
 redirects:
 - "/2013/09/now-exhale/"
+- "/?p=3107"
 ---
 
 From  [Why’s (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/):

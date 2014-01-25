@@ -12,6 +12,7 @@ wp_link: "/2009/02/the-ethics-of-awareness/"
 wp:post_type: post
 redirects:
 - "/2009/02/the-ethics-of-awareness/"
+- "/?p=437"
 ---
 
 I just finished reading [The Tree of Knowledge: The Biological Roots of Human Understanding](http://www.amazon.com/Tree-Knowledge-Humberto-R-Maturana/dp/0877736421?tag=particculturf-20).  I posted upon the book [earlier](http://island94.org/2009/01/using-distinctions-to-create-meaning/), but I wanted to paste in the conclusion, which I think presents an interesting closure to their introductory thesis: "doing is knowing, and all knowing is doing"---a thesis the authors make a compelling case for.

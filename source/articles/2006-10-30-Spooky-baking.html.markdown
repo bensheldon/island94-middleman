@@ -20,6 +20,7 @@ redirects:
 - "/articles/spooky-baking"
 - "/node/105"
 - "/2006/10/spooky-baking/"
+- "/?p=105"
 ---
 
   [ ![Me](http://static.flickr.com/83/283007358_934d0077a9.jpg) ](http://www.flickr.com/photos/bensheldon/283007358/ "Photo Sharing")

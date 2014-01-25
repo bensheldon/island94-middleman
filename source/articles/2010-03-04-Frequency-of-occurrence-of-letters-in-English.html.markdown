@@ -11,6 +11,7 @@ wp_link: "/2010/03/frequency-of-occurrence-of-letters-in-english/"
 wp:post_type: post
 redirects:
 - "/2010/03/frequency-of-occurrence-of-letters-in-english/"
+- "/?p=1826"
 ---
 
   ![](2010-03-04-Frequency-of-occurrence-of-letters-in-English/frequency-of-letters-in-english.png "frequency of letters in english")

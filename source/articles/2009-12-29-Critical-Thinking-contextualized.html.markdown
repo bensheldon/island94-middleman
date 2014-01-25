@@ -7,6 +7,7 @@ wp_link: "/2009/12/critical-thinking-contextualized/"
 wp:post_type: post
 redirects:
 - "/2009/12/critical-thinking-contextualized/"
+- "/?p=1628"
 ---
 
 Below is an excerpt from my final paper for the Critical and Creative Thinking course I took this Fall. I based my paper on a quote from the Arthur Costa, author of our textbook, who wrote:

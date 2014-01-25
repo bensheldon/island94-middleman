@@ -12,6 +12,7 @@ redirects:
 - "/articles/new-england-construction"
 - "/node/130"
 - "/2007/04/new-england-construction/"
+- "/?p=130"
 ---
 
 .!.

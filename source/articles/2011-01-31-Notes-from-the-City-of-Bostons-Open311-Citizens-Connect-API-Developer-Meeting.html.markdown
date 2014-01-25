@@ -12,6 +12,7 @@ wp_link: "/2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/"
 wp:post_type: post
 redirects:
 - "/2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/"
+- "/?p=2463"
 ---
 
 Today I attended a developer meeting at Boston City Hall for their [Citizen Connect API](http://www.cityofboston.gov/doit/apps/citizensconnect.asp), a to-be-launched [Open311](http://open311.org/) implementation. The city currently has official [iPhone](http://itunes.apple.com/us/app/boston-citizens-connect/id330894558) and [Android](http://www.androidzoom.com/android_applications/tools/boston-citizens-connect_najk.html) apps that allow community members to submit broken streetlights, potholes, graffiti and snow removal, but the intent of the "open" part is to allow unaffiliated developers to integrate the system into their own applications. The other developers attending were the 7-person Boston [Code for America](http://codeforamerica.org/boston/) crew (who just arrived a few days before), [SeeClickFix](http://www.seeclickfix.com/) and a university researcher (the latter 2 via teleconference).

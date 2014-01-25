@@ -12,6 +12,7 @@ wp_link: "/2009/03/3-fortunes/"
 wp:post_type: post
 redirects:
 - "/2009/03/3-fortunes/"
+- "/?p=562"
 ---
 
 Three fortunes I received following pho:

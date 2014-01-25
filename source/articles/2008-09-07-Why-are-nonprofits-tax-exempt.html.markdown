@@ -13,6 +13,7 @@ redirects:
 - "/node/253"
 - "/articles/why-are-nonprofits-tax-exempt"
 - "/2008/09/why-are-nonprofits-tax-exempt/"
+- "/?p=253"
 ---
 
 In my last post about [nonprofit structure](http://island94.org/articles/what-nonprofit-structural-definition), some interesting and important aspects of tax-exemption weren't fully explored. Specifically, I glossed over _why_ tax-exemption exists in the first place. Let's rectify that.

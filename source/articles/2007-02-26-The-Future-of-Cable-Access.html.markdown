@@ -13,6 +13,7 @@ redirects:
 - "/node/119"
 - "/articles/future-cable-access"
 - "/2007/02/the-future-of-cable-access/"
+- "/?p=119"
 ---
 
 [ ![](http://blip.tv/file/get/Bensheldon-WhatIsTheFutureOfCableAccessTV720.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-WhatIsTheFutureOfCableAccessTV720.flv)

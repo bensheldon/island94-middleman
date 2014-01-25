@@ -12,6 +12,7 @@ redirects:
 - "/node/246"
 - "/observation/failure-confidence"
 - "/2008/08/failure-of-confidence/"
+- "/?p=246"
 ---
 
 Diebold (now Premier Election Systems), [admits voting machines have had critical software bug for the last 10 years that can result in votes being lost.](http://www.nytimes.com/2008/08/22/us/22brfs-001.html?ref=us)

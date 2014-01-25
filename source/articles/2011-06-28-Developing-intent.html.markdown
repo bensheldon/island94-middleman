@@ -10,6 +10,7 @@ wp_link: "/2011/06/developing-intent/"
 wp:post_type: post
 redirects:
 - "/2011/06/developing-intent/"
+- "/?p=2725"
 ---
 
 A [comment](http://laptopburns.wordpress.com/2011/05/03/why-apps-cant-transform-society/#comment-52) by the author, Tony Roberts, on his _Laptop Burns_ post ["Why apps can't transform society](http://laptopburns.wordpress.com/2011/05/03/why-apps-cant-transform-society/)":

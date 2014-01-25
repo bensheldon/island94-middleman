@@ -13,6 +13,7 @@ redirects:
 - "/node/42"
 - "/articles/great-minds-dress-alike"
 - "/2006/04/great-minds-dress-alike/"
+- "/?p=42"
 ---
 
 [ ![](http://static.flickr.com/54/135166679_381974b395_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/135166679/)

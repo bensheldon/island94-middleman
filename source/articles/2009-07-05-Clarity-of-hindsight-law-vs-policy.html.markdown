@@ -11,6 +11,7 @@ wp_link: "/2009/07/clarity-of-hindsight-law-vs-policy/"
 wp:post_type: post
 redirects:
 - "/2009/07/clarity-of-hindsight-law-vs-policy/"
+- "/?p=620"
 ---
 
 [Capote divx](http://www.blackpawdesigns.com/?capote)

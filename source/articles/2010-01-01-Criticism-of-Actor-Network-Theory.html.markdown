@@ -7,6 +7,7 @@ wp_link: "/2010/01/criticism-actor-network-theory/"
 wp:post_type: post
 redirects:
 - "/2010/01/criticism-actor-network-theory/"
+- "/?p=1659"
 ---
 
 Once you have a basic definition, I find it easiest to learn about something through its criticisms: what is criticised is usually what is unique. This is the Wikipedia's [criticism of Actor-Network Theory](http://en.wikipedia.org/wiki/Actor-network_theory#Some_criticism), which was developed by [previously mentioned](http://www.island94.org/2010/01/modern-and-post-modern-science/) Bruno Latour:

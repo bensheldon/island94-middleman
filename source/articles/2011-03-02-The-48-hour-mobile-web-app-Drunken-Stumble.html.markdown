@@ -13,6 +13,7 @@ wp_link: "/2011/03/the-48-hour-mobile-web-app-drunken-stumble/"
 wp:post_type: post
 redirects:
 - "/2011/03/the-48-hour-mobile-web-app-drunken-stumble/"
+- "/?p=2501"
 ---
 
 [ ![](2011-03-02-The-48-hour-mobile-web-app-Drunken-Stumble/drunkenlogo-500x190.png "drunkenlogo") ](http://drunkenstumble.com)

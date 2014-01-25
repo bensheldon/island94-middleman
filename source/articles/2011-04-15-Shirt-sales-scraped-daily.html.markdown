@@ -12,6 +12,7 @@ wp_link: "/2011/04/shirt-sales-scraped-daily/"
 wp:post_type: post
 redirects:
 - "/2011/04/shirt-sales-scraped-daily/"
+- "/?p=2629"
 ---
 
 [ ![](2011-04-15-Shirt-sales-scraped-daily/daily-t-shirt-sales-600x397.png "daily t-shirt sales") ](http://dayoftheshirt.com)

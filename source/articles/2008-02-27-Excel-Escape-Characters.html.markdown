@@ -10,6 +10,7 @@ redirects:
 - "/node/203"
 - "/excel-escape-characters"
 - "/2008/02/excel-escape-characters/"
+- "/?p=203"
 ---
 
 If you want to insert a parenthesis into an excel formula (for example, concatenating strings into something to export), you want do use double-double-quotes:

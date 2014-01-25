@@ -9,6 +9,7 @@ redirects:
 - "/node/189"
 - "/reading-list"
 - "/2007/12/reading-list/"
+- "/?p=189"
 ---
 
 ### Friends

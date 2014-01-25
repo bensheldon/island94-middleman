@@ -14,6 +14,7 @@ wp_link: "/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/"
 wp:post_type: post
 redirects:
 - "/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/"
+- "/?p=1726"
 ---
 
 The following quote is from _Zen and the Art of Motorcycle Maintenance_ by Robert Pirsig. (The John mentioned is the protagonist's buddy who wants to escape modern technological life via a motorcycle he deigns to tune-up):

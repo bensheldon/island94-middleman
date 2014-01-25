@@ -12,6 +12,7 @@ wp_link: "/2011/01/adding-class-to-wordpress-linked-images/"
 wp:post_type: post
 redirects:
 - "/2011/01/adding-class-to-wordpress-linked-images/"
+- "/?p=2425"
 ---
 
 An [enduring issue](http://wordpress.org/support/topic/how-can-i-set-the-class-of-anchors) with linked images ( `<a href=""><img src="" /></a>` ), is targeting the anchor link for theming—especially for disabling borders and highlighting that look great on text links but odd for images. CSS doesn't have a parent selector ( `a > img:parent` ), and javascript feels like overkill. The simple solution is to add a `class` to the parent anchor (< `a href="" class="img">)` , but that can get repetitive, especially when Wordpress is supposed to automate those sorts of things.

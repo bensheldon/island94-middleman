@@ -10,6 +10,7 @@ redirects:
 - "/node/147"
 - "/thesaurus-computations"
 - "/2007/09/thesaurus-computations/"
+- "/?p=147"
 ---
 
 Today I just started computing the relations between groups. It's been chugging along on my local machine for about 8 hours now, I'm 1% complete and have a table with 5 million entries (at 210mb).

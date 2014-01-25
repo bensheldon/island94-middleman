@@ -7,6 +7,7 @@ wp_link: "/2009/03/excerpt-sectors-of-the-us-right-active-in-the-year-2001/"
 wp:post_type: post
 redirects:
 - "/2009/03/excerpt-sectors-of-the-us-right-active-in-the-year-2001/"
+- "/?p=512"
 ---
 
 With the political talk about Rush Limbaugh being [in charge](http://www.huffingtonpost.com/2009/03/02/steele-takes-on-rush-limb_n_171135.html) of the Republican party I---serendipously while cleaning out my office---came across a list of definitions for the US Right from [Defending Democracry: An activist resource kit](http://www.publiceye.org/ark/democracy/brochure.html). In reading over the list, the question for me that comes to mind is: if that's the Right, what is the Left?

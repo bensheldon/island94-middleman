@@ -12,6 +12,7 @@ wp_link: "/2009/02/meandering-thoughts-on-creativity-change-and-consciousness/"
 wp:post_type: post
 redirects:
 - "/2009/02/meandering-thoughts-on-creativity-change-and-consciousness/"
+- "/?p=506"
 ---
 
 >

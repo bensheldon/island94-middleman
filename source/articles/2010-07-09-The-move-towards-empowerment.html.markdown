@@ -14,6 +14,7 @@ wp_link: "/2010/07/the-move-towards-empowerment/"
 wp:post_type: post
 redirects:
 - "/2010/07/the-move-towards-empowerment/"
+- "/?p=2107"
 ---
 
 The New York Review of Books [on _When Everything Changed: The Amazing Journey of American Women from 1960 to the Present_](http://www.nybooks.com/articles/archives/2009/dec/17/growing-up-female/?pagination=false) by Gail Collins:

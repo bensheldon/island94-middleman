@@ -15,6 +15,7 @@ redirects:
 - "/node/114"
 - "/articles/happy-holidays-2006"
 - "/2006/12/happy-holidays-2006/"
+- "/?p=114"
 ---
 
 [ ![](http://blip.tv/file/get/Bensheldon-HappyHolidays2006530.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-HappyHolidays2006530.flv)

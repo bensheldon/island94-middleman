@@ -13,6 +13,7 @@ redirects:
 - "/observation/community-organizer-community-outreach-minister"
 - "/node/265"
 - "/2008/10/community-organizer-equals-community-outreach-minister/"
+- "/?p=265"
 ---
 
 While wasting time on the political blogs, I ran across this [interesting comment](http://mnpublius.com/2008/10/mr-positive-hanging-out-with-team-smear/#comment-27022) in the comments of an anti-community organizing article: _Community Organizers_ are the same thing as _Community Outreach Ministers_ :

@@ -8,5 +8,6 @@ wp_link: "/2012/11/portfolio/"
 wp:post_type: nav_menu_item
 redirects:
 - "/2012/11/portfolio/"
+- "/?p=3030"
 ---
 

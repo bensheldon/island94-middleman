@@ -7,6 +7,7 @@ wp_link: "/2009/03/cold-start-car-advice/"
 wp:post_type: post
 redirects:
 - "/2009/03/cold-start-car-advice/"
+- "/?p=551"
 ---
 
 A quote from a Slashdot story on a new fast charge/discharge lithium battery:

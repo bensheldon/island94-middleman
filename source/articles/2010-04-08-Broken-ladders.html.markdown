@@ -11,6 +11,7 @@ wp_link: "/2010/04/broken-ladders/"
 wp:post_type: post
 redirects:
 - "/2010/04/broken-ladders/"
+- "/?p=1884"
 ---
 
 _Let's get polemic._

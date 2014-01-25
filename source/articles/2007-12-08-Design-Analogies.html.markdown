@@ -12,6 +12,7 @@ redirects:
 - "/node/188"
 - "/design-analogies"
 - "/2007/12/design-analogies/"
+- "/?p=188"
 ---
 
 - [Kill Switch release](http://www.iucn-tftsg.org/?kill_switch)

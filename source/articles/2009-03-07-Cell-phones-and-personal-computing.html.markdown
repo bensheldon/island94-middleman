@@ -7,6 +7,7 @@ wp_link: "/2009/03/cell-phones-and-personal-computing/"
 wp:post_type: post
 redirects:
 - "/2009/03/cell-phones-and-personal-computing/"
+- "/?p=528"
 ---
 
 One morning a month or so ago, I was listening to a really interesting story on [how the US and Japanese vise and view cellphones and the internet](://www.onthemedia.org/transcripts/2009/01/30/07). The emphasis in the following transcript is mine:

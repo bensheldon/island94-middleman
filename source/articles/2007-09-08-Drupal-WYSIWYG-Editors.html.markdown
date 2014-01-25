@@ -12,6 +12,7 @@ redirects:
 - "/drupal-wysiwyg-editors"
 - "/node/152"
 - "/2007/09/drupal-wysiwyg-editors/"
+- "/?p=152"
 ---
 
 I'm partial to the following WYSIWYG editors for Drupal:

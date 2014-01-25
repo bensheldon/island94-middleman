@@ -7,6 +7,7 @@ wp_link: "/2011/10/community-mapping-class-interview-outcomes/"
 wp:post_type: post
 redirects:
 - "/2011/10/community-mapping-class-interview-outcomes/"
+- "/?p=2919"
 ---
 
 [ ![](2011-10-11-Community-mapping-class-interview-outcomes/CIMG3114-600x399.jpg "CIMG3114") ](2011-10-11-Community-mapping-class-interview-outcomes/CIMG3114.jpg)

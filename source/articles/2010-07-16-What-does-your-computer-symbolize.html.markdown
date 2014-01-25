@@ -11,6 +11,7 @@ wp_link: "/2010/07/what-does-your-computer-symbolize/"
 wp:post_type: post
 redirects:
 - "/2010/07/what-does-your-computer-symbolize/"
+- "/?p=2118"
 ---
 
 The introduction to [Fred Turner](http://communication.stanford.edu/faculty/turner/)'s _From Counterculture to Cyberculture_:

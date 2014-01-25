@@ -11,6 +11,7 @@ redirects:
 - "/node/220"
 - "/observation/jp-cafe-brownies"
 - "/2008/05/jp-cafe-brownies/"
+- "/?p=220"
 ---
 
 .!.

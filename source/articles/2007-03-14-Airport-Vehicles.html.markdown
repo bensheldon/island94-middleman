@@ -14,6 +14,7 @@ redirects:
 - "/node/121"
 - "/articles/airport-vehicles"
 - "/2007/03/airport-vehicles/"
+- "/?p=121"
 ---
 
 [ ![](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv)

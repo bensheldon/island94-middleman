@@ -11,6 +11,7 @@ wp_link: "/2009/02/existential-charters/"
 wp:post_type: post
 redirects:
 - "/2009/02/existential-charters/"
+- "/?p=482"
 ---
 
 I just finished reading a New York Times editorial " [Is the Supreme Court About to Kill Off the Exclusionary Rule?](http://www.nytimes.com/2009/02/16/opinion/16mon4.html?partner=rss&emc=rss)" that ended with this line:

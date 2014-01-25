@@ -12,6 +12,7 @@ redirects:
 - "/node/258"
 - "/observation/questions-external-brand-interviews"
 - "/2008/10/questions-for-external-brand-interviews/"
+- "/?p=258"
 ---
 
 I just received a great set of questions to ask people when conducting Brand Interviews: if you're trying to lock-down who you are and how to communicate that, it helps to ask people who know you and what they think. These are those questions.

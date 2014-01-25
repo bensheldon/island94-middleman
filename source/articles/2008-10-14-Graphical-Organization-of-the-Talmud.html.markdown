@@ -12,6 +12,7 @@ redirects:
 - "/node/261"
 - "/observation/graphical-organization-talmud"
 - "/2008/10/graphical-organization-of-the-talmud/"
+- "/?p=261"
 ---
 
 Interesting explanation about the traditional layout of the Talmud. From Andrew on the Marks and Meaning [mailing list](http://groups.google.com/group/marks-and-meaning?hl=en)

@@ -16,6 +16,7 @@ redirects:
 - "/node/249"
 - "/articles/radio-ga-ga-2-role-nonprofits-constructing-better-world"
 - "/2008/08/radio-ga-ga-2-the-role-of-nonprofits-in-constructing-a-better-world/"
+- "/?p=249"
 ---
 
 [ ![DSC03532](http://farm4.static.flickr.com/3125/2809174391_2abdcf02df.jpg) ](http://www.flickr.com/photos/bensheldon/2809174391/ "DSC03532 by bensheldon, on Flickr")

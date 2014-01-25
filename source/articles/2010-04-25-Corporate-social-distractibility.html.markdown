@@ -10,6 +10,7 @@ wp_link: "/2010/04/corporate-social-distractibility/"
 wp:post_type: post
 redirects:
 - "/2010/04/corporate-social-distractibility/"
+- "/?p=1901"
 ---
 
 From Marianne M. Jennings' _The Seven Signs of Ethical Collapse: How to Spot Moral Meltdowns in Companies... Before It's Too Late_:

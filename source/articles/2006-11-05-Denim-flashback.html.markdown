@@ -20,6 +20,7 @@ redirects:
 - "/node/108"
 - "/articles/denim-flashback"
 - "/2006/11/denim-flashback/"
+- "/?p=108"
 ---
 
 [ ![Jeans: New and Old (front)](http://static.flickr.com/115/289433430_3b1f91be4b_m.jpg) ](http://www.flickr.com/photos/bensheldon/289433430/ "Photo Sharing") [ ![Jeans: New and Old (back)](http://static.flickr.com/115/289435524_59b72d9967_m.jpg) ](http://www.flickr.com/photos/bensheldon/289435524/ "Photo Sharing")

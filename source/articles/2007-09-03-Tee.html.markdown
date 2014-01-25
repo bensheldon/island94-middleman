@@ -12,6 +12,7 @@ redirects:
 - "/node/143"
 - "/tee"
 - "/2007/09/tee/"
+- "/?p=143"
 ---
 
 > tee is a Unix command that displays the output of a program and copies it into a file.

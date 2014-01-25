@@ -12,6 +12,7 @@ redirects:
 - "/node/184"
 - "/cribbed-apple-salsa"
 - "/2007/12/cribbed-apple-salsa/"
+- "/?p=184"
 ---
 
 One of my favorite haunts in Boston is Delux in the South End---mostly because a successive series of my friends have worked there.

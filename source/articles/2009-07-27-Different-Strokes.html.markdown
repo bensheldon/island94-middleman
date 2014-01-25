@@ -16,6 +16,7 @@ wp_link: "/2009/07/different-strokes/"
 wp:post_type: post
 redirects:
 - "/2009/07/different-strokes/"
+- "/?p=650"
 ---
 
 Paul Graham has a new essay up on [separating Maker's Schedules from Manager's Schedules](http://paulgraham.com/makersschedule.html):

@@ -13,6 +13,7 @@ wp_link: "/2010/12/public-data-vs-self-reporting/"
 wp:post_type: post
 redirects:
 - "/2010/12/public-data-vs-self-reporting/"
+- "/?p=2322"
 ---
 
 A [comment](http://www.stevevance.net/planning/i-want-to-make-a-crash-reporting-tool/#comment-106046851) by Pete Stidman of the Boston Cyclists Union, in response to a [proposal to build a Chicago Bike Crash Map](http://www.stevevance.net/planning/i-want-to-make-a-crash-reporting-tool/):

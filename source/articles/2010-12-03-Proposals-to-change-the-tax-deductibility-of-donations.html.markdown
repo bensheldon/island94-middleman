@@ -12,6 +12,7 @@ wp_link: "/2010/12/proposals-to-change-the-tax-deductibility-of-donations/"
 wp:post_type: post
 redirects:
 - "/2010/12/proposals-to-change-the-tax-deductibility-of-donations/"
+- "/?p=2339"
 ---
 
 The _New York Times_ yesterday gave a breakdown of [proposals to change how donors calculate donations in their taxes](http://www.nytimes.com/2010/12/03/business/03charity.html):

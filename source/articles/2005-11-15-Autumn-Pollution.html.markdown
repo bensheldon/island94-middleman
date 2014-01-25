@@ -16,6 +16,7 @@ redirects:
 - "/node/7"
 - "/articles/autumn-pollution"
 - "/2005/11/autumn-pollution/"
+- "/?p=7"
 ---
 
   [ ![](http://static.flickr.com/28/63668304_3271637f31_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/63668304/)

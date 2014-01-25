@@ -12,6 +12,7 @@ wp_link: "/2010/02/washing-of-dishes-requires-great-peace-of-mind/"
 wp:post_type: post
 redirects:
 - "/2010/02/washing-of-dishes-requires-great-peace-of-mind/"
+- "/?p=1752"
 ---
 
 From Thicht Nhat Hanh's _The Miracle of Mindfulness:_

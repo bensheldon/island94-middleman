@@ -13,6 +13,7 @@ wp_link: "/2011/05/apps-off-the-approved-vendor-list/"
 wp:post_type: post
 redirects:
 - "/2011/05/apps-off-the-approved-vendor-list/"
+- "/?p=2642"
 ---
 
 I ran across a year-old article I had bookmarked from GovTech entitled ["Do Apps for Democracy and Other Contests Create Sustainable Applications?"](http://www.govtech.com/e-government/Do-Apps-for-Democracy-and-Other.html?id=765522&story_pg=1&full=1) ( [via Justin Massa](http://www.justinmassa.com/))

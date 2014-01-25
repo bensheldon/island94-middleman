@@ -10,6 +10,7 @@ wp_link: "/2010/10/stop-being-a-weenie-and-just-go-make-something/"
 wp:post_type: post
 redirects:
 - "/2010/10/stop-being-a-weenie-and-just-go-make-something/"
+- "/?p=2268"
 ---
 
 ![](2010-10-19-Stop-being-a-weenie-and-just-go-make-something/weenie-500x502.png "weenie")

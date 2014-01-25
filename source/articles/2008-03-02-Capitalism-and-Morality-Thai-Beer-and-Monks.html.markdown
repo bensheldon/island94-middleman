@@ -14,6 +14,7 @@ redirects:
 - "/capitalism-and-morality"
 - "/capitalism-and-morality-thai-beer-and-monks"
 - "/2008/03/capitalism-and-morality-thai-beer-and-monks/"
+- "/?p=205"
 ---
 
 >

@@ -11,6 +11,7 @@ redirects:
 - "/node/239"
 - "/observation/what-ask-building-website"
 - "/2008/08/what-to-ask-before-building-a-website/"
+- "/?p=239"
 ---
 
 I'm always curious to see what people spec out for consulting (since I have my own template as well). Found this great listing (pasted below) from [SitePoint](http://www.sitepoint.com/article/site-planner)

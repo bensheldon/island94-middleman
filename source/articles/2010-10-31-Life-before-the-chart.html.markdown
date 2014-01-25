@@ -11,6 +11,7 @@ wp_link: "/2010/10/life-before-the-chart/"
 wp:post_type: post
 redirects:
 - "/2010/10/life-before-the-chart/"
+- "/?p=2275"
 ---
 
 ![Humboldt's Isotherms](2010-10-31-Life-before-the-chart/humboldt-isotherms-500x371.png "humboldt-isotherms")

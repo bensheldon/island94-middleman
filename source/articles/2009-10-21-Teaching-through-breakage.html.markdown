@@ -12,6 +12,7 @@ wp_link: "/2009/10/teaching-through-breakage/"
 wp:post_type: post
 redirects:
 - "/2009/10/teaching-through-breakage/"
+- "/?p=837"
 ---
 
 A great comment from [Tom Wolf](http://nonprofitable.org/) showed up in my feed reader; left on a [quote](http://simonwillison.net/2009/Oct/19/upgrades/) by [Marco Arment](http://www.marco.org/217159338) on [Simon Willison's blog](http://simonwillison.net/2009/Oct/19/upgrades/):

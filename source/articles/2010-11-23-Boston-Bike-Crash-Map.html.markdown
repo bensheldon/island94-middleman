@@ -14,6 +14,7 @@ wp_link: "/2010/11/boston-bike-crash-map/"
 wp:post_type: post
 redirects:
 - "/2010/11/boston-bike-crash-map/"
+- "/?p=2305"
 ---
 
 [ ![](2010-11-23-Boston-Bike-Crash-Map/bcu-crashmap.png "bcu-crashmap") ](2010-11-23-Boston-Bike-Crash-Map/bcu-crashmap.png)

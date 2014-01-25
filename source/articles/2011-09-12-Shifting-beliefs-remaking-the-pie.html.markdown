@@ -12,6 +12,7 @@ wp_link: "/2011/09/shifting-beliefs-remaking-the-pie/"
 wp:post_type: post
 redirects:
 - "/2011/09/shifting-beliefs-remaking-the-pie/"
+- "/?p=2819"
 ---
 
 I seem to be quoting this all the time, so I may as well archive it here. From Malkia Cyril of the Center for Media Justice, authoring "Why GLAAD Doesn’t Represent Me": a response to the Gay & Lesbian Alliance Against Defamation (GLAAD) coming out in support of an AT&T-T-Mobile merger:

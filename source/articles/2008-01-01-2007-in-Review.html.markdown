@@ -12,6 +12,7 @@ redirects:
 - "/articles/2007-review"
 - "/node/198"
 - "/2008/01/2007-in-review/"
+- "/?p=198"
 ---
 
 .!.

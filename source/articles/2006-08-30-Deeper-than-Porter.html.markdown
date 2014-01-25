@@ -14,6 +14,7 @@ redirects:
 - "/node/91"
 - "/articles/deeper-porter"
 - "/2006/08/deeper-than-porter/"
+- "/?p=91"
 ---
 
   [ ![Long escalator](http://static.flickr.com/57/229803086_3b97fe7e4b.jpg) ](http://www.flickr.com/photos/bensheldon/229803086/ "Photo Sharing")

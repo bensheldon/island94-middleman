@@ -11,6 +11,7 @@ redirects:
 - "/node/230"
 - "/observation/tragic-food"
 - "/2008/07/tragic-food/"
+- "/?p=230"
 ---
 
 If salmonella outbreaks weren't actually killing people the following [statement](http://www.baltimoresun.com/news/health/bal-te.salmonella04jul04,0,1339689.story) might be a humorous farce of a murder investigation:

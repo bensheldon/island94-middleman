@@ -15,6 +15,7 @@ redirects:
 - "/articles/i-defender-democracy-ocracy-cracy"
 - "/node/10"
 - "/2005/11/i-defender-of-democracy-ocracy-cracy/"
+- "/?p=10"
 ---
 
 [ ![](http://static.flickr.com/32/65334904_547afbef8d_m.jpg "") ](http://www.flickr.com/photos/atomicworkshop/65334904/)

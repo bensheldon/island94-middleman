@@ -12,6 +12,7 @@ redirects:
 - "/node/269"
 - "/articles/how-create-cross-sector-nonprofit-value"
 - "/2008/11/how-to-create-cross-sector-nonprofit-value/"
+- "/?p=269"
 ---
 
 [ ![IMG_0659.JPG](http://farm3.static.flickr.com/2342/1544759086_d3e424821e.jpg) ](http://www.flickr.com/photos/bensheldon/1544759086/ "IMG_0659.JPG by bensheldon, on Flickr")

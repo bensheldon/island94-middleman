@@ -12,6 +12,7 @@ redirects:
 - "/observation/echilada-sauce"
 - "/observation/enchilada-sauce"
 - "/2008/04/enchilada-sauce/"
+- "/?p=217"
 ---
 
 .!.

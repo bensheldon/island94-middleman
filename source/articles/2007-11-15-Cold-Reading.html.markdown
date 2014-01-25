@@ -11,6 +11,7 @@ redirects:
 - "/node/173"
 - "/cold-reading"
 - "/2007/11/cold-reading/"
+- "/?p=173"
 ---
 
 >

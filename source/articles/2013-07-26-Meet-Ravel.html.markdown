@@ -9,6 +9,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png
 redirects:
 - "/2013/07/meet-ravel/"
+- "/?p=3098"
 ---
 
 [ ![ravel-screens](2013-07-26-Meet-Ravel/ravel-screens.png) ](2013-07-26-Meet-Ravel/ravel-screens.png)

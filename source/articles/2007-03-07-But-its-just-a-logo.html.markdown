@@ -14,6 +14,7 @@ redirects:
 - "/node/123"
 - "/articles/its-just-logo"
 - "/2007/03/but-its-just-a-logo/"
+- "/?p=123"
 ---
 
 I'm currently helping out a small group of [Digital Storytellers](http://www.storycenter.org/index1.html) in the process of designing and launching a new community website. We put the project out as a Request for Proposals (RFP) and are now working with a webdeveloper. As a webdeveloper myself, I've learned a lot about the process from the other side.

@@ -11,6 +11,7 @@ wp_link: "/2010/03/the-author-function-and-the-internet/"
 wp:post_type: post
 redirects:
 - "/2010/03/the-author-function-and-the-internet/"
+- "/?p=1852"
 ---
 
 I rediscovered this wonderful paper by Siân Bayne of the University of Edinburgh entitled " [Temptation, Trash and Trust: the authorship and authority of digital texts](http://www.wwwords.co.uk/rss/abstract.asp?j=elea&aid=2728)".

@@ -13,6 +13,7 @@ wp_link: "/2010/10/the-analog-divide/"
 wp:post_type: post
 redirects:
 - "/2010/10/the-analog-divide/"
+- "/?p=2223"
 ---
 
 A [sensible reply](http://news.slashdot.org/comments.pl?sid=1812480&cid=33827892) to [Slashdot blustering](http://news.slashdot.org/story/10/10/07/1725204/Negroponte-On-OLPCs-New-Path-Plans-For-XO-3) over OPLC's Nicholas Negroponte's superficially-nutty statement "Paper books are really dead — they're gone. And they're not being killed by tablets, they're creating tablets":

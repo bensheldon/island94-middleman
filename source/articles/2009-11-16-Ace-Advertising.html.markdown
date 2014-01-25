@@ -12,6 +12,7 @@ wp_link: "/2009/11/ace-advertising/"
 wp:post_type: post
 redirects:
 - "/2009/11/ace-advertising/"
+- "/?p=1038"
 ---
 
 It's a bad evening when Google [points you back to your own blog](http://www.island94.org/2009/08/marketing-in-wealth-bondage/). So to get on with it, George Creel of [The Committee on Public Information](http://en.wikipedia.org/wiki/Committee_on_Public_Information) (CPI) had a great quote:

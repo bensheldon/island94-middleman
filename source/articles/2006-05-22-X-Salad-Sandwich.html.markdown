@@ -13,6 +13,7 @@ redirects:
 - "/node/47"
 - "/articles/x-salad-sandwich"
 - "/2006/05/x-salad-sandwich/"
+- "/?p=47"
 ---
 
 \*Alternate Title:\* May I? You Mayo.

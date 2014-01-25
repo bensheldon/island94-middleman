@@ -14,6 +14,7 @@ redirects:
 - "/node/256"
 - "/articles/nonprofits-and-political-activities"
 - "/2008/09/nonprofits-and-political-activities/"
+- "/?p=256"
 ---
 
 Today, according to [NPR](http://www.npr.org/templates/story/story.php?storyId=95003709) (and many other outlets), "more than 30 pastors across the country are expected to preach a sermon that endorses or opposes a political candidate by name. This would be a flagrant violation of a law that bans tax-exempt organizations from involvement in political campaigns."

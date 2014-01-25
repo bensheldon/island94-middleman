@@ -12,6 +12,7 @@ redirects:
 - "/node/142"
 - "/verb-do"
 - "/2007/08/verb-to-do/"
+- "/?p=142"
 ---
 
 A great list of [functional verbs](http://www.college.ucla.edu/personnel/jobdesc/funcverbs.asp) for writing resumes or their reverse situational equivalent: job descriptions. (via [Google](http://www.google.com/search?q=writing+job+descriptions))

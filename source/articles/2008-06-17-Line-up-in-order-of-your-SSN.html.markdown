@@ -11,6 +11,7 @@ redirects:
 - "/observation/line-order-your-ssn"
 - "/node/225"
 - "/2008/06/line-up-in-order-of-your-ssn/"
+- "/?p=225"
 ---
 
 The IRS is using the last two digits of your Social Security Number to determine [when you'll receive your Economic Stimulus](http://www.irs.gov/irs/article/0,,id=180250,00.html) (e.g. free money i.e. your children's money).

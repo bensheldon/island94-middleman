@@ -11,6 +11,7 @@ wp_link: "/2009/10/perspectives-on-building-power/"
 wp:post_type: post
 redirects:
 - "/2009/10/perspectives-on-building-power/"
+- "/?p=802"
 ---
 
 Flitting around on Amazon.com, I came across this [review](http://www.amazon.com/review/R3QGD562AEZE8O/ref=cm_cr_rdp_perm) of Saul Alinsky's _Rules for Radicals_:

@@ -11,6 +11,7 @@ wp_link: "/2012/04/a-commonplace-book/"
 wp:post_type: post
 redirects:
 - "/2012/04/a-commonplace-book/"
+- "/?p=3009"
 ---
 
 From Steven Johnson's _Where Good Ideas Come From: The Natural History of Innovation_:

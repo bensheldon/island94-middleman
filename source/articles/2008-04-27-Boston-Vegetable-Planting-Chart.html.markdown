@@ -16,6 +16,7 @@ redirects:
 - "/boston-vegetable-planting-chart"
 - "/articles/boston-vegetable-planting-chart"
 - "/2008/04/boston-vegetable-planting-chart/"
+- "/?p=218"
 ---
 
 [ ![Boston Vegetable Planting Chart](http://farm3.static.flickr.com/2300/2447776678_9cd6dc2a71.jpg) ](http://www.flickr.com/photos/bensheldon/2447776678/ "Boston Vegetable Planting Chart by bensheldon, on Flickr")

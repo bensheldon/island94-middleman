@@ -12,6 +12,7 @@ redirects:
 - "/node/257"
 - "/observation/popco-cake-recipe"
 - "/2008/10/popco-cake-recipe/"
+- "/?p=257"
 ---
 
 featured in "PopCo" by Alice Butler (via Angelina):

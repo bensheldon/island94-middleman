@@ -12,6 +12,7 @@ redirects:
 - "/node/270"
 - "/articles/equally-good-alternatives-collaboration"
 - "/2008/11/equally-good-alternatives-to-collaboration/"
+- "/?p=270"
 ---
 
 Yesterday I posted an article that sought to give a broader frame to the idea of [cross-sector nonprofit collaboration](http://island94.org/articles/how-create-cross-sector-nonprofit-value): placing collaboration within a process of negotiation to create new value. Today I will break down negotiation a little bit further to show why I think it's important to take a broader frame of things and maybe even [get semantic](http://island94.org/articles/how-create-cross-sector-nonprofit-value#comment-3761). **Updated to add:** :-)

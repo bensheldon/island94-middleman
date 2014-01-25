@@ -11,6 +11,7 @@ wp_link: "/2009/10/why-framing-matters/"
 wp:post_type: post
 redirects:
 - "/2009/10/why-framing-matters/"
+- "/?p=918"
 ---
 
 Lewis Hyde's introduction from _ [Frames from the Framers: How America’s Revolutionaries Imagined Intellectual Property](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=870073):_

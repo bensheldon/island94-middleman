@@ -11,6 +11,7 @@ wp_link: "/2009/12/invoking-the-first-amendment/"
 wp:post_type: post
 redirects:
 - "/2009/12/invoking-the-first-amendment/"
+- "/?p=1591"
 ---
 
 The [eloquent wording](http://www.huffingtonpost.com/roberto-lovato/bastadobbs-responds-to-in_b_329161.html) of [Roberto Lovato](http://presente.org/), from the (now successful) [Basta Dobbs](http://www.bastadobbs.com/) campaign, to Lou Dobbs:

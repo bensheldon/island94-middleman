@@ -14,6 +14,7 @@ wp_link: "/2009/08/from-self-actualization-to-neo-liberalism/"
 wp:post_type: post
 redirects:
 - "/2009/08/from-self-actualization-to-neo-liberalism/"
+- "/?p=665"
 ---
 
 I am continuing to enjoy Douglas Rushkoff's _Life, Inc._ Adding to my enjoyment is its parallelism with Fred Turner's _From Counterculture to Cyberculture_ from which I [have](http://www.island94.org/2007/11/understanding-academia-and-legitimacy-exchange/) [quoted](http://www.island94.org/2007/11/close-to-the-machine/) [before](http://www.island94.org/2007/12/destructive-rhetoric/).

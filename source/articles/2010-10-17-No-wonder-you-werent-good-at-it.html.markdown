@@ -11,6 +11,7 @@ wp_link: "/2010/10/no-wonder-you-werent-good-at-it/"
 wp:post_type: post
 redirects:
 - "/2010/10/no-wonder-you-werent-good-at-it/"
+- "/?p=2249"
 ---
 
 From the introduction to Paul Lockhart's _A Mathematician's Lament _( [PDF](http://www.maa.org/devlin/LockhartsLament.pdf);  it's also published as a book which is how I discovered it):

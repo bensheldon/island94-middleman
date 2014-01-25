@@ -13,6 +13,7 @@ wp_link: "/2009/10/in-the-beginning-god-separated-heaven-and-earth/"
 wp:post_type: post
 redirects:
 - "/2009/10/in-the-beginning-god-separated-heaven-and-earth/"
+- "/?p=807"
 ---
 
 [Biblical news](http://www.telegraph.co.uk/news/newstopics/religion/6274502/God-is-not-the-Creator-claims-academic.html) from Academia:

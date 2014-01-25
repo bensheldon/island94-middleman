@@ -10,6 +10,7 @@ redirects:
 - "/node/207"
 - "/breakfast-cereals-oh-my"
 - "/2008/03/breakfast-cereals-oh-my/"
+- "/?p=207"
 ---
 
 .!.

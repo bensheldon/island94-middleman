@@ -12,6 +12,7 @@ redirects:
 - "/chill-units"
 - "/node/167"
 - "/2007/11/chill-units/"
+- "/?p=167"
 ---
 
 >

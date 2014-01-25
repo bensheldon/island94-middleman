@@ -14,6 +14,7 @@ redirects:
 - "/node/104"
 - "/articles/nonprofit-competition-concept-map"
 - "/2006/10/nonprofit-competition-concept-map/"
+- "/?p=104"
 ---
 
 At this summer's CTCnet Conference the thing I most took away--or rather, repeated to the most number of people--was something said by the keynote speaker, Ami Dar, the creator of Idealist.org.

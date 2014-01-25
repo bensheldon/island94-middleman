@@ -13,6 +13,7 @@ redirects:
 - "/node/274"
 - "/articles/how-write-cover-letter-job-application"
 - "/2008/12/how-to-write-a-cover-letter-for-a-job-application/"
+- "/?p=274"
 ---
 
 [ ![Example cover letter with explanation](http://island94.org/files/island94.org/How to write a resume cover letter.png)

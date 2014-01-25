@@ -11,6 +11,7 @@ redirects:
 - "/node/204"
 - "/reject-or-denounce"
 - "/2008/03/reject-or-denounce/"
+- "/?p=204"
 ---
 
 .!.

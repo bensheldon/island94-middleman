@@ -13,6 +13,7 @@ redirects:
 - "/node/245"
 - "/articles/how-write-grant-way-i-want-be-taught-grant-writing"
 - "/2008/08/how-to-write-a-grant-the-way-i-want-to-be-taught-grant-writing/"
+- "/?p=245"
 ---
 
 ![Grant Apple](2008-08-24-How-to-write-a-grant-the-way-I-want-to-be-taught-grant-writing/grant-apple.png)

@@ -12,6 +12,7 @@ wp_link: "/2011/09/crime-and-data-leadership/"
 wp:post_type: post
 redirects:
 - "/2011/09/crime-and-data-leadership/"
+- "/?p=2829"
 ---
 
 This afternoon I have been following the mis-framing of Chicago's newly announced plan to release 10 years of... not crime statistics as has been reported, but... police incident reports. From the [Boston Globe](http://www.boston.com/news/nation/articles/2011/09/14/apnewsbreak_chicago_to_publish_crime_stats_online/):

@@ -11,6 +11,7 @@ wp_link: "/2010/02/models-feedback-and-crows/"
 wp:post_type: post
 redirects:
 - "/2010/02/models-feedback-and-crows/"
+- "/?p=1792"
 ---
 
 An article from Ars Technica on Crows not being as smart as we once thought. Apparently they're good at meat-attached strings, but not at building mental models of said strings:

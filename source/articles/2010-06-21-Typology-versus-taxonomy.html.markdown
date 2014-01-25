@@ -11,6 +11,7 @@ wp_link: "/2010/06/typology-versus-taxonomy/"
 wp:post_type: post
 redirects:
 - "/2010/06/typology-versus-taxonomy/"
+- "/?p=2095"
 ---
 
 From ["Typologies, taxonomies, and the benefits of policy classification"](http://goliath.ecnext.com/coms2/gi_0199-2746294/Typologies-taxonomies-and-the-benefits.html) by Kevin B. Smith (Policy Studies Journal, Sep 2002):

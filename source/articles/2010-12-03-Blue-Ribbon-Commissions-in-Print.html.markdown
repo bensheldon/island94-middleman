@@ -11,6 +11,7 @@ wp_link: "/2010/12/blue-ribbon-commissions-in-print/"
 wp:post_type: post
 redirects:
 - "/2010/12/blue-ribbon-commissions-in-print/"
+- "/?p=2342"
 ---
 
 [ ![](2010-12-03-Blue-Ribbon-Commissions-in-Print/blue-ribbon-commission-500x90.png "blue ribbon commission") ](2010-12-03-Blue-Ribbon-Commissions-in-Print/blue-ribbon-commission.png)

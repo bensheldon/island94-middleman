@@ -13,6 +13,7 @@ redirects:
 - "/node/208"
 - "/observation/millenial-idea"
 - "/2008/03/a-millenial-idea/"
+- "/?p=208"
 ---
 
 A New York Times article on [paying kids based on their standardized test scores](http://www.nytimes.com/2008/03/05/nyregion/05incentive.html):

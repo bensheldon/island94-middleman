@@ -14,6 +14,7 @@ redirects:
 - "/node/161"
 - "/puddingstone"
 - "/2007/10/puddingstone/"
+- "/?p=161"
 ---
 
 I happen to be particularly fond of Puddingstone, the conglomerate rock found around Boston. It's also the official rock of Massachusetts; specifically [Roxbury Puddingstone](http://en.wikipedia.org/wiki/Roxbury_puddingstone).

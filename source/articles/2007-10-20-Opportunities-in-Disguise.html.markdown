@@ -12,6 +12,7 @@ redirects:
 - "/john-gardner"
 - "/opportunities-disguise"
 - "/2007/10/opportunities-in-disguise/"
+- "/?p=162"
 ---
 
 Heard this quote I liked from [NAMAC keynote speaker ](http://namac.org) [Gary Chapman](http://www.utexas.edu/lbj/21cp/bio.html) of the LBJ School of Public Affairs. He was paraphrasing John Gardner:

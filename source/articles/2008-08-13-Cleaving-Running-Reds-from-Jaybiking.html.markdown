@@ -13,6 +13,7 @@ redirects:
 - "/node/240"
 - "/observation/cleaving-running-reds-jaybiking"
 - "/2008/08/cleaving-running-reds-from-jaybiking/"
+- "/?p=240"
 ---
 
 Great article on why [drivers call the kettle black](http://www.thewashcycle.com/2008/07/the-myth-of-the.html?cid=126259538#comment-126259538) when they complain about bicyclists break road-laws. I found interesting the distinction between running a red light and jaywalking/riding:

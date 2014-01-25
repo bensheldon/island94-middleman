@@ -12,6 +12,7 @@ redirects:
 - "/node/71"
 - "/articles/run"
 - "/2006/07/run/"
+- "/?p=71"
 ---
 
 Running fast, flat out, is the best feeling on earth.

@@ -12,6 +12,7 @@ redirects:
 - "/node/214"
 - "/articles/progressive-terminology-discussing-poverty"
 - "/2008/04/progressive-terminology-for-discussing-poverty/"
+- "/?p=214"
 ---
 
 .!.

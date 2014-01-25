@@ -12,6 +12,7 @@ redirects:
 - "/node/186"
 - "/king-corn"
 - "/2007/12/king-corn/"
+- "/?p=186"
 ---
 
 [I Love Trouble film](http://www.iucn-tftsg.org/?i_love_trouble)

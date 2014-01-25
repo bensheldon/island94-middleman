@@ -12,6 +12,7 @@ redirects:
 - "/node/158"
 - "/pancake-recipe"
 - "/2007/10/pancake-recipe/"
+- "/?p=158"
 ---
 
 - 1-1/2 c. corn meal

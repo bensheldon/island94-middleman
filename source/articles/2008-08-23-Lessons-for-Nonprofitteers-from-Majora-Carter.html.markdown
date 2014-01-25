@@ -12,6 +12,7 @@ redirects:
 - "/node/244"
 - "/articles/lessons-nonprofitteers-majora-carter"
 - "/2008/08/lessons-for-nonprofitteers-from-majora-carter/"
+- "/?p=244"
 ---
 
 This is more notes from last weekend's Craigslist Foundation's [Nonprofit Bootcamp](http://craigslistfoundation.org/index.php?page=ny2008).

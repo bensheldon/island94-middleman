@@ -13,6 +13,7 @@ wp_link: "/2010/06/iphone-apps-allow-giving-just-not-charity/"
 wp:post_type: post
 redirects:
 - "/2010/06/iphone-apps-allow-giving-just-not-charity/"
+- "/?p=2023"
 ---
 
 Annie Lynsen of [Smallact](http://www.smallact.com/blog/what-nonprofits-should-know-before-developing-a-mobile-app/) on the "Apple hates (nonprofit) innovation" kerfuffle:

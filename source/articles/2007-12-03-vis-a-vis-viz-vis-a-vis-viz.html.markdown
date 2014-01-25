@@ -14,6 +14,7 @@ redirects:
 - "/node/182"
 - "/vis-vis-viz-vis-vis-viz"
 - "/2007/12/vis-a-vis-viz-vis-a-vis-viz/"
+- "/?p=182"
 ---
 
 [viz.](http://en.wiktionary.org/wiki/viz) - namely, as follows, that is to say; introduces and element or list... an abbreviation for "videlicet"

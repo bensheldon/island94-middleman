@@ -14,6 +14,7 @@ redirects:
 - "/node/48"
 - "/articles/now-thats-lot-mustard"
 - "/2006/06/now-that's-a-lot-of-mustard/"
+- "/?p=48"
 ---
 
 _Staying in the condiment vein..._

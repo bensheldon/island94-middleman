@@ -11,6 +11,7 @@ wp_link: "/2009/03/lying-in-subtext-and-by-omission/"
 wp:post_type: post
 redirects:
 - "/2009/03/lying-in-subtext-and-by-omission/"
+- "/?p=573"
 ---
 
 Previously posting on [writing authentically](http://www.island94.org/2009/03/pratfalls-to-writing-authentically/), I wanted to find some other criticisms/observations on the topic.  The following is from [_Can't You Get Along with Anyone_](http://www.amazon.com/Cant-You-Get-Along-Anyone/dp/0979711703) by Allan C. Weisbecker, one of my favorite how-to books on writing that is not explicitly a how-to book on writing [Part 1, Ch. 12: p. 64]:

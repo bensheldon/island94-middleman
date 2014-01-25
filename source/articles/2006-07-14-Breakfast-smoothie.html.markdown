@@ -16,6 +16,7 @@ redirects:
 - "/node/69"
 - "/articles/breakfast-smoothie"
 - "/2006/07/breakfast-smoothie/"
+- "/?p=69"
 ---
 
 [ ![Breakfast Smoothie](http://static.flickr.com/47/190127749_5f9878185a_m.jpg) ](http://www.flickr.com/photos/bensheldon/190127749/ "Photo Sharing")

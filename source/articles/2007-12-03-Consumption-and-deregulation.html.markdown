@@ -12,6 +12,7 @@ redirects:
 - "/node/180"
 - "/consumption-and-deregulation"
 - "/2007/12/consumption-and-deregulation/"
+- "/?p=180"
 ---
 
 >

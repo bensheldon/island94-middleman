@@ -11,6 +11,7 @@ wp_link: "/2010/05/write-first-outline-later/"
 wp:post_type: post
 redirects:
 - "/2010/05/write-first-outline-later/"
+- "/?p=1966"
 ---
 
 Peter Elbow on free writing, from the book _Writing without teachers_ (1973):

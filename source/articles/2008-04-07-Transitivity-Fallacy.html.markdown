@@ -11,6 +11,7 @@ redirects:
 - "/observation/transitivity-fallacy"
 - "/node/211"
 - "/2008/04/transitivity-fallacy/"
+- "/?p=211"
 ---
 
 Interesting article entitled [Trust Isn’t Transitive (or, “Someone fired a gun in an airplane cockpit, and it was probably the pilot”)](http://peternbiddle.wordpress.com/2008/03/26/trust-isnt-transitive-or-someone-fired-a-gun-in-an-airplane-cockpit-and-it-was-probably-the-pilot/) about a recent accidental/negligent discharge in a 747 by a pilot's gun:

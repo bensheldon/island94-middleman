@@ -12,6 +12,7 @@ redirects:
 - "/node/242"
 - "/observation/caring-internet"
 - "/2008/08/caring-on-the-internet/"
+- "/?p=242"
 ---
 
 I really liked this series of comments on a [BoingBoing post](http://www.boingboing.net/2008/08/17/how-the-daily-shows.html#comment-262112)

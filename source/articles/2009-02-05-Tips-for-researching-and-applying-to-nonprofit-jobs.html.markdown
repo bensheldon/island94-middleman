@@ -12,6 +12,7 @@ wp_link: "/2009/02/tips-for-researching-and-applying-to-nonprofit-jobs/"
 wp:post_type: post
 redirects:
 - "/2009/02/tips-for-researching-and-applying-to-nonprofit-jobs/"
+- "/?p=419"
 ---
 
 I have a guest post up today at [Entry Level Living](http://entrylevelliving.wordpress.com/) on [understanding and negotiating your non-profit salary](http://entrylevelliving.wordpress.com/2009/02/05/understanding-negotiating-nonprofit-salary/). It's targeted towards people who already have a nonprofit job and are looking to increase their piece of the pie. The last piece of advice from the article is _stay mobile_. If you're looking for a new nonprofit job, here are some tips:

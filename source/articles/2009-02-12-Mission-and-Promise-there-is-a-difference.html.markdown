@@ -11,6 +11,7 @@ wp_link: "/2009/02/mission-and-promise-there-is-a-difference/"
 wp:post_type: post
 redirects:
 - "/2009/02/mission-and-promise-there-is-a-difference/"
+- "/?p=468"
 ---
 
 I was forwarded this from [Angelina](http://alinapazwrites.blogspot.com/), who apparently read it on the side of her Starbucks cup (emphasis mine):

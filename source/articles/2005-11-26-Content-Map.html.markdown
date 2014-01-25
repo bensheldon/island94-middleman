@@ -9,6 +9,7 @@ redirects:
 - "/node/15"
 - "/content-map"
 - "/2005/11/content-map/"
+- "/?p=15"
 ---
 
 This is an example of my googlemap module that I extended from [this module](http://drupal.org/node/29091) by [bjornarneson](http://choirgeek.com/).

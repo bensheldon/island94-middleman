@@ -16,6 +16,7 @@ redirects:
 - "/node/221"
 - "/observation/ntc08-seven-things-everyone-wants-what-freud-and-buddha-understood-and-were-forgetting-a"
 - "/2008/05/ntc08-the-seven-things-everyone-wants/"
+- "/?p=221"
 ---
 
 I've been meaning to type of some of my notes from the NTEN 2008 Conference, but the benefit of waiting is that someone will do it better. Like [Britt Bravo: Notes from The Seven Things Everyone Wants: What Freud and Buddha Understood (and We're Forgetting) about Online Outreach ](http://havefundogood.blogspot.com/2008/03/notes-from-seven-things-everyone-wants.html).

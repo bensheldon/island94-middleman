@@ -13,6 +13,7 @@ wp_link: "/2011/03/advocacy-in-print-survival-news-for-2011/"
 wp:post_type: post
 redirects:
 - "/2011/03/advocacy-in-print-survival-news-for-2011/"
+- "/?p=2537"
 ---
 
 ![](2011-03-03-Advocacy-in-print---Survival-News-for-2011/foodTimer-600x600.png "foodTimer")

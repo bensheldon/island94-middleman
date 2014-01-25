@@ -15,6 +15,7 @@ failed_files:
 - http://island94.org/wp-content/uploads/2009/10/TheNavigator1824.jpg
 redirects:
 - "/2009/10/an-ample-account/"
+- "/?p=872"
 ---
 
 As the 4th anniversary of this blog nears (November 12) I've been revisiting research that was near impossible when I began it. The namesake of this blog was Island 94, formerly sitting within the Mississippi River, which I was introduced to through the very excellent book _When the Mississippi Ran Backwards_ by Jay Feldman. When I first started this blog, it was very difficult to find primary sources through the internet. Fortunately, many libraries and archives have worked to digitize their collections and make them available online. Because of that there is a lot more to say about this blog's namesake and inspiration.

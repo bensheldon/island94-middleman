@@ -18,6 +18,7 @@ wp:post_type: post
 redirects:
 - "/2009/10/growing-toward-the-omega-point/"
 - "/2009/10/obviously-not-to-scale/"
+- "/?p=850"
 ---
 
 ![OmegaPoint](2009-10-21-Obviously-not-to-scale/OmegaPoint-500x783.png "OmegaPoint")

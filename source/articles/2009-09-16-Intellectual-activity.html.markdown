@@ -14,6 +14,7 @@ wp_link: "/2009/09/intellectual-activity/"
 wp:post_type: post
 redirects:
 - "/2009/09/intellectual-activity/"
+- "/?p=740"
 ---
 
 > Only those who have power, for example, can define what is correct or incorrect. Only those who have power can decide what constitutes intellectualism. Once the intellectual parameters are set, those who want to be considered intellectuals must meet hte requirements of the profile dictated by the elite class. To be intellectual one must do what those with the power to define intellectualism do. The intellectual activity of those without power is always characterized as nonintellectual.

@@ -12,6 +12,7 @@ redirects:
 - "/node/199"
 - "/decimate"
 - "/2008/01/to-decimate/"
+- "/?p=199"
 ---
 
 A good [World Wide Words this week](http://www.worldwidewords.org/nl/rgnp.htm). I read it weekly, but of particular interest is language that has to do with numbers. Like [decimate](http://en.wikipedia.org/wiki/Decimation_%28Roman_Army%29), which originally referred to the Roman military practice of preventing mutiny by killing one-tenth of the soldiers (drawn by lots).

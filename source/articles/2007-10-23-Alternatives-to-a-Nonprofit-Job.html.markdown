@@ -14,6 +14,7 @@ redirects:
 - "/node/164"
 - "/articles/alternatives-nonprofit-job"
 - "/2007/10/alternatives-to-a-nonprofit-job/"
+- "/?p=164"
 ---
 
 I was really happy with the feedback I received from my last article"Should I get a nonprofit job?" The responses I got, some of which you can read in the comments, helped me focus the message I was trying to convey:

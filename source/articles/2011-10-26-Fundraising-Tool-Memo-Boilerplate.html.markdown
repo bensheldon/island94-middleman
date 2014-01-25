@@ -10,6 +10,7 @@ wp_link: "/2011/10/fundraising-tool-memo-boilerplate/"
 wp:post_type: post
 redirects:
 - "/2011/10/fundraising-tool-memo-boilerplate/"
+- "/?p=2810"
 ---
 
 Sent this off after some wild, though not misplaced, enthusiasm for Kickstarter, Indiegogo and a few other newish online fundraising services; the soft lead-in and enthusiastic closing paragraph are not included.

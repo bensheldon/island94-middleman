@@ -7,5 +7,6 @@ wp_link: "/explore/"
 wp:post_type: page
 redirects:
 - "/explore/"
+- "/?p=2498"
 ---
 

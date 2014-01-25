@@ -13,6 +13,7 @@ redirects:
 - "/node/191"
 - "/articles/remember-paul"
 - "/2007/12/remember-paul/"
+- "/?p=191"
 ---
 
 ![Color Lego Guy](2007-12-17-Remember-Paul/lego2web.jpg)

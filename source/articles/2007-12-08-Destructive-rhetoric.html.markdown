@@ -13,6 +13,7 @@ redirects:
 - "/node/187"
 - "/destructive-rhetoric"
 - "/2007/12/destructive-rhetoric/"
+- "/?p=187"
 ---
 
 .!.

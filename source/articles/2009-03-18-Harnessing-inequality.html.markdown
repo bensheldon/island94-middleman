@@ -14,6 +14,7 @@ wp_link: "/2009/03/harnessing-inequality/"
 wp:post_type: post
 redirects:
 - "/2009/03/harnessing-inequality/"
+- "/?p=508"
 ---
 
 The following quote from [Here Comes Everybody](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/1594201536) is interesting in that it exposes dewy-eyed optimism surrounding equal participation (rather than equal access or equal ability) as untenable:

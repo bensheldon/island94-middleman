@@ -10,6 +10,7 @@ wp_link: "/2011/01/authenticity-and-such/"
 wp:post_type: post
 redirects:
 - "/2011/01/authenticity-and-such/"
+- "/?p=2452"
 ---
 
 I read several books on _authenticity_ last autumn. Below is from Andrew Potter's _The Authenticity Hoax: How We Get Lost Finding Ourselves_, which is representative of the book as a whole---thought provoking stuff with the occasional reactionary junk:

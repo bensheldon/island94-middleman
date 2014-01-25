@@ -13,6 +13,7 @@ redirects:
 - "/node/146"
 - "/hemp-milk"
 - "/2007/09/hemp-milk/"
+- "/?p=146"
 ---
 
 Info on [Hemp Milk](http://www.post-gazette.com/pg/07123/782900-34.stm).

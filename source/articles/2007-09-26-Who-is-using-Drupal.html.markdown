@@ -12,6 +12,7 @@ redirects:
 - "/node/157"
 - "/who-using-drupal"
 - "/2007/09/who-is-using-drupal?/"
+- "/?p=157"
 ---
 
 Always interesting to see who is using Drupal for their website:

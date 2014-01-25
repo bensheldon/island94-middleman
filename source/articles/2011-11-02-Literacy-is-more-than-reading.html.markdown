@@ -11,6 +11,7 @@ wp_link: "/2011/11/literacy-is-more-than-reading/"
 wp:post_type: post
 redirects:
 - "/2011/11/literacy-is-more-than-reading/"
+- "/?p=2950"
 ---
 
 Below is a year-old memo I wrote for the Transmission Project was later polished into a more [general statement on media literacy](http://transmissionproject.org/sites/transmissionproject.org/files/Transmission%20Project's%20Approach%20to%20Digital%20Literacy.pdf):

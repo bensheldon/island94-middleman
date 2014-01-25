@@ -11,6 +11,7 @@ wp_link: "/2011/07/similar-message-wider-audience/"
 wp:post_type: post
 redirects:
 - "/2011/07/similar-message-wider-audience/"
+- "/?p=2785"
 ---
 
 ![](2011-07-15-Similar-message-wider-audience/namac_QA.png "namac_QA")

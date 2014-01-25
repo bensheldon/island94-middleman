@@ -17,6 +17,7 @@ redirects:
 - "/node/128"
 - "/articles/introducing-panlexicon-com"
 - "/2007/04/introducing-panlexicon-com/"
+- "/?p=128"
 ---
 
 [ ![Panlexicon.com](http://farm1.static.flickr.com/178/459184378_b3538d860c.jpg) ](http://www.flickr.com/photos/bensheldon/459184378/ "Photo Sharing")

@@ -14,6 +14,7 @@ redirects:
 - "/articles/two-two-two-yolks-one"
 - "/node/68"
 - "/2006/07/two-two-two-yolks-in-one/"
+- "/?p=68"
 ---
 
 My roommate [Dean](http://notthemessiah.net) created this video about some peculiarities in our store bought eggs:

@@ -12,6 +12,7 @@ wp_link: "/2010/10/when-all-you-have-is-a-hammer/"
 wp:post_type: post
 redirects:
 - "/2010/10/when-all-you-have-is-a-hammer/"
+- "/?p=2236"
 ---
 
 ![](2010-10-17-When-all-you-have-is-a-hammer/blocBEST-small-500x772.png "blocBEST-small")

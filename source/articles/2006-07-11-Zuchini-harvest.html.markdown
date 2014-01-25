@@ -15,6 +15,7 @@ redirects:
 - "/node/67"
 - "/articles/zuchini-harvest"
 - "/2006/07/zuchini-harvest/"
+- "/?p=67"
 ---
 
 I got my first harvest from the community garden today. Truthfully I've been eating cherry tomatoes off the vine for the past two weeks but this zuchini was my first take-home meal.

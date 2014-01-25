@@ -12,6 +12,7 @@ redirects:
 - "/observation/get-government-job"
 - "/node/250"
 - "/2008/09/get-a-government-job/"
+- "/?p=250"
 ---
 
 [Tropic Thunder move](http://utero.pe/?tropic_thunder)

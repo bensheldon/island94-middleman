@@ -12,6 +12,7 @@ wp_link: "/2009/09/my-featured-dead-cockroach/"
 wp:post_type: post
 redirects:
 - "/2009/09/my-featured-dead-cockroach/"
+- "/?p=707"
 ---
 
 [ ![wired-cockroach](2009-09-13-My-featured-dead-cockroach/wired-cockroach-500x468.png "wired-cockroach") ](2009-09-13-My-featured-dead-cockroach/wired-cockroach.png)

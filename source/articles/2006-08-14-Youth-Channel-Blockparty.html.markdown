@@ -14,6 +14,7 @@ redirects:
 - "/node/88"
 - "/articles/youth-channel-blockparty"
 - "/2006/08/youth-channel-blockparty/"
+- "/?p=88"
 ---
 
   [ ![IMG_0496.JPG](http://static.flickr.com/77/215254546_becf8e5034.jpg) ](http://www.flickr.com/photos/bensheldon/215254546/ "Photo Sharing")

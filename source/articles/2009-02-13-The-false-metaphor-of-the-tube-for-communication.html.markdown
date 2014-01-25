@@ -13,6 +13,7 @@ wp_link: "/2009/02/the-false-metaphor-of-the-tube-for-communication/"
 wp:post_type: post
 redirects:
 - "/2009/02/the-false-metaphor-of-the-tube-for-communication/"
+- "/?p=475"
 ---
 
 I [love](http://www.island94.org/2009/02/self-language-and-consciousness/) [posting](http://www.island94.org/2009/02/the-ethics-of-awareness/) [from](http://www.island94.org/2009/01/using-distinctions-to-create-meaning/) [The Tree of Knowledge](http://www.amazon.com/Tree-Knowledge-Humberto-R-Maturana/dp/0877736421?tag=particculturf-20).  This is what they have to say about tubes (**emphasis** mine):

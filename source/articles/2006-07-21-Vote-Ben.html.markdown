@@ -13,6 +13,7 @@ redirects:
 - "/node/79"
 - "/articles/vote-ben"
 - "/2006/07/vote-ben/"
+- "/?p=79"
 ---
 
 [ ![Vote Ben](http://static.flickr.com/73/194901832_da125ed6ca_m.jpg) ](http://www.flickr.com/photos/bensheldon/194901832/ "Photo Sharing")

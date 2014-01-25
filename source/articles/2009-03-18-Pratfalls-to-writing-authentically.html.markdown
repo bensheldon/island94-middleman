@@ -10,6 +10,7 @@ wp_link: "/2009/03/pratfalls-to-writing-authentically/"
 wp:post_type: post
 redirects:
 - "/2009/03/pratfalls-to-writing-authentically/"
+- "/?p=540"
 ---
 
 I go back and forth with my mom---a library media teacher---about information literacy: for me, the future of communications is not about authority, but authenticity. Below is a list of self-deceptions writers put into their writing from _Writing to Be Read_ by Ken Macrorie (also author of [Telling Writing](http://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533)) :

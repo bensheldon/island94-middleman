@@ -14,6 +14,7 @@ wp_link: "/2010/02/laying-out-latest-layout/"
 wp:post_type: post
 redirects:
 - "/2010/02/laying-out-latest-layout/"
+- "/?p=1795"
 ---
 
 ![](2010-02-27-Laying-out-latest-layout/SurvivalNews-W2010-chop-500x543.png "SurvivalNews-W2010-chop")

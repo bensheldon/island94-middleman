@@ -12,6 +12,7 @@ wp_link: "/2011/06/data-driven-content-first-design/"
 wp:post_type: post
 redirects:
 - "/2011/06/data-driven-content-first-design/"
+- "/?p=2682"
 ---
 
 ![](2011-06-04-Data-driven-content-first-design/pdfpulltabs-600x342.png "pdfpulltabs")

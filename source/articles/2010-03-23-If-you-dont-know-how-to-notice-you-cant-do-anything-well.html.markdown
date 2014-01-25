@@ -7,6 +7,7 @@ wp_link: "/2010/03/if-you-dont-know-how-to-notice-you-cant-do-anything-well/"
 wp:post_type: post
 redirects:
 - "/2010/03/if-you-dont-know-how-to-notice-you-cant-do-anything-well/"
+- "/?p=1856"
 ---
 
 A subchapter on art from K.C. Cole's _Something incredibly wonderful happens: Frank Oppenheimer and the world he made up_.

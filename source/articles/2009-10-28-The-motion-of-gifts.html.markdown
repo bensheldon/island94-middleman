@@ -13,6 +13,7 @@ wp_link: "/2009/10/the-motion-of-gifts/"
 wp:post_type: post
 redirects:
 - "/2009/10/the-motion-of-gifts/"
+- "/?p=921"
 ---
 
 While referencing something in David Boyle's _The Little Money Book_ (my current read), I came across another Lewis Hyde essay, this time entitled " [Some Food We Could Not Eat](http://books.google.com/books?id=xy9S_PT4U0YC&lpg=PA48&ots=bTCu__a6-k&dq=william%20bloom%20people%20do%20not%20work%20and%20create%20the%20economy%20because%20they%20want%20to%20support%20the%20economy.&pg=PA48#v=onepage&q=william%20bloom%20people%20do%20not%20work%20and%20create%20the%20economy%20because%20they%20want%20to%20support%20the%20economy.&f=false)" included in _Money and Faith_, edited by Michael Schutt.

@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/2012/11/reimagining-chicagos-311-activity-with-super-mayor-emanuel/"
 - "/2012/09/reimagining-chicagos-311-activity-with-super-mayor-emanuel/"
+- "/?p=3057"
 ---
 
 ![](2012-09-25-Reimagining-Chicagos-311-activity-with-Super-Mayor-Emanuel/screenshot-600x437.png "screenshot")

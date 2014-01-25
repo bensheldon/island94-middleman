@@ -17,6 +17,7 @@ redirects:
 - "/node/63"
 - "/articles/making-art-inkscape"
 - "/2006/03/making-art-with-inkscape/"
+- "/?p=63"
 ---
 
 Lately I've been spending more time than I should with a great free/open source software illustration program: [Inkscape](http://inkscape.org).

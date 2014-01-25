@@ -13,6 +13,7 @@ redirects:
 - "/node/262"
 - "/articles/blog-action-day-poverty"
 - "/2008/10/blog-action-day-poverty/"
+- "/?p=262"
 ---
 
 Today is [Blog Action Day](http://blogactionday.org/) and this year's topic is **Poverty**. Since I've [recently written](http://island94.org/tags/poverty) about poverty directly, today I'll be more lateral:

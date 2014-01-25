@@ -14,6 +14,7 @@ failed_files:
 redirects:
 - "/2009/10/a-crow-but-not-a-rogues-nest/"
 - "/2009/10/not-another-rogues-nest/"
+- "/?p=890"
 ---
 
 [ ![navigator-p161](2009-10-26-Not-another-Rogues-nest/navigator-p161-500x851.jpg "navigator-p161") ](2009-10-26-Not-another-Rogues-nest/navigator-p161.jpeg)

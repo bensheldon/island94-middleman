@@ -16,6 +16,7 @@ redirects:
 - "/articles/pool-soup"
 - "/node/6"
 - "/2005/11/pool-soup/"
+- "/?p=6"
 ---
 
 [ ![](2005-11-13-Pool-Soup/poolsoupthumb.png) ](2005-11-13-Pool-Soup/poolsoup.mp4)
