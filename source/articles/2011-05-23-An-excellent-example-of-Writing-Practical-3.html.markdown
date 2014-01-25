@@ -9,8 +9,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2011/05/an-excellent-example-of-writing-practical-3/"
-- "/?p=2663"
+- 2011/05/an-excellent-example-of-writing-practical-3/
+- "?p=2663"
 ---
 
 I subscribe to too many media-strategy blogs, which rile me up from time to time with their lack of attention to content production---as in the act of writing itself. Sure, they're _strategy_ but the line ["Before running off to create content..." from Beth's Blog](http://www.bethkanter.org/content-rules/) made me think of the vast majority of people I know and have worked with who just can't write---as in the act itself. I made this note in Google Reader:

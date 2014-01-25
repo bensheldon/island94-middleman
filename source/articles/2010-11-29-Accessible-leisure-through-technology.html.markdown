@@ -10,8 +10,8 @@ tags:
 - technology
 wp:post_type: post
 redirects:
-- "/2010/11/accessible-leisure-through-technology/"
-- "/?p=2313"
+- 2010/11/accessible-leisure-through-technology/
+- "?p=2313"
 ---
 
 I always talk about technology as a multiplier of action; here is someone with better credentials than me making the same point: Kentaro Toyama writing in the _Boston Review_ on " [Can Technology End Poverty? [No]](http://www.bostonreview.net/BR35.6/toyama.php)"

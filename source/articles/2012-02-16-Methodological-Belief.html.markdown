@@ -8,8 +8,8 @@ tags:
 - thinking
 wp:post_type: post
 redirects:
-- "/2012/02/methodological-belief/"
-- "/?p=2996"
+- 2012/02/methodological-belief/
+- "?p=2996"
 ---
 
 From Peter Elbow's ["The Believing Game"](http://works.bepress.com/cgi/viewcontent.cgi?article=1019&context=peter_elbow):

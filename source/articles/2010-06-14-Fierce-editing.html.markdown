@@ -7,8 +7,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2010/06/fierce-editing/"
-- "/?p=2092"
+- 2010/06/fierce-editing/
+- "?p=2092"
 ---
 
 Peter Elbow on the editorial act, from _Writing without teachers_ (1973):

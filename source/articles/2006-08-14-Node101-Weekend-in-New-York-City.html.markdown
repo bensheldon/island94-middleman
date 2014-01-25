@@ -11,10 +11,10 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/node101mnnset.png
 redirects:
-- "/node/87"
-- "/articles/node101-weekend-new-york-city"
-- "/2006/08/node101-weekend-in-new-york-city/"
-- "/?p=87"
+- node/87
+- articles/node101-weekend-new-york-city
+- 2006/08/node101-weekend-in-new-york-city/
+- "?p=87"
 ---
 
   [ ![Node101 Weekend @ MNN](http://static.flickr.com/68/215234231_6fefc7fcbb.jpg) ](http://node101mnn.blip.tv) [video link](http://node101mnn.blip.tv) | [fullsize image](http://www.flickr.com/photos/bensheldon/215234231)

@@ -7,8 +7,8 @@ tags:
 - science
 wp:post_type: post
 redirects:
-- "/2010/10/scientific-disunity/"
-- "/?p=2227"
+- 2010/10/scientific-disunity/
+- "?p=2227"
 ---
 
 From Patricia Fara's_ Science: A Four Thousand Year History_. She takes a historical and comparative approach to explore the diversity of scientific experience (similar to Karen Armstrong's _A History of God)._

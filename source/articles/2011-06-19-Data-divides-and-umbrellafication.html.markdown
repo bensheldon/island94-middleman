@@ -7,8 +7,8 @@ tags:
 - data-leadership
 wp:post_type: post
 redirects:
-- "/2011/06/data-divides-and-umbrellafication/"
-- "/?p=2716"
+- 2011/06/data-divides-and-umbrellafication/
+- "?p=2716"
 ---
 
 Jesse Lichtenstein in "Transparency for All", writing for _Wired:_

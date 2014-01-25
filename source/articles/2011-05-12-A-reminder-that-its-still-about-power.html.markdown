@@ -9,8 +9,8 @@ tags:
 - power
 wp:post_type: post
 redirects:
-- "/2011/05/a-reminder-that-its-still-about-power/"
-- "/?p=2648"
+- 2011/05/a-reminder-that-its-still-about-power/
+- "?p=2648"
 ---
 
 [Mark Rosenman](http://pndblog.typepad.com/pndblog/2010/05/5qs-for-mark-rosenman.html) impeccably synthesizes the need for building political power in the philanthropic sector. Writing for [Philantopic](http://pndblog.typepad.com/pndblog/2011/04/foundations-and-power-beyond-advocacy-1.html) (emphasis mine):

@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=1858"
+- "?p=1858"
 ---
 
 **Posting guidelines for the Mission-Based Massachusetts email list**

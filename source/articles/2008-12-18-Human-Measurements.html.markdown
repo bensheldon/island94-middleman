@@ -4,10 +4,10 @@ date: '2008-12-18'
 tags: []
 wp:post_type: post
 redirects:
-- "/node/277"
-- "/observation/human-measurements"
-- "/2008/12/human-measurements/"
-- "/?p=277"
+- node/277
+- observation/human-measurements
+- 2008/12/human-measurements/
+- "?p=277"
 ---
 
 Great comment from slashdot on [English Units](http://tech.slashdot.org/comments.pl?sid=1066141&cid=26159359):

@@ -10,8 +10,8 @@ tags:
 - yawn
 wp:post_type: post
 redirects:
-- "/2010/02/good-enough-data/"
-- "/?p=1776"
+- 2010/02/good-enough-data/
+- "?p=1776"
 ---
 
 ![](2010-02-22-Good-enough-data/btop-map-combined-500x462.png "btop-map-combined")

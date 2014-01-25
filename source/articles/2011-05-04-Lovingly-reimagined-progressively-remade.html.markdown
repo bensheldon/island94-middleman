@@ -7,8 +7,8 @@ tags:
 - politics
 wp:post_type: post
 redirects:
-- "/2011/05/lovingly-reimagined-progressively-remade/"
-- "/?p=2639"
+- 2011/05/lovingly-reimagined-progressively-remade/
+- "?p=2639"
 ---
 
 Chris Rabb's _Invisible Capital_ uses a quote from Robert Mangabeira Unger and Cornel West's _The Future of American Progressivism:_

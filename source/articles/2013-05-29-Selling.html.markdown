@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=3086"
+- "?p=3086"
 ---
 
 From ["How Draft Grew Paying Customers by 200%"](http://insideintercom.io/how-draft-grew-paying-customers-by-200/) by Nathan Kontny on Intercom's Blog:

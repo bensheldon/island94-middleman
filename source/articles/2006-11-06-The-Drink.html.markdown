@@ -8,10 +8,10 @@ tags:
 - milk
 wp:post_type: post
 redirects:
-- "/node/109"
-- "/articles/drink"
-- "/2006/11/the-drink/"
-- "/?p=109"
+- node/109
+- articles/drink
+- 2006/11/the-drink/
+- "?p=109"
 ---
 
 [ ![I've taken up drinking](http://static.flickr.com/116/289669879_a9cbdc16a1.jpg) ](http://www.flickr.com/photos/bensheldon/289669879/ "Photo Sharing")

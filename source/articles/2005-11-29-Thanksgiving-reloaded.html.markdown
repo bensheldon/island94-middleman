@@ -12,10 +12,10 @@ tags:
 - turkey
 wp:post_type: post
 redirects:
-- "/node/18"
-- "/articles/thanksgiving-reloaded"
-- "/2005/11/thanksgiving-reloaded/"
-- "/?p=18"
+- node/18
+- articles/thanksgiving-reloaded
+- 2005/11/thanksgiving-reloaded/
+- "?p=18"
 ---
 
 >

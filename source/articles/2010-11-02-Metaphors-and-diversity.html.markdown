@@ -8,8 +8,8 @@ tags:
 - metaphors
 wp:post_type: post
 redirects:
-- "/2010/11/metaphors-and-diversity/"
-- "/?p=2283"
+- 2010/11/metaphors-and-diversity/
+- "?p=2283"
 ---
 
 ![](2010-11-02-Metaphors-and-diversity/filter-disintermediation-500x329.jpg "filter-disintermediation")

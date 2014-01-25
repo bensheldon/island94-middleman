@@ -10,10 +10,10 @@ tags:
 - Mark Twain
 wp:post_type: post
 redirects:
-- "/node/125"
-- "/articles/copyright-and-nineteenth-century"
-- "/2007/04/copyright-and-the-nineteenth-century/"
-- "/?p=125"
+- node/125
+- articles/copyright-and-nineteenth-century
+- 2007/04/copyright-and-the-nineteenth-century/
+- "?p=125"
 ---
 
 _I've had these notes kicking around my desktop for a few weeks and just got around to typing them up into a cohesive post._

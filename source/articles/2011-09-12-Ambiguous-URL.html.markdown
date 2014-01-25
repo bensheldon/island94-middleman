@@ -7,8 +7,8 @@ tags:
 - web
 wp:post_type: post
 redirects:
-- "/2011/09/ambiguous-url/"
-- "/?p=2822"
+- 2011/09/ambiguous-url/
+- "?p=2822"
 ---
 
 ![](2011-09-12-Ambiguous-URL/donorschoose-on-coke-machine.jpg "donorschoose-on-coke-machine")

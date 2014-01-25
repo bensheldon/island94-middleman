@@ -6,11 +6,11 @@ tags:
 - children
 wp:post_type: post
 redirects:
-- "/node/268"
-- "/observation/being-wrong-right"
-- "/observation/being-wrong-right-not-education-system"
-- "/2008/11/being-wrong-is-right-but-not-in-the-education-system/"
-- "/?p=268"
+- node/268
+- observation/being-wrong-right
+- observation/being-wrong-right-not-education-system
+- 2008/11/being-wrong-is-right-but-not-in-the-education-system/
+- "?p=268"
 ---
 
 I listened to the TED talk of [Sir Ken Robinson](http://www.ted.com/index.php/talks/ken_robinson_says_schools_kill_creativity.html) on education from the [tweet of Chris Brogan](http://twitter.com/chrisbrogan/status/986668588).

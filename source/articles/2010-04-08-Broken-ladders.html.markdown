@@ -8,8 +8,8 @@ tags:
 published: false
 wp:post_type: post
 redirects:
-- "/2010/04/broken-ladders/"
-- "/?p=1884"
+- 2010/04/broken-ladders/
+- "?p=1884"
 ---
 
 _Let's get polemic._

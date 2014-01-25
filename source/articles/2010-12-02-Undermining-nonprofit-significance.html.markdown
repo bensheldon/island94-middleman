@@ -7,8 +7,8 @@ tags:
 - sour-grapes
 wp:post_type: post
 redirects:
-- "/2010/12/undermining-nonprofit-significance/"
-- "/?p=2319"
+- 2010/12/undermining-nonprofit-significance/
+- "?p=2319"
 ---
 
 From a Facebook comment on Kate Barr's " [Nonprofits, Social Enterprise, and Hot Buttons](http://www.facebook.com/note.php?note_id=476792537759)" ( [blog link](http://www.nonprofitsassistancefund.org/blog/2010/11/30/nonprofits-social-enterprise-and-hot-buttons/)):

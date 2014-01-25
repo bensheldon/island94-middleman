@@ -9,8 +9,8 @@ tags:
 - zen
 wp:post_type: post
 redirects:
-- "/2010/02/criticism-for-everyone/"
-- "/?p=1749"
+- 2010/02/criticism-for-everyone/
+- "?p=1749"
 ---
 
 From _Zen and the Art of Motorcycle Maintenance_:

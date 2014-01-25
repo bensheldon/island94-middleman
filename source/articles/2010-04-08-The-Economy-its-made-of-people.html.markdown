@@ -8,8 +8,8 @@ tags:
 - interactions
 wp:post_type: post
 redirects:
-- "/2010/04/the-economy-its-made-of-people/"
-- "/?p=903"
+- 2010/04/the-economy-its-made-of-people/
+- "?p=903"
 ---
 
 William Bloom:

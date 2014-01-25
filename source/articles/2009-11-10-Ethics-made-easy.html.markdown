@@ -9,8 +9,8 @@ tags:
 - stupid
 wp:post_type: post
 redirects:
-- "/2009/11/ethics-made-easy/"
-- "/?p=1013"
+- 2009/11/ethics-made-easy/
+- "?p=1013"
 ---
 
 [ ![ethical-reasoning](2009-11-10-Ethics-made-easy/ethical-reasoning-500x719.png "ethical-reasoning") ](2009-11-10-Ethics-made-easy/ethical-reasoning.png)

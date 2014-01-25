@@ -12,8 +12,8 @@ tags:
 - save-the-world
 wp:post_type: post
 redirects:
-- "/2009/08/good-advice-to-live-by/"
-- "/?p=668"
+- 2009/08/good-advice-to-live-by/
+- "?p=668"
 ---
 
 Douglas Rushkoff wraps up _Life, Inc. _with the clearest conception of "act local, think global" I've read (and usually seems to be misinterpreted).

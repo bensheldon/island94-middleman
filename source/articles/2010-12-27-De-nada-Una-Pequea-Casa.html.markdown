@@ -7,8 +7,8 @@ tags:
 - volunteer
 wp:post_type: post
 redirects:
-- "/2010/12/de-nada-una-pequena-casa/"
-- "/?p=2391"
+- 2010/12/de-nada-una-pequena-casa/
+- "?p=2391"
 ---
 
 ![](2010-12-27-De-nada-Una-Pequea-Casa/SAM_0505-500x375.jpg "One Small House")

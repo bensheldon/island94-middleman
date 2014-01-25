@@ -12,8 +12,8 @@ tags:
 - wiki
 wp:post_type: post
 redirects:
-- "/2010/06/goodbye-producers-forum/"
-- "/?p=1999"
+- 2010/06/goodbye-producers-forum/
+- "?p=1999"
 ---
 
 ![](2010-06-06-Goodbye-Producers-Forum/Goodbye-Producers-Forum-500x324.png "Goodbye Producers Forum")

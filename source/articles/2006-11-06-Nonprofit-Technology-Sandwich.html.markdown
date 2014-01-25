@@ -13,10 +13,10 @@ tags:
 - technology
 wp:post_type: post
 redirects:
-- "/node/110"
-- "/articles/nonprofit-technology-sandwich"
-- "/2006/11/nonprofit-technology-sandwich/"
-- "/?p=110"
+- node/110
+- articles/nonprofit-technology-sandwich
+- 2006/11/nonprofit-technology-sandwich/
+- "?p=110"
 ---
 
   [ ![Nonprofit Technology Sandwich](http://static.flickr.com/108/291245824_85dfbd70a8.jpg) ](http://www.flickr.com/photos/bensheldon/291245824/ "Photo Sharing")

@@ -7,11 +7,11 @@ tags:
 - drawing
 wp:post_type: post
 redirects:
-- "/node/252"
-- "/articles/pod-whales"
-- "/articles/whales"
-- "/2008/09/pod-of-whales/"
-- "/?p=252"
+- node/252
+- articles/pod-whales
+- articles/whales
+- 2008/09/pod-of-whales/
+- "?p=252"
 ---
 
 [ ![whales](http://farm4.static.flickr.com/3240/2834048816_7123ed8f06.jpg) ](http://flickr.com/photos/bensheldon/sets/72157607143743022/ "whales by bensheldon, on Flickr")

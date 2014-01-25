@@ -11,8 +11,8 @@ tags:
 - religion
 wp:post_type: post
 redirects:
-- "/2010/01/the-poor-the-dead-and-god-are-easily-forgotten/"
-- "/?p=1681"
+- 2010/01/the-poor-the-dead-and-god-are-easily-forgotten/
+- "?p=1681"
 ---
 
 Peter Brown's ["Remembering the Poor and the Aesthetic of Society"](http://muse.jhu.edu/login?uri=/journals/journal_of_interdisciplinary_history/v035/35.3brown.html) (_Journal of Interdisciplinary History_) presents a wonderful analysis of charity through a lens of history and society:

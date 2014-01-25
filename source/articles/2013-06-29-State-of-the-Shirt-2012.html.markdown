@@ -7,8 +7,8 @@ tags:
 - summary
 wp:post_type: post
 redirects:
-- "/2013/06/state-of-the-shirt-2012/"
-- "/?p=3093"
+- 2013/06/state-of-the-shirt-2012/
+- "?p=3093"
 ---
 
 [ ![dayoftheshirt-2012](2013-06-29-State-of-the-Shirt-2012/dayoftheshirt-2012.png) ](http://dayoftheshirt.com)

@@ -10,8 +10,8 @@ wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/01/boom1.jpg
 redirects:
-- "/2011/01/the-benefits-of-age/"
-- "/?p=2434"
+- 2011/01/the-benefits-of-age/
+- "?p=2434"
 ---
 
 [ ![](2011-01-22-The-benefits-of-age/boom1-500x241.jpg "boom1") ](2011-01-22-The-benefits-of-age/boom1.jpeg)

@@ -9,8 +9,8 @@ tags:
 - spam
 wp:post_type: post
 redirects:
-- "/2010/02/ethical-flexibility-for-export/"
-- "/?p=1743"
+- 2010/02/ethical-flexibility-for-export/
+- "?p=1743"
 ---
 
 I greatly enjoy this leap of ethics in my spam folder over the weekend:

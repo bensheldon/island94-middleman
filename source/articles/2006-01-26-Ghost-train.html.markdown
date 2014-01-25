@@ -8,10 +8,10 @@ tags:
 - winter
 wp:post_type: post
 redirects:
-- "/node/27"
-- "/articles/ghost-train"
-- "/2006/01/ghost-train/"
-- "/?p=27"
+- node/27
+- articles/ghost-train
+- 2006/01/ghost-train/
+- "?p=27"
 ---
 
 [ ![](http://farm1.static.flickr.com/34/91590209_5c74999e39.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590209/)

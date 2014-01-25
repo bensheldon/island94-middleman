@@ -7,8 +7,8 @@ tags:
 - nonprofits
 wp:post_type: post
 redirects:
-- "/2011/06/irrefutable-gerunds/"
-- "/?p=2726"
+- 2011/06/irrefutable-gerunds/
+- "?p=2726"
 ---
 
 Gerunds were referenced in [yesterday's post](http://www.island94.org/2011/06/app-contest-submission-boilerplate/). Below is from William Easterly's " [Foreign Aid for Scoundrels](http://www.nybooks.com/articles/archives/2010/nov/25/foreign-aid-scoundrels/?pagination=false)", published in the _New York Review of Books_:

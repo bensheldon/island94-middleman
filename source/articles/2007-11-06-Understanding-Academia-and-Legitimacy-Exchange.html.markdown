@@ -7,11 +7,11 @@ tags:
 - legitimacy exchange
 wp:post_type: post
 redirects:
-- "/node/165"
-- "/understanding-academia"
-- "/understanding-academia-and-legitimacy-exchange"
-- "/2007/11/understanding-academia-and-legitimacy-exchange/"
-- "/?p=165"
+- node/165
+- understanding-academia
+- understanding-academia-and-legitimacy-exchange
+- 2007/11/understanding-academia-and-legitimacy-exchange/
+- "?p=165"
 ---
 
 According to Fred Turner in [From Counterculture to Cyberculture](http://books.google.com/books?id=2SNFpgX_WigC&pg=PA25&lpg=PA25&dq=%22legitimacy+exchange%22&source=web&ots=tqu371QGrs&sig=yz1OyR3sa61eMBohnjh9RlqR68g) **legitimacy exchange** is...

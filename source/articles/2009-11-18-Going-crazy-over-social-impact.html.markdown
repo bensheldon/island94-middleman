@@ -4,8 +4,8 @@ date: '2009-11-18'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/11/going-crazy-over-social-impact/"
-- "/?p=1041"
+- 2009/11/going-crazy-over-social-impact/
+- "?p=1041"
 ---
 
 This week's topic in the Millenial Blogging Alliance is "How do you define and measure Social Impact?" Since I'm currently at 34,000 feet and salty about some recent Federal funding restrictions, let's go a little crazy.

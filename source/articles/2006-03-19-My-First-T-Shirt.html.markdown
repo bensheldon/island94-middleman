@@ -9,10 +9,10 @@ tags:
 - shirt
 wp:post_type: post
 redirects:
-- "/node/30"
-- "/articles/my-first-t-shirt"
-- "/2006/03/my-first-t-shirt/"
-- "/?p=30"
+- node/30
+- articles/my-first-t-shirt
+- 2006/03/my-first-t-shirt/
+- "?p=30"
 ---
 
 [ ![](http://farm1.static.flickr.com/52/115055650_4e87ffadf4.jpg) ](http://www.flickr.com/photos/atomicworkshop/115055650/)

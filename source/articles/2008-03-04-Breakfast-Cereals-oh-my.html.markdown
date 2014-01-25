@@ -5,10 +5,10 @@ tags:
 - food
 wp:post_type: post
 redirects:
-- "/node/207"
-- "/breakfast-cereals-oh-my"
-- "/2008/03/breakfast-cereals-oh-my/"
-- "/?p=207"
+- node/207
+- breakfast-cereals-oh-my
+- 2008/03/breakfast-cereals-oh-my/
+- "?p=207"
 ---
 
 .!.

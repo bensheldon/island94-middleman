@@ -9,8 +9,8 @@ tags:
 - portfolio
 wp:post_type: post
 redirects:
-- "/2010/10/fairly-fool-proof-popovers/"
-- "/?p=2243"
+- 2010/10/fairly-fool-proof-popovers/
+- "?p=2243"
 ---
 
 ![](2010-10-17-Fairly-fool-proof-whole-wheat-popovers/popovers-500x373.jpg "popovers")

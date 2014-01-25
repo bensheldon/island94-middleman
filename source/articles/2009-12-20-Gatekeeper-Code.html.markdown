@@ -8,8 +8,8 @@ tags:
 - weeding
 wp:post_type: post
 redirects:
-- "/2009/12/gatekeeper-code/"
-- "/?p=1599"
+- 2009/12/gatekeeper-code/
+- "?p=1599"
 ---
 
 From a thread on whether [BASIC is relevant](http://www.reddit.com/r/programming/comments/agtjh/why_basic_is_still_relevant/c0hhwz4):

@@ -12,10 +12,10 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/solaronegroup.png
 redirects:
-- "/node/89"
-- "/articles/solar-powered-art"
-- "/2006/08/solar-powered-art/"
-- "/?p=89"
+- node/89
+- articles/solar-powered-art
+- 2006/08/solar-powered-art/
+- "?p=89"
 ---
 
   [ ![IMG_0582.JPG](http://static.flickr.com/59/222517626_cbe511e487_m.jpg) ](http://www.flickr.com/photos/bensheldon/222517626/ "Photo Sharing") [ ![IMG_0587.JPG](http://static.flickr.com/76/222516521_57efd98496_m.jpg) ](http://www.flickr.com/photos/bensheldon/222516521/ "Photo Sharing")

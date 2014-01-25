@@ -8,8 +8,8 @@ tags:
 - wisdom
 wp:post_type: post
 redirects:
-- "/2011/06/wisdom-and-discernment/"
-- "/?p=2719"
+- 2011/06/wisdom-and-discernment/
+- "?p=2719"
 ---
 
 Another excerpt from Gift Hub, ["Conducting the Charitable Giving Conversation as a Rational Person Would"](http://www.gifthub.org/2011/06/by-besty-brill-and-ken-nopar-in-step-journal-directed-to-estate-planning-professionals-little-by-little-tax-and-legal-profe.html):

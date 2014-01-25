@@ -7,8 +7,8 @@ tags:
 - rhetoric
 wp:post_type: post
 redirects:
-- "/2009/06/political-rhetoric/"
-- "/?p=601"
+- 2009/06/political-rhetoric/
+- "?p=601"
 ---
 
 From a Wall Street Journal article on [Congressional expense accounts](http://online.wsj.com/article/SB124381530535870685.html):

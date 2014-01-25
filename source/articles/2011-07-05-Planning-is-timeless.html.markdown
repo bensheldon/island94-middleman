@@ -9,8 +9,8 @@ wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpg
 redirects:
-- "/2011/07/planning-is-timeless/"
-- "/?p=2739"
+- 2011/07/planning-is-timeless/
+- "?p=2739"
 ---
 
 [ ![](2011-07-05-Planning-is-timeless/Operation-High-Hopes-600x675.png "Operation High Hopes") ](2011-07-05-Planning-is-timeless/Operation-High-Hopes.png)

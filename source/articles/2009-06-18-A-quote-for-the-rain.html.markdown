@@ -4,8 +4,8 @@ date: '2009-06-18'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/06/a-quote-for-the-rain/"
-- "/?p=612"
+- 2009/06/a-quote-for-the-rain/
+- "?p=612"
 ---
 
 June in Boston has been wet beneath the _unicloud_ [All Roads Lead Home full](http://utero.pe/?all_roads_lead_home) , as my boss calls it. A June Gloom lower and more dripping than any in Southern California. Below is the best advice I ever received for the rain (and any inclement whether, except perhaps lightning, or perhaps more so), from Tom Robbin's _Another Roadside Attraction_ :

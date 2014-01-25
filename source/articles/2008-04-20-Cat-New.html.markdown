@@ -7,10 +7,10 @@ tags:
 - pet
 wp:post_type: post
 redirects:
-- "/node/215"
-- "/articles/cat-new"
-- "/2008/04/cat-new/"
-- "/?p=215"
+- node/215
+- articles/cat-new
+- 2008/04/cat-new/
+- "?p=215"
 ---
 
 .!.

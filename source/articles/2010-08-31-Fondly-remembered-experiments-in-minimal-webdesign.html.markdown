@@ -10,8 +10,8 @@ tags:
 - webdesign
 wp:post_type: post
 redirects:
-- "/2010/08/fondly-remembered-experiments-in-minimal-webdesign/"
-- "/?p=2152"
+- 2010/08/fondly-remembered-experiments-in-minimal-webdesign/
+- "?p=2152"
 ---
 
 [ ![](2010-08-31-Fondly-remembered-experiments-in-minimal-webdesign/pantextual-11-500x356.png "pantextual-1") ](2010-08-31-Fondly-remembered-experiments-in-minimal-webdesign/pantextual-11.png)Tomorrow is launch day for a blog aggregator website I worked on, but because I can't write about that _just yet_ I thought I'd write about a website whose development has influenced a lot of my approach to minimal webdesign: [Pantextual.com](http://pantextual.com)

@@ -8,8 +8,8 @@ tags:
 - weasel-words
 wp:post_type: post
 redirects:
-- "/2009/02/press-release-rhythm/"
-- "/?p=504"
+- 2009/02/press-release-rhythm/
+- "?p=504"
 ---
 
 Minimal comment on [Microsoft entering the retail space](http://www.appleinsider.com/articles/09/02/12/microsoft_to_open_new_retail_stores_like_apple.html) with Apple-_esque_ stores---dumb---but I liked the press release:

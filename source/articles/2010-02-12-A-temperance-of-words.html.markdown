@@ -11,8 +11,8 @@ tags:
 - zen
 wp:post_type: post
 redirects:
-- "/2010/02/a-temperance-of-words/"
-- "/?p=1754"
+- 2010/02/a-temperance-of-words/
+- "?p=1754"
 ---
 
 From Karen Armstrong's _A History of God_:

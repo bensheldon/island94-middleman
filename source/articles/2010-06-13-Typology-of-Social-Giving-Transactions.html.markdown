@@ -8,8 +8,8 @@ tags:
 - typology
 wp:post_type: post
 redirects:
-- "/2010/06/typology-of-social-giving-transactions/"
-- "/?p=2088"
+- 2010/06/typology-of-social-giving-transactions/
+- "?p=2088"
 ---
 
 - **Giving**: a gift. _"Please take this dollar. Have a nice day."_

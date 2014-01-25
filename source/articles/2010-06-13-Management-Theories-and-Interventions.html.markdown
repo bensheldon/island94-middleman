@@ -8,8 +8,8 @@ tags:
 - theory
 wp:post_type: post
 redirects:
-- "/2010/06/management-theories-and-interventions/"
-- "/?p=2076"
+- 2010/06/management-theories-and-interventions/
+- "?p=2076"
 ---
 
 |

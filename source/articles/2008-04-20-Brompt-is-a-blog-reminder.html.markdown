@@ -9,10 +9,10 @@ tags:
 - webdesign
 wp:post_type: post
 redirects:
-- "/node/216"
-- "/articles/brompt-blog-reminder"
-- "/2008/04/brompt-is-a-blog-reminder/"
-- "/?p=216"
+- node/216
+- articles/brompt-blog-reminder
+- 2008/04/brompt-is-a-blog-reminder/
+- "?p=216"
 ---
 
 [ ![Brompt.com logo](2008-04-20-Brompt-is-a-blog-reminder/brompt-logo.jpg) ](http://brompt.com "a blog reminder service")

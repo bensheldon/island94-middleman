@@ -6,10 +6,10 @@ tags:
 - hygiene
 wp:post_type: post
 redirects:
-- "/node/228"
-- "/observation/fluoride-teeth-and-brushing-advice"
-- "/2008/06/fluoride-teeth-and-brushing-advice/"
-- "/?p=228"
+- node/228
+- observation/fluoride-teeth-and-brushing-advice
+- 2008/06/fluoride-teeth-and-brushing-advice/
+- "?p=228"
 ---
 
 Ever since Dr. Strangelove I've found the fluoride controversy interesting and scary (for many reasons). I can't verify any of this, but from a Digg article entitled [Fluoride's glory may be cresting](http://digg.com/health/Fluoride_s_glory_may_be_cresting), here was a comment that seemed to have enough info to worthwhilely put it here:

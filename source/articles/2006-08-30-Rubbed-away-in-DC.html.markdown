@@ -10,10 +10,10 @@ tags:
 - Washington
 wp:post_type: post
 redirects:
-- "/articles/rubbed-away-dc"
-- "/node/92"
-- "/2006/08/rubbed-away-in-dc/"
-- "/?p=92"
+- articles/rubbed-away-dc
+- node/92
+- 2006/08/rubbed-away-in-dc/
+- "?p=92"
 ---
 
   [ ![Rubbed away in DC](http://static.flickr.com/94/229805371_72e59c0279.jpg) ](http://www.flickr.com/photos/bensheldon/229805371/ "Photo Sharing")

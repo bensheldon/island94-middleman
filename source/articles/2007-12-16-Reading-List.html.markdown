@@ -4,10 +4,10 @@ date: '2007-12-16'
 tags: []
 wp:post_type: post
 redirects:
-- "/node/189"
-- "/reading-list"
-- "/2007/12/reading-list/"
-- "/?p=189"
+- node/189
+- reading-list
+- 2007/12/reading-list/
+- "?p=189"
 ---
 
 ### Friends

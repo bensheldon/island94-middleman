@@ -8,10 +8,10 @@ tags:
 - Southie
 wp:post_type: post
 redirects:
-- "/node/26"
-- "/articles/trash-piano"
-- "/2005/12/trash-piano/"
-- "/?p=26"
+- node/26
+- articles/trash-piano
+- 2005/12/trash-piano/
+- "?p=26"
 ---
 
 [ ![](http://static.flickr.com/37/75385133_ca3abb0010_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/75385133/)

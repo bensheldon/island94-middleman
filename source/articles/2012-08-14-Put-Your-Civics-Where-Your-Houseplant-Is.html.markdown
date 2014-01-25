@@ -8,8 +8,8 @@ tags:
 - portfolio
 wp:post_type: post
 redirects:
-- "/2012/08/put-your-civics-where-your-houseplant-is/"
-- "/?p=3018"
+- 2012/08/put-your-civics-where-your-houseplant-is/
+- "?p=3018"
 ---
 
 ![](2012-08-14-Put-Your-Civics-Where-Your-Houseplant-Is/civicsgarden-large-600x266.png "civicsgarden-large")

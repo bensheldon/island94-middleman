@@ -7,10 +7,10 @@ tags:
 - science
 wp:post_type: post
 redirects:
-- "/node/237"
-- "/observation/digital-media-forensics"
-- "/2008/08/digital-media-forensics/"
-- "/?p=237"
+- node/237
+- observation/digital-media-forensics
+- 2008/08/digital-media-forensics/
+- "?p=237"
 ---
 
 2nd rate band's new single appears on bittorrent sites, band releases press release decrying leak, [sleuthing ensues](http://torrentfreak.com/band-leaks-track-to-bittorrent-blames-pirates-080731/)...turns out the band's manager leaked the track himself. Damning on its own, but the interesting part is the forensic sleuthing that led to outing the guilty party:

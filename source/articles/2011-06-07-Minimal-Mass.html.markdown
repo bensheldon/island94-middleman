@@ -6,8 +6,8 @@ tags:
 - structure
 wp:post_type: post
 redirects:
-- "/2011/06/minimal-mass/"
-- "/?p=2691"
+- 2011/06/minimal-mass/
+- "?p=2691"
 ---
 
 I was searching for something else in Google Reader, but it seemed timely to resurface this note:

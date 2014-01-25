@@ -9,10 +9,10 @@ tags:
 - webdesign
 wp:post_type: post
 redirects:
-- "/node/126"
-- "/articles/meetamericorps-still-success"
-- "/2007/04/meetamericorps-still-a-success/"
-- "/?p=126"
+- node/126
+- articles/meetamericorps-still-success
+- 2007/04/meetamericorps-still-a-success/
+- "?p=126"
 ---
 
 [ ![The Faces of MeetAmeriCorps.com](http://farm1.static.flickr.com/235/444085635_15a71d43c8.jpg) ](http://www.flickr.com/photos/bensheldon/444085635/ "Photo Sharing")

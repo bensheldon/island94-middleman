@@ -9,10 +9,10 @@ tags:
 - video
 wp:post_type: post
 redirects:
-- "/node/58"
-- "/articles/chase-palm-park"
-- "/2006/07/chase-palm-park/"
-- "/?p=58"
+- node/58
+- articles/chase-palm-park
+- 2006/07/chase-palm-park/
+- "?p=58"
 ---
 
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-ChasePalmPark769.jpeg) ](http://blip.tv/file/get/Bensheldon-ChasePalmPark377.mp4?source=3)

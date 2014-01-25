@@ -6,8 +6,8 @@ tags:
 - ideology
 wp:post_type: post
 redirects:
-- "/2010/05/history-is-an-art/"
-- "/?p=1913"
+- 2010/05/history-is-an-art/
+- "?p=1913"
 ---
 
 A personal statement from a Public History grad student (taken from their Facebook Page):

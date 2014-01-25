@@ -10,8 +10,8 @@ tags:
 - visualizations
 wp:post_type: post
 redirects:
-- "/2009/09/technology-2-0-mapping-presentation/"
-- "/?p=716"
+- 2009/09/technology-2-0-mapping-presentation/
+- "?p=716"
 ---
 
 On Saturday I presented on Mapping at the Technology 2.0 community summit convened by the [Organizers Collaborative](http://organizerscollaborative.org) (I'm chairperson of the board), [Boston Neighborhood Network](http://bnntv.org) (the local cable access TV station) and the [John O'Bryant African American Institute](http://www.aai.neu.edu/). I had 10 minutes to...

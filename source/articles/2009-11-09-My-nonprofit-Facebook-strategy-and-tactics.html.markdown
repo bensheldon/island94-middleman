@@ -8,8 +8,8 @@ tags:
 - whatever
 wp:post_type: post
 redirects:
-- "/2009/11/my-nonprofit-facebook-strategy-and-tactics/"
-- "/?p=1001"
+- 2009/11/my-nonprofit-facebook-strategy-and-tactics/
+- "?p=1001"
 ---
 
 I was asked by a colleague how to increase the size of their organization's Facebook Fan page---not that I would consider any page I manage to be an overwhelming success.

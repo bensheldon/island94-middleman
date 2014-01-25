@@ -12,14 +12,14 @@ tags:
 - webdesign
 wp:post_type: post
 redirects:
-- "/2008/08/drupal:-theme-override-for-upload-module\\'s-attachments-list-/"
-- "/node/238"
-- "/articles/overriding"
-- "/articles/override-upload-modules-attachments-list"
-- "/articles/drupal-override-upload-modules-attachments-list"
-- "/articles/drupal-theme-override-upload-modules-attachments-list"
-- "/2008/08/drupal-theme-override-for-upload-modules-attachments-list/"
-- "/?p=238"
+- 2008/08/drupal:-theme-override-for-upload-module\'s-attachments-list-/
+- node/238
+- articles/overriding
+- articles/override-upload-modules-attachments-list
+- articles/drupal-override-upload-modules-attachments-list
+- articles/drupal-theme-override-upload-modules-attachments-list
+- 2008/08/drupal-theme-override-for-upload-modules-attachments-list/
+- "?p=238"
 ---
 
 **Update:** this functionality can now be achieved with the [iTweak\_upload module ](http://drupal.org/project/itweak_upload). _Thanks to [Damon](http://damoncook.net/) for the tip!_

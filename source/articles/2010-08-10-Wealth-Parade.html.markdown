@@ -7,9 +7,9 @@ tags:
 - wealth
 wp:post_type: post
 redirects:
-- "/2010/08/wealth-procession/"
-- "/2010/08/wealth-parade/"
-- "/?p=2121"
+- 2010/08/wealth-procession/
+- 2010/08/wealth-parade/
+- "?p=2121"
 ---
 
 From _The Number's Game: the commonsense guide to understanding numbers in the news, in politics and life_, by Michael Blastland and Andrew Dilnot; on wealth and averages:

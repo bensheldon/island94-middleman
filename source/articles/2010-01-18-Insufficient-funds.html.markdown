@@ -10,8 +10,8 @@ tags:
 - speech
 wp:post_type: post
 redirects:
-- "/2010/01/insufficient-funds/"
-- "/?p=1686"
+- 2010/01/insufficient-funds/
+- "?p=1686"
 ---
 
 Don't be distracted by the vision; focus on the problem statement:

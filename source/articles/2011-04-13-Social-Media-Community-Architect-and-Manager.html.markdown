@@ -9,8 +9,8 @@ tags:
 - resume
 wp:post_type: post
 redirects:
-- "/2011/04/social-media-community-architect-and-manager/"
-- "/?p=2261"
+- 2011/04/social-media-community-architect-and-manager/
+- "?p=2261"
 ---
 
 Exploring the recesses of my email I came across some bad ideas I gave to a good friend, neighbor and excellent "Social Media Community Architect and Manager" as we were exploring possible resume headers for him:

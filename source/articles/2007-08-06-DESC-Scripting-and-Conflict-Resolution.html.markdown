@@ -8,10 +8,10 @@ tags:
 - supervisory skills
 wp:post_type: post
 redirects:
-- "/node/137"
-- "/articles/desc-scripting-and-conflict-resolution"
-- "/2007/08/desc-scripting-and-conflict-resolution/"
-- "/?p=137"
+- node/137
+- articles/desc-scripting-and-conflict-resolution
+- 2007/08/desc-scripting-and-conflict-resolution/
+- "?p=137"
 ---
 
 I've recently come into a major upgrade in duties at my job, which has always been heavy on the Human Resources responsibilities. As it is, not only am I supervising several subordinates locally, I am also the clearing house for supervisory advice and information for our many-dozen affiliates all across the nation; like the surgeon general is to doctors. Because of that, I find myself often intently reading HR manuals, strategic planning frameworks and, like today, conflict resolution.

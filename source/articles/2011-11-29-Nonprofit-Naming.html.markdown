@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=547"
+- "?p=547"
 ---
 
 **Explanatory Name:**

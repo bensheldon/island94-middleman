@@ -10,8 +10,8 @@ tags:
 - the-beatles
 wp:post_type: post
 redirects:
-- "/2009/10/but-licensed-in-how-many-dimensions/"
-- "/?p=748"
+- 2009/10/but-licensed-in-how-many-dimensions/
+- "?p=748"
 ---
 
 My boss came in this morning to gripe about how a media service, [Mixcloud](http://www.mixcloud.com/), wanted her to upload her media to their service, rather than link to where it's currently hosted. As always, the reason was in their _Terms and Conditions (snarky emphasis mine):_

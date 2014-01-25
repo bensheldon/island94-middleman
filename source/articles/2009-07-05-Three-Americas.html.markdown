@@ -9,8 +9,8 @@ tags:
 - rhetoric
 wp:post_type: post
 redirects:
-- "/2009/07/americas/"
-- "/?p=621"
+- 2009/07/americas/
+- "?p=621"
 ---
 
 My friend Thomas posted a status message to Facebook "wonders why Republicans hate America?". This is where I'm at:

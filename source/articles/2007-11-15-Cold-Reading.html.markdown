@@ -6,10 +6,10 @@ tags:
 - psychology
 wp:post_type: post
 redirects:
-- "/node/173"
-- "/cold-reading"
-- "/2007/11/cold-reading/"
-- "/?p=173"
+- node/173
+- cold-reading
+- 2007/11/cold-reading/
+- "?p=173"
 ---
 
 >

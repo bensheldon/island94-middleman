@@ -6,11 +6,11 @@ tags:
 - recipe
 wp:post_type: post
 redirects:
-- "/node/217"
-- "/observation/echilada-sauce"
-- "/observation/enchilada-sauce"
-- "/2008/04/enchilada-sauce/"
-- "/?p=217"
+- node/217
+- observation/echilada-sauce
+- observation/enchilada-sauce
+- 2008/04/enchilada-sauce/
+- "?p=217"
 ---
 
 .!.

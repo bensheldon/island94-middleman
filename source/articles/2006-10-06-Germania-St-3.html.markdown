@@ -8,11 +8,11 @@ tags:
 - illustration
 wp:post_type: post
 redirects:
-- "/2006/10/germania-st-"
-- "/articles/germania-st-3"
-- "/node/102"
-- "/2006/10/germania-st-3/"
-- "/?p=102"
+- 2006/10/germania-st-
+- articles/germania-st-3
+- node/102
+- 2006/10/germania-st-3/
+- "?p=102"
 ---
 
 [ ![Germania Street #3](http://static.flickr.com/94/262429565_e6ebef1737_o.jpg) ](http://www.flickr.com/photos/bensheldon/262429565/ "Photo Sharing")

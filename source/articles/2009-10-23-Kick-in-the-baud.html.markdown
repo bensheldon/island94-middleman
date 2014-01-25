@@ -10,8 +10,8 @@ tags:
 - telecommunications
 wp:post_type: post
 redirects:
-- "/2009/10/kick-in-the-baud/"
-- "/?p=882"
+- 2009/10/kick-in-the-baud/
+- "?p=882"
 ---
 
 [ ![human channels](2009-10-23-Kick-in-the-baud/human-channels-500x215.jpg "human channels") ](2009-10-23-Kick-in-the-baud/human-channels.jpg)

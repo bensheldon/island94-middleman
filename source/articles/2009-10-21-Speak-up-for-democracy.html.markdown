@@ -8,8 +8,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2009/10/speak-up-for-democracy/"
-- "/?p=858"
+- 2009/10/speak-up-for-democracy/
+- "?p=858"
 ---
 
 At the Grassroots Use of Technology Conference / National Writers Union Digital Media Conference I got to hear a lot of people bemoan how hard it is to make a buck as a creator in the digital age.

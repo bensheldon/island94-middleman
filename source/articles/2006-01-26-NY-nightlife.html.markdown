@@ -8,10 +8,10 @@ tags:
 - photos
 wp:post_type: post
 redirects:
-- "/node/28"
-- "/articles/ny-nightlife"
-- "/2006/01/ny-nightlife/"
-- "/?p=28"
+- node/28
+- articles/ny-nightlife
+- 2006/01/ny-nightlife/
+- "?p=28"
 ---
 
 [ ![](http://static.flickr.com/35/91590114_6bdb10871a_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590114/)

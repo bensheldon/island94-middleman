@@ -7,8 +7,8 @@ tags:
 - nonprofit
 wp:post_type: post
 redirects:
-- "/2010/09/kitchen-consensus-conjecture/"
-- "/?p=2212"
+- 2010/09/kitchen-consensus-conjecture/
+- "?p=2212"
 ---
 
 [ ![](2010-09-29-Kitchen-Consensus-Conjecture/lunch-500x502.jpg "lunch") ](2010-09-29-Kitchen-Consensus-Conjecture/lunch.jpg)

@@ -8,10 +8,10 @@ tags:
 - speech
 wp:post_type: post
 redirects:
-- "/node/156"
-- "/latin-transit"
-- "/2007/09/latin-transit/"
-- "/?p=156"
+- node/156
+- latin-transit
+- 2007/09/latin-transit/
+- "?p=156"
 ---
 
 > _Sic transit gloria mundi_ Thus passes the glory of the world

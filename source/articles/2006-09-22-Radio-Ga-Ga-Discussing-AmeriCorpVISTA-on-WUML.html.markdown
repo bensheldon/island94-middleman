@@ -11,11 +11,11 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/Bens-Interview-on-WUML_%2020060922.mp3
 redirects:
-- "/2006/09/radio-ga-ga:-discussing-americorp*vista-on-wuml/"
-- "/node/99"
-- "/articles/radio-ga-ga-discussing-americorp-vista-wuml"
-- "/2006/09/radio-ga-ga-discussing-americorp-vista-on-wuml/"
-- "/?p=99"
+- 2006/09/radio-ga-ga:-discussing-americorp*vista-on-wuml/
+- node/99
+- articles/radio-ga-ga-discussing-americorp-vista-wuml
+- 2006/09/radio-ga-ga-discussing-americorp-vista-on-wuml/
+- "?p=99"
 ---
 
 [ ![Me at WUML, Lowell](http://static.flickr.com/79/250219802_b405862f2c.jpg) ](http://www.flickr.com/photos/bensheldon/250219802/ "Photo Sharing") [ ![Charlotte](http://static.flickr.com/98/250226131_b63b2874d6_m.jpg) ](http://www.flickr.com/photos/bensheldon/250226131/ "Photo Sharing") [ ![Felicia](http://static.flickr.com/93/250226278_5ce4e0cbeb_m.jpg) ](http://www.flickr.com/photos/bensheldon/250226278/ "Photo Sharing")

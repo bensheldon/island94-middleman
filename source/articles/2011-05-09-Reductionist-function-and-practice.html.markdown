@@ -7,8 +7,8 @@ tags:
 - practice
 wp:post_type: post
 redirects:
-- "/2011/05/reductionist-function-and-practice/"
-- "/?p=2644"
+- 2011/05/reductionist-function-and-practice/
+- "?p=2644"
 ---
 
 ![](2011-05-09-Reductionist-function-and-practice/remote.jpeg "remote")

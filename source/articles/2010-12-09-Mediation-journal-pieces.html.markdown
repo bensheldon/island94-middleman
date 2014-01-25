@@ -9,8 +9,8 @@ tags:
 - reflection
 wp:post_type: post
 redirects:
-- "/2010/12/mediation-journal-pieces/"
-- "/?p=2374"
+- 2010/12/mediation-journal-pieces/
+- "?p=2374"
 ---
 
 [ ![](2010-12-09-Mediation-journal-pieces/mediation-journal-sqr-500x546.png "mediation-journal-sqr") ](2010-12-09-Mediation-journal-pieces/mediation-journal-sqr.png)

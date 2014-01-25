@@ -5,6 +5,6 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=715"
+- "?p=715"
 ---
 

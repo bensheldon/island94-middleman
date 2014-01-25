@@ -8,10 +8,10 @@ tags:
 - quote
 wp:post_type: post
 redirects:
-- "/politics-fear"
-- "/node/153"
-- "/2007/09/politics-of-fear/"
-- "/?p=153"
+- politics-fear
+- node/153
+- 2007/09/politics-of-fear/
+- "?p=153"
 ---
 
 There are so many overlapping assumptions and statements in this congressman's statement it's amazing. It's also amazing how 40 years of history inures you to something viciously contested by minds great and small.

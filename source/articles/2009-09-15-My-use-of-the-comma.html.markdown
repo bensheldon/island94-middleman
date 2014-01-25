@@ -7,8 +7,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2009/09/my-use-of-the-comma/"
-- "/?p=735"
+- 2009/09/my-use-of-the-comma/
+- "?p=735"
 ---
 
 I have been reflecting on [self-deceptions](http://www.island94.org/2009/03/pratfalls-to-writing-authentically/) in my writing. A fine analysis can be found in Noah Lukeman's excellent [_A Dash of Style: The art and mastery of punctuation_ ](http://www.amazon.com/Dash-Style-Art-Mastery-Punctuation/dp/039306087X) under the subheading "What your use of the comma reveals about you":

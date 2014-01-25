@@ -7,10 +7,10 @@ tags:
 - recipe
 wp:post_type: post
 redirects:
-- "/node/145"
-- "/pasta-dough-recipe"
-- "/2007/09/pasta-dough-recipe/"
-- "/?p=145"
+- node/145
+- pasta-dough-recipe
+- 2007/09/pasta-dough-recipe/
+- "?p=145"
 ---
 
 1 cup flour (I've been using white whole wheat)

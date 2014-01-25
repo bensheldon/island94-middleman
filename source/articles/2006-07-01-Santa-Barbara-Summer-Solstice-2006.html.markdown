@@ -14,10 +14,10 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/Solstice-thumb.png
 redirects:
-- "/node/55"
-- "/articles/santa-barbara-summer-solstice-2006"
-- "/2006/07/santa-barbara-summer-solstice-2006/"
-- "/?p=55"
+- node/55
+- articles/santa-barbara-summer-solstice-2006
+- 2006/07/santa-barbara-summer-solstice-2006/
+- "?p=55"
 ---
 
   [ ![](2006-07-01-Santa-Barbara-Summer-Solstice-2006/Solstice-thumb.png) ](http://flickr.com/photos/bensheldon/sets/72157594183776306/)

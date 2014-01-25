@@ -9,10 +9,10 @@ tags:
 - Sullivan Square
 wp:post_type: post
 redirects:
-- "/node/83"
-- "/articles/night-scenes"
-- "/2006/08/night-scenes/"
-- "/?p=83"
+- node/83
+- articles/night-scenes
+- 2006/08/night-scenes/
+- "?p=83"
 ---
 
   [ ![Harvard Square at Night](http://static.flickr.com/64/206559327_51d2fcc536.jpg) ](http://www.flickr.com/photos/bensheldon/206559327/ "Photo Sharing")

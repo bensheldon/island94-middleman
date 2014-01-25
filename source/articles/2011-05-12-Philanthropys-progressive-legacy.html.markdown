@@ -8,8 +8,8 @@ tags:
 - progressivism
 wp:post_type: post
 redirects:
-- "/2011/05/philanthropys-progressive-legacy/"
-- "/?p=2652"
+- 2011/05/philanthropys-progressive-legacy/
+- "?p=2652"
 ---
 
 The following excerpts is from a paper Lenore T. Ealy and Steven D. Ealy entitled ["Progressivism and Philanthropy", published in ](http://muse.jhu.edu/journals/gso/summary/v015/15.1ealy.html)_ [The Good Society](http://muse.jhu.edu/journals/gso/summary/v015/15.1ealy.html). _Author Stephen D. Ealy is a senior fellow at the conservative Liberty Fund, so take this article's purpose "to understand how we might best articulate a new rationale for philanthropic enterprises that are today working to return social responsibility to local communities and to support the emergence of new forms of mutual aid and voluntary action" with salt:

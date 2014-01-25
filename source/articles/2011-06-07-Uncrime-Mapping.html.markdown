@@ -9,8 +9,8 @@ wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpg
 redirects:
-- "/2011/06/uncrime-mapping/"
-- "/?p=2696"
+- 2011/06/uncrime-mapping/
+- "?p=2696"
 ---
 
   [ ![](2011-06-07-Uncrime-Mapping/Trulia-Crime-Map-600x391.png "Trulia Crime Map") ](2011-06-07-Uncrime-Mapping/Trulia-Crime-Map.png)

@@ -6,10 +6,10 @@ tags:
 - search
 wp:post_type: post
 redirects:
-- "/node/227"
-- "/observation/lumifi-search-widget"
-- "/2008/06/lumifi-search-widget/"
-- "/?p=227"
+- node/227
+- observation/lumifi-search-widget
+- 2008/06/lumifi-search-widget/
+- "?p=227"
 ---
 
 I've found the [Lumifi Search / Research Platform](http://lumifi.com) useful at times, but it sometimes seems like a sledgehammer. They have a widget for just search that's pretty useful. If I'm looking for specific things with a lot of noise (like "nonprofit culture"), it tends to give some interesting results.

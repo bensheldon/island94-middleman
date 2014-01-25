@@ -4,8 +4,8 @@ date: '2010-01-01'
 tags: []
 wp:post_type: post
 redirects:
-- "/2010/01/modern-and-post-modern-science/"
-- "/?p=1656"
+- 2010/01/modern-and-post-modern-science/
+- "?p=1656"
 ---
 
 A question from the [Librarything discussion boards](http://www.librarything.com/topic/58098):

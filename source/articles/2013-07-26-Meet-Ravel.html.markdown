@@ -4,8 +4,8 @@ date: '2013-07-26'
 tags: []
 wp:post_type: post
 redirects:
-- "/2013/07/meet-ravel/"
-- "/?p=3098"
+- 2013/07/meet-ravel/
+- "?p=3098"
 ---
 
 [ ![ravel-screens](2013-07-26-Meet-Ravel/ravel-screens.png) ](2013-07-26-Meet-Ravel/ravel-screens.png)

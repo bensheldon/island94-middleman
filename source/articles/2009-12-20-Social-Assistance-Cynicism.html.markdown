@@ -4,8 +4,8 @@ date: '2009-12-20'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/12/social-assistance-cynicism/"
-- "/?p=1524"
+- 2009/12/social-assistance-cynicism/
+- "?p=1524"
 ---
 
 As someone who, for a living, congratulates people on their commitment to serve their country then tells them how to sign up for public assistance, I am not surprised by this NY Times article saying that now [1 in 8 Americans now use Food Stamps](http://www.nytimes.com/2009/11/29/us/29foodstamps.html). Though unsurprised, I can though _appreciate_ the cynical [responses](http://www.reddit.com/r/politics/comments/a98b7/food_stamps_now_feed_1_in_8_americans_and_1_in_4/):

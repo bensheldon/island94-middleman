@@ -8,8 +8,8 @@ tags:
 - nptech
 wp:post_type: post
 redirects:
-- "/2009/03/the-essence-of-capacity-building/"
-- "/?p=596"
+- 2009/03/the-essence-of-capacity-building/
+- "?p=596"
 ---
 
 > Please secure your own oxygen mask before assisting others.

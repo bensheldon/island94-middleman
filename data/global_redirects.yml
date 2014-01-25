@@ -1,2 +1,2 @@
-- /rss.xml: /feed
-- /node/feed: /feed
+- rss.xml: feed
+- node/feed: feed

@@ -8,8 +8,8 @@ tags:
 - subway
 wp:post_type: post
 redirects:
-- "/2010/12/t-shirt/"
-- "/?p=2384"
+- 2010/12/t-shirt/
+- "?p=2384"
 ---
 
 ![](2010-12-18-T-Shirt/t-shirt-500x373.jpg "T Shirt")

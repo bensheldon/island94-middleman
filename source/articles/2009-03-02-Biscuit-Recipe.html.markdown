@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=510"
+- "?p=510"
 ---
 
 - 2 Cups Flour, I use White Whole-Wheat

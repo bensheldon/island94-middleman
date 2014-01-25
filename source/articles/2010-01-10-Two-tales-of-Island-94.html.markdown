@@ -7,8 +7,8 @@ tags:
 - story
 wp:post_type: post
 redirects:
-- "/2010/01/two-tales-of-island-94/"
-- "/?p=1673"
+- 2010/01/two-tales-of-island-94/
+- "?p=1673"
 ---
 
 ![](2010-01-10-Two-tales-of-Island-94/Gr-Warranty-500x399.png "Gutenberg-Richter Warranty")

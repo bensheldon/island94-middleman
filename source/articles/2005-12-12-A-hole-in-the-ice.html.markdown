@@ -8,10 +8,10 @@ tags:
 - winter
 wp:post_type: post
 redirects:
-- "/node/24"
-- "/articles/hole-ice"
-- "/2005/12/a-hole-in-the-ice/"
-- "/?p=24"
+- node/24
+- articles/hole-ice
+- 2005/12/a-hole-in-the-ice/
+- "?p=24"
 ---
 
 [ ![](http://static.flickr.com/35/73043709_0025985d9a_t.jpg) ](http://www.flickr.com/photos/atomicworkshop/73043709/)

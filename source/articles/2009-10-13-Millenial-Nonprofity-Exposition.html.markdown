@@ -9,8 +9,8 @@ tags:
 - storytelling
 wp:post_type: post
 redirects:
-- "/2009/10/millenial-nonprofity-exposition/"
-- "/?p=797"
+- 2009/10/millenial-nonprofity-exposition/
+- "?p=797"
 ---
 
 I was recently invited to participate in a [blogging alliance of millennial nonprofity folks](http://entrylevelliving.wordpress.com/2009/10/13/nonprofit-millenial-bloggers/). Which is pretty fitting considering I am of the appropriate age range, employment and that "nonprofit" is the largest tag in the tag cloud in the sidebar of this blog.

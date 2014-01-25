@@ -8,8 +8,8 @@ tags:
 - personal-development
 wp:post_type: post
 redirects:
-- "/2009/06/attributes-of-respected-chairs/"
-- "/?p=614"
+- 2009/06/attributes-of-respected-chairs/
+- "?p=614"
 ---
 
 I found the following on the photocopier (after a few days, I assume its orphaned). Sourced from a SurveyMonkey print-out, it's part of a "BYU Chair Study" which through context I assume is polling what training resources the owner of this printout requires.

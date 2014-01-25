@@ -9,8 +9,8 @@ tags:
 - starvation
 wp:post_type: post
 redirects:
-- "/2009/10/starvation-begets-starvation/"
-- "/?p=931"
+- 2009/10/starvation-begets-starvation/
+- "?p=931"
 ---
 
 [ ![np-starvation-cycle](2009-10-30-Starvation-begets-starvation/np-starvation-cycle-500x504.png "np-starvation-cycle") ](2009-10-30-Starvation-begets-starvation/np-starvation-cycle.png)

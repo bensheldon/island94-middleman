@@ -7,8 +7,8 @@ tags:
 - poetry
 wp:post_type: post
 redirects:
-- "/2010/09/mystics-poets-and-best-practices/"
-- "/?p=2215"
+- 2010/09/mystics-poets-and-best-practices/
+- "?p=2215"
 ---
 
 At the [Transmission Project](http://transmissionproject.org/) we're steadily working towards fleshing out our critique of _best practice_ and the proposal of an alternative: _ [honest practice](http://transmissionproject.org/current/2010/9/revisiting-honest-practice)_.

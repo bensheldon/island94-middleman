@@ -4,8 +4,8 @@ date: '2009-06-23'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/06/judging-reality-and-experience/"
-- "/?p=617"
+- 2009/06/judging-reality-and-experience/
+- "?p=617"
 ---
 
 The Susan Sotamayor confirmation is bringing with it some interesting commentary. While most of the pablum surrounding Sotamayor's scutinized comments---that her Puerto Rican heritage prepares her for this position---are about racism (or reverse racicsm, whatever that is), there have been some comments on the nature of reality and the human experience. In our plural society, there is kerfuffle over two competing ideals (as I see it):

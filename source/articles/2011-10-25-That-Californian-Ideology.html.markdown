@@ -9,8 +9,8 @@ tags:
 - techno-utopianism
 wp:post_type: post
 redirects:
-- "/2011/10/that-californian-ideology/"
-- "/?p=2928"
+- 2011/10/that-californian-ideology/
+- "?p=2928"
 ---
 
 From ["The Californian Ideology"](http://www.alamut.com/subj/ideologies/pessimism/califIdeo_I.html) by Richard Barbrook and Andy Cameron who ask the question "who would have suspected that as technology and freedom were worshipped more and more, it would become less and less possible to say anything sensible about the society in which they were applied?":

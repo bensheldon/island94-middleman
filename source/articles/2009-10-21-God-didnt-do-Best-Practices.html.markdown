@@ -10,8 +10,8 @@ tags:
 - religion
 wp:post_type: post
 redirects:
-- "/2009/10/god-didnt-do-best-practices/"
-- "/?p=845"
+- 2009/10/god-didnt-do-best-practices/
+- "?p=845"
 ---
 
 The best Sunday sermon I have ever heard (out of 2, the other having been when I was 8 and the pastor was my aunt; but that's beside the point) went generally as follows:

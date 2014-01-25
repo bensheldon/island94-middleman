@@ -8,8 +8,8 @@ tags:
 - pedagogy
 wp:post_type: post
 redirects:
-- "/2010/11/learning-styles-and-chemistry/"
-- "/?p=2279"
+- 2010/11/learning-styles-and-chemistry/
+- "?p=2279"
 ---
 
 ![](2010-11-01-Learning-styles-and-chemistry/Alexander-Periodic-1.png "Alexander Periodic 1")

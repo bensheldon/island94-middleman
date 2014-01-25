@@ -9,8 +9,8 @@ tags:
 - technology
 wp:post_type: post
 redirects:
-- "/2009/07/media-and-radical-technology/"
-- "/?p=635"
+- 2009/07/media-and-radical-technology/
+- "?p=635"
 ---
 
 ![Radical Technology](2009-07-14-Media-and-Radical-Technology/media-radical-technology-500x241.png "Radical Technology")

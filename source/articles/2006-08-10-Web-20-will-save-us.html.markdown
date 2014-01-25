@@ -14,10 +14,10 @@ tags:
 - web design
 wp:post_type: post
 redirects:
-- "/node/84"
-- "/articles/web-2-0-will-save-us"
-- "/2006/08/web-2-0-will-save-us/"
-- "/?p=84"
+- node/84
+- articles/web-2-0-will-save-us
+- 2006/08/web-2-0-will-save-us/
+- "?p=84"
 ---
 
   [ ![Web 2.0 will save us](http://static.flickr.com/59/212159782_9adee5b425.jpg) ](http://www.flickr.com/photos/bensheldon/212159782/ "Photo Sharing")

@@ -4,8 +4,8 @@ date: '2009-11-13'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/11/poverty-mythology/"
-- "/?p=1019"
+- 2009/11/poverty-mythology/
+- "?p=1019"
 ---
 
 Two beautifully worded comments from [Gift Hub on Wage Theft](http://www.gifthub.org/2009/11/take-action-against-wage-theft.html#comments): the first because of its vulgar revelry; the second for its straightforwardness:

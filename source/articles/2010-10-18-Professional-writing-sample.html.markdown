@@ -9,8 +9,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2010/10/professional-writing-sample/"
-- "/?p=2252"
+- 2010/10/professional-writing-sample/
+- "?p=2252"
 ---
 
 I quote a lot on this blog from other places, so I wanted to post something I've written. I'm Program Director of the [Transmission Project'](http://transmissionproject.org)s [Digital Arts Service Corps](http://digitalartscorps.org): we recruit and place yearlong, full-time, stipended volunteers in support of capacity-building projects at nonprofit organizations that use media and technology to strengthen communities. We've placed more than 400 Corps members at 170 organizations in 30 states. _We're kind've awesome._

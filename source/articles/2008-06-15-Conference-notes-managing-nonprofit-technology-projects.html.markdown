@@ -6,11 +6,11 @@ tags:
 - technology
 wp:post_type: post
 redirects:
-- "/2008/06/conference-notes:-managing-nonprofit-technology-projects-/"
-- "/node/223"
-- "/observation/conference-notes-managing-nonprofit-technology-projects"
-- "/2008/06/conference-notes-managing-nonprofit-technology-projects/"
-- "/?p=223"
+- 2008/06/conference-notes:-managing-nonprofit-technology-projects-/
+- node/223
+- observation/conference-notes-managing-nonprofit-technology-projects
+- 2008/06/conference-notes-managing-nonprofit-technology-projects/
+- "?p=223"
 ---
 
 Notes from Rebecca below on managing nonprofit technology projects

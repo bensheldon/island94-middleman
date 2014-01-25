@@ -7,8 +7,8 @@ tags:
 - self
 wp:post_type: post
 redirects:
-- "/2010/04/quotes-on-self/"
-- "/?p=1872"
+- 2010/04/quotes-on-self/
+- "?p=1872"
 ---
 
 _Tales of the Hasidim _by Martin Buber:

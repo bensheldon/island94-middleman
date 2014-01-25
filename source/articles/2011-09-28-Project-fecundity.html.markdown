@@ -9,8 +9,8 @@ tags:
 - webdesign
 wp:post_type: post
 redirects:
-- "/2011/09/project-fecundity/"
-- "/?p=2912"
+- 2011/09/project-fecundity/
+- "?p=2912"
 ---
 
 [ ![](2011-09-28-Project-fecundity/Project-Influences.png "Project Influences") ](2011-09-28-Project-fecundity/Project-Influences.pdf)

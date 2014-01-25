@@ -4,8 +4,8 @@ date: '2013-05-28'
 tags: []
 wp:post_type: post
 redirects:
-- "/2013/05/automatic-analysis/"
-- "/?p=3085"
+- 2013/05/automatic-analysis/
+- "?p=3085"
 ---
 
 [Karl Fogel](http://en.wikipedia.org/wiki/Karl_Fogel) on [ The Open Source Report Card](http://osrc.dfm.io/):

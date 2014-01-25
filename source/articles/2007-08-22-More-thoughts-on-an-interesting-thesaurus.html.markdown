@@ -9,11 +9,11 @@ tags:
 - thesaurus
 wp:post_type: post
 redirects:
-- "/node/139"
-- "/articles/more-thoughts-interesting-thesaurus"
-- "/articles/some-more-thoughts-interesting-thesaurus"
-- "/2007/08/more-thoughts-on-an-interesting-thesaurus/"
-- "/?p=139"
+- node/139
+- articles/more-thoughts-interesting-thesaurus
+- articles/some-more-thoughts-interesting-thesaurus
+- 2007/08/more-thoughts-on-an-interesting-thesaurus/
+- "?p=139"
 ---
 
 My associate, [Rebecca](http://circuitous.org), and I have been starting to think critically about [Panlexicon.com](http://panlexicon.com), the unique, tag-cloud based thesaurus I've written about [previously](http://island94.org/node/128"). We're hoping to put some more time and effort into the project and in the process, learn some more about what's happening with the language and the underlying structure of the thesaurus taxonomy.

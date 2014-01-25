@@ -9,8 +9,8 @@ tags:
 - poverty
 wp:post_type: post
 redirects:
-- "/2009/12/academia-on-the-experience-of-poverty/"
-- "/?p=1616"
+- 2009/12/academia-on-the-experience-of-poverty/
+- "?p=1616"
 ---
 
 ![](2009-12-23-Academia-on-the-experience-of-poverty/Livelihood-Framework-500x270.png "Livelihood Framework")

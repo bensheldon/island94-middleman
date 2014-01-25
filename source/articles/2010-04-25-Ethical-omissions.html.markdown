@@ -8,8 +8,8 @@ tags:
 - pedagogy
 wp:post_type: post
 redirects:
-- "/2010/04/ethical-omissions/"
-- "/?p=1907"
+- 2010/04/ethical-omissions/
+- "?p=1907"
 ---
 
 Again from Marianne M. Jennings' _ [The Seven Signs of Ethical Collapse: How to Spot Moral Meltdowns in Companies... Before It's Too Late](http://www.amazon.com/Seven-Signs-Ethical-Collapse-Companies/dp/0312354304)_:

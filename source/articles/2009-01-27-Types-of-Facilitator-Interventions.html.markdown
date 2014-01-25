@@ -9,8 +9,8 @@ tags:
 - process
 wp:post_type: post
 redirects:
-- "/2009/01/types-of-facilitator-interventions/"
-- "/?p=369"
+- 2009/01/types-of-facilitator-interventions/
+- "?p=369"
 ---
 
 Flipping through _ [The Facilitator's Fieldbook (Second Edition)](http://www.amazon.com/Facilitators-Fieldbook-2nd-Tom-Justice/dp/0814473148/ref=sr_1_1?ie=UTF8&s=books&qid=1233072760&sr=1-1)_ I really liked their listing/categorization of the different Types of Process Consultation.  It's a straighforward breaking apart of the different methods one might use to facilitate an interaction (_normal-speak translation_: talk to people)

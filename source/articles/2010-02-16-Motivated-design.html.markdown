@@ -7,8 +7,8 @@ tags:
 - philosophy
 wp:post_type: post
 redirects:
-- "/2010/02/motivated-design/"
-- "/?p=1762"
+- 2010/02/motivated-design/
+- "?p=1762"
 ---
 
 From David Barringer's "Myths of the Self-Taught Designer" in his book of essays and more, _There's Nothing Funny about Design _(and available online in parts  [1](http://www.aiga.org/content.cfm/myths-of-the-self-taught-designer-the-first-conversation-between), [2](http://www.aiga.org/content.cfm/myths-of-the-self-taught-designer-the-second-conversation-betwee) and [3](http://www.aiga.org/content.cfm/myths-of-the-self-taught-designer-the-third-conversation-between)).

@@ -14,8 +14,8 @@ tags:
 - politics
 wp:post_type: post
 redirects:
-- "/2009/07/moving-day/"
-- "/?p=631"
+- 2009/07/moving-day/
+- "?p=631"
 ---
 
 ![norman rockwell - moving day](2009-07-12-Moving-Day/norman-rockwell-moving-day-500x311.png "norman rockwell - moving day")

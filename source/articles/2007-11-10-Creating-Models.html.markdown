@@ -9,10 +9,10 @@ tags:
 - philosophy
 wp:post_type: post
 redirects:
-- "/node/172"
-- "/creating-models"
-- "/2007/11/creating-models/"
-- "/?p=172"
+- node/172
+- creating-models
+- 2007/11/creating-models/
+- "?p=172"
 ---
 
 I'm taking Mathematical Models in Biology and we had an interesting problem in our last class. We were broken up into groups and asked to create a model around malaria infection. We received some information on mosquito behavior and lifecycles, infection rates and patterns, and effects. That was it.

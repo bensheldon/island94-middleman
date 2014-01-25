@@ -4,8 +4,8 @@ date: '2009-10-29'
 tags: []
 wp:post_type: post
 redirects:
-- "/2009/10/quotidian-insights/"
-- "/?p=905"
+- 2009/10/quotidian-insights/
+- "?p=905"
 ---
 
 [ ![china-hw](2009-10-29-Quotidian-insights/china-hw.jpg "china-hw") ](2009-10-29-Quotidian-insights/china-hw.jpg)

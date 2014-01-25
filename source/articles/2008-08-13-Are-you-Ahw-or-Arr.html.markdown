@@ -6,12 +6,12 @@ tags:
 - language
 wp:post_type: post
 redirects:
-- "/2008/08/are-you-ahw-or-arr"
-- "/node/241"
-- "/observation/ahw-or-arr"
-- "/observation/are-you-ahw-or-arr"
-- "/2008/08/are-you-ahw-or-arr/"
-- "/?p=241"
+- 2008/08/are-you-ahw-or-arr
+- node/241
+- observation/ahw-or-arr
+- observation/are-you-ahw-or-arr
+- 2008/08/are-you-ahw-or-arr/
+- "?p=241"
 ---
 
 Via some [fun copy](http://gadgets.boingboing.net/2008/08/12/toastabags-grill-che.html) on BoingBoing Gadgets ("These "Toastabags" (phonemologically Bostonian, apparently...") and someone's [analytical comment](http://gadgets.boingboing.net/2008/08/12/toastabags-grill-che.html#comment-258382)

@@ -9,10 +9,10 @@ tags:
 - photos
 wp:post_type: post
 redirects:
-- "/node/80"
-- "/articles/piecing-together-cambrige"
-- "/2006/07/piecing-together-cambrige/"
-- "/?p=80"
+- node/80
+- articles/piecing-together-cambrige
+- 2006/07/piecing-together-cambrige/
+- "?p=80"
 ---
 
 Last night was all barbeque and mapping in Somerville; Adam Holt was host. I met Adam through my Google Map hacking and work with community mapping; I just started joining his monthly meeting of maperati for more remote sensing talk than you can shake a RC30 at.

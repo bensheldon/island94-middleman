@@ -11,8 +11,8 @@ tags:
 - participation
 wp:post_type: post
 redirects:
-- "/2010/11/a-difference-of-a-map/"
-- "/?p=2288"
+- 2010/11/a-difference-of-a-map/
+- "?p=2288"
 ---
 
 From ["Assessment Overview of One Laptop per Child Projects"](http://www.olpcnews.com/implementation/evaluations/offical_review_of_olpc_monitor.html), an evaluation of One Laptop Per Child deployments: "Figure 1 : The current global distribution of XO laptops across the world."

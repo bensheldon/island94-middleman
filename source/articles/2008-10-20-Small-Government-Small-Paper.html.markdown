@@ -9,11 +9,11 @@ tags:
 - story
 wp:post_type: post
 redirects:
-- "/2008/10/small-government-/-small-paper/"
-- "/node/263"
-- "/observation/small-government-small-paper"
-- "/2008/10/small-government-small-paper/"
-- "/?p=263"
+- 2008/10/small-government-/-small-paper/
+- node/263
+- observation/small-government-small-paper
+- 2008/10/small-government-small-paper/
+- "?p=263"
 ---
 
 The story of the _slightly smaller_ Government-Letter sized paper (from [Wikipedia](http://en.wikipedia.org/wiki/Paper_size#North_American_paper_sizes)):

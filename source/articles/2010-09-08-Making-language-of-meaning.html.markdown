@@ -10,8 +10,8 @@ tags:
 - writing
 wp:post_type: post
 redirects:
-- "/2010/09/making-language-of-meaning/"
-- "/?p=2190"
+- 2010/09/making-language-of-meaning/
+- "?p=2190"
 ---
 
 From [Peter Elbow](http://works.bepress.com/peter_elbow/)'s _Writing Without Teachers---_whose quoting by me here is the result of coming across [another example](http://www.coalitionblog.org/2010/09/the-case-for-open-source-design/) (via [GiftHub](http://www.gifthub.org/2010/09/coalition-of-the-willing-open-source-philanthropy-in-support-of-the-swarm.html)) of the (false) [metaphor of the tube](http://www.island94.org/2009/02/the-false-metaphor-of-the-tube-for-communication/).

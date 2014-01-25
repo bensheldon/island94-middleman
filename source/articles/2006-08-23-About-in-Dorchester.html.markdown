@@ -8,10 +8,10 @@ tags:
 - walk
 wp:post_type: post
 redirects:
-- "/node/90"
-- "/articles/about-dorchester"
-- "/2006/08/about-in-dorchester/"
-- "/?p=90"
+- node/90
+- articles/about-dorchester
+- 2006/08/about-in-dorchester/
+- "?p=90"
 ---
 
 Last weekend I took part in a fantastic community exploration walk of Dorchester organized by Boston Cares. About 15 other people and myself met at the Codman Square Health Center with it's Executive Director Bill Walczak, our guide, and Tiffany, a Boston Cares' volunteer and the coordinator of the walk; the walks themselves were Tiffany's original idea, too.

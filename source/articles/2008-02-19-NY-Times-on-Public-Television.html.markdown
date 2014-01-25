@@ -6,10 +6,10 @@ tags:
 - tv
 wp:post_type: post
 redirects:
-- "/node/201"
-- "/ny-times-public-television"
-- "/2008/02/ny-times-on-public-television/"
-- "/?p=201"
+- node/201
+- ny-times-public-television
+- 2008/02/ny-times-on-public-television/
+- "?p=201"
 ---
 
 > The average PBS show on prime time now scores about a 1.4 Nielsen rating, or roughly what the wrestling show “Friday Night Smackdown” gets.

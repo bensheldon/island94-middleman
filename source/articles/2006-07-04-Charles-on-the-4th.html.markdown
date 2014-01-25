@@ -9,10 +9,10 @@ tags:
 - photos
 wp:post_type: post
 redirects:
-- "/node/64"
-- "/articles/charles-4th"
-- "/2006/07/charles-on-the-4th/"
-- "/?p=64"
+- node/64
+- articles/charles-4th
+- 2006/07/charles-on-the-4th/
+- "?p=64"
 ---
 
 [ ![Charles on the 4th](http://static.flickr.com/71/182149771_edff213ce6.jpg) ](http://www.flickr.com/photos/bensheldon/182149771/ "Photo Sharing")

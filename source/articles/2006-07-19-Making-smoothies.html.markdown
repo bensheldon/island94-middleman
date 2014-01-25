@@ -13,10 +13,10 @@ tags:
 - weather
 wp:post_type: post
 redirects:
-- "/node/75"
-- "/articles/making-smoothies"
-- "/2006/07/making-smoothies/"
-- "/?p=75"
+- node/75
+- articles/making-smoothies
+- 2006/07/making-smoothies/
+- "?p=75"
 ---
 
 _Another [smoothie post](/taxonomy/term/126)..._

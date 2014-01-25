@@ -8,11 +8,11 @@ tags:
 - technology
 wp:post_type: post
 redirects:
-- "/2008/07/facebook-to-phone-trees:-nonprofit-technology-for-everyone/"
-- "/node/229"
-- "/articles/facebook-phone-trees-nonprofit-technology-everyone"
-- "/2008/07/facebook-to-phone-trees-nonprofit-technology-for-everyone/"
-- "/?p=229"
+- 2008/07/facebook-to-phone-trees:-nonprofit-technology-for-everyone/
+- node/229
+- articles/facebook-phone-trees-nonprofit-technology-everyone
+- 2008/07/facebook-to-phone-trees-nonprofit-technology-for-everyone/
+- "?p=229"
 ---
 
 I was really excited about this year's [Grassroot's Use of Technology Conference](http://www.organizerscollaborative.org/08submit) because I had submitted and had accepted a great proposal entitled "Facebook to Phone Trees: Multi-Generational Outreach Strategies" that was to be co-presented with Angela Kelly of [Mass Peace Action](http://www.masspeaceaction.org) and Daniel Karp of [International Physicians for the Prevention of Nuclear War](http://www.ippnw.org/) (IPPNW). Unfortunately I was forced to call-off the session because I've been worked to the bone at my [daytime job](http://ctcvista.org "CTC VISTA Project") and ended up running out of preparation time.

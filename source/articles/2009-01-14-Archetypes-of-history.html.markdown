@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=334"
+- "?p=334"
 ---
 
 Great man theory, etc.

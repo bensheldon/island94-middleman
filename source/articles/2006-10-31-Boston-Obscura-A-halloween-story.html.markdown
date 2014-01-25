@@ -9,11 +9,11 @@ tags:
 - spooky
 wp:post_type: post
 redirects:
-- "/2006/10/boston-obscura:-a-halloween-story/"
-- "/node/107"
-- "/articles/boston-obscura-halloween-story"
-- "/2006/10/boston-obscura-a-halloween-story/"
-- "/?p=107"
+- 2006/10/boston-obscura:-a-halloween-story/
+- node/107
+- articles/boston-obscura-halloween-story
+- 2006/10/boston-obscura-a-halloween-story/
+- "?p=107"
 ---
 
 One evening, not far earlier than today, I was sitting upon Boston Common enjoying the last sloping rays of the day. As was my habit, I blissfully blocked out the city around me to better enjoy the feeble warmth of a setting sun.

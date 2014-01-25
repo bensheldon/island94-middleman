@@ -9,8 +9,8 @@ tags:
 - religion
 wp:post_type: post
 redirects:
-- "/2009/08/religion-and-individualism/"
-- "/?p=671"
+- 2009/08/religion-and-individualism/
+- "?p=671"
 ---
 
 Douglas Rushkoff thoroughly [investigates](http://www.island94.org/2009/08/from-self-actualization-to-neo-liberalism/) the self-indulgent role of individualism and choice as it is used to justify consumption and corporate control. Karen Armstrong in A History of God, explores the emergence of this through the eyes of religion. The following is about Sir Mohammed Iqbl (1877-1938) "who became for the Muslims of India what Ghandhi was for the Hindus" (emphasis mine):

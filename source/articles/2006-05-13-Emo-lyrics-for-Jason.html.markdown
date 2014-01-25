@@ -8,10 +8,10 @@ tags:
 - music
 wp:post_type: post
 redirects:
-- "/node/46"
-- "/articles/emo-lyrics-jason"
-- "/2006/05/emo-lyrics-for-jason/"
-- "/?p=46"
+- node/46
+- articles/emo-lyrics-jason
+- 2006/05/emo-lyrics-for-jason/
+- "?p=46"
 ---
 
 I told my long-time friend Jason about my blog--honestly, no one reads this thing, probably for good reason--and he says, "Is it emo? I won't do anything unless it's emo." Yes, he's a precocious brat, but this is for you Jason.

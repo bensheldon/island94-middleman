@@ -7,11 +7,11 @@ tags:
 - jobs
 wp:post_type: post
 redirects:
-- "/2008/07/job-qualification:-not-a-jerk/"
-- "/node/234"
-- "/observation/job-qualification-not-jerk"
-- "/2008/07/job-qualification-not-a-jerk/"
-- "/?p=234"
+- 2008/07/job-qualification:-not-a-jerk/
+- node/234
+- observation/job-qualification-not-jerk
+- 2008/07/job-qualification-not-a-jerk/
+- "?p=234"
 ---
 
 [Home Alone movie](http://www.womeningreen.org/?home_alone)

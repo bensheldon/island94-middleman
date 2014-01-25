@@ -5,7 +5,7 @@ tags: []
 published: false
 wp:post_type: post
 redirects:
-- "/?p=2221"
+- "?p=2221"
 ---
 
 I posted this to the Digital Inclusion Network listserv. It's a synthesis of the spectrum of approaches I've seen (and contributed to ---you can probably figure out which end of the spectrum I'm on) in the BTOP, and now post-BTOP, media field.

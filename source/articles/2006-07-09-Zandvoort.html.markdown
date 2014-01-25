@@ -8,10 +8,10 @@ tags:
 - Travels with Lisa
 wp:post_type: post
 redirects:
-- "/node/65"
-- "/articles/zandvoort"
-- "/2006/07/zandvoort/"
-- "/?p=65"
+- node/65
+- articles/zandvoort
+- 2006/07/zandvoort/
+- "?p=65"
 ---
 
 The wind blew off the North Sea with a chill and the beach stones were flat, dark and round.

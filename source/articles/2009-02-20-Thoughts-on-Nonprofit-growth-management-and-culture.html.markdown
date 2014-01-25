@@ -9,8 +9,8 @@ tags:
 - values
 wp:post_type: post
 redirects:
-- "/2009/02/thoughts-on-nonprofit-growth-management-and-culture/"
-- "/?p=502"
+- 2009/02/thoughts-on-nonprofit-growth-management-and-culture/
+- "?p=502"
 ---
 
 On the ride home last night from my Institute for Nonprofit Management and Leadership Class, I was talking to my classmate about the difficulties of creating a comfortable workplace environment.  Both of us had worked with organizations who's good works externally did not match internal working conditions.

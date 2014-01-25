@@ -11,8 +11,8 @@ tags:
 - self
 wp:post_type: post
 redirects:
-- "/2009/02/self-language-and-consciousness/"
-- "/?p=446"
+- 2009/02/self-language-and-consciousness/
+- "?p=446"
 ---
 
 [The Tree of Knowledge](http://www.amazon.com/Tree-Knowledge-Humberto-R-Maturana/dp/0877736421?tag=particculturf-20) is a goldmine of concepts and ideas.  The most interesting parts are at the end---in discussions of society, communications and language.

@@ -9,8 +9,8 @@ tags:
 - success
 wp:post_type: post
 redirects:
-- "/2009/03/3-fortunes/"
-- "/?p=562"
+- 2009/03/3-fortunes/
+- "?p=562"
 ---
 
 Three fortunes I received following pho:

@@ -7,8 +7,8 @@ tags:
 - shelving
 wp:post_type: post
 redirects:
-- "/2011/03/how-to-decorate-your-office-without-really-trying/"
-- "/?p=2512"
+- 2011/03/how-to-decorate-your-office-without-really-trying/
+- "?p=2512"
 ---
 
 ![](2011-03-02-How-to-decorate-your-office-without-really-trying/succeed-at-business-1-600x255.png "succeed at business 1")

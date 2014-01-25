@@ -8,8 +8,8 @@ tags:
 - sensationalism
 wp:post_type: post
 redirects:
-- "/2011/03/towards-advocacy-based-media/"
-- "/?p=2534"
+- 2011/03/towards-advocacy-based-media/
+- "?p=2534"
 ---
 
 Writing about _Survival News_ [yesterday](http://www.island94.org/2011/03/advocacy-in-print-survival-news-for-2011/), it behooves me to quote from Francine Adkins-Alexander's ["Progressive media’s wrong turn: Adversaries vs. Advocates"](http://mediacomment.wordpress.com/2011/01/04/progressive-medias-wrong-turn-adversaries-vs-advocates/):

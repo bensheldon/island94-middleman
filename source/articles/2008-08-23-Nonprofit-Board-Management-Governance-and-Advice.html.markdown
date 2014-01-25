@@ -8,10 +8,10 @@ tags:
 - notes
 wp:post_type: post
 redirects:
-- "/articles/nonprofit-board-management-governance-and-advice"
-- "/node/243"
-- "/2008/08/nonprofit-board-management-governance-and-advice/"
-- "/?p=243"
+- articles/nonprofit-board-management-governance-and-advice
+- node/243
+- 2008/08/nonprofit-board-management-governance-and-advice/
+- "?p=243"
 ---
 
 Last weekend I was in NYC for the Craigslist Foundation's [Nonprofit Bootcamp](http://craigslistfoundation.org/index.php?page=ny2008). As a one-day conference, I've really enjoyed it as having a wide variety of informative sessions. This is my second time going and for 2 out of 3 of the sessions, I attended the Board Governance track. The following are my combined notes from 2 sessions: Board Governance 101 by Michael Davidson (Governance Matters), and Managing a Board by John Brothers (Cuidui Consulting) and David LaGreca (Volunteer Consulting Group).

@@ -5,11 +5,11 @@ tags:
 - politics
 wp:post_type: post
 redirects:
-- "/node/206"
-- "/writing-congresscritter"
-- "/writing-my-congress-critter"
-- "/2008/03/writing-my-congress-critter/"
-- "/?p=206"
+- node/206
+- writing-congresscritter
+- writing-my-congress-critter
+- 2008/03/writing-my-congress-critter/
+- "?p=206"
 ---
 
 I got one of those "write your congress-critter right now!" emails and tried to do so. But apparently Free Press's anti-telecom immunity form didn't like me: _We're sorry, but based on your address, you are not eligible to take this alert. This may be because the alert is restricted to particular states or to constituents of particular representatives._ [The Haunting Hour: Don't Think About It movie](http://www.iucn-tftsg.org/?the_haunting_hour_don_t_think_about_it) Guess I'll try emailing him direct.

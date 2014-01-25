@@ -8,8 +8,8 @@ tags:
 - politics
 wp:post_type: post
 redirects:
-- "/2010/05/jfk-accuses-media-of-sensationalism-triviality/"
-- "/?p=1916"
+- 2010/05/jfk-accuses-media-of-sensationalism-triviality/
+- "?p=1916"
 ---
 
 This is the 50th anniversary of John F. Kennedy's primary run in West Virginia, where a large focus of his time was spent responding to fears over his Catholicism. This is from remarks titled " [The Religion Issue in American Politics](http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/Speeches/JFK/JFK+Pre-Pres/1960/002PREPRES12SPEECHES_60APR21.htm)" that JFK made at the American Society of Newspaper Editors, Washington, DC, April 21, 1960:
