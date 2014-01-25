@@ -13,7 +13,7 @@ wp:post_type: post
 files:
 - http://island94.org/files/Bens-Interview-on-WUML_%2020060922.mp3
 failed_files:
-- http://island94.org/files/Bens-Interview-on-WUML_ 20060922.mp3
+- http://island94.org/files/Bens-Interview-on-WUML_%2020060922.mp3
 ---
 
 <div style="text-align:center"><a title="Photo Sharing" href="http://www.flickr.com/photos/bensheldon/250219802/"><img src="http://static.flickr.com/79/250219802_b405862f2c.jpg" alt="Me at WUML, Lowell" width="500" height="375" /></a>

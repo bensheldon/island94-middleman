@@ -14,7 +14,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map.jpeg
 - http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map-500x667.jpg
 failed_files:
-- http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map-500x667.jpg
+- http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map.jpeg"><img class="aligncenter size-medium wp-image-2366" title="Metro_bike-crash-map" src="http://www.island94.org/wp-content/uploads/2010/12/Metro_bike-crash-map-500x667.jpg" alt="" width="500" height="667" /></a>

@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/01/boom1.jpeg
 - http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg
 failed_files:
-- http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/boom1.jpg
 ---
 
 <p style="text-align: center;"><a class="img" href="http://www.island94.org/wp-content/uploads/2011/01/boom1.jpeg"><img class="aligncenter" title="boom1" src="http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg" alt="" width="500" height="241" /></a></p>

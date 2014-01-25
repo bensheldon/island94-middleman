@@ -27,7 +27,7 @@ Inkscape is a vector drawing program, which means that you are creating basic sh
 
 Another plus of Inkscape is that there are lots of great Public Domain/Creative Common graphics on the internet in Inkscape's native format: SVG.  This is doubly cool because once you get your mind around the idea that these graphics can be scaled and still look great, it's no trouble at all to make ants eating houses or whatever scale destructing things strike your fancy.  All with no blocks or jagged edges in sight.
 
-I included an image I've recently done below.  The graphic of the videocassette is public domain that I got from openclipart.com. 
+I included an image I've recently done below.  The graphic of the videocassette is public domain that I got from openclipart.com.
 
 <a href="digitalbicycle-guy.png"><img alt="digitalbicycle-guy.png" class="centered" src="http://island94.org/files/digitalbicycle-guy-thumb.png" width="200" height="282" border="0" /></a>
 

@@ -11,7 +11,7 @@ wp:post_type: post
 files:
 - http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg
 failed_files:
-- http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities.jpg
 ---
 
 <img src="http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg" alt="" title="staff-development-activities" class="aligncenter size-medium wp-image-2405" />

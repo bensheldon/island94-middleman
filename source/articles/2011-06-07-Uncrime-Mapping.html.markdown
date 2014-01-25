@@ -14,7 +14,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/06/Trulia-Crime-Map-600x391.png
 - http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large-600x401.jpg
 failed_files:
-- http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large-600x401.jpg
+- http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpeg">

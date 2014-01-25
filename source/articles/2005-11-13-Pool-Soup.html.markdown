@@ -14,8 +14,7 @@ files:
 - http://island94.org/files/poolsoup.mp4
 - http://island94.org/files/poolsoupthumb.png
 failed_files:
-- "http://island94.org/files/poolsoupthumb.png!:http://island94.org/files/poolsoup.mp4\n\n*Length:*
-  41 seconds\n*Music:* "
+- http://island94.org/files/poolsoupthumb.png
 ---
 
 <p><a href="http://island94.org/files/poolsoup.mp4"><img src="http://island94.org/files/poolsoupthumb.png" class="centered" alt="" /></a></p>

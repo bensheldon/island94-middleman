@@ -12,9 +12,6 @@ wp:post_type: post
 files:
 - http://island94.org/files/island94.org/How%20to%20write%20a%20resume%20cover%20letter.pdf
 - http://island94.org/files/island94.org/How%20to%20write%20a%20resume%20cover%20letter.png
-failed_files:
-- http://island94.org/files/island94.org/How to write a resume cover letter.pdf
-- http://island94.org/files/island94.org/How to write a resume cover letter.png
 ---
 
 <p><a href="http://island94.org/files/island94.org/How to write a resume cover letter.pdf"><img src="http://island94.org/files/island94.org/How to write a resume cover letter.png" alt="Example cover letter with explanation" /><br />Download this as a PDF</a></p>

@@ -11,8 +11,6 @@ link: http://island94.dev/2008/08/nonprofit-board-management-governance-and-advi
 wp:post_type: post
 files:
 - http://island94.org/files/island94.org/role%20of%20the%20board.png
-failed_files:
-- http://island94.org/files/island94.org/role of the board.png
 ---
 
 Last weekend I was in NYC for the Craigslist Foundation's <a href="http://craigslistfoundation.org/index.php?page=ny2008">Nonprofit Bootcamp</a>. As a one-day conference, I've really enjoyed it as having a wide variety of informative sessions. This is my second time going and for 2 out of 3 of the sessions, I attended the Board Governance track. The following are my combined notes from 2 sessions: Board Governance 101 by Michael Davidson (Governance Matters), and Managing a Board by John Brothers (Cuidui Consulting) and David LaGreca (Volunteer Consulting Group).
