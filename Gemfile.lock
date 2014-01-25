@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/bensheldon/middleman_writer.git
+  revision: e9e735b1973b7e621c40e2b9f1d62c5501bf8ac7
+  specs:
+    middleman_writer (0.0.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -162,4 +168,5 @@ DEPENDENCIES
   middleman-livereload (~> 3.1.0)
   middleman-pry
   middleman-s3_sync
+  middleman_writer!
   rake
