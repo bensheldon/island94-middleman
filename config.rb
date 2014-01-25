@@ -129,3 +129,21 @@ activate :s3_sync do |s3_sync|
   s3_sync.acl                        = 'public-read'
   s3_sync.encryption                 = false
 end
+
+ready do
+  # global redirects
+  data.global_redirects.each do |target, sources|
+    # puts "#{target} -> #{sources}"
+    Array(sources).each do |source|
+      redirect source, to: target
+    end
+  end
+
+  # blog redirects
+  sitemap.resources.select{|p| p.is_a? Middleman::Blog::BlogArticle}.each do |article|
+    article.data.fetch('redirects', []).each do |source|
+      # puts "#{source} -> #{article.request_path}"
+      redirect source, to: article.request_path
+    end
+  end
+end
