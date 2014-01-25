@@ -7,6 +7,9 @@ tags:
 wp:post_id: '173'
 wp_link: "/2007/11/cold-reading/"
 wp:post_type: post
+redirects:
+- "/node/173"
+- "/cold-reading"
 ---
 
 >

@@ -9,6 +9,9 @@ tags:
 wp:post_id: '79'
 wp_link: "/2006/07/vote-ben/"
 wp:post_type: post
+redirects:
+- "/node/79"
+- "/articles/vote-ben"
 ---
 
 [ ![Vote Ben](http://static.flickr.com/73/194901832_da125ed6ca_m.jpg) ](http://www.flickr.com/photos/bensheldon/194901832/ "Photo Sharing")

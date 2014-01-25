@@ -10,6 +10,8 @@ wp_link: "/2008/07/vegan-baking-tips-egg-replacement-and-oil/"
 wp:post_type: post
 redirects:
 - "/2008/07/vegan-baking-tips:-egg-replacement-and-oil/"
+- "/node/231"
+- "/observation/vegan-baking-tips-egg-replacement-and-oil"
 ---
 
 During an AmeriCorps icebreaker, I matched my desire to learn vegan baking with someone who knew how. Who say's icebreakers are worthless (well, I sometimes do). I got the following two tips:

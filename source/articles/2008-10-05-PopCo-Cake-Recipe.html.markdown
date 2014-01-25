@@ -8,6 +8,9 @@ tags:
 wp:post_id: '257'
 wp_link: "/2008/10/popco-cake-recipe/"
 wp:post_type: post
+redirects:
+- "/node/257"
+- "/observation/popco-cake-recipe"
 ---
 
 featured in "PopCo" by Alice Butler (via Angelina):

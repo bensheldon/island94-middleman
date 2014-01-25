@@ -7,6 +7,9 @@ tags:
 wp:post_id: '239'
 wp_link: "/2008/08/what-to-ask-before-building-a-website/"
 wp:post_type: post
+redirects:
+- "/node/239"
+- "/observation/what-ask-building-website"
 ---
 
 I'm always curious to see what people spec out for consulting (since I have my own template as well). Found this great listing (pasted below) from [SitePoint](http://www.sitepoint.com/article/site-planner)

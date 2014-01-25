@@ -9,6 +9,9 @@ tags:
 wp:post_id: '8'
 wp_link: "/2005/11/first-light-in-coolidge-corner/"
 wp:post_type: post
+redirects:
+- "/node/8"
+- "/articles/first-light-coolidge-corner"
 ---
 
 [ ![](http://static.flickr.com/33/64366077_66cb91b97a_m.jpg) ](http://www.flickr.com/photo_zoom.gne?id=64366077&size=l)

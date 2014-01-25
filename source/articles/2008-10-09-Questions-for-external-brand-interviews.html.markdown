@@ -8,6 +8,9 @@ tags:
 wp:post_id: '258'
 wp_link: "/2008/10/questions-for-external-brand-interviews/"
 wp:post_type: post
+redirects:
+- "/node/258"
+- "/observation/questions-external-brand-interviews"
 ---
 
 I just received a great set of questions to ask people when conducting Brand Interviews: if you're trying to lock-down who you are and how to communicate that, it helps to ask people who know you and what they think. These are those questions.

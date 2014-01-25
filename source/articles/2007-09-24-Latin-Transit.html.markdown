@@ -9,6 +9,9 @@ tags:
 wp:post_id: '156'
 wp_link: "/2007/09/latin-transit/"
 wp:post_type: post
+redirects:
+- "/node/156"
+- "/latin-transit"
 ---
 
 > _Sic transit gloria mundi_ Thus passes the glory of the world

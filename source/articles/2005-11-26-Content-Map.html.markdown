@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '15'
 wp_link: "/2005/11/content-map/"
 wp:post_type: post
+redirects:
+- "/node/15"
+- "/content-map"
 ---
 
 This is an example of my googlemap module that I extended from [this module](http://drupal.org/node/29091) by [bjornarneson](http://choirgeek.com/).

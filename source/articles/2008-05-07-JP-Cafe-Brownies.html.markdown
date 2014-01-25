@@ -7,6 +7,9 @@ tags:
 wp:post_id: '220'
 wp_link: "/2008/05/jp-cafe-brownies/"
 wp:post_type: post
+redirects:
+- "/node/220"
+- "/observation/jp-cafe-brownies"
 ---
 
 .!.

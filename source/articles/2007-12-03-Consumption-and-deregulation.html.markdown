@@ -8,6 +8,9 @@ tags:
 wp:post_id: '180'
 wp_link: "/2007/12/consumption-and-deregulation/"
 wp:post_type: post
+redirects:
+- "/node/180"
+- "/consumption-and-deregulation"
 ---
 
 >

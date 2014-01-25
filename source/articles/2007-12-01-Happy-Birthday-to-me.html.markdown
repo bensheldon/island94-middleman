@@ -7,6 +7,9 @@ tags:
 wp:post_id: '178'
 wp_link: "/2007/12/happy-birthday-to-me/"
 wp:post_type: post
+redirects:
+- "/node/178"
+- "/articles/happy-birthday-me"
 ---
 
 [Bachelor Party Vegas divx](http://www.iucn-tftsg.org/?bachelor_party_vegas) [ ![Happy Birthday](http://farm3.static.flickr.com/2109/2079204822_f46a1a9900.jpg) ](http://www.flickr.com/photos/bensheldon/2079204822/ "Happy Birthday by bensheldon, on Flickr")

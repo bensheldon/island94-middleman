@@ -10,6 +10,9 @@ tags:
 wp:post_id: '91'
 wp_link: "/2006/08/deeper-than-porter/"
 wp:post_type: post
+redirects:
+- "/node/91"
+- "/articles/deeper-porter"
 ---
 
   [ ![Long escalator](http://static.flickr.com/57/229803086_3b97fe7e4b.jpg) ](http://www.flickr.com/photos/bensheldon/229803086/ "Photo Sharing")

@@ -9,6 +9,9 @@ tags:
 wp:post_id: '27'
 wp_link: "/2006/01/ghost-train/"
 wp:post_type: post
+redirects:
+- "/node/27"
+- "/articles/ghost-train"
 ---
 
 [ ![](http://farm1.static.flickr.com/34/91590209_5c74999e39.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590209/)

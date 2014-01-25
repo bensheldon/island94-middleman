@@ -9,6 +9,9 @@ tags:
 wp:post_id: '175'
 wp_link: "/2007/11/biology-cliche/"
 wp:post_type: post
+redirects:
+- "/node/175"
+- "/biology-cliche"
 ---
 
 >

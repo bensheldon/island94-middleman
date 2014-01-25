@@ -11,6 +11,9 @@ tags:
 wp:post_id: '125'
 wp_link: "/2007/04/copyright-and-the-nineteenth-century/"
 wp:post_type: post
+redirects:
+- "/node/125"
+- "/articles/copyright-and-nineteenth-century"
 ---
 
 _I've had these notes kicking around my desktop for a few weeks and just got around to typing them up into a cohesive post._

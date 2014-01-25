@@ -7,6 +7,9 @@ tags:
 wp:post_id: '149'
 wp_link: "/2007/09/toe-straighteners/"
 wp:post_type: post
+redirects:
+- "/node/149"
+- "/toe-straighteners"
 ---
 
 > With our single, double or triple Toe Straighteners, you can align overlapping, crooked or hammertoes with gentle, constant pressure.

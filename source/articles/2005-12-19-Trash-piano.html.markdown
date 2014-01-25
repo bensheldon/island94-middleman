@@ -9,6 +9,9 @@ tags:
 wp:post_id: '26'
 wp_link: "/2005/12/trash-piano/"
 wp:post_type: post
+redirects:
+- "/node/26"
+- "/articles/trash-piano"
 ---
 
 [ ![](http://static.flickr.com/37/75385133_ca3abb0010_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/75385133/)

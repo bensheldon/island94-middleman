@@ -9,6 +9,9 @@ tags:
 wp:post_id: '219'
 wp_link: "/2008/05/binaries-and-teaching/"
 wp:post_type: post
+redirects:
+- "/node/219"
+- "/observation/binaries-and-teaching"
 ---
 
 From an Ars Technica article entitled [YouTube University gets failing grade from prof, students](http://arstechnica.com/news.ars/post/20080424-youtube-university-gets-failing-grade-from-prof-students.html). The [original analysis is here](http://www.oculture.com/2008/04/teaching_on_youtube.html)

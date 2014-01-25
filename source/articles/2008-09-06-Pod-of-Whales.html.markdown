@@ -8,6 +8,11 @@ tags:
 wp:post_id: '252'
 wp_link: "/2008/09/pod-of-whales/"
 wp:post_type: post
+redirects:
+- "/node/252"
+- "/articles/pod-whales"
+- "/node/252"
+- "/articles/whales"
 ---
 
 [ ![whales](http://farm4.static.flickr.com/3240/2834048816_7123ed8f06.jpg) ](http://flickr.com/photos/bensheldon/sets/72157607143743022/ "whales by bensheldon, on Flickr")

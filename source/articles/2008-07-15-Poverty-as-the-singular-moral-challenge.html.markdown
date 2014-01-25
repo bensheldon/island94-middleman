@@ -9,6 +9,9 @@ tags:
 wp:post_id: '235'
 wp_link: "/2008/07/poverty-as-the-singular-moral-challenge/"
 wp:post_type: post
+redirects:
+- "/node/235"
+- "/articles/poverty-singular-moral-challenge"
 ---
 
 We just had our AmeriCorps\*VISTA orientation last week---which to our delight and hard work turned out great---and one of the things I've been ruminating on since then was one of the powerful dialogue we had around poverty. AmeriCorps\*VISTA's mission is to help individuals and communities out of poverty rather than focus on making poverty more tolerable; so it should come as no surprise that we talked a lot about poverty. But the substance of the discussion made me think a lot about how I view poverty. Making it doubly interesting, of course, is that I was running the orientation and manage our VISTA program.

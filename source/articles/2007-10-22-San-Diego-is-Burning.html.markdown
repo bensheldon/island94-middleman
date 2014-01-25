@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '163'
 wp_link: "/2007/10/san-diego-is-burning/"
 wp:post_type: post
+redirects:
+- "/node/163"
+- "/san-diego-burning"
 ---
 
 I got an email from my mom this morning that the wildfires in Southern California county were strongly encroaching on my hometown of Poway and the surrounding communities. A couple of my friends started an email list and we've been sending around information about what's happening.

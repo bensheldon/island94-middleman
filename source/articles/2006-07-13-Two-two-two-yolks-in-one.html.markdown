@@ -10,6 +10,9 @@ tags:
 wp:post_id: '68'
 wp_link: "/2006/07/two-two-two-yolks-in-one/"
 wp:post_type: post
+redirects:
+- "/articles/two-two-two-yolks-one"
+- "/node/68"
 ---
 
 My roommate [Dean](http://notthemessiah.net) created this video about some peculiarities in our store bought eggs:

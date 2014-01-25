@@ -10,6 +10,9 @@ tags:
 wp:post_id: '275'
 wp_link: "/2008/12/the-nonprofit-between-scylla-and-charydbis/"
 wp:post_type: post
+redirects:
+- "/node/275"
+- "/articles/nonprofit-between-scylla-and-charydbis"
 ---
 
 [ ![the Nonprofit between Scylla & Chaydbis](http://farm4.static.flickr.com/3165/3079520555_a9db691c8d.jpg) ](http://www.flickr.com/photos/bensheldon/3079520555/ "the Nonprofit between Scylla & Chaydbis by bensheldon, on Flickr")

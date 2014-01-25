@@ -8,6 +8,9 @@ tags:
 wp:post_id: '260'
 wp_link: "/2008/10/making-recaptcha-not-suck/"
 wp:post_type: post
+redirects:
+- "/node/260"
+- "/observation/making-recaptcha-not-suck"
 ---
 
 I really like using the Drupal [CAPTCHA](http://drupal.org/project/captcha) system with [ReCAPTCHA](http://drupal.org/project/recaptcha) (the one that helps [scan in books](http://recaptcha.net/)). Both of them suck in the standard "Drupal makes everything ugly and hard to use by default, but it's still easier than building something from scratch".

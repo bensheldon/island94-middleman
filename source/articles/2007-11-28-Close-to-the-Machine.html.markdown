@@ -9,6 +9,9 @@ tags:
 wp:post_id: '176'
 wp_link: "/2007/11/close-to-the-machine/"
 wp:post_type: post
+redirects:
+- "/node/176"
+- "/close-machine"
 ---
 
 [HouseSitter movies](http://www.iucn-tftsg.org/?housesitter)

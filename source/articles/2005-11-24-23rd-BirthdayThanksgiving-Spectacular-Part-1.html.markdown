@@ -12,6 +12,9 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/23bdaytg_1.mp4
 - http://island94.org/files/23bdaytg_1_thumb.png
+redirects:
+- "/node/12"
+- "/articles/23rd-birthday-thanksgiving-spectacular-part-1"
 ---
 
 [ ![](2005-11-24-23rd-BirthdayThanksgiving-Spectacular-Part-1/23bdaytg_1_thumb.png) ](2005-11-24-23rd-BirthdayThanksgiving-Spectacular-Part-1/23bdaytg_1.mp4)

@@ -8,6 +8,9 @@ tags:
 wp:post_id: '186'
 wp_link: "/2007/12/king-corn/"
 wp:post_type: post
+redirects:
+- "/node/186"
+- "/king-corn"
 ---
 
 [I Love Trouble film](http://www.iucn-tftsg.org/?i_love_trouble)

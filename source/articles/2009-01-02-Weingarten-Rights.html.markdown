@@ -10,6 +10,9 @@ tags:
 wp:post_id: '278'
 wp_link: "/2009/01/weingarten-rights/"
 wp:post_type: post
+redirects:
+- "/observation/weingarten-rights"
+- "/node/278"
 ---
 
 I found my union card today and with it was a little [Weingarten Rights](http://en.wikipedia.org/wiki/Weingarten_Rights) card---explaining my right to have union representation during an interview by my employer. I didn't particularly like the text of it, so this is from Wikipedia:

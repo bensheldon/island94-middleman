@@ -12,6 +12,9 @@ wp_link: "/2006/08/central-park-pictures/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/centralpark.png
+redirects:
+- "/node/86"
+- "/articles/central-park-pictures"
 ---
 
   [ ![](2006-08-13-Central-Park-Pictures/centralpark.png) ](http://www.flickr.com/photos/bensheldon/sets/72157594235959054/)

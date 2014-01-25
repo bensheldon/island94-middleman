@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '4'
 wp_link: "/about/"
 wp:post_type: page
+redirects:
+- "/node/4"
 ---
 
 You can reach Ben Sheldon, the author of this blog, by emailing [ben@island94.org](mailto:ben@island94.org). This is an edit for Survival News.

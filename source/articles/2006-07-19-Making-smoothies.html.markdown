@@ -14,6 +14,9 @@ tags:
 wp:post_id: '75'
 wp_link: "/2006/07/making-smoothies/"
 wp:post_type: post
+redirects:
+- "/node/75"
+- "/articles/making-smoothies"
 ---
 
 _Another [smoothie post](/taxonomy/term/126)..._

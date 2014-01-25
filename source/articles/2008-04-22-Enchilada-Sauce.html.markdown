@@ -7,6 +7,11 @@ tags:
 wp:post_id: '217'
 wp_link: "/2008/04/enchilada-sauce/"
 wp:post_type: post
+redirects:
+- "/node/217"
+- "/observation/echilada-sauce"
+- "/node/217"
+- "/observation/enchilada-sauce"
 ---
 
 .!.

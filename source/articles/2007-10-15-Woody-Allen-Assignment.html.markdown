@@ -9,6 +9,9 @@ tags:
 wp:post_id: '159'
 wp_link: "/2007/10/woody-allen-assignment/"
 wp:post_type: post
+redirects:
+- "/node/159"
+- "/woody-allen-assignment"
 ---
 
 Today I was helping a work-study student down the hall from my office on a film studies essay. Her assignment was to analyze what critics had to say on Woody Allen, specifically whether his films were comedies or dramas.

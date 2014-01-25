@@ -8,6 +8,9 @@ tags:
 wp:post_id: '11'
 wp_link: "/2005/11/scooped!/"
 wp:post_type: post
+redirects:
+- "/node/11"
+- "/articles/scooped"
 ---
 
 In the story writing process, I find creating lead-ins to be simplest, while crafting an actual story around it to be a difficult task. This morning I came up with the following, but was disappointed to find that the AP had done me one better:

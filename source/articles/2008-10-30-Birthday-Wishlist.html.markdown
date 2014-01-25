@@ -9,6 +9,11 @@ tags:
 wp:post_id: '266'
 wp_link: "/2008/10/birthday-wishlist/"
 wp:post_type: post
+redirects:
+- "/node/266"
+- "/articles/birthday-list"
+- "/node/266"
+- "/articles/birthday-wishlist"
 ---
 
 My birthday is coming up on the 24th of November. Twenty-six. In [the](http://circuitous.org/rebecca/2006/12/12/birthday-list/) [tradition](http://laidefawei.blogspot.com/2007/12/birthday-list.html) of my friend Rebecca, below is a list of things I would like.

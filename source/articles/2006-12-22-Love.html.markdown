@@ -10,6 +10,9 @@ tags:
 wp:post_id: '113'
 wp_link: "/2006/12/love/"
 wp:post_type: post
+redirects:
+- "/node/113"
+- "/articles/love"
 ---
 
 A girl was betrothed by her father to a man whom she had never met. Her mind shone with an uncommon light and she was ever seeking out tales of love: chaste and reckless, rich and unrequited.

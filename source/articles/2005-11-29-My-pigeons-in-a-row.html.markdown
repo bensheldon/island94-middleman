@@ -9,6 +9,9 @@ tags:
 wp:post_id: '19'
 wp_link: "/2005/11/my-pigeons-in-a-row/"
 wp:post_type: post
+redirects:
+- "/articles/my-pigeons-row"
+- "/node/19"
 ---
 
   [ ![](http://static.flickr.com/20/68517232_7f502b1c29_t.jpg "") ](http://www.flickr.com/photos/atomicworkshop/68517232/)

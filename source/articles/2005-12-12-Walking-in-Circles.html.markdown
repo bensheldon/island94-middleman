@@ -9,6 +9,9 @@ tags:
 wp:post_id: '25'
 wp_link: "/2005/12/walking-in-circles/"
 wp:post_type: post
+redirects:
+- "/node/25"
+- "/articles/walking-circles"
 ---
 
 [ ![](http://static.flickr.com/20/73043769_12c3ff795b_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/73043769/)

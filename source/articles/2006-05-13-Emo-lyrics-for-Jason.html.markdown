@@ -9,6 +9,9 @@ tags:
 wp:post_id: '46'
 wp_link: "/2006/05/emo-lyrics-for-jason/"
 wp:post_type: post
+redirects:
+- "/node/46"
+- "/articles/emo-lyrics-jason"
 ---
 
 I told my long-time friend Jason about my blog--honestly, no one reads this thing, probably for good reason--and he says, "Is it emo? I won't do anything unless it's emo." Yes, he's a precocious brat, but this is for you Jason.

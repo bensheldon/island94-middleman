@@ -9,6 +9,9 @@ tags:
 wp:post_id: '245'
 wp_link: "/2008/08/how-to-write-a-grant-the-way-i-want-to-be-taught-grant-writing/"
 wp:post_type: post
+redirects:
+- "/node/245"
+- "/articles/how-write-grant-way-i-want-be-taught-grant-writing"
 ---
 
 ![Grant Apple](2008-08-24-How-to-write-a-grant-the-way-I-want-to-be-taught-grant-writing/grant-apple.png)

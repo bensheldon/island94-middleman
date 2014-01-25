@@ -9,6 +9,9 @@ tags:
 wp:post_id: '101'
 wp_link: "/2006/10/meta-photography-in-powder-house-square/"
 wp:post_type: post
+redirects:
+- "/node/101"
+- "/articles/meta-photography-powder-house-square"
 ---
 
   [ ![Large format in Powderhouse](http://static.flickr.com/121/262411446_da827d2c7c_m.jpg) ](http://www.flickr.com/photos/bensheldon/262411446/ "Photo Sharing") [ ![Large format in Powderhouse](http://static.flickr.com/79/262411424_89bd4b5504_m.jpg) ](http://www.flickr.com/photos/bensheldon/262411424/ "Photo Sharing")

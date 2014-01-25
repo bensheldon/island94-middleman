@@ -8,6 +8,9 @@ tags:
 wp:post_id: '244'
 wp_link: "/2008/08/lessons-for-nonprofitteers-from-majora-carter/"
 wp:post_type: post
+redirects:
+- "/node/244"
+- "/articles/lessons-nonprofitteers-majora-carter"
 ---
 
 This is more notes from last weekend's Craigslist Foundation's [Nonprofit Bootcamp](http://craigslistfoundation.org/index.php?page=ny2008).

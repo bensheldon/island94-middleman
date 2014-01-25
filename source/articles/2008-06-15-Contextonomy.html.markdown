@@ -6,6 +6,9 @@ tags:
 wp:post_id: '222'
 wp_link: "/2008/06/contextonomy/"
 wp:post_type: post
+redirects:
+- "/node/222"
+- "/observation/contextonomy"
 ---
 
 Aha! I knew there had to be a word for misusing review quotes. From this week's [World Wide Words](http://www.worldwidewords.org/nl/krcv.htm):

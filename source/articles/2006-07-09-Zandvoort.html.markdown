@@ -9,6 +9,9 @@ tags:
 wp:post_id: '65'
 wp_link: "/2006/07/zandvoort/"
 wp:post_type: post
+redirects:
+- "/node/65"
+- "/articles/zandvoort"
 ---
 
 The wind blew off the North Sea with a chill and the beach stones were flat, dark and round.

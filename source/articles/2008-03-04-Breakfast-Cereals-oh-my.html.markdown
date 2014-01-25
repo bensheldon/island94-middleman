@@ -6,6 +6,9 @@ tags:
 wp:post_id: '207'
 wp_link: "/2008/03/breakfast-cereals-oh-my/"
 wp:post_type: post
+redirects:
+- "/node/207"
+- "/breakfast-cereals-oh-my"
 ---
 
 .!.

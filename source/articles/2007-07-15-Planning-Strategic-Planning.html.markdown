@@ -8,6 +8,9 @@ tags:
 wp:post_id: '133'
 wp_link: "/2007/07/planning-strategic-planning/"
 wp:post_type: post
+redirects:
+- "/node/133"
+- "/articles/planning-strategic-planning"
 ---
 
 At work I have been furiously engaged in strategic planning in advance of some major grant-writing. This process is a continuation from some vine-withered efforts my coworker and I had made last fall, but due to some changing circumstances---a better understanding of the existing processes at play and increased authority to manage the outcomes---this most recent effort is bearing more fruit.

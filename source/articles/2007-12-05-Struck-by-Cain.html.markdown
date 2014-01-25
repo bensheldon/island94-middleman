@@ -8,6 +8,9 @@ tags:
 wp:post_id: '183'
 wp_link: "/2007/12/struck-by-cain/"
 wp:post_type: post
+redirects:
+- "/node/183"
+- "/struck-cain"
 ---
 
 >

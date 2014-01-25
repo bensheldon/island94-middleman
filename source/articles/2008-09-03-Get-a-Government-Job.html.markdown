@@ -8,6 +8,9 @@ tags:
 wp:post_id: '250'
 wp_link: "/2008/09/get-a-government-job/"
 wp:post_type: post
+redirects:
+- "/observation/get-government-job"
+- "/node/250"
 ---
 
 [Tropic Thunder move](http://utero.pe/?tropic_thunder)

@@ -9,6 +9,9 @@ tags:
 wp:post_id: '208'
 wp_link: "/2008/03/a-millenial-idea/"
 wp:post_type: post
+redirects:
+- "/node/208"
+- "/observation/millenial-idea"
 ---
 
 A New York Times article on [paying kids based on their standardized test scores](http://www.nytimes.com/2008/03/05/nyregion/05incentive.html):

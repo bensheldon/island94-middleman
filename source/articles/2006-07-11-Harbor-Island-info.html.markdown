@@ -15,6 +15,9 @@ tags:
 wp:post_id: '66'
 wp_link: "/2006/07/harbor-island-info/"
 wp:post_type: post
+redirects:
+- "/node/66"
+- "/articles/harbor-island-info"
 ---
 
 I took a cruise out past the Harbor Islands today. U.Mass Boston runs a ship every Tuesday that's free for students and staff, $5 for everyone else except VISTAs, who with proper haggling, can ride for free.

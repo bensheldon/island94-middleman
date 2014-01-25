@@ -10,6 +10,9 @@ tags:
 wp:post_id: '121'
 wp_link: "/2007/03/airport-vehicles/"
 wp:post_type: post
+redirects:
+- "/node/121"
+- "/articles/airport-vehicles"
 ---
 
 [ ![](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv)

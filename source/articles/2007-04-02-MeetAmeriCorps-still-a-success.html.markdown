@@ -10,6 +10,9 @@ tags:
 wp:post_id: '126'
 wp_link: "/2007/04/meetamericorps-still-a-success/"
 wp:post_type: post
+redirects:
+- "/node/126"
+- "/articles/meetamericorps-still-success"
 ---
 
 [ ![The Faces of MeetAmeriCorps.com](http://farm1.static.flickr.com/235/444085635_15a71d43c8.jpg) ](http://www.flickr.com/photos/bensheldon/444085635/ "Photo Sharing")

@@ -8,6 +8,9 @@ tags:
 wp:post_id: '154'
 wp_link: "/2007/09/an-important-distinction/"
 wp:post_type: post
+redirects:
+- "/node/154"
+- "/important-distinction"
 ---
 
 > Congratulations are in order. You've earned an important distinction -- a Card that reflects your achievements and perfectly complements your life. A Card designed to reward you and bring you the extra services and privileges you require.

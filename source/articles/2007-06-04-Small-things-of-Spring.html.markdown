@@ -10,6 +10,9 @@ tags:
 wp:post_id: '132'
 wp_link: "/2007/06/small-things-of-spring/"
 wp:post_type: post
+redirects:
+- "/node/132"
+- "/articles/small-things-spring"
 ---
 
 [ ![Goslings](http://farm2.static.flickr.com/1285/530395402_2567dc64cd.jpg) ](http://www.flickr.com/photos/bensheldon/530395402/ "Photo Sharing")

@@ -8,6 +8,9 @@ tags:
 wp:post_id: '74'
 wp_link: "/2006/07/a-response-for-net-neutrality/"
 wp:post_type: post
+redirects:
+- "/node/74"
+- "/articles/response-net-neutrality"
 ---
 
 This morning a coworker placed an article from the July 2006 edition of Communications Engineering and Design Magazine entitled ["Net neutrality legislation--my take on it"](http://www.cedmagazine.com/article/CA6348436.html) by Jeffrey Krauss, President of Telecommunications and Technology Policy.

@@ -11,6 +11,9 @@ wp:post_type: post
 failed_files:
 - http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4%09
 - http://island94.org/files/hot-slow-sunday-thumb.png
+redirects:
+- "/node/54"
+- "/articles/hot-slow-sunday-jp"
 ---
 
 [ ![](2006-06-18-Hot-Slow-Sunday-in-JP/hot-slow-sunday-thumb.png) ](http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4 )

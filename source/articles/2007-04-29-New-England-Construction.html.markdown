@@ -8,6 +8,9 @@ tags:
 wp:post_id: '130'
 wp_link: "/2007/04/new-england-construction/"
 wp:post_type: post
+redirects:
+- "/articles/new-england-construction"
+- "/node/130"
 ---
 
 .!.

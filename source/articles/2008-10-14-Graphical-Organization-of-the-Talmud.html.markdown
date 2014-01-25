@@ -8,6 +8,9 @@ tags:
 wp:post_id: '261'
 wp_link: "/2008/10/graphical-organization-of-the-talmud/"
 wp:post_type: post
+redirects:
+- "/node/261"
+- "/observation/graphical-organization-talmud"
 ---
 
 Interesting explanation about the traditional layout of the Talmud. From Andrew on the Marks and Meaning [mailing list](http://groups.google.com/group/marks-and-meaning?hl=en)

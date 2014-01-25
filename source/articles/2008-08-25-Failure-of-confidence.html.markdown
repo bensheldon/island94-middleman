@@ -8,6 +8,9 @@ tags:
 wp:post_id: '246'
 wp_link: "/2008/08/failure-of-confidence/"
 wp:post_type: post
+redirects:
+- "/node/246"
+- "/observation/failure-confidence"
 ---
 
 Diebold (now Premier Election Systems), [admits voting machines have had critical software bug for the last 10 years that can result in votes being lost.](http://www.nytimes.com/2008/08/22/us/22brfs-001.html?ref=us)

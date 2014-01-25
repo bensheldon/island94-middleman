@@ -9,6 +9,9 @@ tags:
 wp:post_id: '42'
 wp_link: "/2006/04/great-minds-dress-alike/"
 wp:post_type: post
+redirects:
+- "/node/42"
+- "/articles/great-minds-dress-alike"
 ---
 
 [ ![](http://static.flickr.com/54/135166679_381974b395_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/135166679/)

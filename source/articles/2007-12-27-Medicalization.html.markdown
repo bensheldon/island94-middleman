@@ -7,6 +7,9 @@ tags:
 wp:post_id: '196'
 wp_link: "/2007/12/medicalization/"
 wp:post_type: post
+redirects:
+- "/node/196"
+- "/medicalization"
 ---
 
 Interesting article from Ben Goldacre on [homeopathy.](http://www.dailymail.co.uk/pages/live/articles/health/healthmain.html?in_article_id=496612&in_page_id=1774) In regard to medicine in general, he makes this point:

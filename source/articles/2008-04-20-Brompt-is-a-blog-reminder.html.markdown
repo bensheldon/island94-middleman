@@ -10,6 +10,9 @@ tags:
 wp:post_id: '216'
 wp_link: "/2008/04/brompt-is-a-blog-reminder/"
 wp:post_type: post
+redirects:
+- "/node/216"
+- "/articles/brompt-blog-reminder"
 ---
 
 [ ![Brompt.com logo](2008-04-20-Brompt-is-a-blog-reminder/brompt-logo.jpg) ](http://brompt.com "a blog reminder service")

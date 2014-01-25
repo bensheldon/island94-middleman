@@ -11,6 +11,9 @@ tags:
 wp:post_id: '82'
 wp_link: "/2006/08/night-and-day/"
 wp:post_type: post
+redirects:
+- "/node/82"
+- "/articles/night-and-day"
 ---
 
   [ ![Night](http://static.flickr.com/64/210209218_de4efc67ff_m.jpg) ](http://www.flickr.com/photos/bensheldon/210209218/ "Photo Sharing") [ ![Day](http://static.flickr.com/66/210211210_0129a6010b_m.jpg) ](http://www.flickr.com/photos/bensheldon/210211210/ "Photo Sharing")

@@ -10,6 +10,8 @@ wp_link: "/2008/10/buyers-remorse-hacking/"
 wp:post_type: post
 redirects:
 - "/2008/10/buyer\\'s-remorse-hacking/"
+- "/node/264"
+- "/observation/buyers-remorse-hacking"
 ---
 
 I love reading Mac vs. PC pissing contests. The fact is, a computer, for most consumers (not workplace ROI), is a commodity device (though I admit the pissing usually takes place between niche users). That all being said, I enjoyed this [thread](http://apple.slashdot.org/comments.pl?sid=1002215&cid=25450333) on a recent Slashdot posting entitled " [Doing the Math On the New MacBook](http://apple.slashdot.org/apple/08/10/21/0132232.shtml)":

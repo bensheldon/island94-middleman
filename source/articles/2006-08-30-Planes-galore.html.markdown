@@ -12,6 +12,9 @@ wp_link: "/2006/08/planes-galore/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/planesgroup.png
+redirects:
+- "/node/93"
+- "/articles/planes-galore"
 ---
 
   [ ![](2006-08-30-Planes-galore/planesgroup.png "that is a lot of planes!") ](http://www.flickr.com/photos/bensheldon/sets/72157594261121949/)

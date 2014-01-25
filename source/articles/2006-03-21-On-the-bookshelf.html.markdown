@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '32'
 wp_link: "/2006/03/on-the-bookshelf/"
 wp:post_type: post
+redirects:
+- "/node/32"
+- "/articles/bookshelf"
 ---
 
   [ ![](http://static.flickr.com/56/116190958_8ebe3e57a6_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/116190958/)

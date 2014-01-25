@@ -9,6 +9,9 @@ tags:
 wp:post_id: '209'
 wp_link: "/2008/03/why-i-like-apple-computers/"
 wp:post_type: post
+redirects:
+- "/node/209"
+- "/observation/why-i-apple-computers"
 ---
 
 Ran across a Slashdot comment that neatly summarizes my [evolution of computer preference](http://apple.slashdot.org/comments.pl?sid=473622&cid=22623782):

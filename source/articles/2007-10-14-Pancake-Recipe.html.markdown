@@ -8,6 +8,9 @@ tags:
 wp:post_id: '158'
 wp_link: "/2007/10/pancake-recipe/"
 wp:post_type: post
+redirects:
+- "/node/158"
+- "/pancake-recipe"
 ---
 
 - 1-1/2 c. corn meal

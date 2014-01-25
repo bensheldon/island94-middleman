@@ -9,6 +9,9 @@ tags:
 wp:post_id: '28'
 wp_link: "/2006/01/ny-nightlife/"
 wp:post_type: post
+redirects:
+- "/node/28"
+- "/articles/ny-nightlife"
 ---
 
 [ ![](http://static.flickr.com/35/91590114_6bdb10871a_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590114/)

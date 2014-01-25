@@ -8,6 +8,9 @@ tags:
 wp:post_id: '22'
 wp_link: "/2005/12/somerville-community-mapping/"
 wp:post_type: post
+redirects:
+- "/node/22"
+- "/articles/somerville-community-mapping"
 ---
 
 [ ![](http://static.flickr.com/35/69242962_fb8af427b3.jpg) ](http://www.flickr.com/photos/atomicworkshop/sets/1491836/)

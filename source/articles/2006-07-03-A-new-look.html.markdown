@@ -8,6 +8,9 @@ tags:
 wp:post_id: '62'
 wp_link: "/2006/07/a-new-look/"
 wp:post_type: post
+redirects:
+- "/node/62"
+- "/articles/new-look"
 ---
 
 Island94.org has undergone some revision today; I hope you noticed. I upgraded Drupal to 4.7 and rethemed the site.

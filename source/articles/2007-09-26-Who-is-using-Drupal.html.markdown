@@ -8,6 +8,9 @@ tags:
 wp:post_id: '157'
 wp_link: "/2007/09/who-is-using-drupal?/"
 wp:post_type: post
+redirects:
+- "/node/157"
+- "/who-using-drupal"
 ---
 
 Always interesting to see who is using Drupal for their website:

@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '170'
 wp_link: "/2007/11/donations-and-volunteering/"
 wp:post_type: post
+redirects:
+- "/node/170"
+- "/articles/donations-and-volunteering"
 ---
 
 Donations Individual Giving

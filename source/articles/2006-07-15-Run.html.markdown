@@ -8,6 +8,9 @@ tags:
 wp:post_id: '71'
 wp_link: "/2006/07/run/"
 wp:post_type: post
+redirects:
+- "/node/71"
+- "/articles/run"
 ---
 
 Running fast, flat out, is the best feeling on earth.

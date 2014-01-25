@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '277'
 wp_link: "/2008/12/human-measurements/"
 wp:post_type: post
+redirects:
+- "/node/277"
+- "/observation/human-measurements"
 ---
 
 Great comment from slashdot on [English Units](http://tech.slashdot.org/comments.pl?sid=1066141&cid=26159359):

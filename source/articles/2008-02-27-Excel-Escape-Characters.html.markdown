@@ -6,6 +6,9 @@ tags:
 wp:post_id: '203'
 wp_link: "/2008/02/excel-escape-characters/"
 wp:post_type: post
+redirects:
+- "/node/203"
+- "/excel-escape-characters"
 ---
 
 If you want to insert a parenthesis into an excel formula (for example, concatenating strings into something to export), you want do use double-double-quotes:

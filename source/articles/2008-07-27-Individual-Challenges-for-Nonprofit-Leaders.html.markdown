@@ -7,6 +7,9 @@ tags:
 wp:post_id: '236'
 wp_link: "/2008/07/individual-challenges-for-nonprofit-leaders/"
 wp:post_type: post
+redirects:
+- "/node/236"
+- "/articles/individual-challenges-nonprofit-leaders"
 ---
 
 Last month I was lucky enough to attend the [NAMAC Leadership Institute](http://www.namac.org/article.cfm?id=1&aid=1348&monly=0) in gorgeous Silver Falls, Oregon. The Leadership Institute was a weeklong exploration and advisement of leadership issues in the arts. Tucked away in the backwoods of the Silver Falls State Park, it was a great opportunity to network and dialogue with peers without internet or cellphone service---we all complained for the first 2 days; when we left it was hailed as a welcome relief.

@@ -8,6 +8,9 @@ tags:
 wp:post_id: '255'
 wp_link: "/2008/09/search-is-not-serendipitous/"
 wp:post_type: post
+redirects:
+- "/node/255"
+- "/observation/search-not-serendipitous"
 ---
 
 Erin McKean makes the point in a [TED talk](http://www.ted.com/index.php/talks/erin_mckean_redefines_the_dictionary.html) that, unlike paper dictionaries, online dictionary searches do not provide serendipity: finding something you didn't know you were looking for.

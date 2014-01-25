@@ -6,6 +6,9 @@ tags:
 wp:post_id: '210'
 wp_link: "/2008/03/free-society/"
 wp:post_type: post
+redirects:
+- "/observation/free-society"
+- "/node/210"
 ---
 
 > "Limiting the CIA's interrogation methods to those in the Army Field Manual would be dangerous because the manual is publicly available and easily accessible on the Internet..."

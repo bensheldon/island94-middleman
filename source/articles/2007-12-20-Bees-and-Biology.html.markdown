@@ -11,6 +11,9 @@ tags:
 wp:post_id: '192'
 wp_link: "/2007/12/bees-and-biology/"
 wp:post_type: post
+redirects:
+- "/node/192"
+- "/bees-and-biology"
 ---
 
 >

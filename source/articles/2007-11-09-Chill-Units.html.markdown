@@ -8,6 +8,9 @@ tags:
 wp:post_id: '167'
 wp_link: "/2007/11/chill-units/"
 wp:post_type: post
+redirects:
+- "/chill-units"
+- "/node/167"
 ---
 
 >

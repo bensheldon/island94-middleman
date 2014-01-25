@@ -8,6 +8,9 @@ tags:
 wp:post_id: '242'
 wp_link: "/2008/08/caring-on-the-internet/"
 wp:post_type: post
+redirects:
+- "/node/242"
+- "/observation/caring-internet"
 ---
 
 I really liked this series of comments on a [BoingBoing post](http://www.boingboing.net/2008/08/17/how-the-daily-shows.html#comment-262112)

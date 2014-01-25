@@ -8,6 +8,9 @@ tags:
 wp:post_id: '49'
 wp_link: "/2006/06/on-san-francisco-bay/"
 wp:post_type: post
+redirects:
+- "/node/49"
+- "/articles/san-francisco-bay"
 ---
 
 On Tuesday, my last day in San Francisco, Daniell K., the visionary behind the DigitalBicycle, and I took BART up to the Berkeley Marina where we were met by Scott A. and Kari P., community media heavyweights and experienced sailors. The day started off cloudy with threats of rain, but by the time we had gotten through the pre-launch checklist of our -31- +32+ foot Catalina _Magic Moves_ the sun had broken and was shining brightly down upon the bay.

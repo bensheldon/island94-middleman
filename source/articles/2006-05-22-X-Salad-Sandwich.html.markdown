@@ -9,6 +9,9 @@ tags:
 wp:post_id: '47'
 wp_link: "/2006/05/x-salad-sandwich/"
 wp:post_type: post
+redirects:
+- "/node/47"
+- "/articles/x-salad-sandwich"
 ---
 
 \*Alternate Title:\* May I? You Mayo.

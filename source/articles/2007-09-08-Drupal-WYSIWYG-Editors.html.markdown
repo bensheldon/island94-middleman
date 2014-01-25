@@ -8,6 +8,9 @@ tags:
 wp:post_id: '152'
 wp_link: "/2007/09/drupal-wysiwyg-editors/"
 wp:post_type: post
+redirects:
+- "/drupal-wysiwyg-editors"
+- "/node/152"
 ---
 
 I'm partial to the following WYSIWYG editors for Drupal:

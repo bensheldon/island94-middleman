@@ -7,6 +7,9 @@ tags:
 wp:post_id: '179'
 wp_link: "/2007/12/creating-meaning-through-interaction/"
 wp:post_type: post
+redirects:
+- "/node/179"
+- "/creating-meaning-through-interaction"
 ---
 
 > [Bakhtin explores] the idea that language is indeed ambiguous, but whereas deconstruction would highlight this ambiguity as the inability of words to convey precise meaning, Bakhtin welcomes this vagueness of language as a means by which to create meaning dialogically. Indeed, in describing the nature of the polyphonic novel, Bakhtin sees the entire scope of human life as a dialogic process whereby we find meaning only through our interactions with others.

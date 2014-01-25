@@ -9,6 +9,9 @@ tags:
 wp:post_id: '138'
 wp_link: "/2007/08/two-stories-on-a-theme/"
 wp:post_type: post
+redirects:
+- "/articles/two-stories-theme"
+- "/node/138"
 ---
 
 _I recently had an idea for a story and upon going through my other drafts, realized I already addressed it, though differently. So here they both are. Also, the second story is not a criticism of the Buddha---though if you asked me, "Surgeon General" is a more apt description than "Great Physician"---or Jesus for that matter (or anyone else that calls themselves a physician)._

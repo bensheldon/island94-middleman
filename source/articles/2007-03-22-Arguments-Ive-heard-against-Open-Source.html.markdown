@@ -10,6 +10,8 @@ wp_link: "/2007/03/arguments-ive-heard-against-open-source/"
 wp:post_type: post
 redirects:
 - "/2007/03/arguments-i\\'ve-heard-against-open-source/"
+- "/node/124"
+- "/articles/arguments-ive-heard-against-open-source"
 ---
 
 When planning a dynamic website, using [Open Source Software](http://nonprofiteye.blogspot.com/2006/11/non-profit-open-source.html) (OSS) can make a lot of sense. I think there is enough information [out there](http://technorati.com/search/open+source+is+awesome "technorati search: 'open source is awesome'") about why OSS is the cat's meow, so here are a few reasons I've hear from people that _don't_ want to use Open Source Software for their web development projects:

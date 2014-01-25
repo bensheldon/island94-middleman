@@ -14,6 +14,9 @@ failed_files:
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Other%2520assholes.mp3
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Rude%2520Awakening.mp3
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Lovesong%2520for%2520the%2520wrong%2520person.mp3
+redirects:
+- "/node/41"
+- "/articles/dave-alpert-abbey"
 ---
 
 I was up at the Abbey Lounge last night in Somerville checking out [Dave Alpert](http://davealpert.com), a local singer/songwriter. I met him a few weeks ago at a video-blogger meetup in Jamaica Plain.
