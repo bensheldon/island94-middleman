@@ -11,9 +11,8 @@ link: http://island94.dev/2005/12/walking-in-circles/
 wp:post_type: post
 ---
 
-<!--mapstart-->
-!(alignleft)http://static.flickr.com/20/73043769_12c3ff795b_m.jpg!:http://www.flickr.com/photos/atomicworkshop/73043769/
-<!--mapend-->
-Jess and I were up at MIT to see a friend and coworker in a MIT Community Players production of Autobahn, a series of 7 one-act plays taking place in the front seat of an automobile, by Neil Labute.  She was great, the plays themselves were ok and a little redundant by the end.
-
-Leaving the building we had to tread through some relatively thick snow.  We tried to follow the footprints of others, though as the photo shows, some of them were a little less than efficient at getting anywhere.
+<p><!--mapstart--><br />
+<a href="http://www.flickr.com/photos/atomicworkshop/73043769/"><img src="http://static.flickr.com/20/73043769_12c3ff795b_m.jpg" class="alignleft" alt="" /></a><br />
+<!--mapend--><br />
+Jess and I were up at <span class="caps">MIT</span> to see a friend and coworker in a <span class="caps">MIT</span> Community Players production of Autobahn, a series of 7 one-act plays taking place in the front seat of an automobile, by Neil Labute.  She was great, the plays themselves were ok and a little redundant by the end.</p>
+<p>Leaving the building we had to tread through some relatively thick snow.  We tried to follow the footprints of others, though as the photo shows, some of them were a little less than efficient at getting anywhere.</p>

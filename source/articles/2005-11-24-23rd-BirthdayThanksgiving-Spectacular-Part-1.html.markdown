@@ -21,6 +21,5 @@ failed_files:
   This is the first installment of the day when both my 23rd birthday and Thanksgiving coincide.  There are a couple problems with the camera work, lighting, script (there is none) and such, but hopefully you will enjoy it, or at least be able to take part in my day, even though you aren't here.
 ---
 
-!(centered)http://island94.org/files/23bdaytg_1_thumb.png!:http://island94.org/files/23bdaytg_1.mp4
-
-This is the first installment of the day when both my 23rd birthday and Thanksgiving coincide.  There are a couple problems with the camera work, lighting, script (there is none) and such, but hopefully you will enjoy it, or at least be able to take part in my day, even though you aren't here.
+<p><a href="http://island94.org/files/23bdaytg_1.mp4"><img src="http://island94.org/files/23bdaytg_1_thumb.png" class="centered" alt="" /></a></p>
+<p>This is the first installment of the day when both my 23rd birthday and Thanksgiving coincide.  There are a couple problems with the camera work, lighting, script (there is none) and such, but hopefully you will enjoy it, or at least be able to take part in my day, even though you aren&#8217;t here.</p>
