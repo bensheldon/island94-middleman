@@ -11,7 +11,7 @@ files:
 
 I was flipping through my old college business communications textbook (_Business Communication: Process and Product, 4th Edition _by Mary Ellen Guffy) when lo and behold I came across the [(false) metaphor of the tube for communications](http://www.island94.org/2009/02/the-false-metaphor-of-the-tube-for-communication/):
 
-![Guffey - Communications sketch](http://www.island94.org/wp-content/uploads/2009/03/guffey-communications-500x446.jpg "Guffey - Communications sketch")
+![Guffey - Communications sketch](2009-03-22-Example-of-the-false-metaphor-of-the-tube/guffey-communications-500x446.jpg "Guffey - Communications sketch")
 
 I will give the textbook some credit since there is some explanation that it's not so simple as just putting up a semaphore:
 

@@ -9,7 +9,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png
 ---
 
-[ ![ravel-screens](http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png) ](http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png)
+[ ![ravel-screens](2013-07-26-Meet-Ravel/ravel-screens.png) ](2013-07-26-Meet-Ravel/ravel-screens.png)
 
 I’ve spent the last 6 months working at OkCupid Labs building an iOS native mobile app I’m very proud of: [Ravel!—”Share Photos. Meet People.”](http://ravelapp.com/) We’ve described it as a dating app for Instagrammers: your public profile is the photos that you pull in from Instagram, Facebook or your camera roll and you can introduce yourself and start chatting with other people based on the photos they share.
 

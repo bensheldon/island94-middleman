@@ -11,10 +11,6 @@ link: http://island94.dev/2005/11/rubbed-away/
 wp:post_type: post
 ---
 
-
-
-    
-
   ![](http://farm1.static.flickr.com/26/64889642_51925902ce.jpg)
 
 I was down in Back Bay today and snapped this picture of the subway map.

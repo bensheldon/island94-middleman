@@ -17,7 +17,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2007/08/mediamap-600x448.jpg
 ---
 
-![](http://www.island94.org/wp-content/uploads/2007/08/mediamap-600x448.jpg "mediamap")
+![](2007-08-02-Geekout-Video-on-Maps-for-Cable-Access-TV/mediamap-600x448.jpg "mediamap")
 
 I recently did some [Drupal](http://drupal.org) development work for [Cambridge Community Television](http://cctvcambridge.org). As part of the really amazing work they are doing combining new media with traditional [Cable Access Television](http://alliancecm.org), CCTV has been mapping videos their members produce. They call this project the [Mediamap](http://cctvcambridge.org/mediamap).
 

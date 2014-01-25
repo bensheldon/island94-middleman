@@ -11,8 +11,6 @@ link: http://island94.dev/2010/06/management-theories-and-interventions/
 wp:post_type: post
 ---
 
-
-
 |
 
 | **Behavioral**

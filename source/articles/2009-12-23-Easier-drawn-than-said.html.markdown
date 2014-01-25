@@ -15,4 +15,4 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/12/difficulty-curve-500x337.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2009/12/difficulty-curve-500x337.png "difficulty curve") Visualizing the demand curve is left as an exercise for the reader.
+![](2009-12-23-Easier-drawn-than-said/difficulty-curve-500x337.png "difficulty curve") Visualizing the demand curve is left as an exercise for the reader.

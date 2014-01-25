@@ -10,7 +10,6 @@ link: http://island94.dev/2008/04/progressive-terminology-for-discussing-poverty
 wp:post_type: post
 ---
 
-
 .!.
 
 Because of constructive criticism of some of my organization's archaic language, I [asked](http://groups.yahoo.com/group/Mission-Based-Massachusetts/message/2096) the [Mission Based Massachusetts Listserv](http://groups.yahoo.com/group/Mission-Based-Massachusetts/), a nonprofit discussion list, what terms they use in place of "poor people". Below are all of the responses I got, which were awesome!

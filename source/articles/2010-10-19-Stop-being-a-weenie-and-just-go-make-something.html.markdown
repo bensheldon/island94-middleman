@@ -12,7 +12,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/10/weenie-500x502.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/10/weenie-500x502.png "weenie")
+![](2010-10-19-Stop-being-a-weenie-and-just-go-make-something/weenie-500x502.png "weenie")
 
 From a Frank Chimero jam: ["How to Have an Idea"](http://www.frankchimero.com/idea/):
 

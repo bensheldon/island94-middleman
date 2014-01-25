@@ -9,7 +9,7 @@ files:
 - http://island94.org/wp-content/uploads/2009/01/img_0232-500x533.jpg
 ---
 
-![Me](http://island94.org/wp-content/uploads/2009/01/img_0232-500x533.jpg "Me")
+![Me](2009-01-13-2008-in-Review/img_0232-500x533.jpg "Me")
 
 To follow up on [last year's navel gazing](http://island94.org/2008/01/2007-in-review/), here's the roundup for 2008:
 

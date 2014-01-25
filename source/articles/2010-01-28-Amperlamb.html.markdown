@@ -13,4 +13,4 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/01/amperlamb-500x500.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/01/amperlamb-500x500.png "amperlamb")
+![](2010-01-28-Amperlamb/amperlamb-500x500.png "amperlamb")

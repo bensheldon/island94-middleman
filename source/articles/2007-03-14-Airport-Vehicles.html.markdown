@@ -12,8 +12,6 @@ link: http://island94.dev/2007/03/airport-vehicles/
 wp:post_type: post
 ---
 
-
-
 [ ![](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv)  
 [Click To Play](http://blip.tv/file/get/Bensheldon-AirportVehicles233.flv)
 

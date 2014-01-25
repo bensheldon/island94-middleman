@@ -29,5 +29,5 @@ Another plus of Inkscape is that there are lots of great Public Domain/Creative 
 
 I included an image I've recently done below. The graphic of the videocassette is public domain that I got from openclipart.com.
 
-[ ![digitalbicycle-guy.png](http://island94.org/files/digitalbicycle-guy-thumb.png) ](digitalbicycle-guy.png)
+[ ![digitalbicycle-guy.png](2006-03-14-Making-Art-with-Inkscape/digitalbicycle-guy-thumb.png) ](digitalbicycle-guy.png)
 

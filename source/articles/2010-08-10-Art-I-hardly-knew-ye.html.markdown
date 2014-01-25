@@ -16,7 +16,7 @@ failed_files:
 - http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpg
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/08/spiegelman-500x453.jpg "Spiegelman") ](http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpeg)
+[ ![](2010-08-10-Art-I-hardly-knew-ye/spiegelman-500x453.jpg "Spiegelman") ](2010-08-10-Art-I-hardly-knew-ye/spiegelman.jpeg)
 
   [Viktor Shlovsky](http://en.wikipedia.org/wiki/Defamiliarization) on art, via Art Spiegelman's "Portrait of the Artist as a Young %@?\*! " in _The Best American Comics, 2009_:
 

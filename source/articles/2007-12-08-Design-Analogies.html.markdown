@@ -10,8 +10,6 @@ link: http://island94.dev/2007/12/design-analogies/
 wp:post_type: post
 ---
 
-
-
 - [Kill Switch release](http://www.iucn-tftsg.org/?kill_switch)
 
 I was having a talk today with [Danielle](http://verdesmoke.com) about this proposal on ["Open Source Engagement"](http://dcdw.mit.edu/~11.941/wiki/index.php?title=Open_source_engagement) on Milla Digitalia. Mostly I was being critical of the manner in which the authors sling around "open source".

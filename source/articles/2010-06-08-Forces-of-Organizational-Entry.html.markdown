@@ -12,6 +12,6 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/06/organizational-entry.png
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/06/organizational-entry.png "organizational entry") ](http://www.island94.org/wp-content/uploads/2010/06/organizational-entry.png)
+[ ![](2010-06-08-Forces-of-Organizational-Entry/organizational-entry.png "organizational entry") ](2010-06-08-Forces-of-Organizational-Entry/organizational-entry.png)
 
 I've been kicking this idea around my notebook for a while; I hope it requires no further explanation.

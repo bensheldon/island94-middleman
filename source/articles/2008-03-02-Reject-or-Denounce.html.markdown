@@ -9,7 +9,6 @@ link: http://island94.dev/2008/03/reject-or-denounce/
 wp:post_type: post
 ---
 
-
 .!.
 >
 

@@ -12,8 +12,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2013/06/dayoftheshirt-2012.png
 ---
 
-[ ![dayoftheshirt-2012](http://www.island94.org/wp-content/uploads/2013/06/dayoftheshirt-2012.png) ](http://dayoftheshirt.com)
-
+[ ![dayoftheshirt-2012](2013-06-29-State-of-the-Shirt-2012/dayoftheshirt-2012.png) ](http://dayoftheshirt.com)
  
 
 2012 was a big year for [Day of the Shirt](http://dayoftheshirt.com): it moved from being one of a constellation of hobby projects to becoming the main focus of my spare development time and a largely self-sustaining business.

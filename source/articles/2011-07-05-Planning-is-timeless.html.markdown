@@ -17,7 +17,7 @@ failed_files:
 - http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpg
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2011/07/Operation-High-Hopes-600x675.png "Operation High Hopes") ](http://www.island94.org/wp-content/uploads/2011/07/Operation-High-Hopes.png)
+[ ![](2011-07-05-Planning-is-timeless/Operation-High-Hopes-600x675.png "Operation High Hopes") ](2011-07-05-Planning-is-timeless/Operation-High-Hopes.png)
 
 From the [John F. Kennedy Presidential Library & Museum](http://www.jfklibrary.org/):
 
@@ -91,4 +91,4 @@ From the [John F. Kennedy Presidential Library & Museum](http://www.jfklibrary.o
 
 > 7. If a supporter wants to give more than $1 or $2 have him make out a check to Washington D. C. KENNEDY FOR PRESIDENT COMMITTEE, and send it to this address.
 
-[ ![](http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM-600x448.jpg "Photo Jul 04, 1 00 42 PM") ](http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpeg)
+[ ![](2011-07-05-Planning-is-timeless/Photo-Jul-04-1-00-42-PM-600x448.jpg "Photo Jul 04, 1 00 42 PM") ](2011-07-05-Planning-is-timeless/Photo-Jul-04-1-00-42-PM.jpeg)

@@ -16,7 +16,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/09/typewriter-3.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/09/nonprofitmillennials-screenshot-top-500x420.png "nonprofitmillennials-screenshot-top")
+![](2010-09-01-Find-fresh-perspectives-at-NonprofitMillennialsorg/nonprofitmillennials-screenshot-top-500x420.png "nonprofitmillennials-screenshot-top")
 
 Myself and the [Nonprofit Millennial Blogger Alliance](http://nonprofitmillennials.org) are proud to announce the launch of a new website: [NonprofitMillennials.org](http://nonprofitmillennials.org): "We blog about the millennial generation and nonprofits!"
 
@@ -32,4 +32,4 @@ I led the technical development and design on the website and am very proud of t
 
 So if you're a millennial blogger writing about social change or the nonprofit sector, please consider [joining us](http://nonprofitmillennials.org/#contact). And don't forget that "millennial" has 2 N's (I do, all the time).
 
-![](http://www.island94.org/wp-content/uploads/2010/09/typewriter-3.png "typewriter")
+![](2010-09-01-Find-fresh-perspectives-at-NonprofitMillennialsorg/typewriter-3.png "typewriter")

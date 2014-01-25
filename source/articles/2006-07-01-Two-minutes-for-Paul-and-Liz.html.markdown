@@ -10,7 +10,6 @@ link: http://island94.dev/2006/07/two-minutes-for-paul-and-liz/
 wp:post_type: post
 ---
 
-
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-2MinutesForPaulAndLiz154.jpeg) ](http://blip.tv/file/get/Bensheldon-2MinutesForPaulAndLiz310.mp4?source=3)  
 [Watch the Video](http://blip.tv/file/get/Bensheldon-2MinutesForPaulAndLiz310.mp4?source=3)
 

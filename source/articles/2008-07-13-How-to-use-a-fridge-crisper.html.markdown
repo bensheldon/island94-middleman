@@ -11,7 +11,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2008/07/fridge-500x453.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2008/07/fridge-500x453.png "fridge")
+![](2008-07-13-How-to-use-a-fridge-crisper/fridge-500x453.png "fridge")
 
 After a bunch of googling around, I haven't found an authoritative answer to my question: how are you supposed to set up and use your refrigerator's food crisper---fruits and vegatables need different levels of humidity (which ones need what I wasn't sure), and the little baffles are supposed to change that (which setting does what I wasn't sure).
 

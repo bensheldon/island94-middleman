@@ -14,6 +14,6 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser-600x463.png
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser-600x463.png "datastrology-browser") ](http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser.png)
+[ ![](2011-07-09-A-modest-web-app-proposal/datastrology-browser-600x463.png "datastrology-browser") ](2011-07-09-A-modest-web-app-proposal/datastrology-browser.png)
 
 Advanced algorithms analyze your social graph to provide deep introspection through animal shapes and SEO-optimized pithy sayings. Once we close Series A we will be hiring unpaid interns; only serious inquiries, please.

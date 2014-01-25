@@ -16,7 +16,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/10/human-channels-500x215.jpg
 ---
 
-[ ![human channels](http://www.island94.org/wp-content/uploads/2009/10/human-channels-500x215.jpg "human channels") ](http://www.island94.org/wp-content/uploads/2009/10/human-channels.jpg)
+[ ![human channels](2009-10-23-Kick-in-the-baud/human-channels-500x215.jpg "human channels") ](2009-10-23-Kick-in-the-baud/human-channels.jpg)
 
 From the book pile: the graphic above and quote below are from _Future Developments in Telecommunications, 2nd edition_ by James Martin, 1977 ("NEW completely rewritten").
 

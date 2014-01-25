@@ -16,7 +16,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/02/SurvivalNews-W2010-chop-500x543.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/02/SurvivalNews-W2010-chop-500x543.png "SurvivalNews-W2010-chop")
+![](2010-02-27-Laying-out-latest-layout/SurvivalNews-W2010-chop-500x543.png "SurvivalNews-W2010-chop")
 
 Since November I have been working on print layout for the Winter 2009/2010 edition of [Survival News](http://survivorsinc.org). "The voices of low-income women", Survival News is half-yearly-ish compendium of news, personal stories, and advocacy information. Nearly half of this edition is devoted to Survival Tips, a collection of services and advice from legal aid to food programs in 3 languages (English, Spanish and Vietnamese).
 

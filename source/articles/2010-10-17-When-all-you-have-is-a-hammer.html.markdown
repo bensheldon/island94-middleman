@@ -14,7 +14,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/10/blocBEST-small-500x772.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/10/blocBEST-small-500x772.png "blocBEST-small")
+![](2010-10-17-When-all-you-have-is-a-hammer/blocBEST-small-500x772.png "blocBEST-small")
 
 _Build, learn, organize, subvert_
 

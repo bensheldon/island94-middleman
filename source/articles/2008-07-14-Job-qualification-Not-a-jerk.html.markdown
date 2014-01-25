@@ -10,8 +10,6 @@ link: http://island94.dev/2008/07/job-qualification-not-a-jerk/
 wp:post_type: post
 ---
 
-
-
 [Home Alone movie](http://www.womeningreen.org/?home_alone)
 
 [Mr. Bean's Holiday full movie](http://www.centralbasin.org/blog/?mr_bean_s_holiday)

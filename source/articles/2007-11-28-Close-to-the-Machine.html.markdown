@@ -11,8 +11,6 @@ link: http://island94.dev/2007/11/close-to-the-machine/
 wp:post_type: post
 ---
 
-
-
 [HouseSitter movies](http://www.iucn-tftsg.org/?housesitter)
 Fred Turner's _From Counterculture to Cyberculture_ has an amazingly pointed criticism of modern technocracy (my word) following what is an amazing outline of both Countercultural/Communal philosophy and modern cyberculture.
 

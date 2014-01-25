@@ -12,7 +12,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/02/Definitions.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/02/Definitions.png "Definitions")
+![](2010-02-17-Quality-of-life-mind-and-language/Definitions.png "Definitions")
 
 From "Business of Design", a section of David Barringer's excellent book _There's nothing funny about design_:
 

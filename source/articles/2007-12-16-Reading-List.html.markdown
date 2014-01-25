@@ -7,7 +7,6 @@ link: http://island94.dev/2007/12/reading-list/
 wp:post_type: post
 ---
 
-
 ### Friends
 Tapioca Mobile Tour
 ### Media

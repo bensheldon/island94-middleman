@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/03/brompt-signup-600x501.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2011/03/brompt-signup-600x501.png "brompt-signup")
+![](2011-03-17-A-form-from-my-favorites/brompt-signup-600x501.png "brompt-signup")
 
 Above is the signup form from [Brompt](http://brompt.com), the blog reminder service I built a few years ago for undisciplined bloggers like myself. I'm very proud of this form: it's clear, it contextualizes the data being requested within the functionality of the application, and it drives people to action.
 

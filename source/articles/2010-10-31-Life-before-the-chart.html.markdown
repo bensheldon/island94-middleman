@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/10/humboldt-isotherms-500x371.png
 ---
 
-![Humboldt's Isotherms](http://www.island94.org/wp-content/uploads/2010/10/humboldt-isotherms-500x371.png "humboldt-isotherms")
+![Humboldt's Isotherms](2010-10-31-Life-before-the-chart/humboldt-isotherms-500x371.png "humboldt-isotherms")
 
 From Patricia Fara’s _Science: A Four Thousand Year History_:
 

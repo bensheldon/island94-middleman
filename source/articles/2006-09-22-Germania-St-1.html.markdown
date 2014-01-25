@@ -11,5 +11,4 @@ link: http://island94.dev/2006/09/germania-st-1/
 wp:post_type: post
 ---
 
-
   [ ![Germania St. #1](http://static.flickr.com/79/250013030_e3d45c735a_o.jpg) ](http://www.flickr.com/photos/bensheldon/250013030/ "Photo Sharing")

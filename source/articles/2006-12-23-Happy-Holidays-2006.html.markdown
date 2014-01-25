@@ -13,8 +13,6 @@ link: http://island94.dev/2006/12/happy-holidays-2006/
 wp:post_type: post
 ---
 
-
-
 [ ![](http://blip.tv/file/get/Bensheldon-HappyHolidays2006530.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-HappyHolidays2006530.flv)  
 [Click To Play](http://blip.tv/file/get/Bensheldon-HappyHolidays2006530.flv)
 

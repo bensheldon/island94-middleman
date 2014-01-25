@@ -14,7 +14,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/12/Livelihood-Framework-500x270.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2009/12/Livelihood-Framework-500x270.png "Livelihood Framework")
+![](2009-12-23-Academia-on-the-experience-of-poverty/Livelihood-Framework-500x270.png "Livelihood Framework")
 
 It takes a lot of words for academia to say "We're can't describe the experience of poverty". This is from " [Using a sustainable livelihoods approach to assessing the impact of ICTs in development](http://ci-journal.net/index.php/ciej/article/view/310)" by Sarah Parkinson and Ricardo Ramírez:
 

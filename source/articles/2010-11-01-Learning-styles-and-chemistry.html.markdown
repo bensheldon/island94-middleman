@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-1.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-1.png "Alexander Periodic 1")
+![](2010-11-01-Learning-styles-and-chemistry/Alexander-Periodic-1.png "Alexander Periodic 1")
 
 Roy Alexander, creator of the [3-D Periodic Table](http://allperiodictables.com/aptpages/apt_1_OrderPageAAE.html), recently [commented](http://www.island94.org/2010/10/stop-being-a-weenie-and-just-go-make-something/#comment-69141) on my blog since I had posted previously about his [unique construction](http://www.island94.org/2009/10/janets-spiral-periodic-table/). Below is from his ["The Argument for 3-D Periodic Table"](http://allperiodictables.com/ClientPages/AAEpages/aaeDescription.html) (emphasis original):
 

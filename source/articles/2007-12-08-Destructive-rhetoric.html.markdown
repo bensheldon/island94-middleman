@@ -11,7 +11,6 @@ link: http://island94.dev/2007/12/destructive-rhetoric/
 wp:post_type: post
 ---
 
-
 .!.
 
 I was having a hard time explaining exactly what Fred Turner means by the conclusion of his book, _From Counterculture to Cyberculture,_ I [wrote about earlier](http://island94.org/close-machine). It really seems difficult to explain things without using informationalist rhetoric.

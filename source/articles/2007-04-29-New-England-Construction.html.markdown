@@ -10,7 +10,6 @@ link: http://island94.dev/2007/04/new-england-construction/
 wp:post_type: post
 ---
 
-
 .!.
 
 _Wrote this a while back and it's been floating around my drafts pile. The story is a little light, but mostly I wrote it to remember all the arcane details my landlord's handyman told me when he came to rehang our doors._

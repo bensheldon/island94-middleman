@@ -9,7 +9,6 @@ link: http://island94.dev/2008/01/2007-in-review/
 wp:post_type: post
 ---
 
-
 .!.
 
 [The Snows of Kilimanjaro movie](http://time-travel.com/?the_snows_of_kilimanjaro)

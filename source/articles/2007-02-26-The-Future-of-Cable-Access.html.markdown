@@ -11,8 +11,6 @@ link: http://island94.dev/2007/02/the-future-of-cable-access/
 wp:post_type: post
 ---
 
-
-
 [ ![](http://blip.tv/file/get/Bensheldon-WhatIsTheFutureOfCableAccessTV720.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-WhatIsTheFutureOfCableAccessTV720.flv)  
 [Click To Play](http://blip.tv/file/get/Bensheldon-WhatIsTheFutureOfCableAccessTV720.flv)
 

@@ -13,7 +13,7 @@ files:
 - http://island94.org/files/island94.org/lego2web.jpg
 ---
 
-![Color Lego Guy](http://island94.org/files/island94.org/lego2web.jpg)
+![Color Lego Guy](2007-12-17-Remember-Paul/lego2web.jpg)
 
   _ [Jab We Met the movie](http://www.websita.com/?jab_we_met)_ ** [Thank You for Smoking on dvd](http://www.iucn-tftsg.org/?thank_you_for_smoking)** Paul Hansen: my boss, friend and mentor; husband, artist and Director of the CTC VISTA Project; passed away Monday night. Paul's humor, optimism and vision have profoundly influenced me in the past two years I have known him.
 

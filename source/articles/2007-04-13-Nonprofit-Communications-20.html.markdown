@@ -15,8 +15,6 @@ link: http://island94.dev/2007/04/nonprofit-communications-2-0/
 wp:post_type: post
 ---
 
-
-
 Last week I attended NTEN's 2007 [Nonprofit Technology Conference](http://nten.org/ntc) and sat in on a wonderful session entitled **Nonprofit Communications 2.0: Seven Steps to Transform Your Organization.** Led by [Lauren-Glenn Davitian](http://www.cctv.org/index.php?SiteAlias=cctv&PageAlias=CCTV_Staff#LG) of the [CCTV Center for Media and Democracy](http://www.cctv.org/), the session provided a strong framework for nonprofits to better communicate in an increasingly networked society.
 
 I am also very lucky to serve with Lauren-Glenn on the editorial board of the [Community Media Review](http://communitymediareview.org/).

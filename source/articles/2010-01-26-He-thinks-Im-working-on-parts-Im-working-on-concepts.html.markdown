@@ -27,7 +27,7 @@ The following quote is from _Zen and the Art of Motorcycle Maintenance_ by Rober
 
 >
 
-> ![](http://www.island94.org/wp-content/uploads/2010/01/zen-more-500x144.png "zen-more")
+> ![](2010-01-26-He-thinks-Im-working-on-parts-Im-working-on-concepts/zen-more-500x144.png "zen-more")
 
 > And when I said the components may be subdivided into a power assembly and a running assembly, suddenly appear some more little boxes:
 
@@ -35,7 +35,7 @@ The following quote is from _Zen and the Art of Motorcycle Maintenance_ by Rober
 
 >
 
-> ![](http://www.island94.org/wp-content/uploads/2010/01/zen-500x183.png "zen")
+> ![](2010-01-26-He-thinks-Im-working-on-parts-Im-working-on-concepts/zen-500x183.png "zen")
 
 >
 

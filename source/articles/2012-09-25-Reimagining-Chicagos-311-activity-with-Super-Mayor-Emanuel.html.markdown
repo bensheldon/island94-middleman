@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2012/11/screenshot-600x437.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2012/11/screenshot-600x437.png "screenshot")
+![](2012-09-25-Reimagining-Chicagos-311-activity-with-Super-Mayor-Emanuel/screenshot-600x437.png "screenshot")
 
   [Super Mayor Emanuel](http://supermayor.io) is one of the goofier applications I've built at Code for America: [**supermayor.io**](http://supermayor.io)
 

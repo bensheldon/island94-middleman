@@ -12,6 +12,6 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/06/success-venn.png
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/06/success-venn.png "success-venn") ](http://www.island94.org/wp-content/uploads/2010/06/success-venn.png)
+[ ![](2010-06-13-Straightforward-Project-Satisfaction-and-Fulfillment/success-venn.png "success-venn") ](2010-06-13-Straightforward-Project-Satisfaction-and-Fulfillment/success-venn.png)
 
 Another sketch from my notebook.

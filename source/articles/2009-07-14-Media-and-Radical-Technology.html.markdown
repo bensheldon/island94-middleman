@@ -14,7 +14,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/07/media-radical-technology-500x241.png
 ---
 
-![Radical Technology](http://www.island94.org/wp-content/uploads/2009/07/media-radical-technology-500x241.png "Radical Technology")
+![Radical Technology](2009-07-14-Media-and-Radical-Technology/media-radical-technology-500x241.png "Radical Technology")
 
 I've been digging through the section on communications in _Radical Technology_, the 1976 anthology of the magazine _Undercurrents_.
 

@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/11/filter-disintermediation-500x329.jpg
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/11/filter-disintermediation-500x329.jpg "filter-disintermediation")
+![](2010-11-02-Metaphors-and-diversity/filter-disintermediation-500x329.jpg "filter-disintermediation")
 
 Interactions between people with diverse backgrounds leads to richer and more effective experiences.
 

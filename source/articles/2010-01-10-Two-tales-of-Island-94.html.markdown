@@ -12,7 +12,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/01/Gr-Warranty-500x399.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/01/Gr-Warranty-500x399.png "Gutenberg-Richter Warranty")
+![](2010-01-10-Two-tales-of-Island-94/Gr-Warranty-500x399.png "Gutenberg-Richter Warranty")
 
 The title promises two tales; both are actually the same story, told with different levels of detail and suspense. The first is from _The Earthquake that America Forgot _by Dr. David Steward and Dr. Ray Knox. (These authors have a whole series of books about the New Madrid earthquakes, all of which seem to include the tongue-in-cheek warranty above.)
 

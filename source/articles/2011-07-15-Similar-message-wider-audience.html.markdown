@@ -13,7 +13,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/07/namac_QA.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2011/07/namac_QA.png "namac_QA")
+![](2011-07-15-Similar-message-wider-audience/namac_QA.png "namac_QA")
 
 I was interviewed for NAMAC's (National Alliance for Media Arts and Culture) Idea Exchange and the interview is [now up on their website.](http://namac.org/node/25813) The interview went great and I'm really appreciative of the opportunity to share our work at the [Transmission Project](http://transmissionproject.org) with a wider audience. An excerpt:
 

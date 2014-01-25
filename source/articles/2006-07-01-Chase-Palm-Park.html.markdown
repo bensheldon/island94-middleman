@@ -12,8 +12,6 @@ link: http://island94.dev/2006/07/chase-palm-park/
 wp:post_type: post
 ---
 
-
-
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-ChasePalmPark769.jpeg) ](http://blip.tv/file/get/Bensheldon-ChasePalmPark377.mp4?source=3)  
 [Watch the Video](http://blip.tv/file/get/Bensheldon-ChasePalmPark377.mp4?source=3)
 

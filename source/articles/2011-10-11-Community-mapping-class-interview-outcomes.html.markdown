@@ -10,7 +10,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/10/CIMG3114-600x399.jpg
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2011/10/CIMG3114-600x399.jpg "CIMG3114") ](http://www.island94.org/wp-content/uploads/2011/10/CIMG3114.jpg)
+[ ![](2011-10-11-Community-mapping-class-interview-outcomes/CIMG3114-600x399.jpg "CIMG3114") ](2011-10-11-Community-mapping-class-interview-outcomes/CIMG3114.jpg)
 
  
 

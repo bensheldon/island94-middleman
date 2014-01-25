@@ -8,7 +8,6 @@ link: http://island94.dev/2008/03/breakfast-cereals-oh-my/
 wp:post_type: post
 ---
 
-
 .!.
 
 Read a fun article about [Breakfast Cereals](http://www.salon.com/mwt/food/eat_drink/2007/10/03/breakfast_cereal/) via a comment on [breakfast cupcakes, err, muffins](http://www.megnut.com/2007/10/are-they-breakfast-cupcakes#comment-3498).

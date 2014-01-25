@@ -17,7 +17,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/04/Manna-500x376.png
 ---
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/04/Consensus-Workshop-500x314.png "Consensus Workshop") ](http://www.island94.org/wp-content/uploads/2010/04/Consensus-Workshop.png)
+[ ![](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop-500x314.png "Consensus Workshop") ](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop.png)
 
 Last week I completed a 2 day [Technology of Participation](http://www.ica-usa.org/index.php?pr=whatistop) Facilitator training. Developed by the [Institute of Cultural Affairs](http://www.ica-usa.org/index.php), the Technology of Participation is a series of practices and principles for leading groups through inclusive and participatory dialogues and planning. The training was led by [Nancy Jackson](http://www.gammybird.com/) and [Ruth-Ann Rasbold](http://www.donahue.umassp.edu/services/earlyed/headstart/staff), who were excellent.
 
@@ -71,4 +71,4 @@ _from Participation Works: Business Cases from Around the World, James P. Troxel
 
 I participated in the facilitator training both because of my enjoyment in facilitating small groups---and my desire to improve my methods and confidence for facilitating larger groups---and that my boss is also trained in the Technology of Participation and I've quite enjoyed being a participant in the use of these methods.
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/04/Manna-500x376.png "Manna") ](http://www.island94.org/wp-content/uploads/2010/04/Manna.png)
+[ ![](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Manna-500x376.png "Manna") ](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Manna.png)

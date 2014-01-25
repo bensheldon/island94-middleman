@@ -18,7 +18,7 @@ failed_files:
 - http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpg
 ---
 
-[ ![navigator-p161](http://www.island94.org/wp-content/uploads/2009/10/navigator-p161-500x851.jpg "navigator-p161") ](http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpeg)
+[ ![navigator-p161](2009-10-26-Not-another-Rogues-nest/navigator-p161-500x851.jpg "navigator-p161") ](2009-10-26-Not-another-Rogues-nest/navigator-p161.jpeg)
 
 The following is from the [1824 edition](http://digital.library.pitt.edu/cgi-bin/t/text/pageviewer-idx?c=pitttext;cc=pitttext;rgn=full%20text;idno=00aft2763m;didno=00aft2763m;view=image;seq=162;node=00aft2763m%3A16;page=root;size=s;frm=frameset; ) of Zadok Cramer’s _The Navigator_ on Island 94:
 
@@ -42,4 +42,4 @@ The following is from the [1824 edition](http://digital.library.pitt.edu/cgi-bin
 
 I love the slant rhyme humor: "This bar may grow into another Crow's but it is to be hoped not into another _Rogue's_ nest." The print is below.
 
-[ ![navigator-p160](http://www.island94.org/wp-content/uploads/2009/10/navigator-p160-500x851.jpg "navigator-p160") ](http://www.island94.org/wp-content/uploads/2009/10/navigator-p160.jpeg)
+[ ![navigator-p160](2009-10-26-Not-another-Rogues-nest/navigator-p160-500x851.jpg "navigator-p160") ](2009-10-26-Not-another-Rogues-nest/navigator-p160.jpeg)

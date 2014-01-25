@@ -14,7 +14,7 @@ files:
 - http://island94.org/files/island94.org/brompt-logo.jpg
 ---
 
-[ ![Brompt.com logo](http://island94.org/files/island94.org/brompt-logo.jpg) ](http://brompt.com "a blog reminder service")
+[ ![Brompt.com logo](2008-04-20-Brompt-is-a-blog-reminder/brompt-logo.jpg) ](http://brompt.com "a blog reminder service")
 
 Two weeks ago I launched a new website at [Brompt.com](http://brompt.com "a blog reminder service"). It's a web-based service for unreliable bloggers (like myself) that sends you an email if you haven't posted to your blog in a while. It's sort've like [HassleMe](http://www.hassleme.co.uk/) except Brompt actively scans your blogs RSS feed to only send reminders when you're lax (as opposed to just sending you a reminder every so often).
 

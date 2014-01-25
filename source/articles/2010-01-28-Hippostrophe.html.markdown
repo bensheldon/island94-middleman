@@ -13,4 +13,4 @@ files:
 - http://www.island94.org/wp-content/uploads/2010/01/hippostrophe-500x500.png
 ---
 
-![](http://www.island94.org/wp-content/uploads/2010/01/hippostrophe-500x500.png "hippostrophe")
+![](2010-01-28-Hippostrophe/hippostrophe-500x500.png "hippostrophe")

@@ -10,4 +10,4 @@ files:
 - http://island94.org/wp-content/uploads/2009/01/picture-3.png
 ---
 
-![Obama Painting](http://island94.org/wp-content/uploads/2009/01/picture-3.png "Obama Painting")
+![Obama Painting](2009-01-22-Obama-Painting/picture-3.png "Obama Painting")

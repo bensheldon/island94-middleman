@@ -17,8 +17,6 @@ link: http://island94.dev/2007/03/ways-and-water/
 wp:post_type: post
 ---
 
-
-
 [ ![](http://blip.tv/file/get/Bensheldon-WaysAndWater899.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-WaysAndWater899.flv)  
 [Click To Play](http://blip.tv/file/get/Bensheldon-WaysAndWater899.flv)
 

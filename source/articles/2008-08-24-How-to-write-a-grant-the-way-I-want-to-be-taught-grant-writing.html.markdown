@@ -13,7 +13,7 @@ files:
 - http://island94.org/files/island94.org/grant-apple.png
 ---
 
-![Grant Apple](http://island94.org/files/island94.org/grant-apple.png)
+![Grant Apple](2008-08-24-How-to-write-a-grant-the-way-I-want-to-be-taught-grant-writing/grant-apple.png)
 
 I get really frustrated when going to grant-writing workshops. The workshops are usually laid out structurally rather than purposefully; emphasis is placed upon each individual section of the grant in isolation (the mission and history section, the budget section) instead of concentrating on how to effectively interpret your goals and objectives for a funder. The latter obviously has a structural component, but structure is how you _organize_ your explanation, not how you turn your thoughts into a _logical argument_ for funding. _Grant writing is persuasive writing, not just expository._
 

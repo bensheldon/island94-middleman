@@ -12,7 +12,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/05/remote.jpeg
 ---
 
-![](http://www.island94.org/wp-content/uploads/2011/05/remote.jpeg "remote")
+![](2011-05-09-Reductionist-function-and-practice/remote.jpeg "remote")
 
 Rob Haitani on Palm OS from _ [Designing Interactions](http://www.designinginteractions.com/chapters/3)_:
 

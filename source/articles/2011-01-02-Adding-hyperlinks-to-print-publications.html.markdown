@@ -14,8 +14,8 @@ files:
 - http://www.island94.org/wp-content/uploads/2011/01/hyperlink-handcraftedcss-500x334.jpg
 ---
 
-![](http://www.island94.org/wp-content/uploads/2011/01/hyperlink-numbermysteries-500x454.jpg "hyperlink-numbermysteries")
+![](2011-01-02-Adding-hyperlinks-to-print-publications/hyperlink-numbermysteries-500x454.jpg "hyperlink-numbermysteries")
 
 I am very impressed with how Marcus du Sautoy's _The Number Mysteries_ integrates hyperlinks into the book using URL shorteners and QR codes (above). Contrast that with Dan Cederholm's _Handcrafted CSS _(which is still an excellent book)_. _The latter was published August 2009, the former August 2010.
 
-![](http://www.island94.org/wp-content/uploads/2011/01/hyperlink-handcraftedcss-500x334.jpg "hyperlink-handcraftedcss")
+![](2011-01-02-Adding-hyperlinks-to-print-publications/hyperlink-handcraftedcss-500x334.jpg "hyperlink-handcraftedcss")

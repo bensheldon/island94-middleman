@@ -15,7 +15,7 @@ files:
 - http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach-500x468.png
 ---
 
-[ ![wired-cockroach](http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach-500x468.png "wired-cockroach") ](http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach.png)
+[ ![wired-cockroach](2009-09-13-My-featured-dead-cockroach/wired-cockroach-500x468.png "wired-cockroach") ](2009-09-13-My-featured-dead-cockroach/wired-cockroach.png)
 
 A [photo](http://www.flickr.com/photos/bensheldon/1306195094/) I took in the halls of UMass Boston was featured in a _Wired Magazine _(well, on the website) in " [Universal ‘Death Stench’ Repels Bugs of All Types](http://www.wired.com/wiredscience/2009/09/deathstench/)".
 

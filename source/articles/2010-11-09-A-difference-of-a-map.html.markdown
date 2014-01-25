@@ -23,15 +23,15 @@ files:
 
 From ["Assessment Overview of One Laptop per Child Projects"](http://www.olpcnews.com/implementation/evaluations/offical_review_of_olpc_monitor.html), an evaluation of One Laptop Per Child deployments: "Figure 1 : The current global distribution of XO laptops across the world."
 
-![](http://www.island94.org/wp-content/uploads/2010/11/olpchq-map-500x238.png "olpchq map")
+![](2010-11-09-A-difference-of-a-map/olpchq-map-500x238.png "olpchq map")
 
 From the community created and curated [http://olpcmap.net](http://olpcmap.net) :
 
-![](http://www.island94.org/wp-content/uploads/2010/11/olpcmapnet-map-500x250.png "olpcmapnet map")
+![](2010-11-09-A-difference-of-a-map/olpcmapnet-map-500x250.png "olpcmapnet map")
 
 This second map was launched at [OLPC San Francisco Community Summit](http://olpcsf.org/CommunitySummit2010/). [Marina Zd collected](http://saigonolpc.wordpress.com/2010/10/26/olpc-san-francisco-community-summit%C2%A02010/) some good pictures of the other maps being created there:
 
-[ ![](http://www.island94.org/wp-content/uploads/2010/11/olpc-map-1-150x150.jpg "OLPC map") ](http://www.island94.org/wp-content/uploads/2010/11/olpc-map-1.jpg) [ ![](http://www.island94.org/wp-content/uploads/2010/11/olpc-map-2-150x150.jpg "OLPC map") ](http://www.island94.org/wp-content/uploads/2010/11/olpc-map-2.jpg)
+[ ![](2010-11-09-A-difference-of-a-map/olpc-map-1-150x150.jpg "OLPC map") ](2010-11-09-A-difference-of-a-map/olpc-map-1.jpg) [ ![](2010-11-09-A-difference-of-a-map/olpc-map-2-150x150.jpg "OLPC map") ](2010-11-09-A-difference-of-a-map/olpc-map-2.jpg)
 
 I was invited to attend the summit because of my experience in organizing community events like the [Grassroots Uses of Technology Conference](http://organizerscollaborative.org). Bottoms-up, participatory and community-centric planning is not a core competency of OLPC (to put it gently), and I was asked to advise on how to better recognize, support and grow the existing---but poorly-connected---communities that are part of the broader OLPC ecosystem. This meant more prosaic things like making sure every session has a volunteer notetaker, but then that's the kind of thing that helps build a participatory community. Just look at everyone who has added themselves to the [map](http://olpcmap.net).
 

@@ -10,7 +10,6 @@ link: http://island94.dev/2007/10/pancake-recipe/
 wp:post_type: post
 ---
 
-
 - 1-1/2 c. corn meal
 - 1 c. flour
 - 1 tsp. baking soda
