@@ -140,7 +140,7 @@ ready do
   end
 
   # blog redirects
-  sitemap.resources.select{|p| p.is_a? Middleman::Blog::BlogArticle}.each do |article|
+  blog.articles.each do |article|
     article.data.fetch('redirects', []).each do |source|
       # puts "#{source} -> #{article.request_path}"
       redirect source, to: article.request_path
