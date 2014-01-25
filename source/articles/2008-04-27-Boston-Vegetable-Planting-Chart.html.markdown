@@ -12,7 +12,7 @@ wp:post_id: '218'
 link: http://island94.dev/2008/04/boston-vegetable-planting-chart/
 wp:post_type: post
 files:
-- http://island94.org/files/island94.org/Boston Vegetable Planting Chart.pdf
+- http://island94.org/files/island94.org/Boston%20Vegetable%20Planting%20Chart.pdf
 failed_files:
 - http://island94.org/files/island94.org/Boston Vegetable Planting Chart.pdf
 ---

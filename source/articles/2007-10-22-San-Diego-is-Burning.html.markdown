@@ -7,7 +7,7 @@ link: http://island94.dev/2007/10/san-diego-is-burning/
 wp:post_type: post
 files:
 - http://island94.org/files/island94.org/North.JPG.jpg
-- http://island94.org/files/island94.org/Twin Peaks.JPG.jpg
+- http://island94.org/files/island94.org/Twin%20Peaks.JPG.jpg
 - http://island94.org/files/island94.org/South.JPG.jpg
 - http://island94.org/files/island94.org/TwinEspo.JPG.jpg
 - http://island94.org/files/island94.org/SL_witchcreekfire278842x006_001.jpg

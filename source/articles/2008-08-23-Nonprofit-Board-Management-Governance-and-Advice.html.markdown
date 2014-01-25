@@ -10,7 +10,7 @@ wp:post_id: '243'
 link: http://island94.dev/2008/08/nonprofit-board-management-governance-and-advice/
 wp:post_type: post
 files:
-- http://island94.org/files/island94.org/role of the board.png
+- http://island94.org/files/island94.org/role%20of%20the%20board.png
 failed_files:
 - http://island94.org/files/island94.org/role of the board.png
 ---

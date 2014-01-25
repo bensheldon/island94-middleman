@@ -9,7 +9,7 @@ wp:post_id: '270'
 link: http://island94.dev/2008/11/equally-good-alternatives-to-collaboration/
 wp:post_type: post
 files:
-- http://island94.org/files/island94.org/Thomas-Kilman Conflict Management Model.png
+- http://island94.org/files/island94.org/Thomas-Kilman%20Conflict%20Management%20Model.png
 failed_files:
 - http://island94.org/files/island94.org/Thomas-Kilman Conflict Management Model.png
 ---

@@ -11,7 +11,7 @@ wp:post_id: '99'
 link: http://island94.dev/2006/09/radio-ga-ga-discussing-americorp-vista-on-wuml/
 wp:post_type: post
 files:
-- http://island94.org/files/Bens-Interview-on-WUML_ 20060922.mp3
+- http://island94.org/files/Bens-Interview-on-WUML_%2020060922.mp3
 failed_files:
 - http://island94.org/files/Bens-Interview-on-WUML_ 20060922.mp3
 ---

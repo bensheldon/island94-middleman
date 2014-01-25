@@ -9,7 +9,7 @@ wp:post_id: '54'
 link: http://island94.dev/2006/06/hot-slow-sunday-in-jp/
 wp:post_type: post
 files:
-- "http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4\t"
+- http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4%09
 - http://island94.org/files/hot-slow-sunday-thumb.png
 failed_files:
 - "http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4\t"
