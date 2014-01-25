@@ -14,3 +14,6 @@ gem 'middleman-s3_sync'
 gem 'middleman-pry'
 
 gem "middleman_writer", git: 'git://github.com/bensheldon/middleman_writer.git'
+
+gem "RedCloth"
+gem 'reverse_markdown'
