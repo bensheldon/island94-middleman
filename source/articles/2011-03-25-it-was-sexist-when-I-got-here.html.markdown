@@ -1,5 +1,5 @@
 ---
-title: '...it was sexist when I got here'
+title: "...it was sexist when I got here"
 date: '2011-03-25'
 tags:
 - culture

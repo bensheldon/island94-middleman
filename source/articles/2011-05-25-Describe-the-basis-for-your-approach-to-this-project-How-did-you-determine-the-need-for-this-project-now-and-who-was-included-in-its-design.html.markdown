@@ -1,6 +1,6 @@
 ---
-title: '"Describe the basis for your approach to this project. How did you determine
-  the need for this project now and who was included in its design?"'
+title: "\"Describe the basis for your approach to this project. How did you determine
+  the need for this project now and who was included in its design?\""
 date: '2011-05-25'
 tags:
 - communications

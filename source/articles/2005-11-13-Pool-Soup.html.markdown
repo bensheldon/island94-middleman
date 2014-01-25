@@ -11,8 +11,8 @@ wp:post_id: '6'
 link: http://island94.dev/2005/11/pool-soup/
 wp:post_type: post
 files:
-- "http://island94.org/files/poolsoupthumb.png!:http://island94.org/files/poolsoup.mp4\n\n*Length:*
-  41 seconds\n*Music:* "
+- http://island94.org/files/poolsoup.mp4
+- http://island94.org/files/poolsoupthumb.png
 failed_files:
 - "http://island94.org/files/poolsoupthumb.png!:http://island94.org/files/poolsoup.mp4\n\n*Length:*
   41 seconds\n*Music:* "

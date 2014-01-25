@@ -1,5 +1,5 @@
 ---
-title: '"...be manically participatory..."'
+title: "\"...be manically participatory...\""
 date: '2010-09-27'
 tags:
 - nonprofit

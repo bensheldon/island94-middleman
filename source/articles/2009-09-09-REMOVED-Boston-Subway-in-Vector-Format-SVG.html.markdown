@@ -1,5 +1,5 @@
 ---
-title: '[REMOVED] Boston Subway in Vector Format (SVG)'
+title: "[REMOVED] Boston Subway in Vector Format (SVG)"
 date: '2009-09-09'
 tags: []
 wp:post_id: '697'

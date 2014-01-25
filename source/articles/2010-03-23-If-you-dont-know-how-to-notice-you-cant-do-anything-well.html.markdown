@@ -1,5 +1,5 @@
 ---
-title: '"If you don''t know how to notice, you can''t do anything well"'
+title: "\"If you don't know how to notice, you can't do anything well\""
 date: '2010-03-23'
 tags: []
 wp:post_id: '1856'

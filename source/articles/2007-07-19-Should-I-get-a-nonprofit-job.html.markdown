@@ -1,5 +1,5 @@
 ---
-title: '"Should I get a nonprofit job?"'
+title: "\"Should I get a nonprofit job?\""
 date: '2007-07-19'
 tags:
 - advice

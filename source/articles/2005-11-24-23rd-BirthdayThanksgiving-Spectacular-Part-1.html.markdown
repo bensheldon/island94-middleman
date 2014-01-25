@@ -10,10 +10,8 @@ wp:post_id: '12'
 link: http://island94.dev/2005/11/23rd-birthday/thanksgiving-spectacular-part-1/
 wp:post_type: post
 files:
-- |
-  http://island94.org/files/23bdaytg_1_thumb.png!:http://island94.org/files/23bdaytg_1.mp4
-
-  This is the first installment of the day when both my 23rd birthday and Thanksgiving coincide.  There are a couple problems with the camera work, lighting, script (there is none) and such, but hopefully you will enjoy it, or at least be able to take part in my day, even though you aren't here.
+- http://island94.org/files/23bdaytg_1.mp4
+- http://island94.org/files/23bdaytg_1_thumb.png
 failed_files:
 - |
   http://island94.org/files/23bdaytg_1_thumb.png!:http://island94.org/files/23bdaytg_1.mp4
