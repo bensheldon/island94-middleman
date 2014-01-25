@@ -10,6 +10,8 @@ tags:
 wp:post_id: '635'
 link: http://island94.dev/2009/07/media-and-radical-technology/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/07/media-radical-technology-500x241.png
 ---
 
 <img class="aligncenter size-medium wp-image-637" title="Radical Technology" src="http://www.island94.org/wp-content/uploads/2009/07/media-radical-technology-500x241.png" alt="Radical Technology" width="500" height="241" />

@@ -9,6 +9,11 @@ tags:
 wp:post_id: '2434'
 link: http://island94.dev/2011/01/the-benefits-of-age/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/01/boom1.jpeg
+- http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg
+failed_files:
+- http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg
 ---
 
 <p style="text-align: center;"><a class="img" href="http://www.island94.org/wp-content/uploads/2011/01/boom1.jpeg"><img class="aligncenter" title="boom1" src="http://www.island94.org/wp-content/uploads/2011/01/boom1-500x241.jpg" alt="" width="500" height="241" /></a></p>

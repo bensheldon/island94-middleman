@@ -11,6 +11,9 @@ tags:
 wp:post_id: '2167'
 link: http://island94.dev/2010/09/find-fresh-perspectives-at-nonprofitmillennials-org/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/09/nonprofitmillennials-screenshot-top-500x420.png
+- http://www.island94.org/wp-content/uploads/2010/09/typewriter-3.png
 ---
 
 <img class="aligncenter size-medium wp-image-2169" title="nonprofitmillennials-screenshot-top" src="http://www.island94.org/wp-content/uploads/2010/09/nonprofitmillennials-screenshot-top-500x420.png" alt="" width="500" height="420" />

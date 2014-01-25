@@ -9,6 +9,8 @@ tags:
 wp:post_id: '191'
 link: http://island94.dev/2007/12/remember-paul/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/lego2web.jpg
 ---
 
 <p><img src="http://island94.org/files/island94.org/lego2web.jpg" alt="Color Lego Guy" align="center" /></p>

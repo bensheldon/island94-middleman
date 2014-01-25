@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2243'
 link: http://island94.dev/2010/10/fairly-fool-proof-popovers/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/10/popovers-500x373.jpg
 ---
 
 <img class="aligncenter size-medium wp-image-2244" title="popovers" src="http://www.island94.org/wp-content/uploads/2010/10/popovers-500x373.jpg" alt="" width="500" height="373" />

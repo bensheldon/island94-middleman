@@ -14,6 +14,8 @@ tags:
 wp:post_id: '110'
 link: http://island94.dev/2006/11/nonprofit-technology-sandwich/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/nonprofit-tech-sandwich.pdf
 ---
 
 <div style="text-align:center;">

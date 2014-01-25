@@ -8,6 +8,9 @@ tags:
 wp:post_id: '2512'
 link: http://island94.dev/2011/03/how-to-decorate-your-office-without-really-trying/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/03/succeed-at-business-1-600x255.png
+- http://www.island94.org/wp-content/uploads/2011/03/succeed-at-business-2-600x256.png
 ---
 
 <img src="http://www.island94.org/wp-content/uploads/2011/03/succeed-at-business-1-600x255.png" alt="" title="succeed at business 1" width="600" height="255" class="aligncenter size-medium wp-image-2513" />

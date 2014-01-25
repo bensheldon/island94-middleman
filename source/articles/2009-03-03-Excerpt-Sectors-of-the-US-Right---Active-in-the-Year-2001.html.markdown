@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '512'
 link: http://island94.dev/2009/03/excerpt-sectors-of-the-us-right-active-in-the-year-2001/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/03/producerist-narrative.png
+- http://www.island94.org/wp-content/uploads/2009/03/producerist-narrative-500x407.png
 ---
 
 With the political talk about Rush Limbaugh being <a href="http://www.huffingtonpost.com/2009/03/02/steele-takes-on-rush-limb_n_171135.html">in charge</a> of the Republican party I---serendipously while cleaning out my office---came across a list of definitions for the US Right from <a href="http://www.publiceye.org/ark/democracy/brochure.html">Defending Democracry: An activist resource kit</a>. In reading over the list, the question for me that comes to mind is: if that's the Right, what is the Left?

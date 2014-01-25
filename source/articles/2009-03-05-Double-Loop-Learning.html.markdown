@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '531'
 link: http://island94.dev/2009/03/double-loop-learning/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/03/doubleloop-500x143.png
 ---
 
 <p>While reading a <a href="http://www.amazon.com/review/R3SH49SV19FRVH/ref=cm_cr_rdp_perm">snarky review</a> on Amazon of Difficult Conversations, I was pointed to "Action Science a la Argyris".  Googling around I came upon <a href="http://tip.psychology.org/argyris.html">this</a>:<strong></strong></p>

@@ -12,6 +12,8 @@ tags:
 wp:post_id: '446'
 link: http://island94.dev/2009/02/self-language-and-consciousness/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/02/language-self-communication-500x215.png
 ---
 
 <p><a href="http://www.amazon.com/Tree-Knowledge-Humberto-R-Maturana/dp/0877736421?tag=particculturf-20">The Tree of Knowledge</a> is a goldmine of concepts and ideas.  The most interesting parts are at the end---in discussions of society, communications and language.</p>

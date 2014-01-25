@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2279'
 link: http://island94.dev/2010/11/learning-styles-and-chemistry/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-1.png
 ---
 
 <img class="aligncenter size-full wp-image-765" title="Alexander Periodic 1" src="http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-1.png" alt="" width="391" height="667" />

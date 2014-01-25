@@ -9,6 +9,9 @@ tags:
 wp:post_id: '2342'
 link: http://island94.dev/2010/12/blue-ribbon-commissions-in-print/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/12/blue-ribbon-commission.png
+- http://www.island94.org/wp-content/uploads/2010/12/blue-ribbon-commission-500x90.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/12/blue-ribbon-commission.png"><img class="aligncenter size-medium wp-image-2343" title="blue ribbon commission" src="http://www.island94.org/wp-content/uploads/2010/12/blue-ribbon-commission-500x90.png" alt="" width="500" height="90" /></a>

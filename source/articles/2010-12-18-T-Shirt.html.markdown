@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2384'
 link: http://island94.dev/2010/12/t-shirt/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/12/t-shirt-500x373.jpg
 ---
 
 <img class="aligncenter size-medium wp-image-2385" title="T Shirt" src="http://www.island94.org/wp-content/uploads/2010/12/t-shirt-500x373.jpg" alt="" width="500" height="373" />

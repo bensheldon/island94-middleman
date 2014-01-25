@@ -12,6 +12,8 @@ tags:
 wp:post_id: '2305'
 link: http://island94.dev/2010/11/boston-bike-crash-map/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/11/bcu-crashmap.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/11/bcu-crashmap.png"><img class="aligncenter size-full wp-image-2306" title="bcu-crashmap" src="http://www.island94.org/wp-content/uploads/2010/11/bcu-crashmap.png" alt="" width="420" height="478" /></a>

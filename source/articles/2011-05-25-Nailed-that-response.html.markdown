@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2671'
 link: http://island94.dev/2011/05/nailed-that-response/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/05/3collage-600x202.png
 ---
 
 <img class="aligncenter size-medium wp-image-2675" title="3collage" src="http://www.island94.org/wp-content/uploads/2011/05/3collage-600x202.png" alt="" width="600" height="202" />

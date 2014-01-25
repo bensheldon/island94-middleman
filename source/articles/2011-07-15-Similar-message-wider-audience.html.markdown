@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2785'
 link: http://island94.dev/2011/07/similar-message-wider-audience/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/07/namac_QA.png
 ---
 
 <img class="aligncenter size-full wp-image-2789" title="namac_QA" src="http://www.island94.org/wp-content/uploads/2011/07/namac_QA.png" alt="" width="880" height="513" />

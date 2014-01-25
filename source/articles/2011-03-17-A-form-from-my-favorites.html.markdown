@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2549'
 link: http://island94.dev/2011/03/a-form-from-my-favorites/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/03/brompt-signup-600x501.png
 ---
 
 <img class="aligncenter size-medium wp-image-2551" title="brompt-signup" src="http://www.island94.org/wp-content/uploads/2011/03/brompt-signup-600x501.png" alt="" />

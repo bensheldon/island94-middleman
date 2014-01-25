@@ -9,6 +9,14 @@ tags:
 wp:post_id: '890'
 link: http://island94.dev/2009/10/not-another-rogues-nest/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpeg
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p161-500x851.jpg
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p160.jpeg
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p160-500x851.jpg
+failed_files:
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p161-500x851.jpg
+- http://www.island94.org/wp-content/uploads/2009/10/navigator-p160-500x851.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpeg"><img title="navigator-p161" src="http://www.island94.org/wp-content/uploads/2009/10/navigator-p161-500x851.jpg" alt="navigator-p161" width="500" height="851" /></a>

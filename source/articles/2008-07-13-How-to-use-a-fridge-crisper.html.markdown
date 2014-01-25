@@ -7,6 +7,8 @@ tags:
 wp:post_id: '232'
 link: http://island94.dev/2008/07/how-to-use-a-fridge-crisper/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2008/07/fridge-500x453.png
 ---
 
 <img class="aligncenter size-medium wp-image-1604" title="fridge" src="http://www.island94.org/wp-content/uploads/2008/07/fridge-500x453.png" alt="" width="500" height="453" />

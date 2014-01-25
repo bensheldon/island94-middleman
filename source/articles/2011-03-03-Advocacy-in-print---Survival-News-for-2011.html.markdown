@@ -11,6 +11,9 @@ tags:
 wp:post_id: '2537'
 link: http://island94.dev/2011/03/advocacy-in-print-survival-news-for-2011/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/03/foodTimer-600x600.png
+- http://www.island94.org/wp-content/uploads/2011/03/survival-news-600x413.png
 ---
 
 <img class="aligncenter size-medium wp-image-2538" title="foodTimer" src="http://www.island94.org/wp-content/uploads/2011/03/foodTimer-600x600.png" alt="" width="600" height="600" />

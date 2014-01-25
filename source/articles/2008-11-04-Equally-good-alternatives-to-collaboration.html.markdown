@@ -8,6 +8,10 @@ tags:
 wp:post_id: '270'
 link: http://island94.dev/2008/11/equally-good-alternatives-to-collaboration/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/Thomas-Kilman Conflict Management Model.png
+failed_files:
+- http://island94.org/files/island94.org/Thomas-Kilman Conflict Management Model.png
 ---
 
 <p>Yesterday I posted an article that sought to give a broader frame to the idea of <a href="http://island94.org/articles/how-create-cross-sector-nonprofit-value">cross-sector nonprofit collaboration</a>: placing collaboration within a process of negotiation to create new value.  Today I will break down negotiation a little bit further to show why I think it's important to take a broader frame  of things and maybe even <a href="http://island94.org/articles/how-create-cross-sector-nonprofit-value#comment-3761">get semantic</a>. <strong>Updated to add:</strong> :-)</p>

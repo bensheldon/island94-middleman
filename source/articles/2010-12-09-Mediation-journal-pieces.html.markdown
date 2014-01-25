@@ -10,6 +10,9 @@ tags:
 wp:post_id: '2374'
 link: http://island94.dev/2010/12/mediation-journal-pieces/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/12/mediation-journal-sqr.png
+- http://www.island94.org/wp-content/uploads/2010/12/mediation-journal-sqr-500x546.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/12/mediation-journal-sqr.png"><img class="aligncenter size-medium wp-image-2375" title="mediation-journal-sqr" src="http://www.island94.org/wp-content/uploads/2010/12/mediation-journal-sqr-500x546.png" alt="" width="500" height="546" /></a>

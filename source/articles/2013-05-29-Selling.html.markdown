@@ -8,7 +8,6 @@ link: http://island94.dev/?p=3086
 wp:post_type: post
 ---
 
-
 From <a href="http://insideintercom.io/how-draft-grew-paying-customers-by-200/">"How Draft Grew Paying Customers by 200%"</a> by Nathan Kontny on Intercom's Blog:
 
 <blockquote>

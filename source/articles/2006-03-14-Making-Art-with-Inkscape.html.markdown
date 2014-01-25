@@ -11,6 +11,10 @@ tags:
 wp:post_id: '63'
 link: http://island94.dev/2006/03/making-art-with-inkscape/
 wp:post_type: post
+files:
+- http://island94.org/files/digitalbicycle-guy-thumb.png
+failed_files:
+- http://island94.org/files/digitalbicycle-guy-thumb.png
 ---
 
 Lately I've been spending more time than I should with a great free/open source software illustration program: <a href="http://inkscape.org">Inkscape</a>.

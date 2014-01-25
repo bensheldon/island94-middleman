@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2275'
 link: http://island94.dev/2010/10/life-before-the-chart/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/10/humboldt-isotherms-500x371.png
 ---
 
 <img class="aligncenter size-medium wp-image-2276" title="humboldt-isotherms" src="http://www.island94.org/wp-content/uploads/2010/10/humboldt-isotherms-500x371.png" alt="Humboldt's Isotherms" width="500" height="371" />

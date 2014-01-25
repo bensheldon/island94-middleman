@@ -14,6 +14,10 @@ tags:
 wp:post_id: '105'
 link: http://island94.dev/2006/10/spooky-baking/
 wp:post_type: post
+files:
+- http://island94.org/files/halloween_cooke_tableau.png
+failed_files:
+- http://island94.org/files/halloween_cooke_tableau.png
 ---
 
 <div style="text-align:center">

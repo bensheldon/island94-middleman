@@ -9,6 +9,8 @@ tags:
 wp:post_id: '245'
 link: http://island94.dev/2008/08/how-to-write-a-grant-the-way-i-want-to-be-taught-grant-writing/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/grant-apple.png
 ---
 
 <img src="http://island94.org/files/island94.org/grant-apple.png" alt="Grant Apple" />

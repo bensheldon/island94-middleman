@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '325'
 link: http://island94.dev/2009/01/2008-in-review/
 wp:post_type: post
+files:
+- http://island94.org/wp-content/uploads/2009/01/img_0232-500x533.jpg
 ---
 
 <p><img class="aligncenter size-medium wp-image-327" title="Me" src="http://island94.org/wp-content/uploads/2009/01/img_0232-500x533.jpg" alt="Me" width="500" height="533" /></p>

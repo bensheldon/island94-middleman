@@ -10,6 +10,9 @@ tags:
 wp:post_id: '2912'
 link: http://island94.dev/2011/09/project-fecundity/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/09/Project-Influences.pdf
+- http://www.island94.org/wp-content/uploads/2011/09/Project-Influences.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/09/Project-Influences.pdf"><img class="aligncenter size-full wp-image-2913" title="Project Influences" src="http://www.island94.org/wp-content/uploads/2011/09/Project-Influences.png" alt="" width="1162" height="2250" /></a>

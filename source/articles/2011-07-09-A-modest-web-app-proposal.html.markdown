@@ -9,6 +9,9 @@ tags:
 wp:post_id: '2731'
 link: http://island94.dev/2011/07/a-modest-web-app-proposal/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser.png
+- http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser-600x463.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser.png"><img class="aligncenter size-medium wp-image-2764" title="datastrology-browser" src="http://www.island94.org/wp-content/uploads/2011/07/datastrology-browser-600x463.png" alt="" width="600" height="463" /></a>

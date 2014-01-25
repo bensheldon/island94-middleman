@@ -8,6 +8,10 @@ tags:
 wp:post_id: '2404'
 link: http://island94.dev/2011/01/assessment-of-needs-assessment-needs/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg
+failed_files:
+- http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg
 ---
 
 <img src="http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities-600x684.jpg" alt="" title="staff-development-activities" class="aligncenter size-medium wp-image-2405" />

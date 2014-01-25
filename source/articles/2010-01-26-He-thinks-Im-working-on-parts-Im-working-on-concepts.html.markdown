@@ -12,6 +12,9 @@ tags:
 wp:post_id: '1726'
 link: http://island94.dev/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/01/zen-more-500x144.png
+- http://www.island94.org/wp-content/uploads/2010/01/zen-500x183.png
 ---
 
 The following quote is from <em>Zen and the Art of Motorcycle Maintenance</em> by Robert Pirsig. (The John mentioned is the protagonist's buddy who wants to escape modern technological life via a motorcycle he deigns to tune-up):

@@ -11,6 +11,13 @@ tags:
 wp:post_id: '2152'
 link: http://island94.dev/2010/08/fondly-remembered-experiments-in-minimal-webdesign/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-11.png
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-11-500x356.png
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-2.png
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-2-500x245.png
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-31.png
+- http://www.island94.org/wp-content/uploads/2010/08/pantextual-31-500x190.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/08/pantextual-11.png"><img class="aligncenter size-medium wp-image-2156" title="pantextual-1" src="http://www.island94.org/wp-content/uploads/2010/08/pantextual-11-500x356.png" alt="" width="500" height="356" /></a>Tomorrow is launch day for a blog aggregator website I worked on, but because I can't write about that <em>just yet</em> I thought I'd write about a website whose development has influenced a lot of my approach to minimal webdesign: <a href="http://pantextual.com">Pantextual.com</a>

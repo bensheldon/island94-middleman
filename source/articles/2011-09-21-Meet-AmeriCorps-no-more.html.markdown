@@ -5,6 +5,26 @@ tags: []
 wp:post_id: '2888'
 link: http://island94.dev/2011/09/meet-americorps-no-more/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/09/Home-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/California-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/California-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/rebecca-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/rebecca-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/Map-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/Map-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/Interests-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/Interests-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/All-about-Meet-AmeriCorps-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/All-about-Meet-AmeriCorps-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/So-you-need-help-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/So-you-need-help-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/Service-Area-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/Service-Area-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/Alaska-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/Alaska-Meet-AmeriCorps-150x150.png
+- http://www.island94.org/wp-content/uploads/2011/09/user-account-Meet-AmeriCorps.png
+- http://www.island94.org/wp-content/uploads/2011/09/user-account-Meet-AmeriCorps-150x150.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/09/Home-Meet-AmeriCorps.png"><img src="http://www.island94.org/wp-content/uploads/2011/09/Home-Meet-AmeriCorps.png" alt="" title="Home | Meet AmeriCorps" width="888" height="1215" class="aligncenter size-full wp-image-2893" /></a>

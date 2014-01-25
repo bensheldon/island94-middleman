@@ -9,6 +9,8 @@ tags:
 wp:post_id: '3012'
 link: http://island94.dev/2012/07/hard-data-on-the-status-of-open311/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2012/11/open311status.herokuapp-2-600x369.png
 ---
 
 <img class="aligncenter size-medium wp-image-3013" title="open311status.herokuapp-2" src="http://www.island94.org/wp-content/uploads/2012/11/open311status.herokuapp-2-600x369.png" alt="" width="600" height="369" />

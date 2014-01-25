@@ -13,6 +13,9 @@ tags:
 wp:post_id: '676'
 link: http://island94.dev/2009/08/drupal-adding-a-geocoding-failure-message/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/08/Picture-3-500x136.png
+- http://www.island94.org/wp-content/uploads/2009/08/geocode_warn.zip
 ---
 
 One of the coolest pieces of Drupal is how simple it is to quickly enter a street address and have it show up on a dynamic map on your website using <a href="http://drupal.org/project/location">Location</a> and <a href="http://drupal.org/project/gmap">GMap</a> modules. To make it happen, a lot of stuff goes on behind the scenes. Unfortunately, in typical Drupal fashion, when something goes wrong, you aren't provided much information to fix it.

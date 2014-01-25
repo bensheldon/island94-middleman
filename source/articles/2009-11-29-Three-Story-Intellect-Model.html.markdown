@@ -10,6 +10,9 @@ tags:
 wp:post_id: '1529'
 link: http://island94.dev/2009/11/three-story-intellect-model/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/11/three-story1.png
+- http://www.island94.org/wp-content/uploads/2009/11/three-story1-500x564.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2009/11/three-story1.png"><img class="aligncenter size-medium wp-image-1528" title="Three Story Intellect" src="http://www.island94.org/wp-content/uploads/2009/11/three-story1-500x564.png" alt="Three Story Intellect" width="500" height="564" /></a>I netflixed <em><a href="http://en.wikipedia.org/wiki/Rosencrantz_%26_Guildenstern_Are_Dead_%28film%29">Rosencrantz &amp; Guildenstern Are Dead</a></em> this weekend, so I'm in a mood of rhetoric and reason. Above is from my Critical Thinking reading ("Teacher Behaviors that Enable Student Thinking", Arthur L Costa<em>)</em>. The terms are a nice way to evaluate the complexity of test questions, and is comparable to Bloom's Taxonomy. Apparently the metaphor is derived from an Oliver Wendell Holmes poem:

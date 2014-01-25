@@ -9,6 +9,9 @@ tags:
 wp:post_id: '1826'
 link: http://island94.dev/2010/03/frequency-of-occurrence-of-letters-in-english/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/03/frequency-of-letters-in-english.png
+- http://www.island94.org/wp-content/uploads/2010/03/popco-frequency-of-letters-in-english.png
 ---
 
 <p style="text-align: center;">

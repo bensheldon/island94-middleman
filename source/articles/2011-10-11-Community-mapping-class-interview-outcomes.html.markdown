@@ -5,6 +5,9 @@ tags: []
 wp:post_id: '2919'
 link: http://island94.dev/2011/10/community-mapping-class-interview-outcomes/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/10/CIMG3114.jpg
+- http://www.island94.org/wp-content/uploads/2011/10/CIMG3114-600x399.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/10/CIMG3114.jpg"><img class="aligncenter size-medium wp-image-2921" title="CIMG3114" src="http://www.island94.org/wp-content/uploads/2011/10/CIMG3114-600x399.jpg" alt="" width="600" height="399" /></a>

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1668'
 link: http://island94.dev/2010/01/notes-of-the-first-water/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/01/navigator-stack-island-500x136.png
 ---
 
 <img class="aligncenter size-medium wp-image-1669" title="The Navigator: Stack Island Text" src="http://www.island94.org/wp-content/uploads/2010/01/navigator-stack-island-500x136.png" alt="" width="500" height="136" />

@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '905'
 link: http://island94.dev/2009/10/quotidian-insights/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/10/china-hw.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2009/10/china-hw.jpg"><img class="aligncenter size-full wp-image-906" title="china-hw" src="http://www.island94.org/wp-content/uploads/2009/10/china-hw.jpg" alt="china-hw" width="445" height="184" /></a>

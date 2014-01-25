@@ -13,6 +13,18 @@ tags:
 wp:post_id: '1999'
 link: http://island94.dev/2010/06/goodbye-producers-forum/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/06/Goodbye-Producers-Forum-500x324.png
+- http://www.island94.org/wp-content/uploads/2010/06/Producers-Forum-collaboration-tools-for-media-creators_1243800159999.png
+- http://www.island94.org/wp-content/uploads/2010/06/Producers-Forum-collaboration-tools-for-media-creators_1243800159999-500x379.png
+- http://www.island94.org/wp-content/uploads/2010/06/About-the-Producers-Forum-Producers-Forum_1243800321575.png
+- http://www.island94.org/wp-content/uploads/2010/06/About-the-Producers-Forum-Producers-Forum_1243800321575-500x332.png
+- http://www.island94.org/wp-content/uploads/2010/06/Youth-Media-Producers-Forum_1243800428293.png
+- http://www.island94.org/wp-content/uploads/2010/06/Youth-Media-Producers-Forum_1243800428293-500x524.png
+- http://www.island94.org/wp-content/uploads/2010/06/Youth-Media-Producers-Forum_1243800433509.png
+- http://www.island94.org/wp-content/uploads/2010/06/Youth-Media-Producers-Forum_1243800433509-500x524.png
+- http://www.island94.org/wp-content/uploads/2010/06/Submit-wikipage-Producers-Forum_1243800483059.png
+- http://www.island94.org/wp-content/uploads/2010/06/Submit-wikipage-Producers-Forum_1243800483059-500x527.png
 ---
 
 <img title="Goodbye Producers Forum" src="http://www.island94.org/wp-content/uploads/2010/06/Goodbye-Producers-Forum-500x324.png" alt="" width="500" height="324" />

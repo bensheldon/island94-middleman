@@ -15,6 +15,8 @@ tags:
 wp:post_id: '850'
 link: http://island94.dev/2009/10/obviously-not-to-scale/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/10/OmegaPoint-500x783.png
 ---
 
 <img class="aligncenter size-medium wp-image-852" title="OmegaPoint" src="http://www.island94.org/wp-content/uploads/2009/10/OmegaPoint-500x783.png" alt="OmegaPoint" width="500" height="783" />

@@ -11,6 +11,13 @@ tags:
 wp:post_id: '2501'
 link: http://island94.dev/2011/03/the-48-hour-mobile-web-app-drunken-stumble/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/03/drunkenlogo-500x190.png
+- http://www.island94.org/wp-content/uploads/2011/03/Drunken-Stumble-Screens.png
+- http://www.island94.org/wp-content/uploads/2011/03/drunken-planning.jpeg
+- http://www.island94.org/wp-content/uploads/2011/03/Drunken-Stumble-Screens-500x315.png
+- http://www.island94.org/wp-content/uploads/2011/03/team-stumble.png
+- http://www.island94.org/wp-content/uploads/2011/03/team-stumble-500x331.png
 ---
 
 <a href="http://drunkenstumble.com"><img class="aligncenter" title="drunkenlogo" src="http://www.island94.org/wp-content/uploads/2011/03/drunkenlogo-500x190.png" alt="" width="500" height="190" /></a>

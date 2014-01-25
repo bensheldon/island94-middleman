@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2804'
 link: http://island94.dev/2011/08/7-years-in-boston/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/08/7-years-in-boston.png
 ---
 
 <img title="7-years-in-boston" src="http://www.island94.org/wp-content/uploads/2011/08/7-years-in-boston.png" alt="" width="800" height="780" />

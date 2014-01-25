@@ -11,6 +11,8 @@ tags:
 wp:post_id: '1776'
 link: http://island94.dev/2010/02/good-enough-data/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/02/btop-map-combined-500x462.png
 ---
 
 <img class="aligncenter size-medium wp-image-1783" title="btop-map-combined" src="http://www.island94.org/wp-content/uploads/2010/02/btop-map-combined-500x462.png" alt="" width="500" height="462" />

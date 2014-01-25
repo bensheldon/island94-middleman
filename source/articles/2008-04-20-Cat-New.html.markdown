@@ -8,6 +8,8 @@ tags:
 wp:post_id: '215'
 link: http://island94.dev/2008/04/cat-new/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/ponty-set.png
 ---
 
 <div style="display:none">.!.</div><p><a href="http://www.flickr.com/photos/bensheldon/sets/72157604097747478/"><img src="http://island94.org/files/island94.org/ponty-set.png" alt="Ponty, a cat" /></a></p>

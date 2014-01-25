@@ -10,6 +10,8 @@ tags:
 wp:post_id: '216'
 link: http://island94.dev/2008/04/brompt-is-a-blog-reminder/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/brompt-logo.jpg
 ---
 
 <a title="a blog reminder service" href="http://brompt.com"><img src="http://island94.org/files/island94.org/brompt-logo.jpg" alt="Brompt.com logo" /></a>

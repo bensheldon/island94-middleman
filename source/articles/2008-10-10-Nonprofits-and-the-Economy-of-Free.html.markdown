@@ -11,6 +11,10 @@ tags:
 wp:post_id: '259'
 link: http://island94.dev/2008/10/nonprofits-and-the-economy-of-free/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/anderson-ad-free.png
+- http://island94.org/files/island94.org/nonprofit-free.png
+- http://island94.org/files/island94.org/nonprofit-society-free.png
 ---
 
 My RSS feeds of late have been delivering to me many interesting posts by Chris Anderson as he explores the <a href="http://www.longtail.com/the_long_tail/2008/09/revised-the-fou.html">different kinds of free</a>. I've been specifically interested in his visualizations of the Advertising Model of Free: advertisers pay for advertising, which subsidizes programming, which is then given away for free, with the goal being that consumers will purchaser those original advertiser's products. There is a great explanation of how broadcast advertising works in the <a href="http://video.google.com/videoplay?docid=4708457008927095699&amp;hl=en">Denver Open Media's Opening Access video</a> (at about the 1 minute, 30 second mark).

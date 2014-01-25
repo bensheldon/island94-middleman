@@ -7,8 +7,6 @@ link: http://island94.dev/2007/11/donations-and-volunteering/
 wp:post_type: post
 ---
 
-
-
 Donations Individual Giving
 
 Volunteering

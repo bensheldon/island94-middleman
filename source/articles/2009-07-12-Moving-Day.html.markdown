@@ -15,6 +15,8 @@ tags:
 wp:post_id: '631'
 link: http://island94.dev/2009/07/moving-day/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/07/norman-rockwell-moving-day-500x311.png
 ---
 
 <img class="aligncenter size-medium wp-image-632" title="norman rockwell - moving day" src="http://www.island94.org/wp-content/uploads/2009/07/norman-rockwell-moving-day-500x311.png" alt="norman rockwell - moving day" width="500" height="311" />

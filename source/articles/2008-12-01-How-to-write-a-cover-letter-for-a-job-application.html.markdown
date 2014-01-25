@@ -9,6 +9,12 @@ tags:
 wp:post_id: '274'
 link: http://island94.dev/2008/12/how-to-write-a-cover-letter-for-a-job-application/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/How to write a resume cover letter.pdf
+- http://island94.org/files/island94.org/How to write a resume cover letter.png
+failed_files:
+- http://island94.org/files/island94.org/How to write a resume cover letter.pdf
+- http://island94.org/files/island94.org/How to write a resume cover letter.png
 ---
 
 <p><a href="http://island94.org/files/island94.org/How to write a resume cover letter.pdf"><img src="http://island94.org/files/island94.org/How to write a resume cover letter.png" alt="Example cover letter with explanation" /><br />Download this as a PDF</a></p>

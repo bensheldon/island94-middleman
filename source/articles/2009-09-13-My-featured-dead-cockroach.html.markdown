@@ -10,6 +10,9 @@ tags:
 wp:post_id: '707'
 link: http://island94.dev/2009/09/my-featured-dead-cockroach/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach.png
+- http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach-500x468.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach.png"><img class="aligncenter size-medium wp-image-708" title="wired-cockroach" src="http://www.island94.org/wp-content/uploads/2009/09/wired-cockroach-500x468.png" alt="wired-cockroach" width="500" height="468" /></a>

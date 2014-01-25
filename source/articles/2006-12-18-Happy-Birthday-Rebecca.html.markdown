@@ -15,6 +15,10 @@ tags:
 wp:post_id: '112'
 link: http://island94.dev/2006/12/happy-birthday-rebecca/
 wp:post_type: post
+files:
+- http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3
+failed_files:
+- http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3
 ---
 
 My friend and coworker <a href="http://circuitous.org/rebecca/">Rebecca</a> made an extensive list of things she'd like for her <a href="http://circuitous.org/rebecca/2006/12/12/birthday-list/">birthday</a>.  I really like her rationale:

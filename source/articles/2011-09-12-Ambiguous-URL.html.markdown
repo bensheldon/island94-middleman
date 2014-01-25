@@ -8,6 +8,9 @@ tags:
 wp:post_id: '2822'
 link: http://island94.dev/2011/09/ambiguous-url/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/09/donorschoose-on-coke-machine.jpg
+- http://www.island94.org/wp-content/uploads/2011/09/bitly-short-URLS.png
 ---
 
 <img class="aligncenter size-full wp-image-2826" title="donorschoose-on-coke-machine" src="http://www.island94.org/wp-content/uploads/2011/09/donorschoose-on-coke-machine.jpg" alt="" width="827" height="822" />

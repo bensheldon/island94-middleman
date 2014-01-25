@@ -11,6 +11,9 @@ tags:
 wp:post_id: '882'
 link: http://island94.dev/2009/10/kick-in-the-baud/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2009/10/human-channels.jpg
+- http://www.island94.org/wp-content/uploads/2009/10/human-channels-500x215.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2009/10/human-channels.jpg"><img class="aligncenter size-medium wp-image-883" title="human channels" src="http://www.island94.org/wp-content/uploads/2009/10/human-channels-500x215.jpg" alt="human channels" width="500" height="215" /></a>

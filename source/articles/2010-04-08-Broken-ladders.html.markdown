@@ -9,6 +9,9 @@ published: false
 wp:post_id: '1884'
 link: http://island94.dev/2010/04/broken-ladders/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/04/Ladder_3.gif
+- http://www.island94.org/wp-content/uploads/2009/10/ladder-of-citizen-participation.gif
 ---
 
 <em>Let's get polemic.</em>

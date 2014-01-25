@@ -9,6 +9,17 @@ tags:
 wp:post_id: '2409'
 link: http://island94.dev/2011/01/mediation-journal-version-0/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-3.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-3-500x334.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-1.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-1-150x150.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-2.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-2-150x150.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-5.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-5-150x150.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-4.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/mediation-4-150x150.jpg
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2011/01/mediation-3.jpg" class="img"><img class="aligncenter size-medium wp-image-2413" title="mediation-3" src="http://www.island94.org/wp-content/uploads/2011/01/mediation-3-500x334.jpg" alt="" width="500" height="334" /></a>

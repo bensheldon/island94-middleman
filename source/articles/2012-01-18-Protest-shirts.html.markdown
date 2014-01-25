@@ -9,6 +9,9 @@ tags:
 wp:post_id: '2987'
 link: http://island94.dev/2012/01/protest-shirts/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2012/01/day-of-the-protest.png
+- http://www.island94.org/wp-content/uploads/2012/01/day-of-the-protest-600x432.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2012/01/day-of-the-protest.png"><img class="aligncenter size-medium wp-image-2988" title="day of the protest" src="http://www.island94.org/wp-content/uploads/2012/01/day-of-the-protest-600x432.png" alt="" width="600" height="432" /></a>

@@ -9,6 +9,11 @@ tags:
 wp:post_id: '1836'
 link: http://island94.dev/2010/03/two-of-charts/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2010/03/Chart-Chooser.png
+- http://www.island94.org/wp-content/uploads/2010/03/Chart-Chooser-500x374.png
+- http://www.island94.org/wp-content/uploads/2010/03/backofnapkin-codex.png
+- http://www.island94.org/wp-content/uploads/2010/03/backofnapkin-codex-500x599.png
 ---
 
 <a href="http://www.island94.org/wp-content/uploads/2010/03/Chart-Chooser.png"><img class="aligncenter size-medium wp-image-1837" title="Chart Chooser" src="http://www.island94.org/wp-content/uploads/2010/03/Chart-Chooser-500x374.png" alt="" width="500" height="374" /></a>

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '335'
 link: http://island94.dev/2009/01/using-distinctions-to-create-meaning/
 wp:post_type: post
+files:
+- http://island94.org/wp-content/uploads/2009/01/making-meaning-500x756.png
 ---
 
 For Christmas, my friend <a href="http://verdesmoke.com">Danielle</a> bought me the book, <a href="http://www.amazon.com/Tree-Knowledge-Humberto-R-Maturana/dp/0877736421?tag=particculturf-20"><em>The Tree of Knowledge: The Biological Roots of Human Understanding</em></a>.  It's getting a little long in the tooth near page 150, but I really like how they go about building up their argument.  Specifically, how they define <em>Destinctions</em>.

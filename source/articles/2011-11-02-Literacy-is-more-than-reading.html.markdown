@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2950'
 link: http://island94.dev/2011/11/literacy-is-more-than-reading/
 wp:post_type: post
+files:
+- http://transmissionproject.org/sites/transmissionproject.org/files/Transmission%20Project's%20Approach%20to%20Digital%20Literacy.pdf
 ---
 
 Below is a year-old memo I wrote for the Transmission Project was later polished into a more <a href="http://transmissionproject.org/sites/transmissionproject.org/files/Transmission%20Project's%20Approach%20to%20Digital%20Literacy.pdf">general statement on media literacy</a>:

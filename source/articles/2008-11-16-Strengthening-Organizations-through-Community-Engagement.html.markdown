@@ -11,6 +11,12 @@ tags:
 wp:post_id: '271'
 link: http://island94.dev/2008/11/strengthening-organizations-through-community-engagement/
 wp:post_type: post
+files:
+- http://island94.org/files/island94.org/Community Engagement Presentation.pdf
+- http://island94.org/files/island94.org/Logic Model-small.png
+failed_files:
+- http://island94.org/files/island94.org/Community Engagement Presentation.pdf
+- http://island94.org/files/island94.org/Logic Model-small.png
 ---
 
 The following is from a handout I created for the CTCnet Conference in which I presented on capacity building models for community engagement.  You can <a href="http://island94.org/files/island94.org/Community Engagement Presentation.pdf">download the handout with worksheet (PDF)</a>, or read the overview below.

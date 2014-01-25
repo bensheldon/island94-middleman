@@ -10,6 +10,24 @@ tags:
 wp:post_id: '41'
 link: http://island94.dev/2006/04/dave-alpert-at-the-abbey/
 wp:post_type: post
+files:
+- "http://island94.org/files/Dave%20Alpert%20-%20Other%20assholes.mp3\n# "
+- "http://island94.org/files/Dave%20Alpert%20-%20Rude%20Awakening.mp3\n# "
+- |
+  http://island94.org/files/Dave%20Alpert%20-%20Lovesong%20for%20the%20wrong%20person.mp3
+
+  The songnames are mostly wrong, just relating to how Dave described the songs. Lastly, the mic was sitting on the bar, so any thumps or clicks are people setting down their glasses.  Any guffawing is probably me--at the jokes, not the music.
+
+  <!--break-->
+failed_files:
+- "http://island94.org/files/Dave%20Alpert%20-%20Other%20assholes.mp3\n# "
+- "http://island94.org/files/Dave%20Alpert%20-%20Rude%20Awakening.mp3\n# "
+- |
+  http://island94.org/files/Dave%20Alpert%20-%20Lovesong%20for%20the%20wrong%20person.mp3
+
+  The songnames are mostly wrong, just relating to how Dave described the songs. Lastly, the mic was sitting on the bar, so any thumps or clicks are people setting down their glasses.  Any guffawing is probably me--at the jokes, not the music.
+
+  <!--break-->
 ---
 
 I was up at the Abbey Lounge last night in Somerville checking out "Dave Alpert":http://davealpert.com, a local singer/songwriter.  I met him a few weeks ago at a video-blogger meetup in Jamaica Plain.  

@@ -9,6 +9,9 @@ tags:
 wp:post_id: '2397'
 link: http://island94.dev/2011/01/adding-hyperlinks-to-print-publications/
 wp:post_type: post
+files:
+- http://www.island94.org/wp-content/uploads/2011/01/hyperlink-numbermysteries-500x454.jpg
+- http://www.island94.org/wp-content/uploads/2011/01/hyperlink-handcraftedcss-500x334.jpg
 ---
 
 <img class="aligncenter size-medium wp-image-2398" title="hyperlink-numbermysteries" src="http://www.island94.org/wp-content/uploads/2011/01/hyperlink-numbermysteries-500x454.jpg" alt="" width="500" height="454" />
