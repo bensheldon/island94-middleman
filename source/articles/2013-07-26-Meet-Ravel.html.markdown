@@ -5,8 +5,6 @@ tags: []
 wp:post_id: '3098'
 wp_link: "/2013/07/meet-ravel/"
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png
 redirects:
 - "/2013/07/meet-ravel/"
 - "/?p=3098"
