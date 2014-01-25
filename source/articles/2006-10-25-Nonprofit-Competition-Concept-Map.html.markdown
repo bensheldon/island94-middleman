@@ -29,6 +29,6 @@ The second was <a href="http://www.sauder.ubc.ca/faculty/research/docs/weinberg/
 
 Putting them together, I made this using OmniGraffle:
 
-<a href="/files/island94.org/Typology_of_Nonprofit_Competition-concept_map.pdf">Download the PDF</a><a></a>
+<a href="http://island94.org/files/island94.org/Typology_of_Nonprofit_Competition-concept_map.pdf">Download the PDF</a><a></a>
 
 <a title="Photo Sharing" href="http://www.flickr.com/photos/bensheldon/272577537/"><img src="http://static.flickr.com/118/272577537_df531ea720.jpg" alt="Concept Map: Typology of Nonprofit Competition" width="393" height="500" /></a>

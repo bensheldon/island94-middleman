@@ -31,7 +31,7 @@ So here I am and all the best on your twenty-third...
 
 <h3>a recording of you reading a poem, singing a song, or saying a sentence</h3>
 
-<a href="/files/Ben_Pint-Pot-and-Billy.mp3">Pint Pot and Billy</a> From <em>Eureka: The songs that made Austrailia</em> compiled by Warrent Fahey.  Version as sung by Cyril Duncan of Hawthorne Queensland.  Recorded in one-track with Garageband and my MacBook's built-in mic.
+<a href="http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3">Pint Pot and Billy</a> From <em>Eureka: The songs that made Austrailia</em> compiled by Warrent Fahey.  Version as sung by Cyril Duncan of Hawthorne Queensland.  Recorded in one-track with Garageband and my MacBook's built-in mic.
 
 <h3>a sentence with a word you like</h3>
 

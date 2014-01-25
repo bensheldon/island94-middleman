@@ -22,6 +22,6 @@ wp:post_type: post
 </div>
 <p>Yesterday a subset of <em>the gang</em> skipped the blustery weather to bake and decorate Halloween cookies in Danielle's inviting kitchen.  Other than the predictable headache and infirmity from massive sugar intake, we had good times.</p>
 <div style="text-align:center">
-<a href="http://flickr.com/photos/bensheldon/sets/72157594351008275/"><img src="/files/halloween_cooke_tableau.png" /></a>
+<a href="http://flickr.com/photos/bensheldon/sets/72157594351008275/"><img src="http://island94.org/files/halloween_cooke_tableau.png" /></a>
 </div>
 <p><!--break--></p>

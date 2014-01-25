@@ -23,7 +23,7 @@ I shared a panel with Curtis Henderson (BNN), Denise Moorehead (<a href="http://
 
 1. I introduced my relationship to the others on the BNN panel. Most people think of a map as geographic tool to get somewhere; I wanted to break people out of that mode of thinking and instead think of a map as a way to quickly show relationships and information visually. If I had to explain the same information using text, it would be much longer, more complicated and might not have the same impact.
 
-<a href="../wp-content/uploads/2009/09/Mapping-Relationships.png"></a><a href="http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships.png"><img class="aligncenter size-medium wp-image-729" title="Mapping Relationships" src="http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships-500x565.png" alt="Mapping Relationships" width="500" height="565" /></a>
+<a href="http://island94.org/wp-content/uploads/2009/09/Mapping-Relationships.png"></a><a href="http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships.png"><img class="aligncenter size-medium wp-image-729" title="Mapping Relationships" src="http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships-500x565.png" alt="Mapping Relationships" width="500" height="565" /></a>
 
 2. I showed the excellent <a href="http://www.bostonchinatown.org/">Boston Chinatown map</a> from Paul Niwa of Northeastern University which explores social linkages and the flow of news and information in a community.  This type of visual representation allows us to very quickly see relationships and make inferences from what otherwise would be a very complicated explanation.
 
