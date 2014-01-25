@@ -8,8 +8,6 @@ tags:
 wp:post_id: '215'
 link: http://island94.dev/2008/04/cat-new/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/ponty-set.png
 ---
 
 .!.

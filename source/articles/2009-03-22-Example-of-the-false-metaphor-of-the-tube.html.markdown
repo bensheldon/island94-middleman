@@ -5,8 +5,6 @@ tags: []
 wp:post_id: '580'
 link: http://island94.dev/2009/03/example-of-the-false-metaphor-of-the-tube/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2009/03/guffey-communications-500x446.jpg
 ---
 
 I was flipping through my old college business communications textbook (_Business Communication: Process and Product, 4th Edition _by Mary Ellen Guffy) when lo and behold I came across the [(false) metaphor of the tube for communications](http://www.island94.org/2009/02/the-false-metaphor-of-the-tube-for-communication/):

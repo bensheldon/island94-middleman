@@ -5,14 +5,6 @@ tags: []
 wp:post_id: '2969'
 link: http://island94.dev/2012/01/2011-in-review/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2012/01/viewimage_story.jpeg
-- http://www.island94.org/wp-content/uploads/2012/01/Tube_closingtime2.png
-- http://www.island94.org/wp-content/uploads/2012/01/Tube_closingtime2-600x776.png
-- http://www.island94.org/wp-content/uploads/2012/01/BCU-Incorporation.jpg
-- http://www.island94.org/wp-content/uploads/2012/01/BCU-Incorporation-600x769.jpg
-- http://www.island94.org/wp-content/uploads/2012/01/USA-Pixel.png
-- http://www.island94.org/wp-content/uploads/2012/01/USA-Pixel-600x374.png
 ---
 
 2011 was a year of transitions: plenty of new starts and sad endings.

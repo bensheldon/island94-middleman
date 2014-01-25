@@ -9,10 +9,6 @@ tags:
 wp:post_id: '3018'
 link: http://island94.dev/2012/08/put-your-civics-where-your-houseplant-is/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2012/11/civicsgarden-large-600x266.png
-- http://www.island94.org/wp-content/uploads/2012/11/bamboo-states-600x218.png
-- http://www.island94.org/wp-content/uploads/2012/11/civicsgarden-result-600x408.png
 ---
 
 ![](2012-08-14-Put-Your-Civics-Where-Your-Houseplant-Is/civicsgarden-large-600x266.png "civicsgarden-large")

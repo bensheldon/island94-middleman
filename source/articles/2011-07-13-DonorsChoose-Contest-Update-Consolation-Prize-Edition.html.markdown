@@ -9,9 +9,6 @@ tags:
 wp:post_id: '2773'
 link: http://island94.dev/2011/07/donorschoose-contest-update-consolation-prize-edition/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/07/Donorschoose-Feedback.png
-- http://www.island94.org/wp-content/uploads/2011/07/Donorschoose-Feedback-category.png
 ---
 
 DonorsChoose announced the [winners for their Hacking Education contest](http://www.donorschoose.org/hacking-education-winners) today and unfortunately [Print & Share](http://printandshare.com), the app I developed with my coworker Billy, didn't win. The consolation prize is all of the positive feedback I've received from teachers who are using Print & Share:

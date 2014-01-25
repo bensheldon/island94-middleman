@@ -8,9 +8,6 @@ tags:
 wp:post_id: '151'
 link: http://island94.dev/2007/09/setting-up-octave-and-gnuplot-on-osx/
 wp:post_type: post
-files:
-- http://sourceforge.net/projects/octave/files/Octave%2520MacOSX%2520Binary/2009-10-03%2520binary%2520of%2520Octave%25203.2.3/
-- http://sourceforge.net/projects/octave/files//Octave%2520MacOSX%2520Binary/2009-10-03%2520binary%2520of%2520Octave%25203.2.3/README_OSX1065.txt/view
 ---
 
 I just started auditing a Mathematical Models in Biology class and Matlab is one of the requirements. I had relatively good experience with the free, open source alternative, [Octave](http://www.gnu.org/software/octave/) back in college, but then I was running Linux, not OSX. It took me about an hour to figure out how to set it up (I was a little worried for a bit).

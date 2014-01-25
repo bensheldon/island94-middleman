@@ -9,8 +9,6 @@ tags:
 wp:post_id: '135'
 link: http://island94.dev/2007/08/walkabout-trail-ri/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/walkabout-trail.png
 ---
 
 [ ![Frog](http://farm2.static.flickr.com/1327/819325062_64e6660ffa_m.jpg) ](http://www.flickr.com/photos/bensheldon/819325062/ "Photo Sharing") [ ![Helen sees something](http://farm2.static.flickr.com/1054/818413293_f3c656f1ce_m.jpg) ](http://www.flickr.com/photos/bensheldon/818413293/ "Photo Sharing")

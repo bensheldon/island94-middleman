@@ -15,8 +15,6 @@ tags:
 wp:post_id: '112'
 link: http://island94.dev/2006/12/happy-birthday-rebecca/
 wp:post_type: post
-files:
-- http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3
 failed_files:
 - http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3
 ---

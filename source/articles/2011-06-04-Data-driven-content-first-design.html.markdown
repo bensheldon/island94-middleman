@@ -10,10 +10,6 @@ tags:
 wp:post_id: '2682'
 link: http://island94.dev/2011/06/data-driven-content-first-design/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/06/pdfpulltabs-600x342.png
-- http://www.island94.org/wp-content/uploads/2011/06/DonorsChoose-TextLengths.png
-- http://www.island94.org/wp-content/uploads/2011/06/DonorsChoose-TextLengths-600x503.png
 ---
 
 ![](2011-06-04-Data-driven-content-first-design/pdfpulltabs-600x342.png "pdfpulltabs")

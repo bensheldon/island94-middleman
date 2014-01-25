@@ -8,8 +8,6 @@ tags:
 wp:post_id: '3093'
 link: http://island94.dev/2013/06/state-of-the-shirt-2012/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2013/06/dayoftheshirt-2012.png
 ---
 
 [ ![dayoftheshirt-2012](2013-06-29-State-of-the-Shirt-2012/dayoftheshirt-2012.png) ](http://dayoftheshirt.com)

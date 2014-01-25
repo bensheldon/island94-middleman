@@ -9,8 +9,6 @@ tags:
 wp:post_id: '104'
 link: http://island94.dev/2006/10/nonprofit-competition-concept-map/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/Typology_of_Nonprofit_Competition-concept_map.pdf
 ---
 
 At this summer's CTCnet Conference the thing I most took away--or rather, repeated to the most number of people--was something said by the keynote speaker, Ami Dar, the creator of Idealist.org.

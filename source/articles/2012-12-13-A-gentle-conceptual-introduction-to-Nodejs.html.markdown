@@ -8,12 +8,6 @@ tags:
 wp:post_id: '3066'
 link: http://island94.dev/2012/12/a-gentle-conceptual-introduction-to-node-js/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2012/12/javascript-600x170.png
-- http://www.island94.org/wp-content/uploads/2012/12/js-on-browser-and-server-600x470.png
-- http://www.island94.org/wp-content/uploads/2012/12/typical-vs-node-server-600x344.png
-- http://www.island94.org/wp-content/uploads/2012/12/maptail-600x330.png
-- http://www.island94.org/wp-content/uploads/2012/12/nodejs-cost.png
 ---
 
 _This is the text of a skillshare I delivered at [The Sourcery](http://www.thesourcery.com/), an awesome commission-less recruiting service. Not only is their model nifty, but they care about actually knowing what they're recruiting for---so hopefully there isn't anything too wrong below._

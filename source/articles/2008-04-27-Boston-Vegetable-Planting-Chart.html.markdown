@@ -11,8 +11,6 @@ tags:
 wp:post_id: '218'
 link: http://island94.dev/2008/04/boston-vegetable-planting-chart/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/Boston%20Vegetable%20Planting%20Chart.pdf
 ---
 
 [ ![Boston Vegetable Planting Chart](http://farm3.static.flickr.com/2300/2447776678_9cd6dc2a71.jpg) ](http://www.flickr.com/photos/bensheldon/2447776678/ "Boston Vegetable Planting Chart by bensheldon, on Flickr")

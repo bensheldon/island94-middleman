@@ -8,8 +8,6 @@ tags:
 wp:post_id: '2644'
 link: http://island94.dev/2011/05/reductionist-function-and-practice/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/05/remote.jpeg
 ---
 
 ![](2011-05-09-Reductionist-function-and-practice/remote.jpeg "remote")

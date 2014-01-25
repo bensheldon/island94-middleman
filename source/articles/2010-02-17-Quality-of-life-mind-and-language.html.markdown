@@ -8,8 +8,6 @@ tags:
 wp:post_id: '1770'
 link: http://island94.dev/2010/02/quality-of-life-mind-and-language/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/02/Definitions.png
 ---
 
 ![](2010-02-17-Quality-of-life-mind-and-language/Definitions.png "Definitions")

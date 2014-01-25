@@ -8,9 +8,6 @@ tags:
 wp:post_id: '2957'
 link: http://island94.dev/2011/11/speedgeeking-on-wordpress-filters/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/11/Wordpress-Filters-Presentation-600x305.png
-- http://www.island94.org/wp-content/uploads/2011/11/Wordpress-Filters-Speedgeeking-Ben-Sheldon.pdf
 ---
 
 ![](2011-11-28-Speedgeeking-on-Wordpress-Filters/Wordpress-Filters-Presentation-600x305.png "Wordpress Filters Presentation")

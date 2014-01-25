@@ -8,8 +8,6 @@ tags:
 wp:post_id: '1673'
 link: http://island94.dev/2010/01/two-tales-of-island-94/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/01/Gr-Warranty-500x399.png
 ---
 
 ![](2010-01-10-Two-tales-of-Island-94/Gr-Warranty-500x399.png "Gutenberg-Richter Warranty")

@@ -10,10 +10,6 @@ tags:
 wp:post_id: '41'
 link: http://island94.dev/2006/04/dave-alpert-at-the-abbey/
 wp:post_type: post
-files:
-- http://island94.org/files/Dave%2520Alpert%2520-%2520Other%2520assholes.mp3
-- http://island94.org/files/Dave%2520Alpert%2520-%2520Rude%2520Awakening.mp3
-- http://island94.org/files/Dave%2520Alpert%2520-%2520Lovesong%2520for%2520the%2520wrong%2520person.mp3
 failed_files:
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Other%2520assholes.mp3
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Rude%2520Awakening.mp3

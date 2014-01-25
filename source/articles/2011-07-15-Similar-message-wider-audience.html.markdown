@@ -9,8 +9,6 @@ tags:
 wp:post_id: '2785'
 link: http://island94.dev/2011/07/similar-message-wider-audience/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/07/namac_QA.png
 ---
 
 ![](2011-07-15-Similar-message-wider-audience/namac_QA.png "namac_QA")

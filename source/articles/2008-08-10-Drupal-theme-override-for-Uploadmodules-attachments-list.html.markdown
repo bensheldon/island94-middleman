@@ -13,9 +13,6 @@ tags:
 wp:post_id: '238'
 link: http://island94.dev/2008/08/drupal-theme-override-for-upload-modules-attachments-list/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/shiny_upload-example.png
-- http://island94.org/files/island94.org/shiny_upload.zip
 ---
 
 **Update:** this functionality can now be achieved with the [iTweak\_upload module ](http://drupal.org/project/itweak_upload). _Thanks to [Damon](http://damoncook.net/) for the tip!_

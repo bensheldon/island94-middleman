@@ -8,8 +8,6 @@ tags:
 wp:post_id: '2268'
 link: http://island94.dev/2010/10/stop-being-a-weenie-and-just-go-make-something/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/10/weenie-500x502.png
 ---
 
 ![](2010-10-19-Stop-being-a-weenie-and-just-go-make-something/weenie-500x502.png "weenie")

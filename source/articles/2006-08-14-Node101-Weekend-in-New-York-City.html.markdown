@@ -10,8 +10,6 @@ tags:
 wp:post_id: '87'
 link: http://island94.dev/2006/08/node101-weekend-in-new-york-city/
 wp:post_type: post
-files:
-- http://island94.org/files/node101mnnset.png
 failed_files:
 - http://island94.org/files/node101mnnset.png
 ---

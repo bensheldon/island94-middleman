@@ -11,30 +11,6 @@ tags:
 wp:post_id: '716'
 link: http://island94.dev/2009/09/technology-2-0-mapping-presentation/
 wp:post_type: post
-files:
-- http://island94.org/wp-content/uploads/2009/09/Mapping-Relationships.png
-- http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships.png
-- http://www.island94.org/wp-content/uploads/2009/09/Mapping-Relationships-500x565.png
-- http://www.island94.org/wp-content/uploads/2009/09/bostonchinatown.png
-- http://www.island94.org/wp-content/uploads/2009/09/bostonchinatown-500x369.png
-- http://www.island94.org/wp-content/uploads/2009/09/cityofboston-list.png
-- http://www.island94.org/wp-content/uploads/2009/09/cityofboston-list-499x408.png
-- http://www.island94.org/wp-content/uploads/2009/09/bostonneighborhoodmap.png
-- http://www.island94.org/wp-content/uploads/2009/09/bostonneighborhoodmap-500x409.png
-- http://www.island94.org/wp-content/uploads/2009/09/eastsomerville.png
-- http://www.island94.org/wp-content/uploads/2009/09/eastsomerville-500x409.png
-- http://www.island94.org/wp-content/uploads/2009/09/sci-lynn.png
-- http://www.island94.org/wp-content/uploads/2009/09/sci-lynn-500x412.png
-- http://www.island94.org/wp-content/uploads/2009/09/bikeboston-google.png
-- http://www.island94.org/wp-content/uploads/2009/09/bikeboston-google-500x377.png
-- http://www.island94.org/wp-content/uploads/2009/09/bikeboston-map.png
-- http://www.island94.org/wp-content/uploads/2009/09/bikeboston-map-500x356.png
-- http://www.island94.org/wp-content/uploads/2009/09/ilovemountains.png
-- http://www.island94.org/wp-content/uploads/2009/09/ilovemountains-499x306.png
-- http://www.island94.org/wp-content/uploads/2009/09/communitygardens.png
-- http://www.island94.org/wp-content/uploads/2009/09/communitygardens-500x350.png
-- http://www.island94.org/wp-content/uploads/2009/09/communitygardens-map.png
-- http://www.island94.org/wp-content/uploads/2009/09/communitygardens-map-500x322.png
 ---
 
 On Saturday I presented on Mapping at the Technology 2.0 community summit convened by the [Organizers Collaborative](http://organizerscollaborative.org) (I'm chairperson of the board), [Boston Neighborhood Network](http://bnntv.org) (the local cable access TV station) and the [John O'Bryant African American Institute](http://www.aai.neu.edu/). I had 10 minutes to...

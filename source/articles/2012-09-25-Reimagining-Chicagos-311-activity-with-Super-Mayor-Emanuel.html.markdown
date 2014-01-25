@@ -9,8 +9,6 @@ tags:
 wp:post_id: '3057'
 link: http://island94.dev/2012/09/reimagining-chicagos-311-activity-with-super-mayor-emanuel/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2012/11/screenshot-600x437.png
 ---
 
 ![](2012-09-25-Reimagining-Chicagos-311-activity-with-Super-Mayor-Emanuel/screenshot-600x437.png "screenshot")

@@ -10,9 +10,6 @@ tags:
 wp:post_id: '1013'
 link: http://island94.dev/2009/11/ethics-made-easy/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2009/11/ethical-reasoning.png
-- http://www.island94.org/wp-content/uploads/2009/11/ethical-reasoning-500x719.png
 ---
 
 [ ![ethical-reasoning](2009-11-10-Ethics-made-easy/ethical-reasoning-500x719.png "ethical-reasoning") ](2009-11-10-Ethics-made-easy/ethical-reasoning.png)

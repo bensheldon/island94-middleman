@@ -9,9 +9,6 @@ tags:
 wp:post_id: '2125'
 link: http://island94.dev/2010/08/art-i-hardly-knew-ye/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpeg
-- http://www.island94.org/wp-content/uploads/2010/08/spiegelman-500x453.jpg
 failed_files:
 - http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpg
 ---

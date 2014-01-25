@@ -11,8 +11,6 @@ tags:
 wp:post_id: '249'
 link: http://island94.dev/2008/08/radio-ga-ga-2-the-role-of-nonprofits-in-constructing-a-better-world/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/Ben-on-WUML-20080829.mp3
 ---
 
 [ ![DSC03532](http://farm4.static.flickr.com/3125/2809174391_2abdcf02df.jpg) ](http://www.flickr.com/photos/bensheldon/2809174391/ "DSC03532 by bensheldon, on Flickr")

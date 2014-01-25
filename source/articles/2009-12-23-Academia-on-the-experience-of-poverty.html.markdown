@@ -10,8 +10,6 @@ tags:
 wp:post_id: '1616'
 link: http://island94.dev/2009/12/academia-on-the-experience-of-poverty/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2009/12/Livelihood-Framework-500x270.png
 ---
 
 ![](2009-12-23-Academia-on-the-experience-of-poverty/Livelihood-Framework-500x270.png "Livelihood Framework")

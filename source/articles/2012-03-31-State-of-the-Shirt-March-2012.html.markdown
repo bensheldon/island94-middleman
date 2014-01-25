@@ -8,9 +8,6 @@ tags:
 wp:post_id: '3001'
 link: http://island94.dev/2012/03/state-of-the-shirt-march-2012/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2012/03/dayoftheshirt-cal-600x428.png
-- http://www.island94.org/wp-content/uploads/2012/03/dayoftheshirt-Twitter-600x138.png
 ---
 
 [ ![](2012-03-31-State-of-the-Shirt-March-2012/dayoftheshirt-cal-600x428.png "State of the Shirt ") ](http://dayoftheshirt.com)

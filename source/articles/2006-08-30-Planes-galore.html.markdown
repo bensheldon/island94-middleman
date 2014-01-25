@@ -10,8 +10,6 @@ tags:
 wp:post_id: '93'
 link: http://island94.dev/2006/08/planes-galore/
 wp:post_type: post
-files:
-- http://island94.org/files/planesgroup.png
 failed_files:
 - http://island94.org/files/planesgroup.png
 ---

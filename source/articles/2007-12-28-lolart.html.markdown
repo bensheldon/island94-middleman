@@ -8,8 +8,6 @@ tags:
 wp:post_id: '197'
 link: http://island94.dev/2007/12/lolart/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/ucallmeezishmael.jpg
 ---
 
 [ ![funny pictures](2007-12-28-lolart/ucallmeezishmael.jpg) ](http://mine.icanhascheezburger.com/View.aspx?ucallmeezis128433303032993750.jpg)

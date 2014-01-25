@@ -13,8 +13,6 @@ tags:
 wp:post_id: '136'
 link: http://island94.dev/2007/08/geekout-video-on-maps-for-cable-access-tv/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2007/08/mediamap-600x448.jpg
 ---
 
 ![](2007-08-02-Geekout-Video-on-Maps-for-Cable-Access-TV/mediamap-600x448.jpg "mediamap")

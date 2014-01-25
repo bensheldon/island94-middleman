@@ -12,8 +12,6 @@ tags:
 wp:post_id: '1795'
 link: http://island94.dev/2010/02/laying-out-latest-layout/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/02/SurvivalNews-W2010-chop-500x543.png
 ---
 
 ![](2010-02-27-Laying-out-latest-layout/SurvivalNews-W2010-chop-500x543.png "SurvivalNews-W2010-chop")

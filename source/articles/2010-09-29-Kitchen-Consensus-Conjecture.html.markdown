@@ -8,9 +8,6 @@ tags:
 wp:post_id: '2212'
 link: http://island94.dev/2010/09/kitchen-consensus-conjecture/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/09/lunch.jpg
-- http://www.island94.org/wp-content/uploads/2010/09/lunch-500x502.jpg
 ---
 
 [ ![](2010-09-29-Kitchen-Consensus-Conjecture/lunch-500x502.jpg "lunch") ](2010-09-29-Kitchen-Consensus-Conjecture/lunch.jpg)

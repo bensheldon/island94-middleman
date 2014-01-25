@@ -5,13 +5,6 @@ tags: []
 wp:post_id: '163'
 link: http://island94.dev/2007/10/san-diego-is-burning/
 wp:post_type: post
-files:
-- http://island94.org/files/island94.org/North.JPG.jpg
-- http://island94.org/files/island94.org/Twin%20Peaks.JPG.jpg
-- http://island94.org/files/island94.org/South.JPG.jpg
-- http://island94.org/files/island94.org/TwinEspo.JPG.jpg
-- http://island94.org/files/island94.org/SL_witchcreekfire278842x006_001.jpg
-- http://island94.org/files/island94.org/SL_witchcreekfire278842x007_001.jpg
 ---
 
 I got an email from my mom this morning that the wildfires in Southern California county were strongly encroaching on my hometown of Poway and the surrounding communities. A couple of my friends started an email list and we've been sending around information about what's happening.

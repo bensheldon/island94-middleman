@@ -8,11 +8,6 @@ tags:
 wp:post_id: '2696'
 link: http://island94.dev/2011/06/uncrime-mapping/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpeg
-- http://www.island94.org/wp-content/uploads/2011/06/Trulia-Crime-Map.png
-- http://www.island94.org/wp-content/uploads/2011/06/Trulia-Crime-Map-600x391.png
-- http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large-600x401.jpg
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpg
 ---

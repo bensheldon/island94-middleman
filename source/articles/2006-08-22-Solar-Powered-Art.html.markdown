@@ -11,8 +11,6 @@ tags:
 wp:post_id: '89'
 link: http://island94.dev/2006/08/solar-powered-art/
 wp:post_type: post
-files:
-- http://island94.org/files/solaronegroup.png
 failed_files:
 - http://island94.org/files/solaronegroup.png
 ---

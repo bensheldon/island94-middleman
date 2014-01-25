@@ -10,11 +10,6 @@ tags:
 wp:post_id: '2298'
 link: http://island94.dev/2010/11/goofus-gallant-mba/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/11/Goofus-and-Gallant-MBA.png
-- http://www.island94.org/wp-content/uploads/2010/11/Goofus-and-Gallant-MBA-500x223.png
-- http://www.island94.org/wp-content/uploads/2010/11/zalaznik-managers-and-leaders.png
-- http://www.island94.org/wp-content/uploads/2010/11/zalaznik-managers-and-leaders-500x598.png
 ---
 
 [ ![](2010-11-09-Goofus-Gallant-MBA/Goofus-and-Gallant-MBA-500x223.png "Goofus and Gallant MBA") ](2010-11-09-Goofus-Gallant-MBA/Goofus-and-Gallant-MBA.png)

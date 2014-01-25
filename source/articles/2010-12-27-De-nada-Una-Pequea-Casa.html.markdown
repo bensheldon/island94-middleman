@@ -8,8 +8,6 @@ tags:
 wp:post_id: '2391'
 link: http://island94.dev/2010/12/de-nada-una-pequena-casa/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/12/SAM_0505-500x375.jpg
 ---
 
 ![](2010-12-27-De-nada-Una-Pequea-Casa/SAM_0505-500x375.jpg "One Small House")

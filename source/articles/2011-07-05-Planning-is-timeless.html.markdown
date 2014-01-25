@@ -8,11 +8,6 @@ tags:
 wp:post_id: '2739'
 link: http://island94.dev/2011/07/planning-is-timeless/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/07/Operation-High-Hopes.png
-- http://www.island94.org/wp-content/uploads/2011/07/Operation-High-Hopes-600x675.png
-- http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpeg
-- http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM-600x448.jpg
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpg
 ---

@@ -10,8 +10,6 @@ tags:
 wp:post_id: '2243'
 link: http://island94.dev/2010/10/fairly-fool-proof-popovers/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/10/popovers-500x373.jpg
 ---
 
 ![](2010-10-17-Fairly-fool-proof-whole-wheat-popovers/popovers-500x373.jpg "popovers")

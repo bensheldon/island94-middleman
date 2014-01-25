@@ -5,12 +5,6 @@ tags: []
 wp:post_id: '763'
 link: http://island94.dev/2009/10/janets-spiral-periodic-table/
 wp:post_type: post
-files:
-- http://island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png
-- http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png
-- http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table-499x448.png
-- http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-1.png
-- http://www.island94.org/wp-content/uploads/2009/10/Alexander-Periodic-2.png
 ---
 
   [ ![Janets Spiral Periodic Table](2009-10-06-Janets-Spiral-Periodic-Table/Janets-Spiral-Periodic-Table-499x448.png "Janets Spiral Periodic Table") ](2009-10-06-Janets-Spiral-Periodic-Table/Janets-Spiral-Periodic-Table.png)

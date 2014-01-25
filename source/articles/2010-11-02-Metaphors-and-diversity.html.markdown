@@ -9,8 +9,6 @@ tags:
 wp:post_id: '2283'
 link: http://island94.dev/2010/11/metaphors-and-diversity/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/11/filter-disintermediation-500x329.jpg
 ---
 
 ![](2010-11-02-Metaphors-and-diversity/filter-disintermediation-500x329.jpg "filter-disintermediation")

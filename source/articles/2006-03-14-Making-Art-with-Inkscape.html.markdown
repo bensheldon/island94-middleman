@@ -11,8 +11,6 @@ tags:
 wp:post_id: '63'
 link: http://island94.dev/2006/03/making-art-with-inkscape/
 wp:post_type: post
-files:
-- http://island94.org/files/digitalbicycle-guy-thumb.png
 failed_files:
 - http://island94.org/files/digitalbicycle-guy-thumb.png
 ---

@@ -10,8 +10,6 @@ tags:
 wp:post_id: '2629'
 link: http://island94.dev/2011/04/shirt-sales-scraped-daily/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2011/04/daily-t-shirt-sales-600x397.png
 ---
 
 [ ![](2011-04-15-Shirt-sales-scraped-daily/daily-t-shirt-sales-600x397.png "daily t-shirt sales") ](http://dayoftheshirt.com)

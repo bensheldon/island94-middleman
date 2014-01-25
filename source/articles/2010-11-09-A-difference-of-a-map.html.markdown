@@ -12,13 +12,6 @@ tags:
 wp:post_id: '2288'
 link: http://island94.dev/2010/11/a-difference-of-a-map/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/11/olpchq-map-500x238.png
-- http://www.island94.org/wp-content/uploads/2010/11/olpcmapnet-map-500x250.png
-- http://www.island94.org/wp-content/uploads/2010/11/olpc-map-1.jpg
-- http://www.island94.org/wp-content/uploads/2010/11/olpc-map-1-150x150.jpg
-- http://www.island94.org/wp-content/uploads/2010/11/olpc-map-2.jpg
-- http://www.island94.org/wp-content/uploads/2010/11/olpc-map-2-150x150.jpg
 ---
 
 From ["Assessment Overview of One Laptop per Child Projects"](http://www.olpcnews.com/implementation/evaluations/offical_review_of_olpc_monitor.html), an evaluation of One Laptop Per Child deployments: "Figure 1 : The current global distribution of XO laptops across the world."

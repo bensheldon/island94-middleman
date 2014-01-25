@@ -5,8 +5,6 @@ tags: []
 wp:post_id: '2103'
 link: http://island94.dev/2010/06/task-identification-and-completion/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/06/task-identification-and-completion.png
 ---
 
 [ ![](2010-06-23-Task-identification-and-completion/task-identification-and-completion.png "task identification and completion") ](2010-06-23-Task-identification-and-completion/task-identification-and-completion.png)Where do your strengths lie? I'd put myself in the upper half rather than the lower: I'm better at Task Identification than Task Completion. And by "completion", I mean 1 of the 3 Ds: Do, Delegate or Dump.

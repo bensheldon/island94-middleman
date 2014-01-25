@@ -10,11 +10,6 @@ tags:
 wp:post_id: '931'
 link: http://island94.dev/2009/10/starvation-begets-starvation/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2009/10/np-starvation-cycle.png
-- http://www.island94.org/wp-content/uploads/2009/10/np-starvation-cycle-500x504.png
-- http://www.island94.org/wp-content/uploads/2009/10/np-starvation-graphic.png
-- http://www.island94.org/wp-content/uploads/2009/10/np-starvation-graphic-500x650.png
 ---
 
 [ ![np-starvation-cycle](2009-10-30-Starvation-begets-starvation/np-starvation-cycle-500x504.png "np-starvation-cycle") ](2009-10-30-Starvation-begets-starvation/np-starvation-cycle.png)

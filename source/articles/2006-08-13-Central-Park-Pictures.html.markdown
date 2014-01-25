@@ -10,8 +10,6 @@ tags:
 wp:post_id: '86'
 link: http://island94.dev/2006/08/central-park-pictures/
 wp:post_type: post
-files:
-- http://island94.org/files/centralpark.png
 failed_files:
 - http://island94.org/files/centralpark.png
 ---

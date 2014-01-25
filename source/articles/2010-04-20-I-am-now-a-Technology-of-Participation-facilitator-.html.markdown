@@ -10,11 +10,6 @@ tags:
 wp:post_id: '1894'
 link: http://island94.dev/2010/04/i-am-now-a-technology-of-participation-facilitator/
 wp:post_type: post
-files:
-- http://www.island94.org/wp-content/uploads/2010/04/Consensus-Workshop.png
-- http://www.island94.org/wp-content/uploads/2010/04/Consensus-Workshop-500x314.png
-- http://www.island94.org/wp-content/uploads/2010/04/Manna.png
-- http://www.island94.org/wp-content/uploads/2010/04/Manna-500x376.png
 ---
 
 [ ![](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop-500x314.png "Consensus Workshop") ](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop.png)
