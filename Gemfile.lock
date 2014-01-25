@@ -7,7 +7,6 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.9)
     activesupport (3.2.16)
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
@@ -130,8 +129,6 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
-    reverse_markdown (0.4.7)
-      nokogiri
     ruby-hmac (0.4.0)
     ruby-progressbar (1.2.0)
     sass (3.2.14)
@@ -163,10 +160,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
   bootstrap-sass (~> 3.0.2.0)
   bourbon
+  builder (~> 3.0)
+  coderay
   haml
+  kramdown
   middleman (~> 3.2.0)
   middleman-blog
   middleman-livereload (~> 3.1.0)
@@ -174,4 +173,3 @@ DEPENDENCIES
   middleman-s3_sync
   middleman_writer!
   rake
-  reverse_markdown

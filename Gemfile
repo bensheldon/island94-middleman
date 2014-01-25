@@ -15,5 +15,7 @@ gem 'middleman-pry'
 
 gem "middleman_writer", git: 'git://github.com/bensheldon/middleman_writer.git'
 
-gem "RedCloth"
-gem 'reverse_markdown'
+# For feed.xml.builder
+gem "builder", "~> 3.0"
+gem 'kramdown'
+gem 'coderay'
