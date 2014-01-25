@@ -6,7 +6,6 @@ tags:
 - nptech
 - social networking
 - technology
-wp_link: "/2008/07/facebook-to-phone-trees-nonprofit-technology-for-everyone/"
 wp:post_type: post
 redirects:
 - "/2008/07/facebook-to-phone-trees:-nonprofit-technology-for-everyone/"

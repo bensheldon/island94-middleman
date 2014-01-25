@@ -3,7 +3,6 @@ title: Free society
 date: '2008-03-08'
 tags:
 - politics
-wp_link: "/2008/03/free-society/"
 wp:post_type: post
 redirects:
 - "/observation/free-society"

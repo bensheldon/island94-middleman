@@ -5,7 +5,6 @@ tags:
 - boilerplate
 - fundraising
 - nonprofit
-wp_link: "/2011/10/fundraising-tool-memo-boilerplate/"
 wp:post_type: post
 redirects:
 - "/2011/10/fundraising-tool-memo-boilerplate/"

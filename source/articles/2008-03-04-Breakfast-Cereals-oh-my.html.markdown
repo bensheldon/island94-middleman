@@ -3,7 +3,6 @@ title: Breakfast Cereals, oh my
 date: '2008-03-04'
 tags:
 - food
-wp_link: "/2008/03/breakfast-cereals-oh-my/"
 wp:post_type: post
 redirects:
 - "/node/207"

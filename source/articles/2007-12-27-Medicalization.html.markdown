@@ -4,7 +4,6 @@ date: '2007-12-27'
 tags:
 - medicine
 - psychology
-wp_link: "/2007/12/medicalization/"
 wp:post_type: post
 redirects:
 - "/node/196"

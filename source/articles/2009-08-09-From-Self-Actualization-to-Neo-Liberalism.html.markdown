@@ -9,7 +9,6 @@ tags:
 - history
 - liberalism
 - politics
-wp_link: "/2009/08/from-self-actualization-to-neo-liberalism/"
 wp:post_type: post
 redirects:
 - "/2009/08/from-self-actualization-to-neo-liberalism/"

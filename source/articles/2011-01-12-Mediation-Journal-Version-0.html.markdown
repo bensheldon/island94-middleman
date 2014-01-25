@@ -6,7 +6,6 @@ tags:
 - media
 - publishing
 - writing
-wp_link: "/2011/01/mediation-journal-version-0/"
 wp:post_type: post
 redirects:
 - "/2011/01/mediation-journal-version-0/"

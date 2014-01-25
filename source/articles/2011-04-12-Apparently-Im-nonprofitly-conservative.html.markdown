@@ -6,7 +6,6 @@ tags:
 - nonprofits
 - policy
 - reform
-wp_link: "/2011/04/apparently-im-nonprofitly-conservative/"
 wp:post_type: post
 redirects:
 - "/2011/04/apparently-im-nonprofitly-conservative/"

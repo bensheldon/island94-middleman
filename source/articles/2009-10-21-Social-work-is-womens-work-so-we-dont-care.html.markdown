@@ -11,7 +11,6 @@ tags:
 - salary
 - wages
 - women
-wp_link: "/2009/10/social-work-is-womens-work-so-we-dont-care/"
 wp:post_type: post
 redirects:
 - "/2009/10/social-work-is-womens-work-so-we-dont-care/"

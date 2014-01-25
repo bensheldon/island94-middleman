@@ -4,7 +4,6 @@ date: '2008-11-17'
 tags:
 - hiring
 - questions
-wp_link: "/2008/11/interview-questions/"
 wp:post_type: post
 redirects:
 - "/node/272"

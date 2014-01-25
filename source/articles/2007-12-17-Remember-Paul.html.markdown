@@ -6,7 +6,6 @@ tags:
 - inspiration
 - mentor
 - remembrance
-wp_link: "/2007/12/remember-paul/"
 wp:post_type: post
 redirects:
 - "/node/191"

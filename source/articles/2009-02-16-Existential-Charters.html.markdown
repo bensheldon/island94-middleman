@@ -6,7 +6,6 @@ tags:
 - government
 - law
 - politics
-wp_link: "/2009/02/existential-charters/"
 wp:post_type: post
 redirects:
 - "/2009/02/existential-charters/"

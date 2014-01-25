@@ -6,7 +6,6 @@ tags:
 - nonprofits
 - politics
 - progressivism
-wp_link: "/2011/05/philanthropys-progressive-legacy/"
 wp:post_type: post
 redirects:
 - "/2011/05/philanthropys-progressive-legacy/"

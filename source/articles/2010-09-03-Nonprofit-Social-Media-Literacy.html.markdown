@@ -7,7 +7,6 @@ tags:
 - media-literacy
 - nonprofit
 - social media
-wp_link: "/2010/09/nonprofit-social-media-literacy/"
 wp:post_type: post
 redirects:
 - "/2010/09/nonprofit-social-media-literacy/"

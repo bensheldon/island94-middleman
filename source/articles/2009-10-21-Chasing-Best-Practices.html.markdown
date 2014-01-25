@@ -8,7 +8,6 @@ tags:
 - honesty
 - nonprofit
 - rules
-wp_link: "/2009/10/chasing-best-practices/"
 wp:post_type: post
 redirects:
 - "/2009/10/chasing-best-practices/"

@@ -8,7 +8,6 @@ tags:
 - navigation
 - portfolio
 - visualizations
-wp_link: "/2009/09/technology-2-0-mapping-presentation/"
 wp:post_type: post
 redirects:
 - "/2009/09/technology-2-0-mapping-presentation/"

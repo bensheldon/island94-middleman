@@ -5,7 +5,6 @@ tags:
 - nonprofit
 - social-enterprise
 - sour-grapes
-wp_link: "/2010/12/undermining-nonprofit-significance/"
 wp:post_type: post
 redirects:
 - "/2010/12/undermining-nonprofit-significance/"

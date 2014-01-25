@@ -6,7 +6,6 @@ tags:
 - Daniell
 - photos
 - San Francisco
-wp_link: "/2006/07/san-francisco-nights/"
 wp:post_type: post
 redirects:
 - "/node/56"

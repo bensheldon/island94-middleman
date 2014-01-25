@@ -7,7 +7,6 @@ tags:
 - New York
 - photos
 - walking
-wp_link: "/2006/08/central-park-pictures/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/centralpark.png

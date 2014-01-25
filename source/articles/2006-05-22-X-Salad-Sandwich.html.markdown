@@ -6,7 +6,6 @@ tags:
 - food
 - mayo
 - sandwich
-wp_link: "/2006/05/x-salad-sandwich/"
 wp:post_type: post
 redirects:
 - "/node/47"

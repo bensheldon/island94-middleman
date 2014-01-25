@@ -5,7 +5,6 @@ tags:
 - algorithm
 - trust
 - wikipedia
-wp_link: "/2007/08/trustworthiness/"
 wp:post_type: post
 redirects:
 - "/node/141"

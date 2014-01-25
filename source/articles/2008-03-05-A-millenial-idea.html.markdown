@@ -6,7 +6,6 @@ tags:
 - economics
 - education
 - generational
-wp_link: "/2008/03/a-millenial-idea/"
 wp:post_type: post
 redirects:
 - "/node/208"

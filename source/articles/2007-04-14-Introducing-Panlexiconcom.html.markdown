@@ -10,7 +10,6 @@ tags:
 - thesaurus
 - webdesign
 - website
-wp_link: "/2007/04/introducing-panlexicon-com/"
 wp:post_type: post
 redirects:
 - "/node/128"

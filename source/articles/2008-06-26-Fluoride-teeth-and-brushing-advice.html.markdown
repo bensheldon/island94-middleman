@@ -4,7 +4,6 @@ date: '2008-06-26'
 tags:
 - health
 - hygiene
-wp_link: "/2008/06/fluoride-teeth-and-brushing-advice/"
 wp:post_type: post
 redirects:
 - "/node/228"

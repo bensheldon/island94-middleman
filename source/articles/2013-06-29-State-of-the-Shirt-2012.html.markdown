@@ -5,7 +5,6 @@ tags:
 - day-of-the-shirt
 - review
 - summary
-wp_link: "/2013/06/state-of-the-shirt-2012/"
 wp:post_type: post
 redirects:
 - "/2013/06/state-of-the-shirt-2012/"

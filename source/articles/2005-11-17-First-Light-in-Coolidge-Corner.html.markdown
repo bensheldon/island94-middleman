@@ -6,7 +6,6 @@ tags:
 - choir
 - Coolidge Corner
 - Jessica
-wp_link: "/2005/11/first-light-in-coolidge-corner/"
 wp:post_type: post
 redirects:
 - "/node/8"

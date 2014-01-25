@@ -2,7 +2,6 @@
 title: Fiction Post Disclaimer
 date: '2006-07-03'
 tags: []
-wp_link: "/2006/07/fiction-post-disclaimer/"
 wp:post_type: post
 redirects:
 - "/node/61"

@@ -6,7 +6,6 @@ tags:
 - pedagogy
 - satire
 - teaching
-wp_link: "/2010/10/no-wonder-you-werent-good-at-it/"
 wp:post_type: post
 redirects:
 - "/2010/10/no-wonder-you-werent-good-at-it/"

@@ -9,7 +9,6 @@ tags:
 - Sarah
 - smoothie
 - wet hair
-wp_link: "/2006/07/breakfast-smoothie/"
 wp:post_type: post
 redirects:
 - "/node/69"

@@ -6,7 +6,6 @@ tags:
 - art
 - perception
 - philosophy
-wp_link: "/2010/08/art-i-hardly-knew-ye/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpg

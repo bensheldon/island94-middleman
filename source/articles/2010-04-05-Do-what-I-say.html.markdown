@@ -6,7 +6,6 @@ tags:
 - genius
 - practice
 - society
-wp_link: "/2010/04/do-what-i-say/"
 wp:post_type: post
 redirects:
 - "/2010/04/i-know-not-what-ive-done/"

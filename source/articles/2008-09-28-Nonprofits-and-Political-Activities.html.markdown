@@ -7,7 +7,6 @@ tags:
 - politics
 - religion
 - structure
-wp_link: "/2008/09/nonprofits-and-political-activities/"
 wp:post_type: post
 redirects:
 - "/node/256"

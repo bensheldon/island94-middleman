@@ -6,7 +6,6 @@ tags:
 - art
 - criticism
 - irony
-wp_link: "/2007/10/woody-allen-assignment/"
 wp:post_type: post
 redirects:
 - "/node/159"

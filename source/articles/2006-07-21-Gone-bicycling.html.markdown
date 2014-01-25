@@ -8,7 +8,6 @@ tags:
 - summer
 - time lapse
 - video
-wp_link: "/2006/07/gone-bicycling/"
 wp:post_type: post
 redirects:
 - "/node/78"

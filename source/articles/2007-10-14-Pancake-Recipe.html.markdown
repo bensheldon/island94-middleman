@@ -5,7 +5,6 @@ tags:
 - breakfast
 - food
 - recipe
-wp_link: "/2007/10/pancake-recipe/"
 wp:post_type: post
 redirects:
 - "/node/158"

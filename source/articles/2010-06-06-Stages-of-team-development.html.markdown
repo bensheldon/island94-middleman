@@ -7,7 +7,6 @@ tags:
 - management
 - stages
 - teams
-wp_link: "/2010/06/stages-of-team-development/"
 wp:post_type: post
 redirects:
 - "/2010/06/stages-of-team-development/"

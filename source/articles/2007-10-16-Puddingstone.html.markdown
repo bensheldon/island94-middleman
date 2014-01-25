@@ -7,7 +7,6 @@ tags:
 - history
 - poetry
 - rocks
-wp_link: "/2007/10/puddingstone/"
 wp:post_type: post
 redirects:
 - "/node/161"

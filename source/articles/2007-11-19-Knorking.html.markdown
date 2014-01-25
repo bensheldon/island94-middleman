@@ -5,7 +5,6 @@ tags:
 - eating
 - language
 - tableware
-wp_link: "/2007/11/knorking/"
 wp:post_type: post
 redirects:
 - "/node/174"

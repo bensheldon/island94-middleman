@@ -6,7 +6,6 @@ tags:
 - merchandise
 - shirt
 - subway
-wp_link: "/2010/12/t-shirt/"
 wp:post_type: post
 redirects:
 - "/2010/12/t-shirt/"

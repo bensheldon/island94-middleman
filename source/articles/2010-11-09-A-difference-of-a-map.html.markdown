@@ -9,7 +9,6 @@ tags:
 - mapmaking
 - olpc
 - participation
-wp_link: "/2010/11/a-difference-of-a-map/"
 wp:post_type: post
 redirects:
 - "/2010/11/a-difference-of-a-map/"

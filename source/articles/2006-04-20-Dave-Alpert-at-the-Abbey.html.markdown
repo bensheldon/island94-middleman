@@ -7,7 +7,6 @@ tags:
 - bootleg
 - Dave Alpert
 - mp3
-wp_link: "/2006/04/dave-alpert-at-the-abbey/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/Dave%2520Alpert%2520-%2520Other%2520assholes.mp3

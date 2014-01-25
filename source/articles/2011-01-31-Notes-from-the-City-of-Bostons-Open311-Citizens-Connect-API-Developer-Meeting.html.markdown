@@ -7,7 +7,6 @@ tags:
 - govdata
 - government
 - meeting
-wp_link: "/2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/"
 wp:post_type: post
 redirects:
 - "/2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/"

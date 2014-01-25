@@ -6,7 +6,6 @@ tags:
 - nonprofit
 - operations
 - strategy
-wp_link: "/2006/10/nonprofit-competition-concept-map/"
 wp:post_type: post
 redirects:
 - "/2006/10/nonprofit-competition-&-concept-map/"

@@ -6,7 +6,6 @@ tags:
 - cybernetics
 - language
 - rhetoric
-wp_link: "/2007/12/destructive-rhetoric/"
 wp:post_type: post
 redirects:
 - "/node/187"

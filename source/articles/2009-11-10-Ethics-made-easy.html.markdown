@@ -7,7 +7,6 @@ tags:
 - ethics
 - experience
 - stupid
-wp_link: "/2009/11/ethics-made-easy/"
 wp:post_type: post
 redirects:
 - "/2009/11/ethics-made-easy/"

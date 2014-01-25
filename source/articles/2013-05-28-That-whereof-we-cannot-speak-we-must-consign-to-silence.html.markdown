@@ -2,7 +2,6 @@
 title: That whereof we cannot speak we must consign to silence
 date: '2013-05-28'
 tags: []
-wp_link: "/2013/05/that-whereof-we-cannot-speak-we-must-consign-to-silence/"
 wp:post_type: post
 redirects:
 - "/2013/05/that-whereof-we-cannot-speak-we-must-consign-to-silence/"

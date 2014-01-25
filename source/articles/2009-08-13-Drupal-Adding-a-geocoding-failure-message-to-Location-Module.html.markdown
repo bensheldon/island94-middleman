@@ -10,7 +10,6 @@ tags:
 - portfolio
 - stupid
 - warning
-wp_link: "/2009/08/drupal-adding-a-geocoding-failure-message/"
 wp:post_type: post
 redirects:
 - "/2009/08/drupal-adding-a-geocoding-failure-message/"

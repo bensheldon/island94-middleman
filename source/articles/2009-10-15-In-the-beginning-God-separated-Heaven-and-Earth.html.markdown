@@ -8,7 +8,6 @@ tags:
 - meaning
 - religion
 - thought
-wp_link: "/2009/10/in-the-beginning-god-separated-heaven-and-earth/"
 wp:post_type: post
 redirects:
 - "/2009/10/in-the-beginning-god-separated-heaven-and-earth/"

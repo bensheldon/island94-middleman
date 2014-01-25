@@ -6,7 +6,6 @@ tags:
 - compensation
 - philanthropy
 - salary
-wp_link: "/2010/01/still-ferrari-less/"
 wp:post_type: post
 redirects:
 - "/2010/01/still-ferrari-less/"

@@ -5,7 +5,6 @@ tags:
 - dogs
 - Jamaica Plain
 - video
-wp_link: "/2006/06/hot-slow-sunday-in-jp/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4%09

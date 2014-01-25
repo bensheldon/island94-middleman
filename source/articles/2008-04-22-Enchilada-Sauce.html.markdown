@@ -4,7 +4,6 @@ date: '2008-04-22'
 tags:
 - food
 - recipe
-wp_link: "/2008/04/enchilada-sauce/"
 wp:post_type: post
 redirects:
 - "/node/217"

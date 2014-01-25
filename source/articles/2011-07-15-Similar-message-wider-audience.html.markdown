@@ -6,7 +6,6 @@ tags:
 - interview
 - me
 - nonprofit
-wp_link: "/2011/07/similar-message-wider-audience/"
 wp:post_type: post
 redirects:
 - "/2011/07/similar-message-wider-audience/"

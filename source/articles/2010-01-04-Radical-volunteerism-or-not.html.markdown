@@ -2,7 +2,6 @@
 title: Radical volunteerism, or not
 date: '2010-01-04'
 tags: []
-wp_link: "/2010/01/radical-volunteerism-or-not/"
 wp:post_type: post
 redirects:
 - "/2010/01/radical-volunteerism-or-not/"

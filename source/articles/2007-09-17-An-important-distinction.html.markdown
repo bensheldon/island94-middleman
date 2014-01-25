@@ -5,7 +5,6 @@ tags:
 - advertising
 - affirmation
 - mail
-wp_link: "/2007/09/an-important-distinction/"
 wp:post_type: post
 redirects:
 - "/node/154"

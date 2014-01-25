@@ -5,7 +5,6 @@ tags:
 - management
 - planning
 - politics
-wp_link: "/2011/07/planning-is-timeless/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/07/Photo-Jul-04-1-00-42-PM.jpg

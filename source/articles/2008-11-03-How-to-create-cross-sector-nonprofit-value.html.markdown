@@ -5,7 +5,6 @@ tags:
 - capitalism
 - economics
 - nonprofit
-wp_link: "/2008/11/how-to-create-cross-sector-nonprofit-value/"
 wp:post_type: post
 redirects:
 - "/node/269"

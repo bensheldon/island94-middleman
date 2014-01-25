@@ -2,7 +2,6 @@
 title: Social Assistance Cynicism
 date: '2009-12-20'
 tags: []
-wp_link: "/2009/12/social-assistance-cynicism/"
 wp:post_type: post
 redirects:
 - "/2009/12/social-assistance-cynicism/"

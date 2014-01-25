@@ -6,7 +6,6 @@ tags:
 - delicious
 - food
 - history
-wp_link: "/2009/03/current-consumption-of-currants/"
 wp:post_type: post
 redirects:
 - "/2009/03/current-consumption-of-currants/"

@@ -6,7 +6,6 @@ tags:
 - authorship
 - philosophy
 - postmodern
-wp_link: "/2010/03/the-author-function-and-the-internet/"
 wp:post_type: post
 redirects:
 - "/2010/03/the-author-function-and-the-internet/"

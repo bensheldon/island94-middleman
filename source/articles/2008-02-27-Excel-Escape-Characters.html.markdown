@@ -3,7 +3,6 @@ title: Excel Escape Characters
 date: '2008-02-27'
 tags:
 - spreadsheets
-wp_link: "/2008/02/excel-escape-characters/"
 wp:post_type: post
 redirects:
 - "/node/203"

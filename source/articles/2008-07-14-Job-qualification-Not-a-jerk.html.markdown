@@ -5,7 +5,6 @@ tags:
 - employment
 - hiring
 - jobs
-wp_link: "/2008/07/job-qualification-not-a-jerk/"
 wp:post_type: post
 redirects:
 - "/2008/07/job-qualification:-not-a-jerk/"

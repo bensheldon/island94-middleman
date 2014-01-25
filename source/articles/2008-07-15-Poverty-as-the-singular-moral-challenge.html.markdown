@@ -6,7 +6,6 @@ tags:
 - politics
 - poverty
 - religion
-wp_link: "/2008/07/poverty-as-the-singular-moral-challenge/"
 wp:post_type: post
 redirects:
 - "/node/235"

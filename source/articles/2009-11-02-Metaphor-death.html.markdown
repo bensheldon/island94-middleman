@@ -7,7 +7,6 @@ tags:
 - nonprofit
 - planning
 - reality
-wp_link: "/2009/11/metaphor-death/"
 wp:post_type: post
 redirects:
 - "/2009/11/metaphor-death/"

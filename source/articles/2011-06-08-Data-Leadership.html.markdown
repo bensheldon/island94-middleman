@@ -3,7 +3,6 @@ title: Data Leadership
 date: '2011-06-08'
 tags: []
 published: false
-wp_link: "/?p=2689"
 wp:post_type: post
 redirects:
 - "/?p=2689"

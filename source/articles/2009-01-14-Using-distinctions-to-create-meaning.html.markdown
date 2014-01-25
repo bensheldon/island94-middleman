@@ -6,7 +6,6 @@ tags:
 - language
 - meaning
 - semantings
-wp_link: "/2009/01/using-distinctions-to-create-meaning/"
 wp:post_type: post
 redirects:
 - "/2009/01/using-distinctions-to-create-meaning/"

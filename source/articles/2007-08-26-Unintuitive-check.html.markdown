@@ -3,7 +3,6 @@ title: 'Unintuitive: check'
 date: '2007-08-26'
 tags:
 - Drupal
-wp_link: "/2007/08/unintuitive:-check/"
 wp:post_type: post
 redirects:
 - "/node/140"

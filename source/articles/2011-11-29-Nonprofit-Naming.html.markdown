@@ -3,7 +3,6 @@ title: Nonprofit Naming
 date: '2011-11-29'
 tags: []
 published: false
-wp_link: "/?p=547"
 wp:post_type: post
 redirects:
 - "/?p=547"

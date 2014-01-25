@@ -7,7 +7,6 @@ tags:
 - nptech
 - social networking
 - webdesign
-wp_link: "/2007/04/meetamericorps-still-a-success/"
 wp:post_type: post
 redirects:
 - "/node/126"

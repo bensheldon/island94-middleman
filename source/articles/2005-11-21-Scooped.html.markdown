@@ -5,7 +5,6 @@ tags:
 - intro
 - journalism
 - seed
-wp_link: "/2005/11/scooped!/"
 wp:post_type: post
 redirects:
 - "/node/11"

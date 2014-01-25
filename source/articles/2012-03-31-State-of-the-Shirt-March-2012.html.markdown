@@ -5,7 +5,6 @@ tags:
 - clothes
 - consumption
 - internet
-wp_link: "/2012/03/state-of-the-shirt-march-2012/"
 wp:post_type: post
 redirects:
 - "/2012/03/state-of-the-shirt-march-2012/"

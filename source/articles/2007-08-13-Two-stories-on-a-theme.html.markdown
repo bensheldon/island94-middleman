@@ -6,7 +6,6 @@ tags:
 - fiction
 - learning story
 - pedagogy
-wp_link: "/2007/08/two-stories-on-a-theme/"
 wp:post_type: post
 redirects:
 - "/articles/two-stories-theme"

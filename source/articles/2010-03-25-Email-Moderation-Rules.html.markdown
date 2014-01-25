@@ -3,7 +3,6 @@ title: Email Moderation Rules
 date: '2010-03-25'
 tags: []
 published: false
-wp_link: "/?p=1858"
 wp:post_type: post
 redirects:
 - "/?p=1858"

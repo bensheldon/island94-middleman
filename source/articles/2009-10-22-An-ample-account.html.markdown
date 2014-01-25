@@ -8,7 +8,6 @@ tags:
 - mississippi
 - publishing
 - reminisce
-wp_link: "/2009/10/an-ample-account/"
 wp:post_type: post
 failed_files:
 - http://island94.org/wp-content/uploads/2009/10/TheNavigator1824.jpg

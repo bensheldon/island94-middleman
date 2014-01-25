@@ -4,7 +4,6 @@ date: '2008-04-07'
 tags:
 - career
 - nonprofit
-wp_link: "/2008/04/nonprofit-job-misconceptions/"
 wp:post_type: post
 redirects:
 - "/node/212"

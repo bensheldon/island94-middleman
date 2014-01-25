@@ -7,7 +7,6 @@ tags:
 - php
 - theming
 - wordpress
-wp_link: "/2011/01/adding-class-to-wordpress-linked-images/"
 wp:post_type: post
 redirects:
 - "/2011/01/adding-class-to-wordpress-linked-images/"

@@ -6,7 +6,6 @@ tags:
 - Jessica
 - Thanksgiving
 - video
-wp_link: "/2005/11/23rd-birthday/thanksgiving-spectacular-part-1/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/23bdaytg_1.mp4

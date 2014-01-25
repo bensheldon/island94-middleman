@@ -2,7 +2,6 @@
 title: Now exhale
 date: '2013-09-17'
 tags: []
-wp_link: "/2013/09/now-exhale/"
 wp:post_type: post
 redirects:
 - "/2013/09/now-exhale/"

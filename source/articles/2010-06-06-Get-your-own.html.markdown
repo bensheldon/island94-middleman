@@ -6,7 +6,6 @@ tags:
 - oh-hai
 - ponty
 - sleep
-wp_link: "/2010/06/get-your-own/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2010/06/cat-in-a-box.jpg

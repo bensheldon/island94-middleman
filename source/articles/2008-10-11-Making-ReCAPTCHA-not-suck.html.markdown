@@ -5,7 +5,6 @@ tags:
 - code
 - Drupal
 - webdesign
-wp_link: "/2008/10/making-recaptcha-not-suck/"
 wp:post_type: post
 redirects:
 - "/node/260"

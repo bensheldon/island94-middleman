@@ -8,7 +8,6 @@ tags:
 - security
 - subway
 - T
-wp_link: "/2005/11/i-defender-of-democracy-ocracy-cracy/"
 wp:post_type: post
 redirects:
 - "/articles/i-defender-democracy-ocracy-cracy"

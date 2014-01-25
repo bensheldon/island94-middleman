@@ -6,7 +6,6 @@ tags:
 - latin
 - quote
 - speech
-wp_link: "/2007/09/latin-transit/"
 wp:post_type: post
 redirects:
 - "/node/156"

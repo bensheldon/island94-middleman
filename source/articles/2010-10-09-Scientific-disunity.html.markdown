@@ -5,7 +5,6 @@ tags:
 - culture
 - history
 - science
-wp_link: "/2010/10/scientific-disunity/"
 wp:post_type: post
 redirects:
 - "/2010/10/scientific-disunity/"

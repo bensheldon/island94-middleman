@@ -8,7 +8,6 @@ tags:
 - media
 - messaging
 - union
-wp_link: "/2009/11/unions-and-the-media/"
 wp:post_type: post
 redirects:
 - "/2009/11/unions-and-the-media/"

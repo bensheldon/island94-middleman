@@ -7,7 +7,6 @@ tags:
 - navigation
 - portfolio
 - teamwork
-wp_link: "/2010/04/i-am-now-a-technology-of-participation-facilitator/"
 wp:post_type: post
 redirects:
 - "/2010/04/i-am-now-a-technology-of-participation-facilitator/"

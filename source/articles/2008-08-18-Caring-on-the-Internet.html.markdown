@@ -5,7 +5,6 @@ tags:
 - blog
 - internet
 - media
-wp_link: "/2008/08/caring-on-the-internet/"
 wp:post_type: post
 redirects:
 - "/node/242"

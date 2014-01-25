@@ -4,7 +4,6 @@ date: '2007-12-01'
 tags:
 - birthday
 - message
-wp_link: "/2007/12/happy-birthday-to-me/"
 wp:post_type: post
 redirects:
 - "/node/178"

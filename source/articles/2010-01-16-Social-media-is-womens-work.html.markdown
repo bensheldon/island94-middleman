@@ -10,7 +10,6 @@ tags:
 - nptech
 - pay
 - sexism
-wp_link: "/2010/01/social-media-is-womens-work/"
 wp:post_type: post
 redirects:
 - "/2010/01/social-media-is-womens-work/"

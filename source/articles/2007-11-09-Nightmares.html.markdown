@@ -5,7 +5,6 @@ tags:
 - fear
 - nightmares
 - psychology
-wp_link: "/2007/11/nightmares/"
 wp:post_type: post
 redirects:
 - "/node/168"

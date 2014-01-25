@@ -6,7 +6,6 @@ tags:
 - art
 - hippostrophe
 - punctuation
-wp_link: "/2010/01/amperlamb/"
 wp:post_type: post
 redirects:
 - "/2010/01/amperlamb/"

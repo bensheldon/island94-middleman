@@ -2,7 +2,6 @@
 title: Going crazy over social impact
 date: '2009-11-18'
 tags: []
-wp_link: "/2009/11/going-crazy-over-social-impact/"
 wp:post_type: post
 redirects:
 - "/2009/11/going-crazy-over-social-impact/"

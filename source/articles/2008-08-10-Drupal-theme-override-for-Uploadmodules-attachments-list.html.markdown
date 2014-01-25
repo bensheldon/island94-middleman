@@ -10,7 +10,6 @@ tags:
 - portfolio
 - snippet
 - webdesign
-wp_link: "/2008/08/drupal-theme-override-for-upload-modules-attachments-list/"
 wp:post_type: post
 redirects:
 - "/2008/08/drupal:-theme-override-for-upload-module\\'s-attachments-list-/"

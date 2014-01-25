@@ -9,7 +9,6 @@ tags:
 - navigation
 - portfolio
 - rhetoric
-wp_link: "/2010/03/numerical-indifference/"
 wp:post_type: post
 redirects:
 - "/2010/03/numerical-indifference/"

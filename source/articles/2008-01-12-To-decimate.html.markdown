@@ -4,7 +4,6 @@ date: '2008-01-12'
 tags:
 - etymology
 - language
-wp_link: "/2008/01/to-decimate/"
 wp:post_type: post
 redirects:
 - "/2008/01/to-\"decimate\"/"

@@ -5,7 +5,6 @@ tags:
 - analysis
 - editing
 - writing
-wp_link: "/2010/06/fierce-editing/"
 wp:post_type: post
 redirects:
 - "/2010/06/fierce-editing/"

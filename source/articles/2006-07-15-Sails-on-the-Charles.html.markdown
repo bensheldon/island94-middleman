@@ -6,7 +6,6 @@ tags:
 - photos
 - sailboats
 - sailing
-wp_link: "/2006/07/sails-on-the-charles/"
 wp:post_type: post
 redirects:
 - "/node/70"

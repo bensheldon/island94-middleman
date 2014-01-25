@@ -5,7 +5,6 @@ tags:
 - advice
 - project
 - sketch
-wp_link: "/2010/06/straightforward-project-satisfaction-and-fulfillment/"
 wp:post_type: post
 redirects:
 - "/2010/06/straightforward-project-satisfaction-and-fulfillment/"

@@ -5,7 +5,6 @@ tags:
 - advice
 - nonprofit
 - search
-wp_link: "/2007/10/google-relevance/"
 wp:post_type: post
 redirects:
 - "/node/160"

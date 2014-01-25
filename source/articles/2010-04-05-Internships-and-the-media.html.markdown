@@ -2,7 +2,6 @@
 title: Internships and the media
 date: '2010-04-05'
 tags: []
-wp_link: "/2010/04/internships-and-the-media/"
 wp:post_type: post
 redirects:
 - "/2010/04/internships-and-the-media/"

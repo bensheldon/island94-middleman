@@ -10,7 +10,6 @@ tags:
 - nten
 - strategy
 - video
-wp_link: "/2007/04/nonprofit-communications-2-0/"
 wp:post_type: post
 redirects:
 - "/node/127"

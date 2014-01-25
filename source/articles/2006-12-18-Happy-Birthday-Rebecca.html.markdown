@@ -12,7 +12,6 @@ tags:
 - song
 - trees
 - video
-wp_link: "/2006/12/happy-birthday-rebecca/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/Ben_Pint-Pot-and-Billy.mp3

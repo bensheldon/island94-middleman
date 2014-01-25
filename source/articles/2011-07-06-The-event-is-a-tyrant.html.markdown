@@ -6,7 +6,6 @@ tags:
 - mathematics
 - news
 - writing
-wp_link: "/2011/07/the-event-is-a-tyrant/"
 wp:post_type: post
 redirects:
 - "/2011/07/the-event-is-a-tyrant/"

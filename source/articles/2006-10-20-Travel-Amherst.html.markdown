@@ -9,7 +9,6 @@ tags:
 - poet
 - statuary
 - travel
-wp_link: "/2006/10/travel-amherst/"
 wp:post_type: post
 redirects:
 - "/2006/10/travel:-amherst/"

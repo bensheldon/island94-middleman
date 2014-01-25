@@ -6,7 +6,6 @@ tags:
 - graphics
 - nerd
 - stacy-q
-wp_link: "/2010/03/two-of-charts/"
 wp:post_type: post
 redirects:
 - "/2010/03/two-of-charts/"

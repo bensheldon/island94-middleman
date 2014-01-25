@@ -9,7 +9,6 @@ tags:
 - navigation
 - portfolio
 - project
-wp_link: "/2010/11/boston-bike-crash-map/"
 wp:post_type: post
 redirects:
 - "/2010/11/boston-bike-crash-map/"

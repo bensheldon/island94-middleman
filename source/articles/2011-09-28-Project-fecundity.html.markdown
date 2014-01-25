@@ -7,7 +7,6 @@ tags:
 - me
 - project-design
 - webdesign
-wp_link: "/2011/09/project-fecundity/"
 wp:post_type: post
 redirects:
 - "/2011/09/project-fecundity/"

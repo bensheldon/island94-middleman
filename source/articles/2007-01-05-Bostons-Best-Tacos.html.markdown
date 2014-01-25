@@ -6,7 +6,6 @@ tags:
 - food
 - map
 - tacos
-wp_link: "/2007/01/bostons-best-tacos/"
 wp:post_type: post
 redirects:
 - "/2007/01/boston\\'s-best-tacos/"

@@ -4,7 +4,6 @@ date: '2009-11-12'
 tags:
 - journalism
 - media
-wp_link: "/2009/11/the-journalism-landscape-in-a-nutshell/"
 wp:post_type: post
 redirects:
 - "/2009/11/the-journalism-landscape-in-a-nutshell/"

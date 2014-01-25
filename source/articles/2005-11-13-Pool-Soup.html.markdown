@@ -7,7 +7,6 @@ tags:
 - leaves
 - pool
 - video
-wp_link: "/2005/11/pool-soup/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/poolsoupthumb.png

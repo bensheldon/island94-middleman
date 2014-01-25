@@ -4,7 +4,6 @@ date: '2008-04-07'
 tags:
 - career
 - trust
-wp_link: "/2008/04/transitivity-fallacy/"
 wp:post_type: post
 redirects:
 - "/observation/transitivity-fallacy"

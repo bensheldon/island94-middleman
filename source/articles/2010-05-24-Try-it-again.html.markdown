@@ -6,7 +6,6 @@ tags:
 - math
 - random
 - statistics
-wp_link: "/2010/05/try-it-again/"
 wp:post_type: post
 redirects:
 - "/2010/05/try-it-again/"

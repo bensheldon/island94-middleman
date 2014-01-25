@@ -4,7 +4,6 @@ date: '2008-08-13'
 tags:
 - cleaving
 - language
-wp_link: "/2008/08/are-you-ahw-or-arr/"
 wp:post_type: post
 redirects:
 - "/2008/08/are-you-ahw-or-arr"

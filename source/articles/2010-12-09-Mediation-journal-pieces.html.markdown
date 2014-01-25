@@ -7,7 +7,6 @@ tags:
 - journaling
 - media
 - reflection
-wp_link: "/2010/12/mediation-journal-pieces/"
 wp:post_type: post
 redirects:
 - "/2010/12/mediation-journal-pieces/"

@@ -6,7 +6,6 @@ tags:
 - history
 - science
 - visualizations
-wp_link: "/2010/10/life-before-the-chart/"
 wp:post_type: post
 redirects:
 - "/2010/10/life-before-the-chart/"

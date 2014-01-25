@@ -6,7 +6,6 @@ tags:
 - MIT
 - snow
 - winter
-wp_link: "/2005/12/walking-in-circles/"
 wp:post_type: post
 redirects:
 - "/node/25"

@@ -6,7 +6,6 @@ tags:
 - nonprofits
 - wealth
 - wisdom
-wp_link: "/2011/06/wisdom-and-discernment/"
 wp:post_type: post
 redirects:
 - "/2011/06/wisdom-and-discernment/"

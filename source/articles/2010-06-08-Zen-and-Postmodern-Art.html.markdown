@@ -6,7 +6,6 @@ tags:
 - language
 - postmodern
 - zen
-wp_link: "/2010/06/zen-and-the-art-of-postmodern-philosophy/"
 wp:post_type: post
 redirects:
 - "/2010/06/zen-and-the-art-of-postmodern-philosophy/"

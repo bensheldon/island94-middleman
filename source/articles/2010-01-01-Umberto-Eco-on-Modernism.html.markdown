@@ -2,7 +2,6 @@
 title: Umberto Eco on Modernism
 date: '2010-01-01'
 tags: []
-wp_link: "/2010/01/umberto-eco-on-modernism/"
 wp:post_type: post
 redirects:
 - "/2010/01/umberto-eco-on-modernism/"

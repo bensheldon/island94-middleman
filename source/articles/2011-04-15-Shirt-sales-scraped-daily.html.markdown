@@ -7,7 +7,6 @@ tags:
 - portfolio
 - scraping
 - webdesign
-wp_link: "/2011/04/shirt-sales-scraped-daily/"
 wp:post_type: post
 redirects:
 - "/2011/04/shirt-sales-scraped-daily/"

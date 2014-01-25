@@ -2,7 +2,6 @@
 title: Cell phones and "personal" computing
 date: '2009-03-07'
 tags: []
-wp_link: "/2009/03/cell-phones-and-personal-computing/"
 wp:post_type: post
 redirects:
 - "/2009/03/cell-phones-and-personal-computing/"

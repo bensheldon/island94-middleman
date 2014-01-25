@@ -5,7 +5,6 @@ tags:
 - definition
 - dictionary
 - language
-wp_link: "/2007/12/vis-a-vis-viz-vis-a-vis-viz/"
 wp:post_type: post
 redirects:
 - "/2007/12/vis-a-vis-viz-vis-a-vis-viz-/"

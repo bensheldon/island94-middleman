@@ -8,7 +8,6 @@ tags:
 - portfolio
 - taxonomy
 - webdesign
-wp_link: "/2010/08/fondly-remembered-experiments-in-minimal-webdesign/"
 wp:post_type: post
 redirects:
 - "/2010/08/fondly-remembered-experiments-in-minimal-webdesign/"

@@ -3,7 +3,6 @@ title: Contextonomy
 date: '2008-06-15'
 tags:
 - language
-wp_link: "/2008/06/contextonomy/"
 wp:post_type: post
 redirects:
 - "/node/222"

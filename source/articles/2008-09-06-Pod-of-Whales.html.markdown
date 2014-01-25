@@ -5,7 +5,6 @@ tags:
 - animals
 - art
 - drawing
-wp_link: "/2008/09/pod-of-whales/"
 wp:post_type: post
 redirects:
 - "/node/252"

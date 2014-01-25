@@ -8,7 +8,6 @@ tags:
 - Germania Street
 - painting
 - watercolor
-wp_link: "/2006/09/germania-st-2/"
 wp:post_type: post
 redirects:
 - "/2006/09/germania-st-"

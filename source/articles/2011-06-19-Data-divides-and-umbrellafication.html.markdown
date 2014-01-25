@@ -5,7 +5,6 @@ tags:
 - civic literacy
 - data
 - data-leadership
-wp_link: "/2011/06/data-divides-and-umbrellafication/"
 wp:post_type: post
 redirects:
 - "/2011/06/data-divides-and-umbrellafication/"

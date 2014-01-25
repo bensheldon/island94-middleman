@@ -5,7 +5,6 @@ tags:
 - mapping
 - sarcasm
 - uncrime
-wp_link: "/2011/06/uncrime-mapping/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/06/mcarthur-large.jpg

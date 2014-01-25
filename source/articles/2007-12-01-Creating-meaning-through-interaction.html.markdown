@@ -4,7 +4,6 @@ date: '2007-12-01'
 tags:
 - language
 - philosophy
-wp_link: "/2007/12/creating-meaning-through-interaction/"
 wp:post_type: post
 redirects:
 - "/node/179"

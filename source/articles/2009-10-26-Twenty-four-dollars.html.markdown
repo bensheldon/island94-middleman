@@ -6,7 +6,6 @@ tags:
 - manhattan
 - money
 - vague-title
-wp_link: "/2009/10/twenty-four-dollars/"
 wp:post_type: post
 redirects:
 - "/2009/10/twenty-four-dollars/"

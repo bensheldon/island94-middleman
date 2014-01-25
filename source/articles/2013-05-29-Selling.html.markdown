@@ -3,7 +3,6 @@ title: Selling
 date: '2013-05-29'
 tags: []
 published: false
-wp_link: "/?p=3086"
 wp:post_type: post
 redirects:
 - "/?p=3086"

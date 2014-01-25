@@ -7,7 +7,6 @@ tags:
 - nptech
 - social media
 - technology
-wp_link: "/2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/"
 wp:post_type: post
 redirects:
 - "/2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/"

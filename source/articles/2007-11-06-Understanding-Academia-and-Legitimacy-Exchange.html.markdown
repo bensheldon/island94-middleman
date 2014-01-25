@@ -5,7 +5,6 @@ tags:
 - academia
 - cybernetics
 - legitimacy exchange
-wp_link: "/2007/11/understanding-academia-and-legitimacy-exchange/"
 wp:post_type: post
 redirects:
 - "/node/165"

@@ -6,7 +6,6 @@ tags:
 - community-organizing
 - organizing
 - power
-wp_link: "/2009/10/perspectives-on-building-power/"
 wp:post_type: post
 redirects:
 - "/2009/10/perspectives-on-building-power/"

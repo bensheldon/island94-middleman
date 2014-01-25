@@ -6,7 +6,6 @@ tags:
 - conference
 - nonprofit
 - notes
-wp_link: "/2008/08/nonprofit-board-management-governance-and-advice/"
 wp:post_type: post
 redirects:
 - "/articles/nonprofit-board-management-governance-and-advice"

@@ -7,7 +7,6 @@ tags:
 - nonprofits
 - philanthropy
 - spam
-wp_link: "/2010/02/ethical-flexibility-for-export/"
 wp:post_type: post
 redirects:
 - "/2010/02/ethical-flexibility-for-export/"

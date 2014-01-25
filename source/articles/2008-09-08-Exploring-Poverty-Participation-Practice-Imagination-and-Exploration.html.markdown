@@ -7,7 +7,6 @@ tags:
 - politics
 - poverty
 - religion
-wp_link: "/2008/09/exploring-poverty-participation-practice-imagination-and-exploration/"
 wp:post_type: post
 redirects:
 - "/2008/09/exploring-poverty:-participation-practice-imagination-and-exploration/"

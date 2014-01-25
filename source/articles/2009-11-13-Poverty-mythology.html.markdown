@@ -2,7 +2,6 @@
 title: Poverty mythology
 date: '2009-11-13'
 tags: []
-wp_link: "/2009/11/poverty-mythology/"
 wp:post_type: post
 redirects:
 - "/2009/11/poverty-mythology/"

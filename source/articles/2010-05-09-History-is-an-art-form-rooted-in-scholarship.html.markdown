@@ -4,7 +4,6 @@ date: '2010-05-09'
 tags:
 - history
 - ideology
-wp_link: "/2010/05/history-is-an-art/"
 wp:post_type: post
 redirects:
 - "/2010/05/history-is-an-art/"

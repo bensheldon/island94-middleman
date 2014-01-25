@@ -3,7 +3,6 @@ title: Digital literacy dichotomies
 date: '2010-10-06'
 tags: []
 published: false
-wp_link: "/?p=2221"
 wp:post_type: post
 redirects:
 - "/?p=2221"

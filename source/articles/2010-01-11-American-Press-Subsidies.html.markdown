@@ -9,7 +9,6 @@ tags:
 - postage
 - press
 - subsidies
-wp_link: "/2010/01/american-press-subsidies/"
 wp:post_type: post
 redirects:
 - "/2010/01/american-press-subsidies/"

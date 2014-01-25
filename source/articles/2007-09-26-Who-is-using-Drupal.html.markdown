@@ -5,7 +5,6 @@ tags:
 - Drupal
 - examples
 - webdesign
-wp_link: "/2007/09/who-is-using-drupal?/"
 wp:post_type: post
 redirects:
 - "/node/157"

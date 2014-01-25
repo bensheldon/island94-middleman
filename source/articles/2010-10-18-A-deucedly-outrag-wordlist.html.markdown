@@ -8,7 +8,6 @@ tags:
 - research
 - search
 - wordlist
-wp_link: "/2010/10/a-deucedly-outrag-wordlist/"
 wp:post_type: post
 redirects:
 - "/2010/10/a-deucedly-outrag-wordlist/"

@@ -8,7 +8,6 @@ tags:
 - nonprofits
 - philanthropy
 - the-revolution-app-will-not-be-be-approved
-wp_link: "/2010/06/iphone-apps-allow-giving-just-not-charity/"
 wp:post_type: post
 redirects:
 - "/2010/06/iphone-apps-allow-giving-just-not-charity/"

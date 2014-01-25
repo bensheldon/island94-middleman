@@ -10,7 +10,6 @@ tags:
 - webdesign
 - website
 - wiki
-wp_link: "/2010/06/goodbye-producers-forum/"
 wp:post_type: post
 redirects:
 - "/2010/06/goodbye-producers-forum/"

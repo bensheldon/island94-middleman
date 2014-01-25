@@ -5,7 +5,6 @@ tags:
 - delicious
 - experiment
 - recipe
-wp_link: "/2007/12/apple-and-green-papaya/"
 wp:post_type: post
 redirects:
 - "/node/185"

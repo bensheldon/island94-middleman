@@ -12,7 +12,6 @@ tags:
 - silos
 - textbooks
 - VISTA
-wp_link: "/2006/07/harbor-island-info/"
 wp:post_type: post
 redirects:
 - "/node/66"

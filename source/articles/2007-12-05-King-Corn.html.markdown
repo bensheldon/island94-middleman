@@ -5,7 +5,6 @@ tags:
 - economics
 - movie
 - politics
-wp_link: "/2007/12/king-corn/"
 wp:post_type: post
 redirects:
 - "/node/186"

@@ -5,7 +5,6 @@ tags:
 - agriculture
 - jargon
 - plants
-wp_link: "/2007/11/chill-units/"
 wp:post_type: post
 redirects:
 - "/chill-units"

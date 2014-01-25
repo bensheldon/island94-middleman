@@ -6,7 +6,6 @@ tags:
 - response
 - service
 - technology
-wp_link: "/2011/05/nailed-that-response/"
 wp:post_type: post
 redirects:
 - "/2011/05/nailed-that-response/"

@@ -9,7 +9,6 @@ tags:
 - literacy
 - pedagogy
 - power
-wp_link: "/2009/09/intellectual-activity/"
 wp:post_type: post
 redirects:
 - "/2009/09/intellectual-activity/"

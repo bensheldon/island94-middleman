@@ -5,7 +5,6 @@ tags:
 - elections
 - language
 - politics
-wp_link: "/2008/08/failure-of-confidence/"
 wp:post_type: post
 redirects:
 - "/node/246"

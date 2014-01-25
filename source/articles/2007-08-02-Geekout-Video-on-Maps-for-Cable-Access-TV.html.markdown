@@ -10,7 +10,6 @@ tags:
 - navigation
 - portfolio
 - video
-wp_link: "/2007/08/geekout-video-on-maps-for-cable-access-tv/"
 wp:post_type: post
 redirects:
 - "/2007/08/geekout:-video-on-maps-for-cable-access-tv/"

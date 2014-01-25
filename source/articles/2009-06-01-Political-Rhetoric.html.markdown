@@ -5,7 +5,6 @@ tags:
 - language
 - politics
 - rhetoric
-wp_link: "/2009/06/political-rhetoric/"
 wp:post_type: post
 redirects:
 - "/2009/06/political-rhetoric/"

@@ -7,7 +7,6 @@ tags:
 - nonprofit
 - service
 - storytelling
-wp_link: "/2009/10/millenial-nonprofity-exposition/"
 wp:post_type: post
 redirects:
 - "/2009/10/millenial-nonprofity-exposition/"

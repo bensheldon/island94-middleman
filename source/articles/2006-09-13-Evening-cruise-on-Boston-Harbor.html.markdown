@@ -8,7 +8,6 @@ tags:
 - evening
 - harbor
 - photos
-wp_link: "/2006/09/evening-cruise-on-boston-harbor/"
 wp:post_type: post
 redirects:
 - "/node/96"

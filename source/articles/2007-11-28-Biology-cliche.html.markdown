@@ -6,7 +6,6 @@ tags:
 - biology
 - cliche
 - science
-wp_link: "/2007/11/biology-cliche/"
 wp:post_type: post
 redirects:
 - "/node/175"

@@ -6,7 +6,6 @@ tags:
 - criticism
 - cybernetics
 - technology
-wp_link: "/2007/11/close-to-the-machine/"
 wp:post_type: post
 redirects:
 - "/node/176"

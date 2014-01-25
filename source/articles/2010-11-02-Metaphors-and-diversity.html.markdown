@@ -6,7 +6,6 @@ tags:
 - experience
 - language
 - metaphors
-wp_link: "/2010/11/metaphors-and-diversity/"
 wp:post_type: post
 redirects:
 - "/2010/11/metaphors-and-diversity/"

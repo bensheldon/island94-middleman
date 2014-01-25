@@ -6,7 +6,6 @@ tags:
 - honesty
 - musings
 - plagiarism
-wp_link: "/2007/09/plagiarism/"
 wp:post_type: post
 redirects:
 - "/node/150"

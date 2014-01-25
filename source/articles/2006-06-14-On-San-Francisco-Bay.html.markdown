@@ -5,7 +5,6 @@ tags:
 - Daniell
 - sailing
 - San Francisco
-wp_link: "/2006/06/on-san-francisco-bay/"
 wp:post_type: post
 redirects:
 - "/node/49"

@@ -5,7 +5,6 @@ tags:
 - activism
 - cleaving
 - language
-wp_link: "/2009/03/satyagraha-versus-duragraha/"
 wp:post_type: post
 redirects:
 - "/2009/03/satyagraha-versus-duragraha/"

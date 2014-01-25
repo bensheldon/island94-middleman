@@ -6,7 +6,6 @@ tags:
 - leadership
 - nonprofit
 - personal-development
-wp_link: "/2009/06/attributes-of-respected-chairs/"
 wp:post_type: post
 redirects:
 - "/2009/06/attributes-of-respected-chairs/"

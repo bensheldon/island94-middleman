@@ -5,7 +5,6 @@ tags:
 - architecture
 - Boston
 - history
-wp_link: "/2007/11/the-john-hancock-building/"
 wp:post_type: post
 redirects:
 - "/john-hancock-building"

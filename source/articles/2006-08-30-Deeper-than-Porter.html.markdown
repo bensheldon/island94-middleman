@@ -7,7 +7,6 @@ tags:
 - metro
 - subway
 - T
-wp_link: "/2006/08/deeper-than-porter/"
 wp:post_type: post
 redirects:
 - "/node/91"

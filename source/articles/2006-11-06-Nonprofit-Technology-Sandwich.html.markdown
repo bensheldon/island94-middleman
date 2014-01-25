@@ -11,7 +11,6 @@ tags:
 - nonprofits
 - nptech
 - technology
-wp_link: "/2006/11/nonprofit-technology-sandwich/"
 wp:post_type: post
 redirects:
 - "/node/110"

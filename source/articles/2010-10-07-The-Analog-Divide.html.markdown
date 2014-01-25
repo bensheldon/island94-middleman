@@ -8,7 +8,6 @@ tags:
 - literacy
 - privileged-debate
 - technology
-wp_link: "/2010/10/the-analog-divide/"
 wp:post_type: post
 redirects:
 - "/2010/10/the-analog-divide/"

@@ -7,7 +7,6 @@ tags:
 - New York
 - youth
 - youth channel
-wp_link: "/2006/08/youth-channel-blockparty/"
 wp:post_type: post
 redirects:
 - "/node/88"

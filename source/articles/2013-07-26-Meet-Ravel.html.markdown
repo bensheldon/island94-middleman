@@ -2,7 +2,6 @@
 title: Meet Ravel!
 date: '2013-07-26'
 tags: []
-wp_link: "/2013/07/meet-ravel/"
 wp:post_type: post
 redirects:
 - "/2013/07/meet-ravel/"

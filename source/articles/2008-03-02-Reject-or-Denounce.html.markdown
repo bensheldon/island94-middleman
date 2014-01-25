@@ -4,7 +4,6 @@ date: '2008-03-02'
 tags:
 - language
 - politics
-wp_link: "/2008/03/reject-or-denounce/"
 wp:post_type: post
 redirects:
 - "/node/204"

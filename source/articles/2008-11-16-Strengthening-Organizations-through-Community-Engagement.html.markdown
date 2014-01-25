@@ -8,7 +8,6 @@ tags:
 - marketing
 - nonprofit
 - outreach
-wp_link: "/2008/11/strengthening-organizations-through-community-engagement/"
 wp:post_type: post
 redirects:
 - "/node/271"

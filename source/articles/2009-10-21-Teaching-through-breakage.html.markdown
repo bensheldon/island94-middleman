@@ -7,7 +7,6 @@ tags:
 - learning
 - pedagogy
 - teaching
-wp_link: "/2009/10/teaching-through-breakage/"
 wp:post_type: post
 redirects:
 - "/2009/10/teaching-through-breakage/"

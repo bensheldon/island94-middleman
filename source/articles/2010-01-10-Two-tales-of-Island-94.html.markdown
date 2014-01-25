@@ -5,7 +5,6 @@ tags:
 - meta
 - mississippi
 - story
-wp_link: "/2010/01/two-tales-of-island-94/"
 wp:post_type: post
 redirects:
 - "/2010/01/two-tales-of-island-94/"

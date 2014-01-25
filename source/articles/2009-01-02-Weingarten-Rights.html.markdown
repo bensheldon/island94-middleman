@@ -7,7 +7,6 @@ tags:
 - organizing
 - rights
 - union
-wp_link: "/2009/01/weingarten-rights/"
 wp:post_type: post
 redirects:
 - "/observation/weingarten-rights"

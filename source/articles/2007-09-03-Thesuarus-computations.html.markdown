@@ -2,7 +2,6 @@
 title: Thesuarus computations
 date: '2007-09-03'
 tags: []
-wp_link: "/2007/09/thesuarus-computations/"
 wp:post_type: post
 redirects:
 - "/node/144"

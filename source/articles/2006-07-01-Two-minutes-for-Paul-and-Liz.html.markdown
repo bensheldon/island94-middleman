@@ -5,7 +5,6 @@ tags:
 - bagpipe
 - video
 - wedding
-wp_link: "/2006/07/two-minutes-for-paul-and-liz/"
 wp:post_type: post
 redirects:
 - "/node/57"

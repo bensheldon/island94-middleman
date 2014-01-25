@@ -9,7 +9,6 @@ tags:
 - rationality
 - science
 - technology
-wp_link: "/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/"
 wp:post_type: post
 redirects:
 - "/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/"

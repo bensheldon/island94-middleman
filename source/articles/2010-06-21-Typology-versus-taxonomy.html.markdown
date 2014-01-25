@@ -6,7 +6,6 @@ tags:
 - fight
 - language
 - organizing
-wp_link: "/2010/06/typology-versus-taxonomy/"
 wp:post_type: post
 redirects:
 - "/2010/06/typology-versus-taxonomy/"

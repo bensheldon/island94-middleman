@@ -7,7 +7,6 @@ tags:
 - project
 - Web 2.0
 - webdesign
-wp_link: "/2008/04/brompt-is-a-blog-reminder/"
 wp:post_type: post
 redirects:
 - "/node/216"

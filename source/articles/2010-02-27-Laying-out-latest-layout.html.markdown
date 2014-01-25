@@ -9,7 +9,6 @@ tags:
 - portfolio
 - project
 - publishing
-wp_link: "/2010/02/laying-out-latest-layout/"
 wp:post_type: post
 redirects:
 - "/2010/02/laying-out-latest-layout/"

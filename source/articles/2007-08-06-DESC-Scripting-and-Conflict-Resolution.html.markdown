@@ -6,7 +6,6 @@ tags:
 - human resources
 - management
 - supervisory skills
-wp_link: "/2007/08/desc-scripting-and-conflict-resolution/"
 wp:post_type: post
 redirects:
 - "/node/137"

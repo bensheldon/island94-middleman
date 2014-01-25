@@ -6,7 +6,6 @@ tags:
 - definition
 - philosophy
 - rationality
-wp_link: "/2010/05/a-definition-that-is-good-enough/"
 wp:post_type: post
 redirects:
 - "/2010/05/a-definition-that-is-good-enough/"

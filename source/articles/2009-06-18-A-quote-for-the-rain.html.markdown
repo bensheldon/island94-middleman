@@ -2,7 +2,6 @@
 title: A quote for the rain
 date: '2009-06-18'
 tags: []
-wp_link: "/2009/06/a-quote-for-the-rain/"
 wp:post_type: post
 redirects:
 - "/2009/06/a-quote-for-the-rain/"

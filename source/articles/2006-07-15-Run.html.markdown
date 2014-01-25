@@ -5,7 +5,6 @@ tags:
 - children
 - fiction
 - running
-wp_link: "/2006/07/run/"
 wp:post_type: post
 redirects:
 - "/node/71"

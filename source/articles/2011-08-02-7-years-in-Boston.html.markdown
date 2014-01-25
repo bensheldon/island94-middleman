@@ -6,7 +6,6 @@ tags:
 - geography
 - life
 - nostalgia
-wp_link: "/2011/08/7-years-in-boston/"
 wp:post_type: post
 redirects:
 - "/2011/08/7-years-in-boston/"

@@ -7,7 +7,6 @@ tags:
 - Labor Day
 - Rhode Island
 - turf
-wp_link: "/2006/09/rhode-island-turf-and-grapes/"
 wp:post_type: post
 redirects:
 - "/node/97"

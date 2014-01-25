@@ -6,7 +6,6 @@ tags:
 - meta
 - mississippi
 - navigation
-wp_link: "/2010/01/notes-of-the-first-water/"
 wp:post_type: post
 redirects:
 - "/2010/01/notes-of-the-first-water/"

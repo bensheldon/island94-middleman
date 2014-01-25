@@ -8,7 +8,6 @@ tags:
 - Dandy
 - photos
 - pool
-wp_link: "/2006/08/night-and-day/"
 wp:post_type: post
 redirects:
 - "/node/82"

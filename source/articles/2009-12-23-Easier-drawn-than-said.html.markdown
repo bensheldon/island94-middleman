@@ -8,7 +8,6 @@ tags:
 - nptech
 - portfolio
 - technology
-wp_link: "/2009/12/easier-drawn-than-said/"
 wp:post_type: post
 redirects:
 - "/2009/12/easier-drawn-than-said/"

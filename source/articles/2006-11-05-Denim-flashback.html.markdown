@@ -13,7 +13,6 @@ tags:
 - shopping
 - Southie
 - weather
-wp_link: "/2006/11/denim-flashback/"
 wp:post_type: post
 redirects:
 - "/node/108"

@@ -8,7 +8,6 @@ tags:
 - metaphor-of-the-tube
 - surf-comparisons
 - writing
-wp_link: "/2010/09/making-language-of-meaning/"
 wp:post_type: post
 redirects:
 - "/2010/09/making-language-of-meaning/"

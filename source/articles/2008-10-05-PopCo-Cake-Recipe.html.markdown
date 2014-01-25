@@ -5,7 +5,6 @@ tags:
 - cake
 - food
 - recipe
-wp_link: "/2008/10/popco-cake-recipe/"
 wp:post_type: post
 redirects:
 - "/node/257"

@@ -6,7 +6,6 @@ tags:
 - knowledge
 - teaching
 - web
-wp_link: "/2009/12/like-wikipedia-but-before/"
 wp:post_type: post
 redirects:
 - "/2009/12/like-wikipedia-but-before/"

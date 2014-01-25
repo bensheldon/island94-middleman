@@ -6,7 +6,6 @@ tags:
 - obesity
 - risk
 - statistics
-wp_link: "/2007/12/fat-facts/"
 wp:post_type: post
 redirects:
 - "/node/181"

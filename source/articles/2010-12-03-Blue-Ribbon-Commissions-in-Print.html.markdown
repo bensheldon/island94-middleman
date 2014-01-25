@@ -6,7 +6,6 @@ tags:
 - language
 - power
 - search
-wp_link: "/2010/12/blue-ribbon-commissions-in-print/"
 wp:post_type: post
 redirects:
 - "/2010/12/blue-ribbon-commissions-in-print/"

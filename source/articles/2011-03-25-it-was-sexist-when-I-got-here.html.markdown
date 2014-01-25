@@ -8,7 +8,6 @@ tags:
 - nonprofits
 - sexism
 - women
-wp_link: "/2011/03/it-was-sexist-when-i-got-here/"
 wp:post_type: post
 redirects:
 - "/2011/03/it-was-sexist-when-i-got-here/"

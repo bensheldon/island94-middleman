@@ -5,7 +5,6 @@ tags:
 - animal
 - cat
 - pet
-wp_link: "/2008/04/cat-new/"
 wp:post_type: post
 redirects:
 - "/node/215"

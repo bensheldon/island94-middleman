@@ -5,7 +5,6 @@ tags:
 - disease
 - food
 - sick
-wp_link: "/2008/02/ors-amounts-for-a-nalgene-bottle/"
 wp:post_type: post
 redirects:
 - "/node/200"

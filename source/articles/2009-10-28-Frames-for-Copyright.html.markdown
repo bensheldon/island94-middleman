@@ -9,7 +9,6 @@ tags:
 - muse
 - ownership
 - perspective
-wp_link: "/2009/10/frames-for-copyright/"
 wp:post_type: post
 redirects:
 - "/2009/10/frames-for-copyright/"

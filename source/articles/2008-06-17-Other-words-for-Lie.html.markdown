@@ -5,7 +5,6 @@ tags:
 - language
 - politics
 - synonyms
-wp_link: "/2008/06/other-words-for-lie/"
 wp:post_type: post
 redirects:
 - "/2008/06/other-words-for-\"lie\"/"

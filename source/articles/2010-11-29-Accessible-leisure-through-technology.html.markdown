@@ -8,7 +8,6 @@ tags:
 - nonprofit
 - snark
 - technology
-wp_link: "/2010/11/accessible-leisure-through-technology/"
 wp:post_type: post
 redirects:
 - "/2010/11/accessible-leisure-through-technology/"

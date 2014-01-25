@@ -6,7 +6,6 @@ tags:
 - online-marketing
 - whine
 published: false
-wp_link: "/2010/04/broken-ladders/"
 wp:post_type: post
 redirects:
 - "/2010/04/broken-ladders/"

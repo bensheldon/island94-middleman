@@ -6,7 +6,6 @@ tags:
 - nptech
 - social media
 - whatever
-wp_link: "/2009/11/my-nonprofit-facebook-strategy-and-tactics/"
 wp:post_type: post
 redirects:
 - "/2009/11/my-nonprofit-facebook-strategy-and-tactics/"

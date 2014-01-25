@@ -8,7 +8,6 @@ tags:
 - speech
 - technology
 - welcome
-wp_link: "/2009/10/welcome-grassroots-users-of-technology/"
 wp:post_type: post
 redirects:
 - "/2009/10/welcome-grassroots-users-of-technology/"

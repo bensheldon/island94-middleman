@@ -7,7 +7,6 @@ tags:
 - New York
 - node101
 - vlog
-wp_link: "/2006/08/node101-weekend-in-new-york-city/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/node101mnnset.png

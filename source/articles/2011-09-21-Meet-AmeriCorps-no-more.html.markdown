@@ -2,7 +2,6 @@
 title: Meet AmeriCorps no more
 date: '2011-09-21'
 tags: []
-wp_link: "/2011/09/meet-americorps-no-more/"
 wp:post_type: post
 redirects:
 - "/2011/09/meet-americorps-no-more/"

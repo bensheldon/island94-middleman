@@ -7,7 +7,6 @@ tags:
 - photos
 - small things
 - spring
-wp_link: "/2007/06/small-things-of-spring/"
 wp:post_type: post
 redirects:
 - "/node/132"

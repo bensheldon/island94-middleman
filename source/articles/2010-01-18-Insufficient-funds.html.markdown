@@ -8,7 +8,6 @@ tags:
 - quote
 - racism
 - speech
-wp_link: "/2010/01/insufficient-funds/"
 wp:post_type: post
 redirects:
 - "/2010/01/insufficient-funds/"

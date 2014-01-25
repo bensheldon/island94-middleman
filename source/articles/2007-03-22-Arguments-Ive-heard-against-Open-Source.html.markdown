@@ -5,7 +5,6 @@ tags:
 - complaints
 - Open Source
 - oss
-wp_link: "/2007/03/arguments-ive-heard-against-open-source/"
 wp:post_type: post
 redirects:
 - "/2007/03/arguments-i\\'ve-heard-against-open-source/"

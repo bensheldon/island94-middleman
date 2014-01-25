@@ -7,7 +7,6 @@ tags:
 - greek
 - nonprofit
 - random
-wp_link: "/2008/12/the-nonprofit-between-scylla-and-charydbis/"
 wp:post_type: post
 redirects:
 - "/node/275"

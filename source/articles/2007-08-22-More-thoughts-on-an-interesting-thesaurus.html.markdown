@@ -7,7 +7,6 @@ tags:
 - mathematics
 - panlexicon
 - thesaurus
-wp_link: "/2007/08/more-thoughts-on-an-interesting-thesaurus/"
 wp:post_type: post
 redirects:
 - "/node/139"

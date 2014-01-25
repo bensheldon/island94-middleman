@@ -6,7 +6,6 @@ tags:
 - generations
 - millennials
 - nonprofit
-wp_link: "/2011/01/the-benefits-of-age/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/01/boom1.jpg

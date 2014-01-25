@@ -6,7 +6,6 @@ tags:
 - engagement
 - gamification
 - portfolio
-wp_link: "/2012/08/put-your-civics-where-your-houseplant-is/"
 wp:post_type: post
 redirects:
 - "/2012/08/put-your-civics-where-your-houseplant-is/"

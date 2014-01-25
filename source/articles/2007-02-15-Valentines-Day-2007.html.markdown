@@ -10,7 +10,6 @@ tags:
 - snow
 - storm
 - valentines day
-wp_link: "/2007/02/valentines-day-2007/"
 wp:post_type: post
 redirects:
 - "/node/118"

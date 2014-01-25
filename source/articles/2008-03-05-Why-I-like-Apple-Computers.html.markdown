@@ -6,7 +6,6 @@ tags:
 - frustration
 - navelgazing
 - technology
-wp_link: "/2008/03/why-i-like-apple-computers/"
 wp:post_type: post
 redirects:
 - "/node/209"

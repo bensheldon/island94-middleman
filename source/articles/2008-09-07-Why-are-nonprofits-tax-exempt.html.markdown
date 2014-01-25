@@ -5,7 +5,6 @@ tags:
 - law
 - nonprofit
 - taxes
-wp_link: "/2008/09/why-are-nonprofits-tax-exempt/"
 wp:post_type: post
 redirects:
 - "/2008/09/why-are-nonprofits-tax-exempt"

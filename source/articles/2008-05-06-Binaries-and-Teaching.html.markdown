@@ -6,7 +6,6 @@ tags:
 - pedagogy
 - teaching
 - youtube
-wp_link: "/2008/05/binaries-and-teaching/"
 wp:post_type: post
 redirects:
 - "/node/219"

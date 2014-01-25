@@ -9,7 +9,6 @@ tags:
 - maslow
 - neo-liberalism
 - women
-wp_link: "/2010/07/the-move-towards-empowerment/"
 wp:post_type: post
 redirects:
 - "/2010/07/the-move-towards-empowerment/"

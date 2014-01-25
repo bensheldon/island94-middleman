@@ -7,7 +7,6 @@ tags:
 - math
 - modeling
 - philosophy
-wp_link: "/2007/11/creating-models/"
 wp:post_type: post
 redirects:
 - "/node/172"

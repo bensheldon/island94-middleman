@@ -3,7 +3,6 @@ title: Patterns of Meaning
 date: '2009-01-14'
 tags: []
 published: false
-wp_link: "/?p=336"
 wp:post_type: post
 redirects:
 - "/?p=336"

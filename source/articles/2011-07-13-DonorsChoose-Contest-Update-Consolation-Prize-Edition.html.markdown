@@ -6,7 +6,6 @@ tags:
 - development
 - prize
 - sour-grapes
-wp_link: "/2011/07/donorschoose-contest-update-consolation-prize-edition/"
 wp:post_type: post
 redirects:
 - "/2011/07/donorschoose-contest-update-consolation-prize-edition/"

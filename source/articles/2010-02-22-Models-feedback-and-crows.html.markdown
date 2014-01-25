@@ -6,7 +6,6 @@ tags:
 - mind
 - models
 - thinking
-wp_link: "/2010/02/models-feedback-and-crows/"
 wp:post_type: post
 redirects:
 - "/2010/02/models-feedback-and-crows/"

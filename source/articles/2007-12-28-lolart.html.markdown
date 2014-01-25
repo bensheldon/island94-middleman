@@ -5,7 +5,6 @@ tags:
 - art
 - fun
 - inane
-wp_link: "/2007/12/lolart/"
 wp:post_type: post
 redirects:
 - "/node/197"

@@ -9,7 +9,6 @@ tags:
 - Lowell
 - pollution
 - trash
-wp_link: "/2005/11/autumn-pollution/"
 wp:post_type: post
 redirects:
 - "/node/7"

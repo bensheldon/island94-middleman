@@ -6,7 +6,6 @@ tags:
 - Dorchester
 - history
 - walk
-wp_link: "/2006/08/about-in-dorchester/"
 wp:post_type: post
 redirects:
 - "/node/90"

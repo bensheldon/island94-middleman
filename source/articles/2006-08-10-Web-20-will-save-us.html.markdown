@@ -12,7 +12,6 @@ tags:
 - robots
 - Web 2.0
 - web design
-wp_link: "/2006/08/web-2-0-will-save-us/"
 wp:post_type: post
 redirects:
 - "/node/84"

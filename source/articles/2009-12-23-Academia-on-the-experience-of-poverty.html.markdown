@@ -7,7 +7,6 @@ tags:
 - graphic
 - livelihood
 - poverty
-wp_link: "/2009/12/academia-on-the-experience-of-poverty/"
 wp:post_type: post
 redirects:
 - "/2009/12/academia-on-the-experience-of-poverty/"

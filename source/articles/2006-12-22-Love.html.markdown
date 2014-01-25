@@ -7,7 +7,6 @@ tags:
 - learning story
 - love
 - marriage
-wp_link: "/2006/12/love/"
 wp:post_type: post
 redirects:
 - "/node/113"

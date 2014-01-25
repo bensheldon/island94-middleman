@@ -5,7 +5,6 @@ tags:
 - humanity
 - literature
 - philosophy
-wp_link: "/2007/12/struck-by-cain/"
 wp:post_type: post
 redirects:
 - "/node/183"

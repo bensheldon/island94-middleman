@@ -6,7 +6,6 @@ tags:
 - media-literacy
 - politics
 - writing
-wp_link: "/2009/03/lying-in-subtext-and-by-omission/"
 wp:post_type: post
 redirects:
 - "/2009/03/lying-in-subtext-and-by-omission/"

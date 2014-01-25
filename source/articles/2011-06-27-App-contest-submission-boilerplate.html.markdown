@@ -4,7 +4,6 @@ date: '2011-06-27'
 tags:
 - boilerplate
 - contest
-wp_link: "/2011/06/app-contest-submission-boilerplate/"
 wp:post_type: post
 redirects:
 - "/2011/06/app-contest-submission-boilerplate/"

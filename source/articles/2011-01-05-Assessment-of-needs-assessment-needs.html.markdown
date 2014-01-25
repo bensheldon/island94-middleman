@@ -5,7 +5,6 @@ tags:
 - assessment
 - needs
 - technology
-wp_link: "/2011/01/assessment-of-needs-assessment-needs/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities.jpg

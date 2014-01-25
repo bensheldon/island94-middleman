@@ -6,7 +6,6 @@ tags:
 - labor
 - nonprofit
 - trade
-wp_link: "/2010/09/commodity-work/"
 wp:post_type: post
 redirects:
 - "/2010/09/commodity-work/"

@@ -6,7 +6,6 @@ tags:
 - map
 - subway
 - T
-wp_link: "/2005/11/rubbed-away/"
 wp:post_type: post
 redirects:
 - "/node/9"

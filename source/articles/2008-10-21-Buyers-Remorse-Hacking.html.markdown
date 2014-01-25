@@ -5,7 +5,6 @@ tags:
 - cognitive dissonance
 - computers
 - consumption
-wp_link: "/2008/10/buyers-remorse-hacking/"
 wp:post_type: post
 redirects:
 - "/2008/10/buyer\\'s-remorse-hacking/"

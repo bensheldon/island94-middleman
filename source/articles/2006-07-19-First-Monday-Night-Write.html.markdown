@@ -6,7 +6,6 @@ tags:
 - Monday Night Write
 - Saul
 - writing
-wp_link: "/2006/07/first-monday-night-write/"
 wp:post_type: post
 redirects:
 - "/articles/first-monday-night-write"

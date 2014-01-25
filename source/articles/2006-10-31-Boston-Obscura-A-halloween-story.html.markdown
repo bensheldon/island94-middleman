@@ -7,7 +7,6 @@ tags:
 - halloween
 - history
 - spooky
-wp_link: "/2006/10/boston-obscura-a-halloween-story/"
 wp:post_type: post
 redirects:
 - "/2006/10/boston-obscura:-a-halloween-story/"

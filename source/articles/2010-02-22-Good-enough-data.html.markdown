@@ -8,7 +8,6 @@ tags:
 - parsing
 - portfolio
 - yawn
-wp_link: "/2010/02/good-enough-data/"
 wp:post_type: post
 redirects:
 - "/2010/02/good-enough-data/"

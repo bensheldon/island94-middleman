@@ -7,7 +7,6 @@ tags:
 - history
 - science
 - technology
-wp_link: "/2009/12/axemaker-conclusions/"
 wp:post_type: post
 redirects:
 - "/2009/12/axemaker-conclusions/"

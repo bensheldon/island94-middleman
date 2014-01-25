@@ -7,7 +7,6 @@ tags:
 - management
 - nonprofit
 - rhetoric
-wp_link: "/2010/11/goofus-gallant-mba/"
 wp:post_type: post
 redirects:
 - "/2010/11/goofus-gallant-mbas/"

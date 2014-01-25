@@ -8,7 +8,6 @@ tags:
 - Molly
 - office
 - productivity
-wp_link: "/2006/10/office-faceoff/"
 wp:post_type: post
 redirects:
 - "/articles/office-faceoff"

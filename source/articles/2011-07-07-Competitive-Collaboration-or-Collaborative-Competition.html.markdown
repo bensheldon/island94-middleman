@@ -6,7 +6,6 @@ tags:
 - contests
 - cooperation
 - development
-wp_link: "/2011/07/competitive-collaboration-or-collaborative-competition/"
 wp:post_type: post
 redirects:
 - "/2011/07/competitive-collaboration-or-collaborative-competition/"

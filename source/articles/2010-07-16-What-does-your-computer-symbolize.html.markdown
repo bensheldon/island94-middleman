@@ -6,7 +6,6 @@ tags:
 - cyberutopia
 - history
 - technology
-wp_link: "/2010/07/what-does-your-computer-symbolize/"
 wp:post_type: post
 redirects:
 - "/2010/07/what-does-your-computer-symbolize/"

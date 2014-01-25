@@ -7,7 +7,6 @@ tags:
 - paul
 - video
 - washingtonDC
-wp_link: "/2007/03/airport-vehicles/"
 wp:post_type: post
 redirects:
 - "/node/121"

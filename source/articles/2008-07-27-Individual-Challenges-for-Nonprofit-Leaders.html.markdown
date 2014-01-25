@@ -4,7 +4,6 @@ date: '2008-07-27'
 tags:
 - leadership
 - nonprofit
-wp_link: "/2008/07/individual-challenges-for-nonprofit-leaders/"
 wp:post_type: post
 redirects:
 - "/node/236"

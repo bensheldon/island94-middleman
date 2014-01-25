@@ -8,7 +8,6 @@ tags:
 - government
 - process
 - software
-wp_link: "/2011/05/apps-off-the-approved-vendor-list/"
 wp:post_type: post
 redirects:
 - "/2011/05/apps-off-the-approved-vendor-list/"

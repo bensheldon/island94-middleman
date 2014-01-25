@@ -5,7 +5,6 @@ tags:
 - design
 - dialogue
 - philosophy
-wp_link: "/2010/02/motivated-design/"
 wp:post_type: post
 redirects:
 - "/2010/02/motivated-design/"

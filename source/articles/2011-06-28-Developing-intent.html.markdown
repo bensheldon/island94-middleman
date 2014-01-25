@@ -5,7 +5,6 @@ tags:
 - apps
 - development
 - organizing
-wp_link: "/2011/06/developing-intent/"
 wp:post_type: post
 redirects:
 - "/2011/06/developing-intent/"

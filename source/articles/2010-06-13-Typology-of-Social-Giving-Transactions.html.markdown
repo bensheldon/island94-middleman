@@ -6,7 +6,6 @@ tags:
 - gimme
 - nonprofit
 - typology
-wp_link: "/2010/06/typology-of-social-giving-transactions/"
 wp:post_type: post
 redirects:
 - "/2010/06/typology-of-social-giving-transactions/"

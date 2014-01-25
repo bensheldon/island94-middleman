@@ -6,7 +6,6 @@ tags:
 - data
 - navigation
 - portfolio
-wp_link: "/2012/07/hard-data-on-the-status-of-open311/"
 wp:post_type: post
 redirects:
 - "/2012/07/hard-data-on-the-status-of-open311/"

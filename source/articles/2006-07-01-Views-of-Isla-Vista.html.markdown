@@ -5,7 +5,6 @@ tags:
 - California
 - photos
 - Santa Barbara
-wp_link: "/2006/07/views-of-isla-vista/"
 wp:post_type: post
 redirects:
 - "/node/59"

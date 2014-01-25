@@ -7,7 +7,6 @@ tags:
 - soapbox
 - vanity
 - webdesign
-wp_link: "/2010/09/this-is-not-a-website/"
 wp:post_type: post
 redirects:
 - "/2010/09/this-is-not-a-website/"

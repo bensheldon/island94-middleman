@@ -6,7 +6,6 @@ tags:
 - education
 - learning-styles
 - pedagogy
-wp_link: "/2010/11/learning-styles-and-chemistry/"
 wp:post_type: post
 redirects:
 - "/2010/11/learning-styles-and-chemistry/"

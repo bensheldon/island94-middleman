@@ -5,7 +5,6 @@ tags:
 - communications
 - economics
 - politics
-wp_link: "/2007/12/consumption-and-deregulation/"
 wp:post_type: post
 redirects:
 - "/node/180"

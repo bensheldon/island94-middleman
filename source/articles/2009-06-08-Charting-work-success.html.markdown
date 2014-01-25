@@ -8,7 +8,6 @@ tags:
 - chart
 - graphics
 - management
-wp_link: "/2009/06/charting-work-success/"
 wp:post_type: post
 redirects:
 - "/2009/06/charting-work-success/"

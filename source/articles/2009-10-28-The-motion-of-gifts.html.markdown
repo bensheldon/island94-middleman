@@ -8,7 +8,6 @@ tags:
 - motion
 - relationships
 - trade
-wp_link: "/2009/10/the-motion-of-gifts/"
 wp:post_type: post
 redirects:
 - "/2009/10/the-motion-of-gifts/"

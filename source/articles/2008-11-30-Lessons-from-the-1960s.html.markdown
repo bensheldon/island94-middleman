@@ -8,7 +8,6 @@ tags:
 - doubt
 - history
 - patriotism
-wp_link: "/2008/11/lessons-from-the-1960s/"
 wp:post_type: post
 redirects:
 - "/node/273"

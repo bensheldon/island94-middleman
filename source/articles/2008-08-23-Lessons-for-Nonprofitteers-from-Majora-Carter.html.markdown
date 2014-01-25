@@ -5,7 +5,6 @@ tags:
 - advice
 - career
 - nonprofit
-wp_link: "/2008/08/lessons-for-nonprofitteers-from-majora-carter/"
 wp:post_type: post
 redirects:
 - "/node/244"

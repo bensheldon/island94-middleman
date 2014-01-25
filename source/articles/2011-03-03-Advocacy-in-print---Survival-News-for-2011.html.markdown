@@ -8,7 +8,6 @@ tags:
 - publishing
 - welfare
 - women
-wp_link: "/2011/03/advocacy-in-print-survival-news-for-2011/"
 wp:post_type: post
 redirects:
 - "/2011/03/advocacy-in-print-survival-news-for-2011/"

@@ -5,7 +5,6 @@ tags:
 - bootleg
 - media
 - science
-wp_link: "/2008/08/digital-media-forensics/"
 wp:post_type: post
 redirects:
 - "/node/237"

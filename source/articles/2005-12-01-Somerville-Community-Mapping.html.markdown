@@ -5,7 +5,6 @@ tags:
 - community mapping
 - photos
 - Sommerville
-wp_link: "/2005/12/somerville-community-mapping/"
 wp:post_type: post
 redirects:
 - "/node/22"

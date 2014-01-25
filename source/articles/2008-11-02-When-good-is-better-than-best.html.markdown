@@ -4,7 +4,6 @@ date: '2008-11-02'
 tags:
 - evaluation
 - ranking
-wp_link: "/2008/11/when-good-is-better-than-best/"
 wp:post_type: post
 redirects:
 - "/2008/11/when-\"good\"-is-better-than-\"best\"/"

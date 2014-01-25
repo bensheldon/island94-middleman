@@ -6,7 +6,6 @@ tags:
 - language
 - media
 - politics
-wp_link: "/2008/07/political-news-coverage/"
 wp:post_type: post
 redirects:
 - "/node/233"

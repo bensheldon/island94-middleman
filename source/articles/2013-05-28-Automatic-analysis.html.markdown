@@ -2,7 +2,6 @@
 title: Automatic analysis
 date: '2013-05-28'
 tags: []
-wp_link: "/2013/05/automatic-analysis/"
 wp:post_type: post
 redirects:
 - "/2013/05/automatic-analysis/"
