@@ -7,7 +7,7 @@ link: http://island94.dev/2009/10/janets-spiral-periodic-table/
 wp:post_type: post
 ---
 
-<a href="/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png"></a><a href="http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png"><img class="aligncenter size-medium wp-image-764" title="Janets Spiral Periodic Table" src="http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table-499x448.png" alt="Janets Spiral Periodic Table" width="499" height="448" /></a>
+<a href="http://island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png"></a><a href="http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table.png"><img class="aligncenter size-medium wp-image-764" title="Janets Spiral Periodic Table" src="http://www.island94.org/wp-content/uploads/2009/10/Janets-Spiral-Periodic-Table-499x448.png" alt="Janets Spiral Periodic Table" width="499" height="448" /></a>
 
 My office bookshelf fell off the wall today; to lighten the load I decided to read something on it: working in an environment of higher education, I pickup a lot of junk books:
 
