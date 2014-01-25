@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2409'
 wp_link: "/2011/01/mediation-journal-version-0/"
 wp:post_type: post
+redirects:
+- "/2011/01/mediation-journal-version-0/"
 ---
 
 [ ![](2011-01-12-Mediation-Journal-Version-0/mediation-3-500x334.jpg "mediation-3") ](2011-01-12-Mediation-Journal-Version-0/mediation-3.jpg)

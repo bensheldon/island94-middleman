@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/180"
 - "/consumption-and-deregulation"
+- "/2007/12/consumption-and-deregulation/"
 ---
 
 >

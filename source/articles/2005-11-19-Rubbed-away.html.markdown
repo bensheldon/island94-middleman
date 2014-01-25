@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/9"
 - "/articles/rubbed-away"
+- "/2005/11/rubbed-away/"
 ---
 
   ![](http://farm1.static.flickr.com/26/64889642_51925902ce.jpg)

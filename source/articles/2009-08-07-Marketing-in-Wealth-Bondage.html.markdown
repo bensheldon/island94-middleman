@@ -9,6 +9,8 @@ tags:
 wp:post_id: '652'
 wp_link: "/2009/08/marketing-in-wealth-bondage/"
 wp:post_type: post
+redirects:
+- "/2009/08/marketing-in-wealth-bondage/"
 ---
 
 I'm thoroughly enjoying Douglas Rushkoff's _Life, Inc._---"how the world became a corporation and how to take it back".

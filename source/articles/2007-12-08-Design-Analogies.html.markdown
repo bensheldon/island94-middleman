@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/188"
 - "/design-analogies"
+- "/2007/12/design-analogies/"
 ---
 
 - [Kill Switch release](http://www.iucn-tftsg.org/?kill_switch)

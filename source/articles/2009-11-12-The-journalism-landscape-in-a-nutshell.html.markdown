@@ -7,6 +7,8 @@ tags:
 wp:post_id: '1017'
 wp_link: "/2009/11/the-journalism-landscape-in-a-nutshell/"
 wp:post_type: post
+redirects:
+- "/2009/11/the-journalism-landscape-in-a-nutshell/"
 ---
 
 This lede is the baseline from which I think any discussion of contemporary journalism should begin:

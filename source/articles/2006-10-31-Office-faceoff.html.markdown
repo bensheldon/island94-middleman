@@ -14,6 +14,7 @@ wp:post_type: post
 redirects:
 - "/articles/office-faceoff"
 - "/node/106"
+- "/2006/10/office-faceoff/"
 ---
 
 [ ![Home office](http://static.flickr.com/102/285052618_3f60156e62_m.jpg) ](http://www.flickr.com/photos/bensheldon/285052618/ "Photo Sharing") [ ![The work office](http://static.flickr.com/116/285058957_7d854a698e_m.jpg) ](http://www.flickr.com/photos/bensheldon/285058957/ "Photo Sharing")

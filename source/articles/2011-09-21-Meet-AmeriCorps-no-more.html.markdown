@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '2888'
 wp_link: "/2011/09/meet-americorps-no-more/"
 wp:post_type: post
+redirects:
+- "/2011/09/meet-americorps-no-more/"
 ---
 
 [ ![](2011-09-21-Meet-AmeriCorps-no-more/Home-Meet-AmeriCorps.png "Home | Meet AmeriCorps") ](2011-09-21-Meet-AmeriCorps-no-more/Home-Meet-AmeriCorps.png)

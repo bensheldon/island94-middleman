@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/247"
 - "/articles/how-make-do-what-you-got"
+- "/2008/08/how-to-make-do-with-what-you-got/"
 ---
 
 I like taking on the role of facilitator to help people realize their potential, whatever it might be. In a strategic planning class I audited last year, I found myself spending more time (and enjoying myself more) turning _other people's_ vague concepts into plans, than I did my own. Many of the AmeriCorps\*VISTA members I work with have trouble recognizing their abilities, expressing their roles, and most importantly, translating their experiences into a narrative they can parlay into brighter pastures. I've learned a lot about how to work with them to do this.

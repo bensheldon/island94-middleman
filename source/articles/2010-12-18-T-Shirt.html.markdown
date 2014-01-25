@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2384'
 wp_link: "/2010/12/t-shirt/"
 wp:post_type: post
+redirects:
+- "/2010/12/t-shirt/"
 ---
 
 ![](2010-12-18-T-Shirt/t-shirt-500x373.jpg "T Shirt")

@@ -14,6 +14,7 @@ wp:post_type: post
 redirects:
 - "/node/259"
 - "/articles/nonprofits-and-economy-free"
+- "/2008/10/nonprofits-and-the-economy-of-free/"
 ---
 
 My RSS feeds of late have been delivering to me many interesting posts by Chris Anderson as he explores the [different kinds of free](http://www.longtail.com/the_long_tail/2008/09/revised-the-fou.html). I've been specifically interested in his visualizations of the Advertising Model of Free: advertisers pay for advertising, which subsidizes programming, which is then given away for free, with the goal being that consumers will purchaser those original advertiser's products. There is a great explanation of how broadcast advertising works in the [Denver Open Media's Opening Access video](http://video.google.com/videoplay?docid=4708457008927095699&hl=en) (at about the 1 minute, 30 second mark).

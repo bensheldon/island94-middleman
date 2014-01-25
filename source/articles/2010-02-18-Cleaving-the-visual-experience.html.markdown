@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1774'
 wp_link: "/2010/02/cleaving-the-visual-experience/"
 wp:post_type: post
+redirects:
+- "/2010/02/cleaving-the-visual-experience/"
 ---
 
 From Jacques Racière's _The Future of the Image_ (translated by Gregory Elliot):

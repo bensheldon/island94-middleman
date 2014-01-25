@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2088'
 wp_link: "/2010/06/typology-of-social-giving-transactions/"
 wp:post_type: post
+redirects:
+- "/2010/06/typology-of-social-giving-transactions/"
 ---
 
 - **Giving**: a gift. _"Please take this dollar. Have a nice day."_

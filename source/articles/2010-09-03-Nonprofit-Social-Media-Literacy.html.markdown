@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2181'
 wp_link: "/2010/09/nonprofit-social-media-literacy/"
 wp:post_type: post
+redirects:
+- "/2010/09/nonprofit-social-media-literacy/"
 ---
 
 A [comment](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/#comment-616) I made back in April on a blog post entitled " [4 Poor Excuses for Avoiding Social Media](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/)" that asked the question "Are there good reasons to avoid social media?":

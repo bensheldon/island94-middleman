@@ -11,6 +11,8 @@ tags:
 wp:post_id: '810'
 wp_link: "/2009/10/welcome-grassroots-users-of-technology/"
 wp:post_type: post
+redirects:
+- "/2009/10/welcome-grassroots-users-of-technology/"
 ---
 
 This weekend is the Organizers' Collaborative's (and our 20 wonderful [sponsors](http://www.grassrootstech.org/2009/node/7)') 10th Annual [Grassroots Use of Technology Conference](http://www.grassrootstech.org) (still time to register!). I'm President of the Board for the [Organizers Collaborative](http://organizerscollaborative.org), so I'm a little excited. Even more so because I got top billing in the [Program Booklet](http://grassrootstech.org/2009/node/57):

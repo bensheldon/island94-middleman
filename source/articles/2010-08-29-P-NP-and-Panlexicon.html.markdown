@@ -7,6 +7,8 @@ tags:
 wp:post_id: '2142'
 wp_link: "/2010/08/p-np-and-panlexicon/"
 wp:post_type: post
+redirects:
+- "/2010/08/p-np-and-panlexicon/"
 ---
 
 This week I updated [Panlexicon](http://panlexicon.com)'s Word of the Day for Twitter's new authentication API requirements, squeaking in just under the August 30 deadline. Panlexicon has been updated [tweeting a unique word every day](http://twitter.com/panlexicon) for nearly a year and a half now.

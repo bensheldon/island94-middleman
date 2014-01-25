@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '3085'
 wp_link: "/2013/05/automatic-analysis/"
 wp:post_type: post
+redirects:
+- "/2013/05/automatic-analysis/"
 ---
 
 [Karl Fogel](http://en.wikipedia.org/wiki/Karl_Fogel) on [ The Open Source Report Card](http://osrc.dfm.io/):

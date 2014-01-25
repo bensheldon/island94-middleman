@@ -13,6 +13,7 @@ failed_files:
 - http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpg
 redirects:
 - "/2009/10/a-crow-but-not-a-rogues-nest/"
+- "/2009/10/not-another-rogues-nest/"
 ---
 
 [ ![navigator-p161](2009-10-26-Not-another-Rogues-nest/navigator-p161-500x851.jpg "navigator-p161") ](2009-10-26-Not-another-Rogues-nest/navigator-p161.jpeg)

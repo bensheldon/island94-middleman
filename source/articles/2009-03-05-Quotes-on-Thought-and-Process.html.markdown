@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '500'
 wp_link: "/2009/03/quotes-on-thought-and-process/"
 wp:post_type: post
+redirects:
+- "/2009/03/quotes-on-thought-and-process/"
 ---
 
 >

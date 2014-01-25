@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2749'
 wp_link: "/2011/07/the-event-is-a-tyrant/"
 wp:post_type: post
+redirects:
+- "/2011/07/the-event-is-a-tyrant/"
 ---
 
 Charles Seife on journalism, news pegs and polls in _Proofiness: The dark arts of mathematical deception_:

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '887'
 wp_link: "/2009/10/twenty-four-dollars/"
 wp:post_type: post
+redirects:
+- "/2009/10/twenty-four-dollars/"
 ---
 
 This weekend was Boston's first book festival. I purchased _The Little Money Book_ by David Boyle ("What is money? What is it really worth? Who decides?"). The following is from the opening chapter ("Why publish this book?") and is a speech delivered to European heads of state by a representative of South American indigenous communities:

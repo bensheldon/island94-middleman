@@ -15,6 +15,7 @@ redirects:
 - "/2006/09/germania-st-"
 - "/articles/germania-st-2"
 - "/node/100"
+- "/2006/09/germania-st-2/"
 ---
 
 [ ![Germania St. #2](http://static.flickr.com/108/256026865_cf2e71cdc8_o.jpg) ](http://www.flickr.com/photos/bensheldon/256026865/ "Photo Sharing")

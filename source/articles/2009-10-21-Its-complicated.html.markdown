@@ -9,6 +9,8 @@ tags:
 wp:post_id: '843'
 wp_link: "/2009/10/its-complicated/"
 wp:post_type: post
+redirects:
+- "/2009/10/its-complicated/"
 ---
 
 Since I just posted about how [social roles affect social values](http://www.island94.org/2009/10/social-work-is-womens-work-so-we-dont-care/), here's a scenario we recently had in my Critical Thinking class.

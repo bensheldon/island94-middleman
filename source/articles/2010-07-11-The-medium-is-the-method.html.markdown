@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2111'
 wp_link: "/2010/07/the-medium-is-the-method/"
 wp:post_type: post
+redirects:
+- "/2010/07/the-medium-is-the-method/"
 ---
 
 Jeff Hawkins, founder of Palm Computing, from _ [Designing Interactions](http://www.designinginteractions.com/)_ by Bill Moggridge:

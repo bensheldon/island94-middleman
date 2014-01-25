@@ -13,6 +13,7 @@ wp:post_type: post
 redirects:
 - "/node/97"
 - "/articles/rhode-island-turf-and-grapes"
+- "/2006/09/rhode-island-turf-and-grapes/"
 ---
 
 It's a little late to write about, but I spent Labor Day weekend in Rhode Island.

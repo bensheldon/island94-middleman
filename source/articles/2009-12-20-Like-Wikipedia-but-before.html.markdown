@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1611'
 wp_link: "/2009/12/like-wikipedia-but-before/"
 wp:post_type: post
+redirects:
+- "/2009/12/like-wikipedia-but-before/"
 ---
 
 This is how the emerging internet is described in _The Axemaker's Gift_, published in  1995. Interesting sections to me highlighted by me:

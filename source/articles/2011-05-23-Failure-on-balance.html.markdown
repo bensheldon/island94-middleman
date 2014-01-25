@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2669'
 wp_link: "/2011/05/failure-on-balance/"
 wp:post_type: post
+redirects:
+- "/2011/05/failure-on-balance/"
 ---
 
 From Chris Rabb's _Invisible Capital_:

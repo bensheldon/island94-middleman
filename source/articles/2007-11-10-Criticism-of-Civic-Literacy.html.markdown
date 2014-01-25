@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/171"
 - "/criticism-civic-literacy"
+- "/2007/11/criticism-of-civic-literacy/"
 ---
 
 I've been reading up on Civic Literacy and so far I'm kind've disappointed with what I'm seeing and my own involvement in it as well:

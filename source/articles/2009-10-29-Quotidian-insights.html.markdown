@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '905'
 wp_link: "/2009/10/quotidian-insights/"
 wp:post_type: post
+redirects:
+- "/2009/10/quotidian-insights/"
 ---
 
 [ ![china-hw](2009-10-29-Quotidian-insights/china-hw.jpg "china-hw") ](2009-10-29-Quotidian-insights/china-hw.jpg)

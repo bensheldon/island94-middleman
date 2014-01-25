@@ -15,6 +15,8 @@ tags:
 wp:post_id: '631'
 wp_link: "/2009/07/moving-day/"
 wp:post_type: post
+redirects:
+- "/2009/07/moving-day/"
 ---
 
 ![norman rockwell - moving day](2009-07-12-Moving-Day/norman-rockwell-moving-day-500x311.png "norman rockwell - moving day")

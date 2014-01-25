@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1663'
 wp_link: "/2010/01/umberto-eco-on-modernism/"
 wp:post_type: post
+redirects:
+- "/2010/01/umberto-eco-on-modernism/"
 ---
 
 Widely quoted; from _The Name of the Rose _(paragraphs breaks are mine for readability):

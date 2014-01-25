@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1609'
 wp_link: "/2009/12/axemaker-conclusions/"
 wp:post_type: post
+redirects:
+- "/2009/12/axemaker-conclusions/"
 ---
 
 The following is from the conclusion of the _ [Axemaker's Gift](http://www.amazon.com/Axemakers-Gift-Robert-Ornstein/dp/0874778565)_ by James Burke and Robert Ornstein:

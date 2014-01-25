@@ -13,6 +13,8 @@ tags:
 wp:post_id: '752'
 wp_link: "/2009/10/nonprofit-budgeting-scenario/"
 wp:post_type: post
+redirects:
+- "/2009/10/nonprofit-budgeting-scenario/"
 ---
 
 While cleaning up some files, I came across this awesome scenario I wrote for our AmeriCorps\*VISTA orientation last summer. I wrote it to give our new service members an idea of what it's like to enter a small community nonprofit organization in contemporary times: under-staffed, under-resourced, broadly missioned, lacking in a comprehensive strategic plan. Most importantly, the nonprofit in this scenario lacks a well-prepared board... which is the role _you_ play in this scenario.

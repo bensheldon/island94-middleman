@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/articles/first-monday-night-write"
 - "/node/76"
+- "/2006/07/first-monday-night-write/"
 ---
 
 Monday was Saul and my's first Monday Night Write (MNW); a time to get together, eat, talk, laugh, wander around, talk some more and finally, eventually, work on our writing. We met at Saul's house, where he first treated me to a delicious salad and some refreshing lemonade. Then we were off to the 1369 Coffee House to write and practice another key authorial skill: not paying for anything.

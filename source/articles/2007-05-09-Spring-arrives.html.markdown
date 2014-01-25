@@ -13,6 +13,7 @@ wp:post_type: post
 redirects:
 - "/node/131"
 - "/articles/spring-arrives"
+- "/2007/05/spring-arrives/"
 ---
 
 [ ![CIMG2509.JPG](http://farm1.static.flickr.com/218/448506773_55049ea73c.jpg) ](http://www.flickr.com/photos/bensheldon/448506773/ "Photo Sharing")

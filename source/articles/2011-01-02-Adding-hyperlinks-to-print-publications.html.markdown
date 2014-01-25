@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2397'
 wp_link: "/2011/01/adding-hyperlinks-to-print-publications/"
 wp:post_type: post
+redirects:
+- "/2011/01/adding-hyperlinks-to-print-publications/"
 ---
 
 ![](2011-01-02-Adding-hyperlinks-to-print-publications/hyperlink-numbermysteries-500x454.jpg "hyperlink-numbermysteries")

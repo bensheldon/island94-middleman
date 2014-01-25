@@ -12,6 +12,8 @@ tags:
 wp:post_id: '1802'
 wp_link: "/2010/03/numerical-indifference/"
 wp:post_type: post
+redirects:
+- "/2010/03/numerical-indifference/"
 ---
 
 I was really proud of myself last week when I made what I felt was a valid and illuminating numerical comparison: I wrote that the [amount of Broadband Stimulus money](http://transmissionproject.org/current/2010/2/btop-applicants-awards-and-poverty-analysis) requested for projects within the state of Alaska---projects serving rural and underserved communities---was on a per-capita basis_ about equal to the federal poverty level for a 2-person household_. For those of us who work on access and inclusion (and even those that don't), that's a much more meaningful statement than writing "about $15,000".

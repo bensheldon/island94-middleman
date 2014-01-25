@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2644'
 wp_link: "/2011/05/reductionist-function-and-practice/"
 wp:post_type: post
+redirects:
+- "/2011/05/reductionist-function-and-practice/"
 ---
 
 ![](2011-05-09-Reductionist-function-and-practice/remote.jpeg "remote")

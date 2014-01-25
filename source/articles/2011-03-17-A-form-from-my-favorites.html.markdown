@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2549'
 wp_link: "/2011/03/a-form-from-my-favorites/"
 wp:post_type: post
+redirects:
+- "/2011/03/a-form-from-my-favorites/"
 ---
 
 ![](2011-03-17-A-form-from-my-favorites/brompt-signup-600x501.png "brompt-signup")

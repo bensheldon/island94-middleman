@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '2969'
 wp_link: "/2012/01/2011-in-review/"
 wp:post_type: post
+redirects:
+- "/2012/01/2011-in-review/"
 ---
 
 2011 was a year of transitions: plenty of new starts and sad endings.

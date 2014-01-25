@@ -9,6 +9,8 @@ tags:
 wp:post_id: '3018'
 wp_link: "/2012/08/put-your-civics-where-your-houseplant-is/"
 wp:post_type: post
+redirects:
+- "/2012/08/put-your-civics-where-your-houseplant-is/"
 ---
 
 ![](2012-08-14-Put-Your-Civics-Where-Your-Houseplant-Is/civicsgarden-large-600x266.png "civicsgarden-large")

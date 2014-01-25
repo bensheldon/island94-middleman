@@ -16,6 +16,7 @@ wp:post_type: post
 redirects:
 - "/node/72"
 - "/articles/canoes-mystic-river"
+- "/2006/07/canoes-on-the-mystic-river/"
 ---
 
 [ ![Dandy at the bow](http://static.flickr.com/70/191359967_ff58c48abe.jpg) ](http://www.flickr.com/photos/bensheldon/191359967/ "Photo Sharing")

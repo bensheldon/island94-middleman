@@ -11,6 +11,8 @@ tags:
 wp:post_id: '2167'
 wp_link: "/2010/09/find-fresh-perspectives-at-nonprofitmillennials-org/"
 wp:post_type: post
+redirects:
+- "/2010/09/find-fresh-perspectives-at-nonprofitmillennials-org/"
 ---
 
 ![](2010-09-01-Find-fresh-perspectives-at-NonprofitMillennialsorg/nonprofitmillennials-screenshot-top-500x420.png "nonprofitmillennials-screenshot-top")

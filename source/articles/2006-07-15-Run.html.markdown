@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/71"
 - "/articles/run"
+- "/2006/07/run/"
 ---
 
 Running fast, flat out, is the best feeling on earth.

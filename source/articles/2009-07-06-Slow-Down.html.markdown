@@ -10,6 +10,8 @@ tags:
 wp:post_id: '629'
 wp_link: "/2009/07/slow-down/"
 wp:post_type: post
+redirects:
+- "/2009/07/slow-down/"
 ---
 
 I have been slowly making my way through Malcolm Gladwell's _The Tipping Point_ (one book among many). The [cognitive bias](http://en.wikipedia.org/wiki/List_of_cognitive_biases) being discussed at the moment is Fundamental Attribution Error (or Actor-Observer Bias, Correspondence Bias or Attribution Effect), in which humans tend to ascribe actions to some innate properties of the actor, rather than the context of the action.

@@ -10,6 +10,8 @@ tags:
 wp:post_id: '927'
 wp_link: "/2009/10/charity-mercy-and-sin/"
 wp:post_type: post
+redirects:
+- "/2009/10/charity-mercy-and-sin/"
 ---
 
 From the introduction to " [Poverty and Charity in Past Times](http://muse.jhu.edu/journals/journal_of_interdisciplinary_history/v035/35.3cohen01.html)" by Mark Cohen (_Journal of Interdisciplinary History_ 35.3, 2005, p. 354)", an analysis of Catholic confraternities in the 16th century :

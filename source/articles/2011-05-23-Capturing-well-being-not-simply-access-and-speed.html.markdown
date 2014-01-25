@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2433'
 wp_link: "/2011/05/capturing-well-being-not-simply-access-and-speed/"
 wp:post_type: post
+redirects:
+- "/2011/05/capturing-well-being-not-simply-access-and-speed/"
 ---
 
 In January the Associated Press had a widely run article entitled ["For minorities, new 'digital divide' appears"](http://www.denverpost.com/recommended/ci_17041068) by Jesse Washington. On the [Digital Inclusion Network](http://forums.e-democracy.org/groups/inclusion) commenter [Jeff Smith](http://civsourceonline.com/) wrote of it:

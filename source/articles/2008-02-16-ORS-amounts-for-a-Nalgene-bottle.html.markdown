@@ -11,8 +11,8 @@ wp:post_type: post
 redirects:
 - "/node/200"
 - "/observation/ors-amounts-nalgene-bottle"
-- "/node/200"
 - "/ors-amounts-nalgene-bottle"
+- "/2008/02/ors-amounts-for-a-nalgene-bottle/"
 ---
 
 For a 32oz Nalgene Bottle (the standard biggish one) of clean water, the Oral Rehydration Salt quantities are:

@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/chill-units"
 - "/node/167"
+- "/2007/11/chill-units/"
 ---
 
 >

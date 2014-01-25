@@ -11,6 +11,7 @@ redirects:
 - "/2008/09/what-is-a-nonprofit"
 - "/articles/what-nonprofit-structural-definition"
 - "/node/251"
+- "/2008/09/what-is-a-nonprofit-a-structural-definition/"
 ---
 
 My radio program piece I [posted last week](http://island94.org/articles/radio-ga-ga-2-role-nonprofits-constructing-better-world) generated some good discussion in the [comments](http://island94.org/articles/radio-ga-ga-2-role-nonprofits-constructing-better-world?#comments). In this post I would like to follow up by providing some background to the discussion that nonprofit organizations are not fully deserving of the aura they they receive. The following is a synopsis of the Nonprofit Structure training I give for AmeriCorps\*VISTA members; you can also watch the [40 minute training](http://ctcvista.org/node/1334).

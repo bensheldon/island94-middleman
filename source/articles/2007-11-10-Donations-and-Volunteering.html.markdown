@@ -8,6 +8,7 @@ wp:post_type: post
 redirects:
 - "/node/170"
 - "/articles/donations-and-volunteering"
+- "/2007/11/donations-and-volunteering/"
 ---
 
 Donations Individual Giving

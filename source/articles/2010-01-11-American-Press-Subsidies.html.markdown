@@ -12,6 +12,8 @@ tags:
 wp:post_id: '1678'
 wp_link: "/2010/01/american-press-subsidies/"
 wp:post_type: post
+redirects:
+- "/2010/01/american-press-subsidies/"
 ---
 
 A brief history of the United State's subsidies to journalism and the press, from The Nation's ["How to Save Journalism" ](http://www.thenation.com/doc/20100125/nichols_mcchesney/single) by John Nichols and Robert McChesney:

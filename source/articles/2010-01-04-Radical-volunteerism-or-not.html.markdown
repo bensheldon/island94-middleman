@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1665'
 wp_link: "/2010/01/radical-volunteerism-or-not/"
 wp:post_type: post
+redirects:
+- "/2010/01/radical-volunteerism-or-not/"
 ---
 
 From the [NY Times](http://www.nytimes.com/2010/01/04/education/04teach.html):

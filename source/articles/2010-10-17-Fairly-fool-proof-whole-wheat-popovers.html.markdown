@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2243'
 wp_link: "/2010/10/fairly-fool-proof-popovers/"
 wp:post_type: post
+redirects:
+- "/2010/10/fairly-fool-proof-popovers/"
 ---
 
 ![](2010-10-17-Fairly-fool-proof-whole-wheat-popovers/popovers-500x373.jpg "popovers")

@@ -11,6 +11,7 @@ wp_link: "/2010/04/do-what-i-say/"
 wp:post_type: post
 redirects:
 - "/2010/04/i-know-not-what-ive-done/"
+- "/2010/04/do-what-i-say/"
 ---
 
 Peter Klausler's ["](http://klausler.com/cargo.html)** [Principles of the American Cargo Cult"](http://klausler.com/cargo.html) is one of my favorite statements (even more when applied to the idea of "best practices").**

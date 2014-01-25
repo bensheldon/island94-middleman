@@ -15,6 +15,7 @@ failed_files:
 redirects:
 - "/articles/pool-soup"
 - "/node/6"
+- "/2005/11/pool-soup/"
 ---
 
 [ ![](2005-11-13-Pool-Soup/poolsoupthumb.png) ](2005-11-13-Pool-Soup/poolsoup.mp4)

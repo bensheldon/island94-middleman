@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1891'
 wp_link: "/2010/04/principles-of-organizational-development-practice/"
 wp:post_type: post
+redirects:
+- "/2010/04/principles-of-organizational-development-practice/"
 ---
 
 From the [Organizational Development Network](http://www.odnetwork.org/aboutod/principles.php):

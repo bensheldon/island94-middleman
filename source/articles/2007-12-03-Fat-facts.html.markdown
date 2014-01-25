@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/181"
 - "/fat-facts"
+- "/2007/12/fat-facts/"
 ---
 
 > At this point, 30% of the American population is obese, up from just 13% of the population 20 years ago. That number will be 41% by 2015. On the other hand, only about .6% of the American population is anorexic, a number that's stayed fairly constant over the years. Yet the mortality rate of people with anorexia is only slightly higher (.56%) than that of people that qualify as obese (.43%).

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1963'
 wp_link: "/2010/05/try-it-again/"
 wp:post_type: post
+redirects:
+- "/2010/05/try-it-again/"
 ---
 
 From the Leonard Mlodinow's _The Drunkard's Walk: How Randomness Rules Our Lives_:

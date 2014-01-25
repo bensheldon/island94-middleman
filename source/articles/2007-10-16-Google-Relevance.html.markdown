@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/160"
 - "/google-relevance"
+- "/2007/10/google-relevance/"
 ---
 
 On Slashdot today was an [entry](http://slashdot.org/article.pl?sid=07/10/16/135209) about [Google Search if it was designed for Google](http://www.meangene.com/google/design_for_google.html). Basically redesigning the page for a higher pagerank.

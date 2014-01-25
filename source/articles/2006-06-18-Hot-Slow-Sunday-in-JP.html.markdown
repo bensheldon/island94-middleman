@@ -14,6 +14,7 @@ failed_files:
 redirects:
 - "/node/54"
 - "/articles/hot-slow-sunday-jp"
+- "/2006/06/hot-slow-sunday-in-jp/"
 ---
 
 [ ![](2006-06-18-Hot-Slow-Sunday-in-JP/hot-slow-sunday-thumb.png) ](http://island94.org/files/Hot-Slow-Sunday-in-JP.mp4 )

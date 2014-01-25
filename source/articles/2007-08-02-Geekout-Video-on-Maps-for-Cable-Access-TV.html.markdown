@@ -17,6 +17,7 @@ redirects:
 - "/2007/08/geekout:-video-on-maps-for-cable-access-tv/"
 - "/node/136"
 - "/articles/geekout-video-maps-cable-access-tv"
+- "/2007/08/geekout-video-on-maps-for-cable-access-tv/"
 ---
 
 ![](2007-08-02-Geekout-Video-on-Maps-for-Cable-Access-TV/mediamap-600x448.jpg "mediamap")

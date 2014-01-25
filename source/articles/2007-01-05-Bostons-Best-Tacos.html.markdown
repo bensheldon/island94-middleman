@@ -13,6 +13,7 @@ redirects:
 - "/2007/01/boston\\'s-best-tacos/"
 - "/node/115"
 - "/articles/bostons-best-tacos"
+- "/2007/01/bostons-best-tacos/"
 ---
 
 $mymarkers=array(

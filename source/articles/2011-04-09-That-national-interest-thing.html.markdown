@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2563'
 wp_link: "/2011/04/that-national-interest-thing/"
 wp:post_type: post
+redirects:
+- "/2011/04/that-national-interest-thing/"
 ---
 
 I'm still parsing through H.R.1363, the $38 billion appropriations bill passed late last night, but [this is generally representative](http://www.opencongress.org/bill/112-h1363/text?version=eh&nid=t0:eh:361) of the sausage trading to pay Paul approach:

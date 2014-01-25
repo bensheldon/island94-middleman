@@ -10,8 +10,8 @@ wp:post_type: post
 redirects:
 - "/node/217"
 - "/observation/echilada-sauce"
-- "/node/217"
 - "/observation/enchilada-sauce"
+- "/2008/04/enchilada-sauce/"
 ---
 
 .!.

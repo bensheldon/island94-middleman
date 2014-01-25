@@ -11,6 +11,8 @@ wp_link: "/2010/08/art-i-hardly-knew-ye/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2010/08/spiegelman.jpg
+redirects:
+- "/2010/08/art-i-hardly-knew-ye/"
 ---
 
 [ ![](2010-08-10-Art-I-hardly-knew-ye/spiegelman-500x453.jpg "Spiegelman") ](2010-08-10-Art-I-hardly-knew-ye/spiegelman.jpeg)

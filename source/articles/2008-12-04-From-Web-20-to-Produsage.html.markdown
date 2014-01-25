@@ -13,6 +13,7 @@ wp:post_type: post
 redirects:
 - "/node/276"
 - "/articles/web-2-0-produsage"
+- "/2008/12/from-web-2-to-produsage/"
 ---
 
 **Fact**: I now feel uncomfortable when people talk about Web 2.0 as a philosophy.

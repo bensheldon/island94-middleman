@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1623'
 wp_link: "/2009/12/transactions-vs-relationships/"
 wp:post_type: post
+redirects:
+- "/2009/12/transactions-vs-relationships/"
 ---
 
 From [John Burne](http://www.c-changemedia.com/2009/12/google-media-biting-hand-that-feeds-you.html) (former editor-in-chief at Businessweek):

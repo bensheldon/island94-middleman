@@ -11,6 +11,8 @@ tags:
 wp:post_id: '2732'
 wp_link: "/2011/06/print-share-not-everyone-is-a-social-media-ninja-nor-need-they-be/"
 wp:post_type: post
+redirects:
+- "/2011/06/print-share-not-everyone-is-a-social-media-ninja-nor-need-they-be/"
 ---
 
 [ ![](2011-06-30-Print-Share-not-everyone-is-a-social-media-ninja-nor-need-they-be/DonorsChoose-Print-and-Share-600x491.png "DonorsChoose Print and Share") ](2011-06-30-Print-Share-not-everyone-is-a-social-media-ninja-nor-need-they-be/DonorsChoose-Print-and-Share.png)

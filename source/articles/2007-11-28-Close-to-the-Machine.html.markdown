@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/176"
 - "/close-machine"
+- "/2007/11/close-to-the-machine/"
 ---
 
 [HouseSitter movies](http://www.iucn-tftsg.org/?housesitter)

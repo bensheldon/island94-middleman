@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2996'
 wp_link: "/2012/02/methodological-belief/"
 wp:post_type: post
+redirects:
+- "/2012/02/methodological-belief/"
 ---
 
 From Peter Elbow's ["The Believing Game"](http://works.bepress.com/cgi/viewcontent.cgi?article=1019&context=peter_elbow):

@@ -13,6 +13,8 @@ tags:
 wp:post_id: '676'
 wp_link: "/2009/08/drupal-adding-a-geocoding-failure-message/"
 wp:post_type: post
+redirects:
+- "/2009/08/drupal-adding-a-geocoding-failure-message/"
 ---
 
 One of the coolest pieces of Drupal is how simple it is to quickly enter a street address and have it show up on a dynamic map on your website using [Location](http://drupal.org/project/location) and [GMap](http://drupal.org/project/gmap) modules. To make it happen, a lot of stuff goes on behind the scenes. Unfortunately, in typical Drupal fashion, when something goes wrong, you aren't provided much information to fix it.

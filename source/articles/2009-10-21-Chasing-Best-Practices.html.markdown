@@ -11,6 +11,8 @@ tags:
 wp:post_id: '848'
 wp_link: "/2009/10/chasing-best-practices/"
 wp:post_type: post
+redirects:
+- "/2009/10/chasing-best-practices/"
 ---
 
 At work we're pushing the idea of Honest Practices over Best Practices. Honest Practices are stories and analysis that include both successes _and_ failures---the latter being something nonprofits often omit (or reframe). Our focus on developing Honest Practices stems from frustration with the meaninglessness of many "Best Practices" that are out there. From [Wikipedia](http://en.wikipedia.org/wiki/Best_practice):

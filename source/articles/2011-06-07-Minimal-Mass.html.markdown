@@ -7,6 +7,8 @@ tags:
 wp:post_id: '2691'
 wp_link: "/2011/06/minimal-mass/"
 wp:post_type: post
+redirects:
+- "/2011/06/minimal-mass/"
 ---
 
 I was searching for something else in Google Reader, but it seemed timely to resurface this note:

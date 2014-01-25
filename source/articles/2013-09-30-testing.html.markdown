@@ -6,6 +6,8 @@ published: false
 wp:post_id: '3110'
 wp_link: "/?p=3110"
 wp:post_type: post
+redirects:
+- "/?p=3110"
 ---
 
 http://www.reddit.com/r/rails/comments/1mligj/how\_to\_organize\_rspec/ccakk4u

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2201'
 wp_link: "/2010/09/commodity-work/"
 wp:post_type: post
+redirects:
+- "/2010/09/commodity-work/"
 ---
 
 From the [New York State Constitution](http://www.dos.state.ny.us/info/constitution.htm):

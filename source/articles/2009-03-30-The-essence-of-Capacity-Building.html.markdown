@@ -9,6 +9,8 @@ tags:
 wp:post_id: '596'
 wp_link: "/2009/03/the-essence-of-capacity-building/"
 wp:post_type: post
+redirects:
+- "/2009/03/the-essence-of-capacity-building/"
 ---
 
 > Please secure your own oxygen mask before assisting others.

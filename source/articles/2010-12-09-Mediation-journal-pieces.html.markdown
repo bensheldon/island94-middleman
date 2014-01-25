@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2374'
 wp_link: "/2010/12/mediation-journal-pieces/"
 wp:post_type: post
+redirects:
+- "/2010/12/mediation-journal-pieces/"
 ---
 
 [ ![](2010-12-09-Mediation-journal-pieces/mediation-journal-sqr-500x546.png "mediation-journal-sqr") ](2010-12-09-Mediation-journal-pieces/mediation-journal-sqr.png)

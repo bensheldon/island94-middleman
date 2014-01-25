@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '822'
 wp_link: "/2009/10/catastophizing-and-other-thought-distortions/"
 wp:post_type: post
+redirects:
+- "/2009/10/catastophizing-and-other-thought-distortions/"
 ---
 
 This week's topic in my Critical and Creative Thinking class is stress and stress-relieving exercises. I get a kick out of the table of thought distortions brought on by stress from [_Challenging and changing stress-producing thinking_](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1071234/) by Felice E Miller published in the Western Journal of Medicine, 2001 January; 174 (1): 49–50.

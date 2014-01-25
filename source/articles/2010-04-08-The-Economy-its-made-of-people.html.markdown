@@ -9,6 +9,8 @@ tags:
 wp:post_id: '903'
 wp_link: "/2010/04/the-economy-its-made-of-people/"
 wp:post_type: post
+redirects:
+- "/2010/04/the-economy-its-made-of-people/"
 ---
 
 William Bloom:

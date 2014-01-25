@@ -9,6 +9,8 @@ tags:
 wp:post_id: '599'
 wp_link: "/2009/05/business-rhetoric/"
 wp:post_type: post
+redirects:
+- "/2009/05/business-rhetoric/"
 ---
 
 > “They aren’t charities. They have shareholders to report to,” he [Robert Hammer, an industry consultant] said, referring to banks and credit card companies. “Whatever is left in the model to work from, they will start to maneuver.”

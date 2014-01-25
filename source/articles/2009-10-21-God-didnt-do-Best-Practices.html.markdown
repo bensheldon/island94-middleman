@@ -11,6 +11,8 @@ tags:
 wp:post_id: '845'
 wp_link: "/2009/10/god-didnt-do-best-practices/"
 wp:post_type: post
+redirects:
+- "/2009/10/god-didnt-do-best-practices/"
 ---
 
 The best Sunday sermon I have ever heard (out of 2, the other having been when I was 8 and the pastor was my aunt; but that's beside the point) went generally as follows:

@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/257"
 - "/observation/popco-cake-recipe"
+- "/2008/10/popco-cake-recipe/"
 ---
 
 featured in "PopCo" by Alice Butler (via Angelina):

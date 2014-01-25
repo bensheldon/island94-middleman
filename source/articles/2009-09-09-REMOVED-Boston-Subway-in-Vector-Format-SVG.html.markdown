@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '697'
 wp_link: "/2009/09/boston-subway-in-vector-format-svg/"
 wp:post_type: post
+redirects:
+- "/2009/09/boston-subway-in-vector-format-svg/"
 ---
 
  

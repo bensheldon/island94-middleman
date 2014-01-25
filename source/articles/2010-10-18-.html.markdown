@@ -6,6 +6,8 @@ published: false
 wp:post_id: '2259'
 wp_link: "/?p=2259"
 wp:post_type: post
+redirects:
+- "/?p=2259"
 ---
 
 Overall, the mission of the Boston Symphony Orchestra is to foster and maintain an organization dedicated to the making of music consonant with the highest aspirations of musical art, creating performances and providing educational and training programs at the highest level of excellence.

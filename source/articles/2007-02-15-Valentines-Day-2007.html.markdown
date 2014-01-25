@@ -16,6 +16,7 @@ wp:post_type: post
 redirects:
 - "/node/118"
 - "/articles/valentines-day-2007"
+- "/2007/02/valentines-day-2007/"
 ---
 
 [ ![CIMG1622.JPG](http://farm1.static.flickr.com/171/391224265_a12df54351.jpg) ](http://www.flickr.com/photos/bensheldon/391224265/ "Photo Sharing")

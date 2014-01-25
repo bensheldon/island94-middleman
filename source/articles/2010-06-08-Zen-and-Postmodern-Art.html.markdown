@@ -9,6 +9,8 @@ tags:
 wp:post_id: '559'
 wp_link: "/2010/06/zen-and-the-art-of-postmodern-philosophy/"
 wp:post_type: post
+redirects:
+- "/2010/06/zen-and-the-art-of-postmodern-philosophy/"
 ---
 
 From _ [Zen and the Art of Postmodern Philosophy]( http://books.google.com/books?id=VR1SYOYq6r8C&pg=PA10&lpg=PA10&dq=cleaving+in+philosophy&source=bl&ots=eg_6e5AkC1&sig=b5e6qRmSOeSq9GuEKXvGy1jrf7Y&hl=en&ei=9RPBSfuaFpbEMaLH7aoN&sa=X&oi=book_result&resnum=3&ct=result)_ by Carl Olsen (I added paragraph breaks):

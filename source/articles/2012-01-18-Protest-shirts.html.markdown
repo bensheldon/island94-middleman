@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2987'
 wp_link: "/2012/01/protest-shirts/"
 wp:post_type: post
+redirects:
+- "/2012/01/protest-shirts/"
 ---
 
 [ ![](2012-01-18-Protest-shirts/day-of-the-protest-600x432.png "day of the protest") ](2012-01-18-Protest-shirts/day-of-the-protest.png)

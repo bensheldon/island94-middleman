@@ -12,6 +12,7 @@ redirects:
 - "/2005/12/word-of-the-day:-cankle/"
 - "/node/23"
 - "/articles/word-day-cankle"
+- "/2005/12/word-of-the-day-cankle/"
 ---
 
 > **cankle** (cang·kel): _n._ the lower leg of one whose calf and ankle are not clearly differentiated.

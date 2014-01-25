@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1836'
 wp_link: "/2010/03/two-of-charts/"
 wp:post_type: post
+redirects:
+- "/2010/03/two-of-charts/"
 ---
 
 [ ![](2010-03-05-Two-of-charts/Chart-Chooser-500x374.png "Chart Chooser") ](2010-03-05-Two-of-charts/Chart-Chooser.png)

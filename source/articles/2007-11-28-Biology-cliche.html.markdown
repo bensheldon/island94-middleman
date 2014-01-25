@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/175"
 - "/biology-cliche"
+- "/2007/11/biology-cliche/"
 ---
 
 >

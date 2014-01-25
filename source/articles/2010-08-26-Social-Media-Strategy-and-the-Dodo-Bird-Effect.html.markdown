@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2140'
 wp_link: "/2010/08/social-media-strategy-and-the-dodo-bird-effect/"
 wp:post_type: post
+redirects:
+- "/2010/08/social-media-strategy-and-the-dodo-bird-effect/"
 ---
 
 This month's _Harper's Magazine_ had an article on the smorgasbord of cognitive behavioral therapies: "The War on Unhappiness: Goodbye Freud, Hello Positive Thinking" by Gary Greenberg:

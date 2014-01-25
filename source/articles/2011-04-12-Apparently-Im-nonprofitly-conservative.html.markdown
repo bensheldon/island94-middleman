@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2455'
 wp_link: "/2011/04/apparently-im-nonprofitly-conservative/"
 wp:post_type: post
+redirects:
+- "/2011/04/apparently-im-nonprofitly-conservative/"
 ---
 
 It's kind've funny how in some contexts I'm a shut-up-and-go radical and in others I'm a hold-your-horses conservative. In response to [this article on the Nonprofiteer](http://nonprofiteer.net/2011/01/19/the-rich-get-richer-once-more/):

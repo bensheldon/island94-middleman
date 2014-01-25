@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1013'
 wp_link: "/2009/11/ethics-made-easy/"
 wp:post_type: post
+redirects:
+- "/2009/11/ethics-made-easy/"
 ---
 
 [ ![ethical-reasoning](2009-11-10-Ethics-made-easy/ethical-reasoning-500x719.png "ethical-reasoning") ](2009-11-10-Ethics-made-easy/ethical-reasoning.png)

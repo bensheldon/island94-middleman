@@ -8,6 +8,8 @@ tags:
 wp:post_id: '601'
 wp_link: "/2009/06/political-rhetoric/"
 wp:post_type: post
+redirects:
+- "/2009/06/political-rhetoric/"
 ---
 
 From a Wall Street Journal article on [Congressional expense accounts](http://online.wsj.com/article/SB124381530535870685.html):

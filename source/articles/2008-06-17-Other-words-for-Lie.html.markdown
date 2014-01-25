@@ -12,6 +12,7 @@ redirects:
 - "/2008/06/other-words-for-\"lie\"/"
 - "/observation/other-words-lie"
 - "/node/224"
+- "/2008/06/other-words-for-lie/"
 ---
 
 It's another election year which means that politics are flying.

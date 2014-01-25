@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1724'
 wp_link: "/2010/01/still-ferrari-less/"
 wp:post_type: post
+redirects:
+- "/2010/01/still-ferrari-less/"
 ---
 
 > After all, there's nothing quite like driving your Ferrari home to your 6,000 square foot mansion after a long, hard day of fighting for the cause.

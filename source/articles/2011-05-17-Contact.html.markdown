@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '2657'
 wp_link: "/contact/"
 wp:post_type: page
+redirects:
+- "/contact/"
 ---
 
 Please contact me by emailing [bensheldon@gmail.com](mailto:bensheldon@gmail.com) or on Twitter at [@bensheldon](http://twitter.com/bensheldon).

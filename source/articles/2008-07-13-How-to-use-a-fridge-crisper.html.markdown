@@ -10,6 +10,7 @@ wp:post_type: post
 redirects:
 - "/node/232"
 - "/observation/how-use-fridge-crisper"
+- "/2008/07/how-to-use-a-fridge-crisper/"
 ---
 
 ![](2008-07-13-How-to-use-a-fridge-crisper/fridge-500x453.png "fridge")

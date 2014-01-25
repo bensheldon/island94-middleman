@@ -9,6 +9,8 @@ tags:
 wp:post_id: '867'
 wp_link: "/2009/10/leverage-your-nonprofit-status/"
 wp:post_type: post
+redirects:
+- "/2009/10/leverage-your-nonprofit-status/"
 ---
 
 My boss pointed me to the NY Times obituary of [Elizabeth Clare Prophet](http://www.nytimes.com/2009/10/17/us/17prophet.html) (a featured radiobituary on [Bubbles in the Think Tank](http://www.bubblesinthethinktank.com/2009/10/but-one-thing-i-dont-understand/)):

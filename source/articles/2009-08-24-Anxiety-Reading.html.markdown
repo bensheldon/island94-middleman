@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '694'
 wp_link: "/2009/08/anxiety-reading/"
 wp:post_type: post
+redirects:
+- "/2009/08/anxiety-reading/"
 ---
 
 Fiction writer Dawes Green was on [Studio360 on Saturday night](http://http://www.studio360.org/episodes/2009/08/21) and he made mention of how people have changed since he last published a novel 14 years ago:

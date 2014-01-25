@@ -6,6 +6,8 @@ published: false
 wp:post_id: '1858'
 wp_link: "/?p=1858"
 wp:post_type: post
+redirects:
+- "/?p=1858"
 ---
 
 **Posting guidelines for the Mission-Based Massachusetts email list**

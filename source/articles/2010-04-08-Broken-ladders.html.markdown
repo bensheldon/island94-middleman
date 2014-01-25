@@ -9,6 +9,8 @@ published: false
 wp:post_id: '1884'
 wp_link: "/2010/04/broken-ladders/"
 wp:post_type: post
+redirects:
+- "/2010/04/broken-ladders/"
 ---
 
 _Let's get polemic._

@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/155"
 - "/opinion-nonprofits"
+- "/2007/09/opinion-on-nonprofits/"
 ---
 
 Giving the keynote at last weekend's Craigslist Foundation's Nonprofit Bootcamp in New York, was Nancy Lublin, CEO and Chief Old Person of Do Something and founder of Dress for Success.

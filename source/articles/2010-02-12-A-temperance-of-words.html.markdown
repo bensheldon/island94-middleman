@@ -12,6 +12,8 @@ tags:
 wp:post_id: '1754'
 wp_link: "/2010/02/a-temperance-of-words/"
 wp:post_type: post
+redirects:
+- "/2010/02/a-temperance-of-words/"
 ---
 
 From Karen Armstrong's _A History of God_:

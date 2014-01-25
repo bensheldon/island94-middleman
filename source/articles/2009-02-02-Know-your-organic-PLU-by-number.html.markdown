@@ -12,6 +12,8 @@ tags:
 wp:post_id: '410'
 wp_link: "/2009/02/know-your-organic-plu-by-number/"
 wp:post_type: post
+redirects:
+- "/2009/02/know-your-organic-plu-by-number/"
 ---
 
 I get a big [grab-box of organic produce](http://www.bostonorganics.com/) every week and last week I guess there was a bit of a mixup. I order it more for the variety and element of surprise (_what should I cook with celery root?_) than health or ideology, so the issue was more an opportunity to learn this fun fact:

@@ -11,6 +11,8 @@ tags:
 wp:post_id: '605'
 wp_link: "/2009/06/charting-work-success/"
 wp:post_type: post
+redirects:
+- "/2009/06/charting-work-success/"
 ---
 
 This venn diagram on [How to be Happy in Business](http://whatconsumesme.com/2009/what-im-writing/how-to-be-happy-in-business-venn-diagram/) from Bud Caddell is making the rounds, and remember-worthy enough for me to post it here: ![how-to-be-happy-in-business-venn](2009-06-08-Charting-work-success/how-to-be-happy-in-business-venn-500x500.png "how-to-be-happy-in-business-venn")

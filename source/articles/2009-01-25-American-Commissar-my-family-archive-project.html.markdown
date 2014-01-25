@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '354'
 wp_link: "/2009/01/american-commissar-my-family-archive-project/"
 wp:post_type: post
+redirects:
+- "/2009/01/american-commissar-my-family-archive-project/"
 ---
 
 [ ![Sandor Voros](http://farm4.static.flickr.com/3093/3227588090_f83a1a7b6e.jpg) ](http://www.flickr.com/photos/bensheldon/3227588090/ "Sandor Voros by bensheldon, on Flickr")

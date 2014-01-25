@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1616'
 wp_link: "/2009/12/academia-on-the-experience-of-poverty/"
 wp:post_type: post
+redirects:
+- "/2009/12/academia-on-the-experience-of-poverty/"
 ---
 
 ![](2009-12-23-Academia-on-the-experience-of-poverty/Livelihood-Framework-500x270.png "Livelihood Framework")

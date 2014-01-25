@@ -8,6 +8,8 @@ tags:
 wp:post_id: '555'
 wp_link: "/2009/03/satyagraha-versus-duragraha/"
 wp:post_type: post
+redirects:
+- "/2009/03/satyagraha-versus-duragraha/"
 ---
 
 This year's [Symposium on Values, Spirit and Business](http://www.sbnboston.org/sbn15/component/content/article/21-sbn-site-specific/100-symposium-spirtuality-and-business-2009) has the theme "How to Grow Your Business by Integrating the Gandhian Philosophy of Satyagraha".  The Wikipedia has [this to say on Satyagraha](http://en.wikipedia.org/wiki/Satyagraha)---and that "passive resistance" is not descriptive of its tenets---:

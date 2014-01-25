@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/233"
 - "/observation/political-news-coverage"
+- "/2008/07/political-news-coverage/"
 ---
 
 Looks like the FCC has ["demonstrate[d], once again, that at present it is difficult, if not impossible to apply public interest pressure to TV stations via the Commission's license renewal process."](http://arstechnica.com/news.ars/post/20080713-no-local-election-coverage-on-tv-no-problem-says-fcc.html)

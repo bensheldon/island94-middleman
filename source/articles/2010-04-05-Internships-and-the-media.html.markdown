@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1861'
 wp_link: "/2010/04/internships-and-the-media/"
 wp:post_type: post
+redirects:
+- "/2010/04/internships-and-the-media/"
 ---
 
 An exceprt from "Internment Camp: The Intern Economy and the Culture Trust (Interns Built the Pyramids)" by Jim Federick in [_The Baffler_](http://www.thebaffler.com/archive) ( [1997: Vol. 1, No. 9.](http://www.thebaffler.com/issue/33)) - mentioned by  [Henri Makembe](http://www.localpolitechs.com/) on the [Mission Based Massachusetts listserv](http://groups.yahoo.com/group/Mission-Based-Massachusetts/).

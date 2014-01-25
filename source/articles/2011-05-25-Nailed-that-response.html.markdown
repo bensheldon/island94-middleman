@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2671'
 wp_link: "/2011/05/nailed-that-response/"
 wp:post_type: post
+redirects:
+- "/2011/05/nailed-that-response/"
 ---
 
 ![](2011-05-25-Nailed-that-response/3collage-600x202.png "3collage")

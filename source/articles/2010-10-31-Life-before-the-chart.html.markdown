@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2275'
 wp_link: "/2010/10/life-before-the-chart/"
 wp:post_type: post
+redirects:
+- "/2010/10/life-before-the-chart/"
 ---
 
 ![Humboldt's Isotherms](2010-10-31-Life-before-the-chart/humboldt-isotherms-500x371.png "humboldt-isotherms")

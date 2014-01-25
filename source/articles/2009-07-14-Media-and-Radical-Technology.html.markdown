@@ -10,6 +10,8 @@ tags:
 wp:post_id: '635'
 wp_link: "/2009/07/media-and-radical-technology/"
 wp:post_type: post
+redirects:
+- "/2009/07/media-and-radical-technology/"
 ---
 
 ![Radical Technology](2009-07-14-Media-and-Radical-Technology/media-radical-technology-500x241.png "Radical Technology")

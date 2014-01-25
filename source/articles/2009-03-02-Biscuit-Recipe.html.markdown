@@ -6,6 +6,8 @@ published: false
 wp:post_id: '510'
 wp_link: "/?p=510"
 wp:post_type: post
+redirects:
+- "/?p=510"
 ---
 
 - 2 Cups Flour, I use White Whole-Wheat

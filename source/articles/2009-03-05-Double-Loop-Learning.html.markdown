@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '531'
 wp_link: "/2009/03/double-loop-learning/"
 wp:post_type: post
+redirects:
+- "/2009/03/double-loop-learning/"
 ---
 
 While reading a [snarky review](http://www.amazon.com/review/R3SH49SV19FRVH/ref=cm_cr_rdp_perm) on Amazon of Difficult Conversations, I was pointed to "Action Science a la Argyris".  Googling around I came upon [this](http://tip.psychology.org/argyris.html):

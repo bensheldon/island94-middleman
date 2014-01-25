@@ -6,6 +6,8 @@ published: false
 wp:post_id: '334'
 wp_link: "/?p=334"
 wp:post_type: post
+redirects:
+- "/?p=334"
 ---
 
 Great man theory, etc.

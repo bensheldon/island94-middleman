@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1880'
 wp_link: "/2010/04/mendacity-in-order/"
 wp:post_type: post
+redirects:
+- "/2010/04/mendacity-in-order/"
 ---
 
 Augustine of Hippo's [taxonomy of lies](http://en.wikipedia.org/wiki/Lie#Augustine.27s_taxonomy_of_lies), deduced from his book _On Lying (De Mendacio)_ (395) in order of descending severity:

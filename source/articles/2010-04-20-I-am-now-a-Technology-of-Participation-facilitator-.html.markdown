@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1894'
 wp_link: "/2010/04/i-am-now-a-technology-of-participation-facilitator/"
 wp:post_type: post
+redirects:
+- "/2010/04/i-am-now-a-technology-of-participation-facilitator/"
 ---
 
 [ ![](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop-500x314.png "Consensus Workshop") ](2010-04-20-I-am-now-a-Technology-of-Participation-facilitator-/Consensus-Workshop.png)

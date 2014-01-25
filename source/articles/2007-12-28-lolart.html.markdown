@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/197"
 - "/articles/lolart"
+- "/2007/12/lolart/"
 ---
 
 [ ![funny pictures](2007-12-28-lolart/ucallmeezishmael.jpg) ](http://mine.icanhascheezburger.com/View.aspx?ucallmeezis128433303032993750.jpg)

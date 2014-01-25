@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2114'
 wp_link: "/2010/07/zilch-for-a-nonprofit/"
 wp:post_type: post
+redirects:
+- "/2010/07/zilch-for-a-nonprofit/"
 ---
 
 Last week I was contacted through LinkedIn by a stranger asking for help in forming a nonprofit organization. I get these types of requests not infrequently---whether directly through this blog, [LinkedIn](http://www.linkedin.com/in/bensheldon) or Aardvark---or on mailing lists like Mission Based Massachusetts. My response is usually "Why does your cause necessitate its own 501(c)3? Have you considered [Fiscal Sponsorship](http://foundationcenter.org/getstarted/tutorials/fiscal/index.html)?"

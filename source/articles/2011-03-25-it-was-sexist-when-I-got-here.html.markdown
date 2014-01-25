@@ -11,6 +11,8 @@ tags:
 wp:post_id: '2558'
 wp_link: "/2011/03/it-was-sexist-when-i-got-here/"
 wp:post_type: post
+redirects:
+- "/2011/03/it-was-sexist-when-i-got-here/"
 ---
 
 I find the concept of feminization---how the presence or predominance of women in certain roles or occupations affect those roles and occupations, their legitimacy, compensation, etc.---to be fascinating and directly affect areas I work in (nonprofits, service, social media). Below is the abstract from a paper presented to the American Sociological Association by Paula England, Paul Allison, Yuxiao Wu, and Mary Ross entitled ["Does Bad Pay Cause Occupations to Feminize, Does Feminization Reduce Pay, and How Can We Tell with Longitudinal Data?" (2004)](http://www.genderbias.net/docs/resources/guideline/Does%20bad%20pay%20cause%20occupations%20to%20feminize,%20Does%20feminization%20reduce%20pay,%20and%20How%20can%20we%20tell%20with%20longitudinal.pdf):

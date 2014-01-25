@@ -9,6 +9,8 @@ tags:
 wp:post_id: '3012'
 wp_link: "/2012/07/hard-data-on-the-status-of-open311/"
 wp:post_type: post
+redirects:
+- "/2012/07/hard-data-on-the-status-of-open311/"
 ---
 
 ![](2012-07-27-Hard-data-on-the-status-of-Open311/open311status.herokuapp-2-600x369.png "open311status.herokuapp-2")

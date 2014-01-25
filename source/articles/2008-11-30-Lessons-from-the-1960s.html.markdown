@@ -14,7 +14,7 @@ wp:post_type: post
 redirects:
 - "/node/273"
 - "/articles/lessons-1960s"
-- "/node/273"
+- "/2008/11/lessons-from-the-1960s/"
 ---
 
 A few weeks ago, I listened to [Bill Ayers](http://en.wikipedia.org/wiki/Bill_Ayers) interviewed NPR's [Fresh Air](http://www.npr.org/templates/story/story.php?storyId=97112600). As an interview, it wasn't very good, but Ayers himself said some really interesting things, which I went through and transcribed:

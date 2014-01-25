@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/57"
 - "/articles/two-minutes-paul-and-liz"
+- "/2006/07/two-minutes-for-paul-and-liz/"
 ---
 
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-2MinutesForPaulAndLiz154.jpeg) ](http://blip.tv/file/get/Bensheldon-2MinutesForPaulAndLiz310.mp4?source=3)

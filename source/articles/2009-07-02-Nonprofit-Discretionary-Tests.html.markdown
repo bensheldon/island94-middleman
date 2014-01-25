@@ -6,6 +6,8 @@ published: false
 wp:post_id: '619'
 wp_link: "/?p=619"
 wp:post_type: post
+redirects:
+- "/?p=619"
 ---
 
 Competition/Duplication of existing services provided by government or other for-profit or nonprofit corporations

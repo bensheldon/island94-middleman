@@ -9,6 +9,8 @@ tags:
 wp:post_id: '593'
 wp_link: "/2009/03/current-consumption-of-currants/"
 wp:post_type: post
+redirects:
+- "/2009/03/current-consumption-of-currants/"
 ---
 
 While eating a delicious currant scone from one of my [favorite cafes](http://www.ulacafe.com/), I looked it [currants on Wikipedia](http://en.wikipedia.org/wiki/Blackcurrant) and discovered some interesting history of why currants are popular in Britain, but not the United States:

@@ -11,6 +11,8 @@ tags:
 wp:post_id: '407'
 wp_link: "/2009/02/two-videos-for-february-1st/"
 wp:post_type: post
+redirects:
+- "/2009/02/two-videos-for-february-1st/"
 ---
 
 The first day of February was warm and coming back from Super Bowl snack-shopping, I shot some videos. Enjoy.

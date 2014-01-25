@@ -9,6 +9,8 @@ tags:
 wp:post_id: '416'
 wp_link: "/2009/02/notes-on-silence/"
 wp:post_type: post
+redirects:
+- "/2009/02/notes-on-silence/"
 ---
 
 My roommate (a teacher) left open this week's _Newsweek_ with a movie review of the French film, _ [The Class](http://www.newsweek.com/id/182529),_ that began with this quote, tattooed on one of the students and dubiously attributed to the Qu'ran:

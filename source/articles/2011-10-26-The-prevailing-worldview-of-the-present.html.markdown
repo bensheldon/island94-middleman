@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2933'
 wp_link: "/2011/10/the-prevailing-worldview-of-the-present/"
 wp:post_type: post
+redirects:
+- "/2011/10/the-prevailing-worldview-of-the-present/"
 ---
 
 From the preface to _The Vision of Islam_ by Sachiko Murata and William C. Chittick:

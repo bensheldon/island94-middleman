@@ -10,6 +10,8 @@ tags:
 wp:post_id: '491'
 wp_link: "/2009/02/the-purpose-of-copyright/"
 wp:post_type: post
+redirects:
+- "/2009/02/the-purpose-of-copyright/"
 ---
 
 I assume I'm not the only person making this connection, but it's interesting how successful the entertainment industry (and anyone with an intellectual-property axe to grind)  has been in making this rhetoric commonly accepted:

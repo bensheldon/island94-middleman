@@ -13,6 +13,8 @@ tags:
 wp:post_id: '1032'
 wp_link: "/2009/11/gifts-of-magnificence/"
 wp:post_type: post
+redirects:
+- "/2009/11/gifts-of-magnificence/"
 ---
 
 [Gift Hub](http://www.gifthub.org) (_Blogging Philanthropy from A Dumpster_) is a favorite blog of mine. On " [Foundation Trustees as Stewards of the Public Interest](http://www.gifthub.org/2009/11/foundation-trustees-as-stewards-of-the-public-interest-.htm)" I left this comment:

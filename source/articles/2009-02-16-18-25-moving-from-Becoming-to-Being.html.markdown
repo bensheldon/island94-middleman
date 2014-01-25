@@ -11,6 +11,8 @@ tags:
 wp:post_id: '487'
 wp_link: "/2009/02/18-25-moving-from-becoming-to-being/"
 wp:post_type: post
+redirects:
+- "/2009/02/18-25-moving-from-becoming-to-being/"
 ---
 
 I got to talking to one of my favorite coffee shop girls at my favorite coffee shop today.  She's 23 and just graduated from College and living with her younger sister, 21, and we were talking about differences in age.  In my day job I spend a lot of time interacting with people in the 18 - 25 year range---and though I just left range a few months ago myself---also spend a lot of time with those ages in my personal time as well.

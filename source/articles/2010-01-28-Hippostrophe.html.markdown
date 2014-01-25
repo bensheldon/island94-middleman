@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1738'
 wp_link: "/2010/01/hippostrophe/"
 wp:post_type: post
+redirects:
+- "/2010/01/hippostrophe/"
 ---
 
 ![](2010-01-28-Hippostrophe/hippostrophe-500x500.png "hippostrophe")

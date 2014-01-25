@@ -10,6 +10,7 @@ wp:post_type: post
 redirects:
 - "/node/272"
 - "/observation/interview-questions"
+- "/2008/11/interview-questions/"
 ---
 
 In the news is Obama's top-level administration application questions, e.g.

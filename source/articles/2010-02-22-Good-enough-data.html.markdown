@@ -11,6 +11,8 @@ tags:
 wp:post_id: '1776'
 wp_link: "/2010/02/good-enough-data/"
 wp:post_type: post
+redirects:
+- "/2010/02/good-enough-data/"
 ---
 
 ![](2010-02-22-Good-enough-data/btop-map-combined-500x462.png "btop-map-combined")

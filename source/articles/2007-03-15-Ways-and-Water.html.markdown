@@ -18,6 +18,7 @@ wp:post_type: post
 redirects:
 - "/articles/ways-and-water"
 - "/node/122"
+- "/2007/03/ways-and-water/"
 ---
 
 [ ![](http://blip.tv/file/get/Bensheldon-WaysAndWater899.flv.jpg "Click To Play") ](http://blip.tv/file/get/Bensheldon-WaysAndWater899.flv)

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2815'
 wp_link: "/2011/09/where-rhetoric-is-substance/"
 wp:post_type: post
+redirects:
+- "/2011/09/where-rhetoric-is-substance/"
 ---
 
 From Chris Rabb's _Invisible Capital_ on business plan competitions.

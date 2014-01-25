@@ -14,6 +14,7 @@ wp:post_type: post
 redirects:
 - "/node/192"
 - "/bees-and-biology"
+- "/2007/12/bees-and-biology/"
 ---
 
 >

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '1599'
 wp_link: "/2009/12/gatekeeper-code/"
 wp:post_type: post
+redirects:
+- "/2009/12/gatekeeper-code/"
 ---
 
 From a thread on whether [BASIC is relevant](http://www.reddit.com/r/programming/comments/agtjh/why_basic_is_still_relevant/c0hhwz4):

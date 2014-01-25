@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '909'
 wp_link: "/2009/10/we-participate-they-profit/"
 wp:post_type: post
+redirects:
+- "/2009/10/we-participate-they-profit/"
 ---
 
 [ ![je-participe](2009-10-28-We-participate-they-profit/je-participe.gif "je-participe") ](2009-10-28-We-participate-they-profit/je-participe.gif)

@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2731'
 wp_link: "/2011/07/a-modest-web-app-proposal/"
 wp:post_type: post
+redirects:
+- "/2011/07/a-modest-web-app-proposal/"
 ---
 
 [ ![](2011-07-09-A-modest-web-app-proposal/datastrology-browser-600x463.png "datastrology-browser") ](2011-07-09-A-modest-web-app-proposal/datastrology-browser.png)

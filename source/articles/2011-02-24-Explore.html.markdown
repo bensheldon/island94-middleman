@@ -5,5 +5,7 @@ tags: []
 wp:post_id: '2498'
 wp_link: "/explore/"
 wp:post_type: page
+redirects:
+- "/explore/"
 ---
 

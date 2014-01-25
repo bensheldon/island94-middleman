@@ -13,6 +13,8 @@ tags:
 wp:post_id: '1684'
 wp_link: "/2010/01/social-media-is-womens-work/"
 wp:post_type: post
+redirects:
+- "/2010/01/social-media-is-womens-work/"
 ---
 
 Some [new commentary](http://thelearnedfangirl.com/2009/12/13/thinking-out-loud-is-social-media-the-new-pink-collar-ghetto-of-tech/) on the evolving nature of women's work, as a follow-up to comments on [gender-driven compensation in social work](http://www.island94.org/2009/10/social-work-is-womens-work-so-we-dont-care/):

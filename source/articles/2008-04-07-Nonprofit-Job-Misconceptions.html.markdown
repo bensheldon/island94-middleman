@@ -10,6 +10,7 @@ wp:post_type: post
 redirects:
 - "/node/212"
 - "/observation/nonprofit-job-misconceptions"
+- "/2008/04/nonprofit-job-misconceptions/"
 ---
 
 Brief article on [getting a nonprofit job](http://www.nytimes.com/2008/04/06/jobs/06career.html?em&ex=1207713600&en=fd9380b8e8715fe9&ei=5087%0A) from the NY Times

@@ -6,6 +6,8 @@ published: false
 wp:post_id: '547'
 wp_link: "/?p=547"
 wp:post_type: post
+redirects:
+- "/?p=547"
 ---
 
 **Explanatory Name:**

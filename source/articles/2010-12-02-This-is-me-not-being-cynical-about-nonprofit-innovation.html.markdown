@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2332'
 wp_link: "/2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/"
 wp:post_type: post
+redirects:
+- "/2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/"
 ---
 
 A comment I made about the newly launched [Jumo](http://www.jumo.com/) platform for nonprofits, in response to much bellyaching on Facebook about it being duplicative and pointless:

@@ -10,6 +10,7 @@ wp:post_type: post
 redirects:
 - "/node/173"
 - "/cold-reading"
+- "/2007/11/cold-reading/"
 ---
 
 >

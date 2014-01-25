@@ -20,6 +20,7 @@ failed_files:
 redirects:
 - "/node/112"
 - "/articles/happy-birthday-rebecca"
+- "/2006/12/happy-birthday-rebecca/"
 ---
 
 My friend and coworker [Rebecca](http://circuitous.org/rebecca/) made an extensive list of things she'd like for her [birthday](http://circuitous.org/rebecca/2006/12/12/birthday-list/). I really like her rationale:

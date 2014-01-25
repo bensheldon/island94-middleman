@@ -10,6 +10,8 @@ tags:
 wp:post_id: '1743'
 wp_link: "/2010/02/ethical-flexibility-for-export/"
 wp:post_type: post
+redirects:
+- "/2010/02/ethical-flexibility-for-export/"
 ---
 
 I greatly enjoy this leap of ethics in my spam folder over the weekend:

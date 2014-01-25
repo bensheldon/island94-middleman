@@ -12,6 +12,8 @@ tags:
 wp:post_id: '456'
 wp_link: "/2009/02/online-fundraising-please-do-it-right/"
 wp:post_type: post
+redirects:
+- "/2009/02/online-fundraising-please-do-it-right/"
 ---
 
 Of all things, tonight in my Institute for Nonprofit Management and Leadership class we were talking about **Online Fundraising**.  I got a little frustrated since (a) I couldn't get a word in and (b) they were really making a muck of it.  What I was hearing was a confusion of the _indicators_ of successful online fundraising with the methodology for _creating_ successful online fundraising; saying things like "have a taste-maker blogger promote it" and "get people to post it on their friend's Facebook wall". To take a line from Joe Breiteneicher's _Quest_: they were identifying with the money, not the purpose. So allow me some catharsis...

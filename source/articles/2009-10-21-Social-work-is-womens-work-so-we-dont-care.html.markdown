@@ -14,6 +14,8 @@ tags:
 wp:post_id: '840'
 wp_link: "/2009/10/social-work-is-womens-work-so-we-dont-care/"
 wp:post_type: post
+redirects:
+- "/2009/10/social-work-is-womens-work-so-we-dont-care/"
 ---
 
 Two articles came across my desk today that I think are strongly connected. The first is from Danah Boyd on [_Teaching, nursing and second-wave feminism_](http://www.zephoria.org/thoughts/archives/2009/10/19/teaching_nursin.html):

@@ -8,6 +8,8 @@ tags:
 wp:post_id: '1770'
 wp_link: "/2010/02/quality-of-life-mind-and-language/"
 wp:post_type: post
+redirects:
+- "/2010/02/quality-of-life-mind-and-language/"
 ---
 
 ![](2010-02-17-Quality-of-life-mind-and-language/Definitions.png "Definitions")

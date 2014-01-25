@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2203'
 wp_link: "/2010/09/this-is-not-a-website/"
 wp:post_type: post
+redirects:
+- "/2010/09/this-is-not-a-website/"
 ---
 
 In conversation with a friend, he mentioned his dream for a "No Website" Movement: content should be freed for consumption in whatever format its consumer desires.

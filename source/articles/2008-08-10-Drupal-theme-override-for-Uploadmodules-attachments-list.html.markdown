@@ -18,11 +18,9 @@ redirects:
 - "/node/238"
 - "/articles/overriding"
 - "/articles/override-upload-modules-attachments-list"
-- "/node/238"
-- "/node/238"
 - "/articles/drupal-override-upload-modules-attachments-list"
-- "/node/238"
 - "/articles/drupal-theme-override-upload-modules-attachments-list"
+- "/2008/08/drupal-theme-override-for-upload-modules-attachments-list/"
 ---
 
 **Update:** this functionality can now be achieved with the [iTweak\_upload module ](http://drupal.org/project/itweak_upload). _Thanks to [Damon](http://damoncook.net/) for the tip!_

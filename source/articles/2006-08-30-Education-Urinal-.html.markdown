@@ -12,6 +12,7 @@ redirects:
 - "/2006/08/education-urinal-=-"
 - "/node/94"
 - "/articles/education-urinal"
+- "/2006/08/education-urinal/"
 ---
 
 [ ![Education + Urinal = Edurinal](http://static.flickr.com/82/229812012_9f23b0a740_m.jpg) ](http://www.flickr.com/photos/bensheldon/229812012/ "Photo Sharing")

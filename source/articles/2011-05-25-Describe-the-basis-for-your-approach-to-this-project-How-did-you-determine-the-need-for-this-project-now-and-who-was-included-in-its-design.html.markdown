@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2679'
 wp_link: "/2011/05/describe-the-basis-for-your-approach-to-this-project-how-did-you-determine-the-need-for-this-project-now-and-who-was-included-in-its-design/"
 wp:post_type: post
+redirects:
+- "/2011/05/describe-the-basis-for-your-approach-to-this-project-how-did-you-determine-the-need-for-this-project-now-and-who-was-included-in-its-design/"
 ---
 
 From the Gilbert Center in an excellent article entitled " [Asking the Wrong Questions: Challenging Technocentrism in Nonprofit Technology Planning](http://news.gilbert.org/WrongQuestions)":

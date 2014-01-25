@@ -7,6 +7,8 @@ tags:
 wp:post_id: '1913'
 wp_link: "/2010/05/history-is-an-art/"
 wp:post_type: post
+redirects:
+- "/2010/05/history-is-an-art/"
 ---
 
 A personal statement from a Public History grad student (taken from their Facebook Page):

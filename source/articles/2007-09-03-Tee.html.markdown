@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/node/143"
 - "/tee"
+- "/2007/09/tee/"
 ---
 
 > tee is a Unix command that displays the output of a program and copies it into a file.

@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '763'
 wp_link: "/2009/10/janets-spiral-periodic-table/"
 wp:post_type: post
+redirects:
+- "/2009/10/janets-spiral-periodic-table/"
 ---
 
   [ ![Janets Spiral Periodic Table](2009-10-06-Janets-Spiral-Periodic-Table/Janets-Spiral-Periodic-Table-499x448.png "Janets Spiral Periodic Table") ](2009-10-06-Janets-Spiral-Periodic-Table/Janets-Spiral-Periodic-Table.png)

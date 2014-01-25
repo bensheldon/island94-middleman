@@ -9,6 +9,7 @@ wp:post_type: post
 redirects:
 - "/node/226"
 - "/observation/7-nonprofit-challenges"
+- "/2008/06/7-nonprofit-challenges/"
 ---
 
 An [article on nonprofit challenges](http://www.yorkshire-culture.co.uk/News/Articles/The_seven_key_challenges_for_non-profit_organisations.html) from the British org Yorkshire Culture:

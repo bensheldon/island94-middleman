@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2215'
 wp_link: "/2010/09/mystics-poets-and-best-practices/"
 wp:post_type: post
+redirects:
+- "/2010/09/mystics-poets-and-best-practices/"
 ---
 
 At the [Transmission Project](http://transmissionproject.org/) we're steadily working towards fleshing out our critique of _best practice_ and the proposal of an alternative: _ [honest practice](http://transmissionproject.org/current/2010/9/revisiting-honest-practice)_.

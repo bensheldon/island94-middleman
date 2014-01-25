@@ -11,6 +11,8 @@ tags:
 wp:post_id: '1686'
 wp_link: "/2010/01/insufficient-funds/"
 wp:post_type: post
+redirects:
+- "/2010/01/insufficient-funds/"
 ---
 
 Don't be distracted by the vision; focus on the problem statement:

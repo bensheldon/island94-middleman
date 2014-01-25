@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/node/47"
 - "/articles/x-salad-sandwich"
+- "/2006/05/x-salad-sandwich/"
 ---
 
 \*Alternate Title:\* May I? You Mayo.

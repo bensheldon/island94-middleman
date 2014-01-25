@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1656'
 wp_link: "/2010/01/modern-and-post-modern-science/"
 wp:post_type: post
+redirects:
+- "/2010/01/modern-and-post-modern-science/"
 ---
 
 A question from the [Librarything discussion boards](http://www.librarything.com/topic/58098):

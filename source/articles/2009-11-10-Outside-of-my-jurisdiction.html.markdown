@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '1007'
 wp_link: "/2009/11/outside-of-my-jurisdiction/"
 wp:post_type: post
+redirects:
+- "/2009/11/outside-of-my-jurisdiction/"
 ---
 
 A cable access TV producer is indicted on child pornography charges. The station pulls their show saying "it's good sense". An uninvolved station [gives their point of view](http://www.dailytidings.com/apps/pbcs.dll/article?AID=/20091030/NEWS02/910300312):

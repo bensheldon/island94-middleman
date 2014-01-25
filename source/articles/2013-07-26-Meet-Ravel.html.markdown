@@ -7,6 +7,8 @@ wp_link: "/2013/07/meet-ravel/"
 wp:post_type: post
 files:
 - http://www.island94.org/wp-content/uploads/2013/07/ravel-screens.png
+redirects:
+- "/2013/07/meet-ravel/"
 ---
 
 [ ![ravel-screens](2013-07-26-Meet-Ravel/ravel-screens.png) ](2013-07-26-Meet-Ravel/ravel-screens.png)

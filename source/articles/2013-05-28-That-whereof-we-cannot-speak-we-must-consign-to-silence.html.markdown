@@ -5,6 +5,8 @@ tags: []
 wp:post_id: '3084'
 wp_link: "/2013/05/that-whereof-we-cannot-speak-we-must-consign-to-silence/"
 wp:post_type: post
+redirects:
+- "/2013/05/that-whereof-we-cannot-speak-we-must-consign-to-silence/"
 ---
 
 [Roger Scruton](http://www.bigquestionsonline.com/columns/roger-scruton/effing-the-ineffable):

@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/articles/my-pigeons-row"
 - "/node/19"
+- "/2005/11/my-pigeons-in-a-row/"
 ---
 
   [ ![](http://static.flickr.com/20/68517232_7f502b1c29_t.jpg "") ](http://www.flickr.com/photos/atomicworkshop/68517232/)

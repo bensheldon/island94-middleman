@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2241'
 wp_link: "/2010/10/dont-confuse-online-with-twitter/"
 wp:post_type: post
+redirects:
+- "/2010/10/dont-confuse-online-with-twitter/"
 ---
 
 My [advice](http://www.publicconversations.org/blog/2010/social-media#comment-1270) to the [Public Conversations Project](http://www.publicconversations.org/dialogue) (who are awesome, BTW) in response to them [posing a question](http://www.publicconversations.org/blog/2010/social-media) about social media and "Can real dialogue be practiced online, modeled in a way that will shift online conversations from torrents to curiosity, from blame to understanding?"

@@ -10,6 +10,8 @@ tags:
 wp:post_id: '2236'
 wp_link: "/2010/10/when-all-you-have-is-a-hammer/"
 wp:post_type: post
+redirects:
+- "/2010/10/when-all-you-have-is-a-hammer/"
 ---
 
 ![](2010-10-17-When-all-you-have-is-a-hammer/blocBEST-small-500x772.png "blocBEST-small")

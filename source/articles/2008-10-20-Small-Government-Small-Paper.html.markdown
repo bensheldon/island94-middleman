@@ -14,6 +14,7 @@ redirects:
 - "/2008/10/small-government-/-small-paper/"
 - "/node/263"
 - "/observation/small-government-small-paper"
+- "/2008/10/small-government-small-paper/"
 ---
 
 The story of the _slightly smaller_ Government-Letter sized paper (from [Wikipedia](http://en.wikipedia.org/wiki/Paper_size#North_American_paper_sizes)):

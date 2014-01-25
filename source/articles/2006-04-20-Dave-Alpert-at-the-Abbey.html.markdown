@@ -17,6 +17,7 @@ failed_files:
 redirects:
 - "/node/41"
 - "/articles/dave-alpert-abbey"
+- "/2006/04/dave-alpert-at-the-abbey/"
 ---
 
 I was up at the Abbey Lounge last night in Somerville checking out [Dave Alpert](http://davealpert.com), a local singer/songwriter. I met him a few weeks ago at a video-blogger meetup in Jamaica Plain.

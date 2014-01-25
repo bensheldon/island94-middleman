@@ -14,6 +14,7 @@ wp:post_type: post
 redirects:
 - "/node/271"
 - "/articles/strengthening-organizations-through-community-engagement"
+- "/2008/11/strengthening-organizations-through-community-engagement/"
 ---
 
 The following is from a handout I created for the CTCnet Conference in which I presented on capacity building models for community engagement. You can [download the handout with worksheet (PDF)](http://island94.org/files/island94.org/Community Engagement Presentation.pdf), or read the overview below.

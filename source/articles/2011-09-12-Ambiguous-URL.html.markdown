@@ -8,6 +8,8 @@ tags:
 wp:post_id: '2822'
 wp_link: "/2011/09/ambiguous-url/"
 wp:post_type: post
+redirects:
+- "/2011/09/ambiguous-url/"
 ---
 
 ![](2011-09-12-Ambiguous-URL/donorschoose-on-coke-machine.jpg "donorschoose-on-coke-machine")

@@ -14,6 +14,7 @@ wp:post_type: post
 redirects:
 - "/node/96"
 - "/articles/evening-cruise-boston-harbor"
+- "/2006/09/evening-cruise-on-boston-harbor/"
 ---
 
 Despite the fact that one of these days the whole darn school is going crumble into Boston Harbor, serving at UMass Boston isn't so bad; I have lots of opportunities to ride around the harbor in the university's vessels.

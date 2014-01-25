@@ -11,6 +11,7 @@ wp:post_type: post
 redirects:
 - "/john-hancock-building"
 - "/node/166"
+- "/2007/11/the-john-hancock-building/"
 ---
 
   [Dan in Real Life video](http://time-travel.com/?dan_in_real_life) The JHB was known as the "Plywood Skyscraper" after having faulty glass windows that would pop out during it's construction in the 1970s.

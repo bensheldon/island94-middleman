@@ -9,6 +9,8 @@ tags:
 wp:post_id: '2751'
 wp_link: "/2011/07/competitive-collaboration-or-collaborative-competition/"
 wp:post_type: post
+redirects:
+- "/2011/07/competitive-collaboration-or-collaborative-competition/"
 ---
 
 Howard Fisher in the Transmission Project's newly released report " [Back to the Source: How Collaboration Can Transform Online Engagement](http://transmissionproject.org/resources/2011/7/back-to-the-source-how-collaboration-can-transform-online-engagement)":

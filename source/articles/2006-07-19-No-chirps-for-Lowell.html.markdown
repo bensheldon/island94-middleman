@@ -12,6 +12,7 @@ wp:post_type: post
 redirects:
 - "/articles/no-chirps-lowell"
 - "/node/77"
+- "/2006/07/no-chirps-for-lowell/"
 ---
 
 I was out walking in Lowell today; as I crossed the awful intersection of Central, Prescot and Market Streets, I heard a strange ringing, like an old fashioned fire alarm. Looking around, I realized that it was coming from the Walk/Don't Walk sign. This is the first time I've ever heard anything other than the chirp sounds from the pedestrian signals.
