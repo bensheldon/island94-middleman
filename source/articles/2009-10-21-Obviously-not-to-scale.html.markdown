@@ -13,7 +13,7 @@ tags:
 - singularity
 - striving
 wp:post_id: '850'
-link: http://island94.dev/2009/10/obviously-not-to-scale/
+wp_link: /2009/10/obviously-not-to-scale/
 wp:post_type: post
 ---
 

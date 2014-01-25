@@ -7,7 +7,7 @@ tags:
 - hippostrophe
 - punctuation
 wp:post_id: '1738'
-link: http://island94.dev/2010/01/hippostrophe/
+wp_link: /2010/01/hippostrophe/
 wp:post_type: post
 ---
 

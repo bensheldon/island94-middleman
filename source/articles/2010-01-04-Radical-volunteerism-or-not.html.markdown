@@ -3,7 +3,7 @@ title: Radical volunteerism, or not
 date: '2010-01-04'
 tags: []
 wp:post_id: '1665'
-link: http://island94.dev/2010/01/radical-volunteerism-or-not/
+wp_link: /2010/01/radical-volunteerism-or-not/
 wp:post_type: post
 ---
 

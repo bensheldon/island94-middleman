@@ -13,7 +13,7 @@ tags:
 - Web 2.0
 - web design
 wp:post_id: '84'
-link: http://island94.dev/2006/08/web-2-0-will-save-us/
+wp_link: /2006/08/web-2-0-will-save-us/
 wp:post_type: post
 ---
 

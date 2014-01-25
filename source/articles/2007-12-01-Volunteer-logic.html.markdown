@@ -7,7 +7,7 @@ tags:
 - statistics
 - volunteering
 wp:post_id: '177'
-link: http://island94.dev/2007/12/volunteer-logic/
+wp_link: /2007/12/volunteer-logic/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - nonprofits
 - technology
 wp:post_id: '2679'
-link: http://island94.dev/2011/05/describe-the-basis-for-your-approach-to-this-project-how-did-you-determine-the-need-for-this-project-now-and-who-was-included-in-its-design/
+wp_link: /2011/05/describe-the-basis-for-your-approach-to-this-project-how-did-you-determine-the-need-for-this-project-now-and-who-was-included-in-its-design/
 wp:post_type: post
 ---
 

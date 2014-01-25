@@ -3,7 +3,7 @@ title: About
 date: '2005-11-13'
 tags: []
 wp:post_id: '4'
-link: http://island94.dev/about/
+wp_link: /about/
 wp:post_type: page
 ---
 

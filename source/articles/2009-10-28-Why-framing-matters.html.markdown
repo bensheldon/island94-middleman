@@ -7,7 +7,7 @@ tags:
 - linguistics
 - perspectives
 wp:post_id: '918'
-link: http://island94.dev/2009/10/why-framing-matters/
+wp_link: /2009/10/why-framing-matters/
 wp:post_type: post
 ---
 

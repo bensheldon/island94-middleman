@@ -5,7 +5,7 @@ tags:
 - journalism
 - media
 wp:post_id: '1017'
-link: http://island94.dev/2009/11/the-journalism-landscape-in-a-nutshell/
+wp_link: /2009/11/the-journalism-landscape-in-a-nutshell/
 wp:post_type: post
 ---
 

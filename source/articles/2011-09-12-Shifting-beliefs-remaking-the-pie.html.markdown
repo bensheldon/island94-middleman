@@ -8,7 +8,7 @@ tags:
 - re-imagining
 - telecommunications
 wp:post_id: '2819'
-link: http://island94.dev/2011/09/shifting-beliefs-remaking-the-pie/
+wp_link: /2011/09/shifting-beliefs-remaking-the-pie/
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - portfolio
 - webdesign
 wp:post_id: '2167'
-link: http://island94.dev/2010/09/find-fresh-perspectives-at-nonprofitmillennials-org/
+wp_link: /2010/09/find-fresh-perspectives-at-nonprofitmillennials-org/
 wp:post_type: post
 ---
 

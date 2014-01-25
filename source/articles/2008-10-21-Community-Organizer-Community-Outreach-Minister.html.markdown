@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - service
 wp:post_id: '265'
-link: http://island94.dev/2008/10/community-organizer-equals-community-outreach-minister/
+wp_link: /2008/10/community-organizer-equals-community-outreach-minister/
 wp:post_type: post
 ---
 

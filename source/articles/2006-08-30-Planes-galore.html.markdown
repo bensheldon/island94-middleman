@@ -8,7 +8,7 @@ tags:
 - smithsonian
 - space
 wp:post_id: '93'
-link: http://island94.dev/2006/08/planes-galore/
+wp_link: /2006/08/planes-galore/
 wp:post_type: post
 failed_files:
 - http://island94.org/files/planesgroup.png

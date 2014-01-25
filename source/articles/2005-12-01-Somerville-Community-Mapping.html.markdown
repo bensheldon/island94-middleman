@@ -6,7 +6,7 @@ tags:
 - photos
 - Sommerville
 wp:post_id: '22'
-link: http://island94.dev/2005/12/somerville-community-mapping/
+wp_link: /2005/12/somerville-community-mapping/
 wp:post_type: post
 ---
 

@@ -5,7 +5,7 @@ tags:
 - birthday
 - message
 wp:post_id: '178'
-link: http://island94.dev/2007/12/happy-birthday-to-me/
+wp_link: /2007/12/happy-birthday-to-me/
 wp:post_type: post
 ---
 

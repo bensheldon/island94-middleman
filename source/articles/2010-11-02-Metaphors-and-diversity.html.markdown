@@ -7,7 +7,7 @@ tags:
 - language
 - metaphors
 wp:post_id: '2283'
-link: http://island94.dev/2010/11/metaphors-and-diversity/
+wp_link: /2010/11/metaphors-and-diversity/
 wp:post_type: post
 ---
 

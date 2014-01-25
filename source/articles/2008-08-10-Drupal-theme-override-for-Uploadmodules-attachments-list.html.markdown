@@ -11,7 +11,7 @@ tags:
 - snippet
 - webdesign
 wp:post_id: '238'
-link: http://island94.dev/2008/08/drupal-theme-override-for-upload-modules-attachments-list/
+wp_link: /2008/08/drupal-theme-override-for-upload-modules-attachments-list/
 wp:post_type: post
 ---
 

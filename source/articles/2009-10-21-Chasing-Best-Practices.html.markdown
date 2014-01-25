@@ -9,7 +9,7 @@ tags:
 - nonprofit
 - rules
 wp:post_id: '848'
-link: http://island94.dev/2009/10/chasing-best-practices/
+wp_link: /2009/10/chasing-best-practices/
 wp:post_type: post
 ---
 

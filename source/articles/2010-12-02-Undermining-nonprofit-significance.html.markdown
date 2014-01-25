@@ -6,7 +6,7 @@ tags:
 - social-enterprise
 - sour-grapes
 wp:post_id: '2319'
-link: http://island94.dev/2010/12/undermining-nonprofit-significance/
+wp_link: /2010/12/undermining-nonprofit-significance/
 wp:post_type: post
 ---
 

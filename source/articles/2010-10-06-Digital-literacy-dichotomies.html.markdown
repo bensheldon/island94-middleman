@@ -4,13 +4,13 @@ date: '2010-10-06'
 tags: []
 published: false
 wp:post_id: '2221'
-link: http://island94.dev/?p=2221
+wp_link: /?p=2221
 wp:post_type: post
 ---
 
 I posted this to the Digital Inclusion Network listserv. It's a synthesis of the spectrum of approaches I've seen (and contributed to ---you can probably figure out which end of the spectrum I'm on) in the BTOP, and now post-BTOP, media field.
 
->  
+>
 
 > 1. What is Digital Literacy? There are several different conceptions, from a task-based approach similar to computer literacy, to a skills/critical-analysis approach more similar to media literacy, and many in between.
 

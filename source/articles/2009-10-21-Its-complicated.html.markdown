@@ -7,7 +7,7 @@ tags:
 - scenario
 - think-harder
 wp:post_id: '843'
-link: http://island94.dev/2009/10/its-complicated/
+wp_link: /2009/10/its-complicated/
 wp:post_type: post
 ---
 

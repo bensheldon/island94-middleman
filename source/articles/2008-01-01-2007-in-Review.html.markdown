@@ -5,7 +5,7 @@ tags:
 - navel gazing
 - review
 wp:post_id: '198'
-link: http://island94.dev/2008/01/2007-in-review/
+wp_link: /2008/01/2007-in-review/
 wp:post_type: post
 ---
 
@@ -17,7 +17,7 @@ wp:post_type: post
 
 Well, it's the new year, which is always a great time for navel gazing. So, looking back, here's some stuff from 2007:
 
-**Places I've Slept:**  
+**Places I've Slept:**
 _California:_ [Poway](http://www.flickr.com/photos/bensheldon/2070496510/), [Venice](http://www.flickr.com/photos/bensheldon/426070106/), [Santa Barbara](http://www.flickr.com/photos/bensheldon/429766613/), [Isla Vista](http://www.flickr.com/photos/bensheldon/429775877/), [Sacramento](http://www.flickr.com/photos/bensheldon/437419637/), [San Francisco](http://www.flickr.com/photos/bensheldon/2070448728/), [Sunnyvale](http://www.flickr.com/photos/bensheldon/437415187/);
 
 _Central:_ [Minneapolis, MN](http://www.flickr.com/photos/bensheldon/901620062/in/set-72157601010905852/); [Austin, TX](http://www.flickr.com/photos/bensheldon/2070618466/);

@@ -6,7 +6,7 @@ tags:
 - food
 - sick
 wp:post_id: '200'
-link: http://island94.dev/2008/02/ors-amounts-for-a-nalgene-bottle/
+wp_link: /2008/02/ors-amounts-for-a-nalgene-bottle/
 wp:post_type: post
 ---
 

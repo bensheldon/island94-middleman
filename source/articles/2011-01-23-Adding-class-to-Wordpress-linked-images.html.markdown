@@ -8,7 +8,7 @@ tags:
 - theming
 - wordpress
 wp:post_id: '2425'
-link: http://island94.dev/2011/01/adding-class-to-wordpress-linked-images/
+wp_link: /2011/01/adding-class-to-wordpress-linked-images/
 wp:post_type: post
 ---
 
@@ -16,7 +16,7 @@ An [enduring issue](http://wordpress.org/support/topic/how-can-i-set-the-class-o
 
 Adding the following code to your Wordpress theme's `functions.php` file will automatically add a class to the anchor link when you insert linked images through Wordpress's Media Library interface. It won't fix posts you've already written, but should make things better moving forward.
 
-    
+
 
 /\*\*
 

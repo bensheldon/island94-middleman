@@ -10,7 +10,7 @@ tags:
 - smoothie
 - wet hair
 wp:post_id: '69'
-link: http://island94.dev/2006/07/breakfast-smoothie/
+wp_link: /2006/07/breakfast-smoothie/
 wp:post_type: post
 ---
 

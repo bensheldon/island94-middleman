@@ -8,7 +8,7 @@ tags:
 - freaky
 - video
 wp:post_id: '68'
-link: http://island94.dev/2006/07/two-two-two-yolks-in-one/
+wp_link: /2006/07/two-two-two-yolks-in-one/
 wp:post_type: post
 ---
 
@@ -16,7 +16,7 @@ My roommate [Dean](http://notthemessiah.net) created this video about some pecul
 
 [ ![](http://blip.tv/uploadedFiles/Deaner-SixEggsXTwoYolksTwelveYolks959.jpg) ](http://blip.tv/file/get/Deaner-2xYolk193.mp4?source=3)
 
-    
+
 
 [Watch the Video](http://blip.tv/file/get/Deaner-2xYolk193.mp4?source=3)
 

@@ -8,7 +8,7 @@ tags:
 - panorama
 - photos
 wp:post_id: '64'
-link: http://island94.dev/2006/07/charles-on-the-4th/
+wp_link: /2006/07/charles-on-the-4th/
 wp:post_type: post
 ---
 

@@ -8,7 +8,7 @@ tags:
 - small things
 - spring
 wp:post_id: '132'
-link: http://island94.dev/2007/06/small-things-of-spring/
+wp_link: /2007/06/small-things-of-spring/
 wp:post_type: post
 ---
 

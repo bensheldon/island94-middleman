@@ -6,7 +6,7 @@ tags:
 - drawing
 - internet
 wp:post_id: '248'
-link: http://island94.dev/2008/08/makes-you-crazy/
+wp_link: /2008/08/makes-you-crazy/
 wp:post_type: post
 ---
 

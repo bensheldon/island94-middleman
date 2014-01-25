@@ -6,7 +6,7 @@ tags:
 - language
 - tableware
 wp:post_id: '174'
-link: http://island94.dev/2007/11/knorking/
+wp_link: /2007/11/knorking/
 wp:post_type: post
 ---
 

@@ -6,7 +6,7 @@ tags:
 - keynote
 - nonprofits
 wp:post_id: '155'
-link: http://island94.dev/2007/09/opinion-on-nonprofits/
+wp_link: /2007/09/opinion-on-nonprofits/
 wp:post_type: post
 ---
 

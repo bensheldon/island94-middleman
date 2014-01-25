@@ -7,7 +7,7 @@ tags:
 - language
 - rhetoric
 wp:post_id: '187'
-link: http://island94.dev/2007/12/destructive-rhetoric/
+wp_link: /2007/12/destructive-rhetoric/
 wp:post_type: post
 ---
 

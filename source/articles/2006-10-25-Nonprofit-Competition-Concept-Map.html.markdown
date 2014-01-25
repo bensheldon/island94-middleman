@@ -7,7 +7,7 @@ tags:
 - operations
 - strategy
 wp:post_id: '104'
-link: http://island94.dev/2006/10/nonprofit-competition-concept-map/
+wp_link: /2006/10/nonprofit-competition-concept-map/
 wp:post_type: post
 ---
 

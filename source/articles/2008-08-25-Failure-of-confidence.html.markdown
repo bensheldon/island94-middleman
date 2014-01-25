@@ -6,7 +6,7 @@ tags:
 - language
 - politics
 wp:post_id: '246'
-link: http://island94.dev/2008/08/failure-of-confidence/
+wp_link: /2008/08/failure-of-confidence/
 wp:post_type: post
 ---
 
@@ -14,7 +14,7 @@ Diebold (now Premier Election Systems), [admits voting machines have had critica
 
 [Nonsensical comments](http://www.chicagotribune.com/news/local/chi-dupage-elex-aug25,0,7530999.story) from election officials:
 
->  
+>
 
 > DuPage County election officials were upset to learn their election equipment vendor has acknowledged a programming error that could cause votes not to be tallied, but they said last week that they are confident local elections were not affected.
 

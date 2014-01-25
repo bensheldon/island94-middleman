@@ -5,7 +5,7 @@ tags:
 - language
 - philosophy
 wp:post_id: '179'
-link: http://island94.dev/2007/12/creating-meaning-through-interaction/
+wp_link: /2007/12/creating-meaning-through-interaction/
 wp:post_type: post
 ---
 

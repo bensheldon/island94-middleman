@@ -10,7 +10,7 @@ tags:
 - tao
 - zen
 wp:post_id: '1754'
-link: http://island94.dev/2010/02/a-temperance-of-words/
+wp_link: /2010/02/a-temperance-of-words/
 wp:post_type: post
 ---
 
@@ -86,7 +86,7 @@ The preceding's length can be compared to the first 14 lines of Lao Tzu's _ [Tao
 
 So where does that leave us (emphasis mine):
 
->  
+>
 
 >
 

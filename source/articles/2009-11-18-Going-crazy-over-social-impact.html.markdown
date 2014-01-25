@@ -3,7 +3,7 @@ title: Going crazy over social impact
 date: '2009-11-18'
 tags: []
 wp:post_id: '1041'
-link: http://island94.dev/2009/11/going-crazy-over-social-impact/
+wp_link: /2009/11/going-crazy-over-social-impact/
 wp:post_type: post
 ---
 
@@ -13,9 +13,9 @@ I am hereby defining Social Impact as the flow of dollars between your community
 
 That's even easy to measure, unless it's indirect. And it's the indirect impact that's the problem. Providing services does not bring money into your community, unless:
 
-- you and your staff are part of that community e.g. you are your constituents if identity based, or within the physical area if you are geographically based, or a some proportion of the two  
-- the supplies you're using are produced by your community, proportional to community ownership and labor  
-- the supplies are sold by the community, in which case you can only include the retail markup as impactful if they were manufactured elsewhere, and only that being proportional to community ownership and labor  
+- you and your staff are part of that community e.g. you are your constituents if identity based, or within the physical area if you are geographically based, or a some proportion of the two
+- the supplies you're using are produced by your community, proportional to community ownership and labor
+- the supplies are sold by the community, in which case you can only include the retail markup as impactful if they were manufactured elsewhere, and only that being proportional to community ownership and labor
 - your activities somehow induce money to enter the community now or at some later date
 
 And don't forget to subtract earned income if those funds pay staff from outside the community, or purchase supplies that were sold or manufactured elsewhere.
@@ -32,11 +32,11 @@ So if you want to look at your social impact, follow the money.
 
 Updated: Read the other posts in the Millenial Blogger Alliance:
 
-Rosetta, [Working at a Nonprofit Does Not Equal Social Change](http://rosettathurman.com/blog/2009/11/working-at-a-nonprofit-does-not-equal-social-change/)  
-Colleen,  [Does Writing a Check to a Nonprofit Equal Social Change?](http://colleendilen.com/2009/11/12/does-writing-a-check-to-a-nonprofit-equal-social-change/)  
-Elizabeth,  [What is Social Impact?  
-](http://nonprofitperiscope.wordpress.com/2009/11/16/what-is-social-impact/)Elisa,  [Measuring Social Impact](http://elisamortiz.wordpress.com/2009/11/11/measuring-social-impact-wait%E2%80%A6what-is-social-impact/)  
-Tracey,  [The Meaning of Social Impact](http://www.blackgivesback.com/2009/11/meaning-of-social-impact.html)  
-James,  [Measuring Social Impact](http://jameselbaor.wordpress.com/2009/11/17/measuring-social-impact/)  
-Lauren,   [How Do You Define and Measure Social Impact?  
+Rosetta, [Working at a Nonprofit Does Not Equal Social Change](http://rosettathurman.com/blog/2009/11/working-at-a-nonprofit-does-not-equal-social-change/)
+Colleen,  [Does Writing a Check to a Nonprofit Equal Social Change?](http://colleendilen.com/2009/11/12/does-writing-a-check-to-a-nonprofit-equal-social-change/)
+Elizabeth,  [What is Social Impact?
+](http://nonprofitperiscope.wordpress.com/2009/11/16/what-is-social-impact/)Elisa,  [Measuring Social Impact](http://elisamortiz.wordpress.com/2009/11/11/measuring-social-impact-wait%E2%80%A6what-is-social-impact/)
+Tracey,  [The Meaning of Social Impact](http://www.blackgivesback.com/2009/11/meaning-of-social-impact.html)
+James,  [Measuring Social Impact](http://jameselbaor.wordpress.com/2009/11/17/measuring-social-impact/)
+Lauren,   [How Do You Define and Measure Social Impact?
 ](http://alaurenabele.com/2009/11/how-do-you-define-and-measure-social-impact/)Allison,  [Five Problems With How We Measure Social Change](http://entrylevelliving.wordpress.com/2009/11/17/five-problems-measure-social-change/)

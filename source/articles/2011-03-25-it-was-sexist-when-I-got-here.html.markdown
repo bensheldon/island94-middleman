@@ -9,7 +9,7 @@ tags:
 - sexism
 - women
 wp:post_id: '2558'
-link: http://island94.dev/2011/03/it-was-sexist-when-i-got-here/
+wp_link: /2011/03/it-was-sexist-when-i-got-here/
 wp:post_type: post
 ---
 

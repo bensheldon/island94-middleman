@@ -3,7 +3,7 @@ title: Cold-Start car advice
 date: '2009-03-11'
 tags: []
 wp:post_id: '551'
-link: http://island94.dev/2009/03/cold-start-car-advice/
+wp_link: /2009/03/cold-start-car-advice/
 wp:post_type: post
 ---
 

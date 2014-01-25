@@ -6,7 +6,7 @@ tags:
 - dictionary
 - language
 wp:post_id: '182'
-link: http://island94.dev/2007/12/vis-a-vis-viz-vis-a-vis-viz/
+wp_link: /2007/12/vis-a-vis-viz-vis-a-vis-viz/
 wp:post_type: post
 ---
 

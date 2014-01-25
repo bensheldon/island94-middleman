@@ -11,7 +11,7 @@ tags:
 - portfolio
 - roleplay
 wp:post_id: '752'
-link: http://island94.dev/2009/10/nonprofit-budgeting-scenario/
+wp_link: /2009/10/nonprofit-budgeting-scenario/
 wp:post_type: post
 ---
 
@@ -27,7 +27,7 @@ I pasted the text of the  scenario below, though you can download the whole thi
 
 >
 
->  
+>
 
 >
 
@@ -83,15 +83,15 @@ I pasted the text of the  scenario below, though you can download the whole thi
 
 >
 
->  
+>
 
 - What do _you _ think the organization’s priorities are? Immediate and long-term
 
->  
+>
 
 - What values do _you_think the organization should protect? Internally and externally.
 
->  
+>
 
 - What sacrifices are _you_ willing to make to get the organization through the year?
 
@@ -101,11 +101,11 @@ I pasted the text of the  scenario below, though you can download the whole thi
 
 >
 
->  
+>
 
 1. Sliding Scale Fee charged to individuals using the Food Bank depending on their ability to pay. Increasing this income increases the amount charged to Rural Food Services’s clients.
 
->  
+>
 
 2. Underwriting (advertising) for the Radio Station from local and national businesses. Increasing this income will reduce the local/independent focus of the station’s community-led programming.
 

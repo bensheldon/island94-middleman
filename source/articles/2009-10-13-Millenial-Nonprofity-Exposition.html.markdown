@@ -8,7 +8,7 @@ tags:
 - service
 - storytelling
 wp:post_id: '797'
-link: http://island94.dev/2009/10/millenial-nonprofity-exposition/
+wp_link: /2009/10/millenial-nonprofity-exposition/
 wp:post_type: post
 ---
 

@@ -6,7 +6,7 @@ tags:
 - Net Neutrality
 - response
 wp:post_id: '74'
-link: http://island94.dev/2006/07/a-response-for-net-neutrality/
+wp_link: /2006/07/a-response-for-net-neutrality/
 wp:post_type: post
 ---
 
@@ -16,7 +16,7 @@ Net Neutrality is an important issue; pending legislation and changing business 
 
 _"There's an enormous coalition supporting net neutrality, hundreds of individuals and organizations and companies that I have never heard of. But if you follow the money, you find that it's really Google, Amazon.com, eBay and Yahoo! that are behind this campaign."_
 
-Yes, there is wide support for Net Neutrality and for good reason. I run several small websites (and am known to browse the web myself), and am happy that Google, Amazon.com, et al are behind the campaign and helping to pay for it. I don't have the money or resources to fight for Net Neutrality as well as they can, so I'm really glad that they are.  
+Yes, there is wide support for Net Neutrality and for good reason. I run several small websites (and am known to browse the web myself), and am happy that Google, Amazon.com, et al are behind the campaign and helping to pay for it. I don't have the money or resources to fight for Net Neutrality as well as they can, so I'm really glad that they are.
 
 _"Never mind that was no evidence that any ISP was blocking access"_
 

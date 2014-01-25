@@ -5,7 +5,7 @@ tags:
 - aging
 - children
 wp:post_id: '268'
-link: http://island94.dev/2008/11/being-wrong-is-right-but-not-in-the-education-system/
+wp_link: /2008/11/being-wrong-is-right-but-not-in-the-education-system/
 wp:post_type: post
 ---
 
@@ -23,4 +23,4 @@ Sir Robinson also mentioned Picasso's quote:
 
 >
 
-> Every child is an artist. The problem is how to remain an artist once we grow up.  
+> Every child is an artist. The problem is how to remain an artist once we grow up.

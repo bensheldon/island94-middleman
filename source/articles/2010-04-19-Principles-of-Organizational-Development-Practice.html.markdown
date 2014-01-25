@@ -8,7 +8,7 @@ tags:
 - principles
 - values
 wp:post_id: '1891'
-link: http://island94.dev/2010/04/principles-of-organizational-development-practice/
+wp_link: /2010/04/principles-of-organizational-development-practice/
 wp:post_type: post
 ---
 
@@ -40,23 +40,23 @@ From the [Organizational Development Network](http://www.odnetwork.org/aboutod/p
 
 >
 
->  
+>
 
 - **Respect and Inclusion** – equitably values the perspective and opinions of everyone.
 
->  
+>
 
 - **Collaboration** – builds collaborative relationships between the practitioner and the client while encouraging collaboration throughout the client system.
 
->  
+>
 
 - **Authenticity** – strives for authenticity and congruence and encourages these qualities in their clients
 
->  
+>
 
 - **Self-awareness** – commits to developing self-awareness and interpersonal skills. OD practitioners engage in personal and professional development through lifelong learning.
 
->  
+>
 
 - **Empowerment** – focuses efforts on helping everyone in the client organization or community increase their autonomy and empowerment to levels that make the workplace and/or community satisfying and productive.
 

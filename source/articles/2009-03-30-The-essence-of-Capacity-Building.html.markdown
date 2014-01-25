@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - nptech
 wp:post_id: '596'
-link: http://island94.dev/2009/03/the-essence-of-capacity-building/
+wp_link: /2009/03/the-essence-of-capacity-building/
 wp:post_type: post
 ---
 

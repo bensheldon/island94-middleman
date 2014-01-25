@@ -13,7 +13,7 @@ tags:
 - pluralism
 - politics
 wp:post_id: '631'
-link: http://island94.dev/2009/07/moving-day/
+wp_link: /2009/07/moving-day/
 wp:post_type: post
 ---
 

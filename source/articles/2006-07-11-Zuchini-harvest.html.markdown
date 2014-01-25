@@ -9,7 +9,7 @@ tags:
 - recipe
 - zuchini
 wp:post_id: '67'
-link: http://island94.dev/2006/07/zuchini-harvest/
+wp_link: /2006/07/zuchini-harvest/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - internet
 - protest
 wp:post_id: '2987'
-link: http://island94.dev/2012/01/protest-shirts/
+wp_link: /2012/01/protest-shirts/
 wp:post_type: post
 ---
 

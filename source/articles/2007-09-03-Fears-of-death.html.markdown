@@ -6,7 +6,7 @@ tags:
 - musings
 - research
 wp:post_id: '148'
-link: http://island94.dev/2007/09/fears-of-death/
+wp_link: /2007/09/fears-of-death/
 wp:post_type: post
 ---
 

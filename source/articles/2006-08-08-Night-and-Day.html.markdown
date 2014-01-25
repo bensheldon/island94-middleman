@@ -9,7 +9,7 @@ tags:
 - photos
 - pool
 wp:post_id: '82'
-link: http://island94.dev/2006/08/night-and-day/
+wp_link: /2006/08/night-and-day/
 wp:post_type: post
 ---
 

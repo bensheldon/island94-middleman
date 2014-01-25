@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - personal-development
 wp:post_id: '614'
-link: http://island94.dev/2009/06/attributes-of-respected-chairs/
+wp_link: /2009/06/attributes-of-respected-chairs/
 wp:post_type: post
 ---
 

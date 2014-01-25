@@ -9,7 +9,7 @@ tags:
 - history
 - patriotism
 wp:post_id: '273'
-link: http://island94.dev/2008/11/lessons-from-the-1960s/
+wp_link: /2008/11/lessons-from-the-1960s/
 wp:post_type: post
 ---
 

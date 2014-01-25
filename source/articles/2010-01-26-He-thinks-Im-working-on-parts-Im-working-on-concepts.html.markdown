@@ -10,7 +10,7 @@ tags:
 - science
 - technology
 wp:post_id: '1726'
-link: http://island94.dev/2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/
+wp_link: /2010/01/he-thinks-im-working-on-parts-im-working-on-concepts/
 wp:post_type: post
 ---
 

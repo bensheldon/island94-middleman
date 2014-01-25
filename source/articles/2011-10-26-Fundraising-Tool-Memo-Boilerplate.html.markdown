@@ -6,7 +6,7 @@ tags:
 - fundraising
 - nonprofit
 wp:post_id: '2810'
-link: http://island94.dev/2011/10/fundraising-tool-memo-boilerplate/
+wp_link: /2011/10/fundraising-tool-memo-boilerplate/
 wp:post_type: post
 ---
 
@@ -36,39 +36,39 @@ See also [FreeGeek Chicago's Funding Statement](http://wiki.freegeekchicago.org/
 
 >
 
->  
+>
 
 - How does funding sustain or improve something FreeGeek Chicago already does?
 
->  
+>
 
 - How does funding make FreeGeek more sustainable?
 
->  
+>
 
 - Who provides the funding? Do their values and behavior match FreeGeek's mission and values?
 
->  
+>
 
 - Has FreeGeek planned for the time when funding runs out? Where does it leave us?
 
->  
+>
 
 - What forms of overhead does the funding create? Do we have the organizational resources to properly manage the transactions?
 
->  
+>
 
 - What forms of accountability go along with the funding?
 
->  
+>
 
 - How could the obligations of funding affect our organizational structure and community process?
 
->  
+>
 
 - Can the goals of a funding source be better filled by another organization (either existing or to be created) outside of FreeGeek?
 
->  
+>
 
 - Does the funder require personal information from participants? Are we comfortable asking for that information?
 

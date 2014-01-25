@@ -7,7 +7,7 @@ tags:
 - quote
 - speech
 wp:post_id: '156'
-link: http://island94.dev/2007/09/latin-transit/
+wp_link: /2007/09/latin-transit/
 wp:post_type: post
 ---
 

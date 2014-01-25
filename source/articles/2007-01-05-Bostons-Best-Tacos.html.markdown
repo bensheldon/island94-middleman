@@ -7,7 +7,7 @@ tags:
 - map
 - tacos
 wp:post_id: '115'
-link: http://island94.dev/2007/01/bostons-best-tacos/
+wp_link: /2007/01/bostons-best-tacos/
 wp:post_type: post
 ---
 

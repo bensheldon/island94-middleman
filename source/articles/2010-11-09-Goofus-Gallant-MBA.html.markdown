@@ -8,7 +8,7 @@ tags:
 - nonprofit
 - rhetoric
 wp:post_id: '2298'
-link: http://island94.dev/2010/11/goofus-gallant-mba/
+wp_link: /2010/11/goofus-gallant-mba/
 wp:post_type: post
 ---
 

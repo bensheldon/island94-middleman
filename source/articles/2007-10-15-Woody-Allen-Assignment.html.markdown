@@ -7,7 +7,7 @@ tags:
 - criticism
 - irony
 wp:post_id: '159'
-link: http://island94.dev/2007/10/woody-allen-assignment/
+wp_link: /2007/10/woody-allen-assignment/
 wp:post_type: post
 ---
 

@@ -5,7 +5,7 @@ tags:
 - danger
 - food
 wp:post_id: '230'
-link: http://island94.dev/2008/07/tragic-food/
+wp_link: /2008/07/tragic-food/
 wp:post_type: post
 ---
 

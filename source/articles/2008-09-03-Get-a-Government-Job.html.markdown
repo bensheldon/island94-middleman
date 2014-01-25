@@ -6,7 +6,7 @@ tags:
 - research
 - search
 wp:post_id: '250'
-link: http://island94.dev/2008/09/get-a-government-job/
+wp_link: /2008/09/get-a-government-job/
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - philanthropy
 - the-revolution-app-will-not-be-be-approved
 wp:post_id: '2023'
-link: http://island94.dev/2010/06/iphone-apps-allow-giving-just-not-charity/
+wp_link: /2010/06/iphone-apps-allow-giving-just-not-charity/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - open311
 - portfolio
 wp:post_id: '3057'
-link: http://island94.dev/2012/09/reimagining-chicagos-311-activity-with-super-mayor-emanuel/
+wp_link: /2012/09/reimagining-chicagos-311-activity-with-super-mayor-emanuel/
 wp:post_type: post
 ---
 

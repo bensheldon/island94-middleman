@@ -7,7 +7,7 @@ tags:
 - Germania Street
 - illustration
 wp:post_id: '102'
-link: http://island94.dev/2006/10/germania-st-3/
+wp_link: /2006/10/germania-st-3/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - train
 - winter
 wp:post_id: '27'
-link: http://island94.dev/2006/01/ghost-train/
+wp_link: /2006/01/ghost-train/
 wp:post_type: post
 ---
 

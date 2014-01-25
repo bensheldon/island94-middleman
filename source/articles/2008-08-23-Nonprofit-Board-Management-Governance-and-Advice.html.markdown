@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - notes
 wp:post_id: '243'
-link: http://island94.dev/2008/08/nonprofit-board-management-governance-and-advice/
+wp_link: /2008/08/nonprofit-board-management-governance-and-advice/
 wp:post_type: post
 ---
 

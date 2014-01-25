@@ -10,7 +10,7 @@ tags:
 - ownership
 - perspective
 wp:post_id: '916'
-link: http://island94.dev/2009/10/frames-for-copyright/
+wp_link: /2009/10/frames-for-copyright/
 wp:post_type: post
 ---
 

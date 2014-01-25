@@ -3,7 +3,7 @@ title: Cell phones and "personal" computing
 date: '2009-03-07'
 tags: []
 wp:post_id: '528'
-link: http://island94.dev/2009/03/cell-phones-and-personal-computing/
+wp_link: /2009/03/cell-phones-and-personal-computing/
 wp:post_type: post
 ---
 

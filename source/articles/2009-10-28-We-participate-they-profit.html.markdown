@@ -3,7 +3,7 @@ title: We participate, they profit
 date: '2009-10-28'
 tags: []
 wp:post_id: '909'
-link: http://island94.dev/2009/10/we-participate-they-profit/
+wp_link: /2009/10/we-participate-they-profit/
 wp:post_type: post
 ---
 

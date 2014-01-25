@@ -8,7 +8,7 @@ tags:
 - photography
 - visuals
 wp:post_id: '1774'
-link: http://island94.dev/2010/02/cleaving-the-visual-experience/
+wp_link: /2010/02/cleaving-the-visual-experience/
 wp:post_type: post
 ---
 

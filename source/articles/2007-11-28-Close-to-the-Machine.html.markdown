@@ -7,7 +7,7 @@ tags:
 - cybernetics
 - technology
 wp:post_id: '176'
-link: http://island94.dev/2007/11/close-to-the-machine/
+wp_link: /2007/11/close-to-the-machine/
 wp:post_type: post
 ---
 
@@ -18,7 +18,7 @@ One book mentioned in this conclusion is Ellen Ullman's _Close to the Machine_:
 
 (page 258, paragraph breaks and emphasis mine)
 
->  
+>
 
 > [Ullman's life is] flexible and mobile and it demands that she build small tribes around a shared mission and link them together with information and information technologies. To the extent that Ullman tries to change the world, she does so as Buckminster Fuller might suggest she should: by designing new technologies for the management of information and the transformation of society's resources into knowledge on which others can act.
 

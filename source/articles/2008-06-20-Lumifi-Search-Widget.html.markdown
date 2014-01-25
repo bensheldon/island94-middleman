@@ -5,7 +5,7 @@ tags:
 - internet
 - search
 wp:post_id: '227'
-link: http://island94.dev/2008/06/lumifi-search-widget/
+wp_link: /2008/06/lumifi-search-widget/
 wp:post_type: post
 ---
 

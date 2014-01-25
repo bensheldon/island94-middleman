@@ -6,7 +6,7 @@ tags:
 - Jessica
 - vocabulary
 wp:post_id: '23'
-link: http://island94.dev/2005/12/word-of-the-day-cankle/
+wp_link: /2005/12/word-of-the-day-cankle/
 wp:post_type: post
 ---
 

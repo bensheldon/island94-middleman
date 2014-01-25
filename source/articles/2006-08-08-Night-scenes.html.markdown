@@ -8,7 +8,7 @@ tags:
 - photos
 - Sullivan Square
 wp:post_id: '83'
-link: http://island94.dev/2006/08/night-scenes/
+wp_link: /2006/08/night-scenes/
 wp:post_type: post
 ---
 

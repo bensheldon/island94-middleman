@@ -6,7 +6,7 @@ tags:
 - recipe
 - salsa
 wp:post_id: '184'
-link: http://island94.dev/2007/12/cribbed-apple-salsa/
+wp_link: /2007/12/cribbed-apple-salsa/
 wp:post_type: post
 ---
 
@@ -16,12 +16,12 @@ One of their best dishes is the Quesadillas, which are made so in part by the sa
 
 (this isn't proportional)
 
-Apple (seems like something red, maybe a macintosh)  
-Red Pepper  
-Yellow Pepper  
-Red onion  
-Yellow Onion (maybe)  
-Jalapeno  
+Apple (seems like something red, maybe a macintosh)
+Red Pepper
+Yellow Pepper
+Red onion
+Yellow Onion (maybe)
+Jalapeno
 Pineapple juice (like a tiny splash, maybe)
 
 It's all chopped up into maybe 1/4 chunks and amazing

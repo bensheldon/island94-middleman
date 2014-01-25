@@ -6,7 +6,7 @@ tags:
 - trust
 - wikipedia
 wp:post_id: '141'
-link: http://island94.dev/2007/08/trustworthiness/
+wp_link: /2007/08/trustworthiness/
 wp:post_type: post
 ---
 

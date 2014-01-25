@@ -7,7 +7,7 @@ tags:
 - random
 - statistics
 wp:post_id: '1963'
-link: http://island94.dev/2010/05/try-it-again/
+wp_link: /2010/05/try-it-again/
 wp:post_type: post
 ---
 

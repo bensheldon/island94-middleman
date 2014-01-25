@@ -9,7 +9,7 @@ tags:
 - rain
 - videos
 wp:post_id: '407'
-link: http://island94.dev/2009/02/two-videos-for-february-1st/
+wp_link: /2009/02/two-videos-for-february-1st/
 wp:post_type: post
 ---
 

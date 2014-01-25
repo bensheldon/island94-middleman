@@ -9,7 +9,7 @@ tags:
 - portfolio
 - visualizations
 wp:post_id: '716'
-link: http://island94.dev/2009/09/technology-2-0-mapping-presentation/
+wp_link: /2009/09/technology-2-0-mapping-presentation/
 wp:post_type: post
 ---
 

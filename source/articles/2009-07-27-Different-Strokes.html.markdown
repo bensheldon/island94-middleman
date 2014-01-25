@@ -12,7 +12,7 @@ tags:
 - time-management
 - trendsetting
 wp:post_id: '650'
-link: http://island94.dev/2009/07/different-strokes/
+wp_link: /2009/07/different-strokes/
 wp:post_type: post
 ---
 

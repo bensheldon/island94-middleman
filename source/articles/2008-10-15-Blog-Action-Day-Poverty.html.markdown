@@ -6,7 +6,7 @@ tags:
 - meta
 - poverty
 wp:post_id: '262'
-link: http://island94.dev/2008/10/blog-action-day-poverty/
+wp_link: /2008/10/blog-action-day-poverty/
 wp:post_type: post
 ---
 

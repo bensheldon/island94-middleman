@@ -6,7 +6,7 @@ tags:
 - negotiation
 - nonprofit
 wp:post_id: '270'
-link: http://island94.dev/2008/11/equally-good-alternatives-to-collaboration/
+wp_link: /2008/11/equally-good-alternatives-to-collaboration/
 wp:post_type: post
 ---
 

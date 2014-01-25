@@ -6,7 +6,7 @@ tags:
 - history
 - science
 wp:post_id: '2227'
-link: http://island94.dev/2010/10/scientific-disunity/
+wp_link: /2010/10/scientific-disunity/
 wp:post_type: post
 ---
 

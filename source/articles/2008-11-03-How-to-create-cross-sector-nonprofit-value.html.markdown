@@ -6,7 +6,7 @@ tags:
 - economics
 - nonprofit
 wp:post_id: '269'
-link: http://island94.dev/2008/11/how-to-create-cross-sector-nonprofit-value/
+wp_link: /2008/11/how-to-create-cross-sector-nonprofit-value/
 wp:post_type: post
 ---
 

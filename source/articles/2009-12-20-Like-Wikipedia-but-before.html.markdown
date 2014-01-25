@@ -7,7 +7,7 @@ tags:
 - teaching
 - web
 wp:post_id: '1611'
-link: http://island94.dev/2009/12/like-wikipedia-but-before/
+wp_link: /2009/12/like-wikipedia-but-before/
 wp:post_type: post
 ---
 

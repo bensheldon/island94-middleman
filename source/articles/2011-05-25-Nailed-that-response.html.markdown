@@ -7,7 +7,7 @@ tags:
 - service
 - technology
 wp:post_id: '2671'
-link: http://island94.dev/2011/05/nailed-that-response/
+wp_link: /2011/05/nailed-that-response/
 wp:post_type: post
 ---
 

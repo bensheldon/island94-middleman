@@ -6,7 +6,7 @@ tags:
 - politics
 - synonyms
 wp:post_id: '224'
-link: http://island94.dev/2008/06/other-words-for-lie/
+wp_link: /2008/06/other-words-for-lie/
 wp:post_type: post
 ---
 

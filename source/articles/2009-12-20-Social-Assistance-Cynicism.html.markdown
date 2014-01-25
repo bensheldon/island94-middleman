@@ -3,7 +3,7 @@ title: Social Assistance Cynicism
 date: '2009-12-20'
 tags: []
 wp:post_id: '1524'
-link: http://island94.dev/2009/12/social-assistance-cynicism/
+wp_link: /2009/12/social-assistance-cynicism/
 wp:post_type: post
 ---
 

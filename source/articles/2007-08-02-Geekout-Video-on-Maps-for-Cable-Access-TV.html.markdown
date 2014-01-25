@@ -11,7 +11,7 @@ tags:
 - portfolio
 - video
 wp:post_id: '136'
-link: http://island94.dev/2007/08/geekout-video-on-maps-for-cable-access-tv/
+wp_link: /2007/08/geekout-video-on-maps-for-cable-access-tv/
 wp:post_type: post
 ---
 

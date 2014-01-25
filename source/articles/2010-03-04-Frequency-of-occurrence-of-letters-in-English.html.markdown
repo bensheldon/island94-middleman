@@ -7,7 +7,7 @@ tags:
 - numbers
 - scrabble
 wp:post_id: '1826'
-link: http://island94.dev/2010/03/frequency-of-occurrence-of-letters-in-english/
+wp_link: /2010/03/frequency-of-occurrence-of-letters-in-english/
 wp:post_type: post
 ---
 

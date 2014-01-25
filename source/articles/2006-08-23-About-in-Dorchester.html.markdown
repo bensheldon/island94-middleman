@@ -7,7 +7,7 @@ tags:
 - history
 - walk
 wp:post_id: '90'
-link: http://island94.dev/2006/08/about-in-dorchester/
+wp_link: /2006/08/about-in-dorchester/
 wp:post_type: post
 ---
 

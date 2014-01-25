@@ -8,7 +8,7 @@ tags:
 - pedagogy
 - teaching
 wp:post_id: '837'
-link: http://island94.dev/2009/10/teaching-through-breakage/
+wp_link: /2009/10/teaching-through-breakage/
 wp:post_type: post
 ---
 

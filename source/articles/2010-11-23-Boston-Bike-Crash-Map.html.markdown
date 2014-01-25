@@ -10,7 +10,7 @@ tags:
 - portfolio
 - project
 wp:post_id: '2305'
-link: http://island94.dev/2010/11/boston-bike-crash-map/
+wp_link: /2010/11/boston-bike-crash-map/
 wp:post_type: post
 ---
 

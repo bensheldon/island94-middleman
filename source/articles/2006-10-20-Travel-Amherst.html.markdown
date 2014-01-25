@@ -10,7 +10,7 @@ tags:
 - statuary
 - travel
 wp:post_id: '103'
-link: http://island94.dev/2006/10/travel-amherst/
+wp_link: /2006/10/travel-amherst/
 wp:post_type: post
 ---
 

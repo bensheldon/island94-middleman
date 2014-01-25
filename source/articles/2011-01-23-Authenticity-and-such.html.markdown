@@ -6,7 +6,7 @@ tags:
 - philosophy
 - provenance
 wp:post_id: '2452'
-link: http://island94.dev/2011/01/authenticity-and-such/
+wp_link: /2011/01/authenticity-and-such/
 wp:post_type: post
 ---
 

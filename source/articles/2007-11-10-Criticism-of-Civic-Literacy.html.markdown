@@ -6,7 +6,7 @@ tags:
 - critique
 - nonprofit
 wp:post_id: '171'
-link: http://island94.dev/2007/11/criticism-of-civic-literacy/
+wp_link: /2007/11/criticism-of-civic-literacy/
 wp:post_type: post
 ---
 

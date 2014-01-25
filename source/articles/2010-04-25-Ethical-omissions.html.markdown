@@ -7,7 +7,7 @@ tags:
 - mba
 - pedagogy
 wp:post_id: '1907'
-link: http://island94.dev/2010/04/ethical-omissions/
+wp_link: /2010/04/ethical-omissions/
 wp:post_type: post
 ---
 
@@ -23,23 +23,23 @@ Again from Marianne M. Jennings' _ [The Seven Signs of Ethical Collapse: How to 
 
 >
 
->  
+>
 
 - Environmentalism
 
->  
+>
 
 - Diversity
 
->  
+>
 
 - Human rights
 
->  
+>
 
 - Philanthropy
 
->  
+>
 
 - Giving back to the community
 
@@ -49,15 +49,15 @@ Again from Marianne M. Jennings' _ [The Seven Signs of Ethical Collapse: How to 
 
 >
 
->  
+>
 
 - Ethical and global issues
 
->  
+>
 
 - The inﬂuence of political, social, legal and regulatory, environmental and technological issues
 
->  
+>
 
 - The impact of demographic diversity on organizations
 

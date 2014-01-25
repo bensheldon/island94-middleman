@@ -9,7 +9,7 @@ tags:
 - painting
 - watercolor
 wp:post_id: '100'
-link: http://island94.dev/2006/09/germania-st-2/
+wp_link: /2006/09/germania-st-2/
 wp:post_type: post
 ---
 

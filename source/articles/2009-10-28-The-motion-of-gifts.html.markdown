@@ -9,7 +9,7 @@ tags:
 - relationships
 - trade
 wp:post_id: '921'
-link: http://island94.dev/2009/10/the-motion-of-gifts/
+wp_link: /2009/10/the-motion-of-gifts/
 wp:post_type: post
 ---
 

@@ -10,7 +10,7 @@ tags:
 - liberalism
 - politics
 wp:post_id: '665'
-link: http://island94.dev/2009/08/from-self-actualization-to-neo-liberalism/
+wp_link: /2009/08/from-self-actualization-to-neo-liberalism/
 wp:post_type: post
 ---
 

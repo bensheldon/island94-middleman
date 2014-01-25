@@ -6,7 +6,7 @@ tags:
 - needs
 - technology
 wp:post_id: '2404'
-link: http://island94.dev/2011/01/assessment-of-needs-assessment-needs/
+wp_link: /2011/01/assessment-of-needs-assessment-needs/
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2011/01/staff-development-activities.jpg
@@ -20,7 +20,7 @@ One of my AmeriCorps members asked for resources on technology needs-assessment 
 
 >
 
->  
+>
 
 1. Do you ever, or often, think, “there must be an easier way to do this?” If so, please list and describe as many of the things or situations as you can to which this statement would apply:
 
@@ -38,31 +38,31 @@ One of my AmeriCorps members asked for resources on technology needs-assessment 
 
 > [Note: All of the following questions repeat this format, but the phrase "If so, please list and describe as many of the things or situations as you can to which this statement would apply: #1-5" is omitted for brevity ]
 
->  
+>
 
 2. Do you ever, or often, think, “I could do this faster if only...”
 
->  
+>
 
 3. Do you ever, or often, think, “I wish I had a helper to help me do...”
 
->  
+>
 
 4. Do you ever, or often, think, “I wish I had a computer or other device so I could...”
 
->  
+>
 
 5. Do you ever, or often, think, “I wish I or my students could contact someone right now to tell them...”
 
->  
+>
 
 6. Do you ever, or often, think, “I wish I or my students could contact someone right now to find out...”
 
->  
+>
 
 7. Do you ever, or often, think, “I wish my students had improved computers or other technological resources available so they could...”
 
->  
+>
 
 8. Do you ever, or often, think, “I wish my students had more computers or other technological resources available so they could...”
 

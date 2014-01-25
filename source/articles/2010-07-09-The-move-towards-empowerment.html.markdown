@@ -10,7 +10,7 @@ tags:
 - neo-liberalism
 - women
 wp:post_id: '2107'
-link: http://island94.dev/2010/07/the-move-towards-empowerment/
+wp_link: /2010/07/the-move-towards-empowerment/
 wp:post_type: post
 ---
 

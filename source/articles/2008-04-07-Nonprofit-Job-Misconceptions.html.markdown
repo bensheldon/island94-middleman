@@ -5,7 +5,7 @@ tags:
 - career
 - nonprofit
 wp:post_id: '212'
-link: http://island94.dev/2008/04/nonprofit-job-misconceptions/
+wp_link: /2008/04/nonprofit-job-misconceptions/
 wp:post_type: post
 ---
 

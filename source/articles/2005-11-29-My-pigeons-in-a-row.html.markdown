@@ -7,7 +7,7 @@ tags:
 - Lowell
 - photos
 wp:post_id: '19'
-link: http://island94.dev/2005/11/my-pigeons-in-a-row/
+wp_link: /2005/11/my-pigeons-in-a-row/
 wp:post_type: post
 ---
 

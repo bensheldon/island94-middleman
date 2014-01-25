@@ -4,7 +4,7 @@ date: '2010-03-25'
 tags: []
 published: false
 wp:post_id: '1858'
-link: http://island94.dev/?p=1858
+wp_link: /?p=1858
 wp:post_type: post
 ---
 

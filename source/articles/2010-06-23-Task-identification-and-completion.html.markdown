@@ -3,7 +3,7 @@ title: Task identification and completion
 date: '2010-06-23'
 tags: []
 wp:post_id: '2103'
-link: http://island94.dev/2010/06/task-identification-and-completion/
+wp_link: /2010/06/task-identification-and-completion/
 wp:post_type: post
 ---
 

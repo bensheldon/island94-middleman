@@ -7,7 +7,7 @@ tags:
 - politics
 - sensationalism
 wp:post_id: '2534'
-link: http://island94.dev/2011/03/towards-advocacy-based-media/
+wp_link: /2011/03/towards-advocacy-based-media/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - meaning
 - semantings
 wp:post_id: '335'
-link: http://island94.dev/2009/01/using-distinctions-to-create-meaning/
+wp_link: /2009/01/using-distinctions-to-create-meaning/
 wp:post_type: post
 ---
 

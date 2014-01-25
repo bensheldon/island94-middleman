@@ -8,7 +8,7 @@ tags:
 - law
 - rhetoric
 wp:post_id: '491'
-link: http://island94.dev/2009/02/the-purpose-of-copyright/
+wp_link: /2009/02/the-purpose-of-copyright/
 wp:post_type: post
 ---
 
@@ -20,7 +20,7 @@ I assume I'm not the only person making this connection, but it's interesting ho
 
 And this is from the [United States' Constitution](http://en.wikipedia.org/wiki/Copyright_Clause)---though obviously (I hope) not in force in Sweden:
 
->  
+>
 
 > **To promote the Progress of Science and useful Arts,** by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries
 

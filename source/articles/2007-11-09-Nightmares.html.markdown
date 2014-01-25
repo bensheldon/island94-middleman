@@ -6,7 +6,7 @@ tags:
 - nightmares
 - psychology
 wp:post_id: '168'
-link: http://island94.dev/2007/11/nightmares/
+wp_link: /2007/11/nightmares/
 wp:post_type: post
 ---
 

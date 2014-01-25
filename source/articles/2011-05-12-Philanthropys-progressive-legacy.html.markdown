@@ -7,7 +7,7 @@ tags:
 - politics
 - progressivism
 wp:post_id: '2652'
-link: http://island94.dev/2011/05/philanthropys-progressive-legacy/
+wp_link: /2011/05/philanthropys-progressive-legacy/
 wp:post_type: post
 ---
 
@@ -93,55 +93,55 @@ The following excerpts is from a paper Lenore T. Ealy and Steven D. Ealy ent
 
 >
 
->  
+>
 
 - Public-private partnerships are not a bad idea
 
->  
+>
 
 - Hope and idealism — progress is possible
 
->  
+>
 
 - Faith in the power of organization
 
->  
+>
 
 - Foundation focus on institutional change
 
->  
+>
 
 - An almost unmitigated faith in the power of reason and an equally strong faith in “science” and technical expertise, with the result that today’s philanthropy is often seen as a matter of expertise, organization, and effectiveness rather than of a richer, deeper social conversation
 
->  
+>
 
 - A distinctive interpretation of American history, a la Croly, embracing Jeffersonian democracy and Hamiltonian centralization. A suspicion of “interests.”
 
->  
+>
 
 - Belief that a middle way could be found between state socialism and a laissez faire republic
 
->  
+>
 
 - An absence of constructive humility
 
->  
+>
 
 - A European perspective on America marked by the importation of the European “social problem” and the pursuit of European, especially Prussian, solutions
 
->  
+>
 
 - Pragmatism unrestrained by healthy skepticism
 
->  
+>
 
 - Weak attention to the unintended consequences of institutional change
 
->  
+>
 
 - A belief that centralized, large scale solutions were feasible and necessary and the attack of problems (such as the conquest of communicable diseases) that lent themselves to this model
 
->  
+>
 
 - A largely instrumental approach to local, grassroots organizations leading to the pursuit of economies of scale often without attention to the key elements of real success
 

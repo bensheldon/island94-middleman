@@ -9,7 +9,7 @@ tags:
 - publishing
 - reminisce
 wp:post_id: '872'
-link: http://island94.dev/2009/10/an-ample-account/
+wp_link: /2009/10/an-ample-account/
 wp:post_type: post
 failed_files:
 - http://island94.org/wp-content/uploads/2009/10/TheNavigator1824.jpg

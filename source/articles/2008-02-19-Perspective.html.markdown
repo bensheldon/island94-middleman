@@ -6,7 +6,7 @@ tags:
 - philosophy
 - politics
 wp:post_id: '202'
-link: http://island94.dev/2008/02/perspective/
+wp_link: /2008/02/perspective/
 wp:post_type: post
 ---
 

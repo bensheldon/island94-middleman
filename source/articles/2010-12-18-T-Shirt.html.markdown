@@ -7,7 +7,7 @@ tags:
 - shirt
 - subway
 wp:post_id: '2384'
-link: http://island94.dev/2010/12/t-shirt/
+wp_link: /2010/12/t-shirt/
 wp:post_type: post
 ---
 

@@ -4,7 +4,7 @@ date: '2008-03-04'
 tags:
 - politics
 wp:post_id: '206'
-link: http://island94.dev/2008/03/writing-my-congress-critter/
+wp_link: /2008/03/writing-my-congress-critter/
 wp:post_type: post
 ---
 
@@ -22,5 +22,5 @@ I got one of those "write your congress-critter right now!" emails and tried to 
 
 > Please do not reward the White House for seeking to overturn the checks and balances of the Constitution and our rule of law. Please do not excuse the unlawful actions of telecom companies in turning over private information without legal cause.
 
-> Thank you,  
+> Thank you,
 Ben Sheldon

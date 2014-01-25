@@ -7,7 +7,7 @@ tags:
 - language
 - rhetoric
 wp:post_id: '2815'
-link: http://island94.dev/2011/09/where-rhetoric-is-substance/
+wp_link: /2011/09/where-rhetoric-is-substance/
 wp:post_type: post
 ---
 

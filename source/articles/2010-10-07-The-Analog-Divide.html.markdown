@@ -9,7 +9,7 @@ tags:
 - privileged-debate
 - technology
 wp:post_id: '2223'
-link: http://island94.dev/2010/10/the-analog-divide/
+wp_link: /2010/10/the-analog-divide/
 wp:post_type: post
 ---
 

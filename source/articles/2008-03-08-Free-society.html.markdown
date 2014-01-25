@@ -4,7 +4,7 @@ date: '2008-03-08'
 tags:
 - politics
 wp:post_id: '210'
-link: http://island94.dev/2008/03/free-society/
+wp_link: /2008/03/free-society/
 wp:post_type: post
 ---
 

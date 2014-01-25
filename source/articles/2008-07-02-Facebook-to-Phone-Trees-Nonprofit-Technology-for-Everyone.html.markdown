@@ -7,7 +7,7 @@ tags:
 - social networking
 - technology
 wp:post_id: '229'
-link: http://island94.dev/2008/07/facebook-to-phone-trees-nonprofit-technology-for-everyone/
+wp_link: /2008/07/facebook-to-phone-trees-nonprofit-technology-for-everyone/
 wp:post_type: post
 ---
 

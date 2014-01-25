@@ -7,7 +7,7 @@ tags:
 - pride
 - webdesign
 wp:post_id: '2549'
-link: http://island94.dev/2011/03/a-form-from-my-favorites/
+wp_link: /2011/03/a-form-from-my-favorites/
 wp:post_type: post
 ---
 

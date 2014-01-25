@@ -6,7 +6,7 @@ tags:
 - religion
 - technology
 wp:post_id: '261'
-link: http://island94.dev/2008/10/graphical-organization-of-the-talmud/
+wp_link: /2008/10/graphical-organization-of-the-talmud/
 wp:post_type: post
 ---
 
@@ -26,8 +26,8 @@ Interesting explanation about the traditional layout of the Talmud. From Andrew 
 
 Ed also posted some more visual links:
 
-An annotated page:  
+An annotated page:
 http://www.ucalgary.ca/~elsegal/TalmudPage.html
 
-Talmud style layout in HTML (with fixed size boxes, so not precisely)  
+Talmud style layout in HTML (with fixed size boxes, so not precisely)
 http://www.ucalgary.ca/~elsegal/TalmudMap/Samples.html

@@ -7,7 +7,7 @@ tags:
 - philosophy
 - postmodern
 wp:post_id: '1852'
-link: http://island94.dev/2010/03/the-author-function-and-the-internet/
+wp_link: /2010/03/the-author-function-and-the-internet/
 wp:post_type: post
 ---
 

@@ -5,7 +5,7 @@ tags:
 - law
 - nonprofit
 wp:post_id: '251'
-link: http://island94.dev/2008/09/what-is-a-nonprofit-a-structural-definition/
+wp_link: /2008/09/what-is-a-nonprofit-a-structural-definition/
 wp:post_type: post
 ---
 

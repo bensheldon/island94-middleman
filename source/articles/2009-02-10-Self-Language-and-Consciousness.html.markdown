@@ -10,7 +10,7 @@ tags:
 - reflection
 - self
 wp:post_id: '446'
-link: http://island94.dev/2009/02/self-language-and-consciousness/
+wp_link: /2009/02/self-language-and-consciousness/
 wp:post_type: post
 ---
 

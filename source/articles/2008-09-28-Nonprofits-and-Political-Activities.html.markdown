@@ -8,7 +8,7 @@ tags:
 - religion
 - structure
 wp:post_id: '256'
-link: http://island94.dev/2008/09/nonprofits-and-political-activities/
+wp_link: /2008/09/nonprofits-and-political-activities/
 wp:post_type: post
 ---
 

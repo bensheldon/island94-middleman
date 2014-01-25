@@ -6,7 +6,7 @@ tags:
 - design
 - values
 wp:post_id: '2635'
-link: http://island94.dev/2011/04/belief-based-design/
+wp_link: /2011/04/belief-based-design/
 wp:post_type: post
 ---
 

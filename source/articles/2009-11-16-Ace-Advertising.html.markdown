@@ -8,7 +8,7 @@ tags:
 - propoganda
 - rhetoric
 wp:post_id: '1038'
-link: http://island94.dev/2009/11/ace-advertising/
+wp_link: /2009/11/ace-advertising/
 wp:post_type: post
 ---
 

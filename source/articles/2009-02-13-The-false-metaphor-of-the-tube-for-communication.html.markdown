@@ -9,7 +9,7 @@ tags:
 - internet
 - philosophy
 wp:post_id: '475'
-link: http://island94.dev/2009/02/the-false-metaphor-of-the-tube-for-communication/
+wp_link: /2009/02/the-false-metaphor-of-the-tube-for-communication/
 wp:post_type: post
 ---
 

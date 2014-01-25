@@ -10,7 +10,7 @@ tags:
 - online
 - participation
 wp:post_id: '508'
-link: http://island94.dev/2009/03/harnessing-inequality/
+wp_link: /2009/03/harnessing-inequality/
 wp:post_type: post
 ---
 

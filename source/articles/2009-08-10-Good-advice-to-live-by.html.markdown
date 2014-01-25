@@ -11,7 +11,7 @@ tags:
 - politics
 - save-the-world
 wp:post_id: '668'
-link: http://island94.dev/2009/08/good-advice-to-live-by/
+wp_link: /2009/08/good-advice-to-live-by/
 wp:post_type: post
 ---
 

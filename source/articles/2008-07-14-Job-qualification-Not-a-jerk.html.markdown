@@ -6,7 +6,7 @@ tags:
 - hiring
 - jobs
 wp:post_id: '234'
-link: http://island94.dev/2008/07/job-qualification-not-a-jerk/
+wp_link: /2008/07/job-qualification-not-a-jerk/
 wp:post_type: post
 ---
 

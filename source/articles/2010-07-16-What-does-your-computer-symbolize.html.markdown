@@ -7,7 +7,7 @@ tags:
 - history
 - technology
 wp:post_id: '2118'
-link: http://island94.dev/2010/07/what-does-your-computer-symbolize/
+wp_link: /2010/07/what-does-your-computer-symbolize/
 wp:post_type: post
 ---
 

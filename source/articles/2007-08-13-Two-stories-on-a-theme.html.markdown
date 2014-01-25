@@ -7,7 +7,7 @@ tags:
 - learning story
 - pedagogy
 wp:post_id: '138'
-link: http://island94.dev/2007/08/two-stories-on-a-theme/
+wp_link: /2007/08/two-stories-on-a-theme/
 wp:post_type: post
 ---
 

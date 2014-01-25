@@ -6,7 +6,7 @@ tags:
 - cleave
 - language
 wp:post_id: '240'
-link: http://island94.dev/2008/08/cleaving-running-reds-from-jaybiking/
+wp_link: /2008/08/cleaving-running-reds-from-jaybiking/
 wp:post_type: post
 ---
 

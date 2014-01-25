@@ -6,7 +6,7 @@ tags:
 - cleaving
 - language
 wp:post_id: '555'
-link: http://island94.dev/2009/03/satyagraha-versus-duragraha/
+wp_link: /2009/03/satyagraha-versus-duragraha/
 wp:post_type: post
 ---
 

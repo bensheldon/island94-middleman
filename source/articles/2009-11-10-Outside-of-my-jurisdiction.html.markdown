@@ -3,7 +3,7 @@ title: Outside of my jurisdiction
 date: '2009-11-10'
 tags: []
 wp:post_id: '1007'
-link: http://island94.dev/2009/11/outside-of-my-jurisdiction/
+wp_link: /2009/11/outside-of-my-jurisdiction/
 wp:post_type: post
 ---
 

@@ -3,7 +3,7 @@ title: Transactions vs. Relationships
 date: '2009-12-25'
 tags: []
 wp:post_id: '1623'
-link: http://island94.dev/2009/12/transactions-vs-relationships/
+wp_link: /2009/12/transactions-vs-relationships/
 wp:post_type: post
 ---
 

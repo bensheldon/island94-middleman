@@ -7,7 +7,7 @@ tags:
 - poverty
 - religion
 wp:post_id: '235'
-link: http://island94.dev/2008/07/poverty-as-the-singular-moral-challenge/
+wp_link: /2008/07/poverty-as-the-singular-moral-challenge/
 wp:post_type: post
 ---
 

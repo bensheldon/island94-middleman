@@ -5,7 +5,7 @@ tags:
 - evaluation
 - ranking
 wp:post_id: '267'
-link: http://island94.dev/2008/11/when-good-is-better-than-best/
+wp_link: /2008/11/when-good-is-better-than-best/
 wp:post_type: post
 ---
 

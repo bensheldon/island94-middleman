@@ -6,7 +6,7 @@ tags:
 - metaphor
 - wealth
 wp:post_id: '2121'
-link: http://island94.dev/2010/08/wealth-parade/
+wp_link: /2010/08/wealth-parade/
 wp:post_type: post
 ---
 

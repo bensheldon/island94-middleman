@@ -6,13 +6,13 @@ tags:
 - ethics
 - nonprofits
 wp:post_id: '1901'
-link: http://island94.dev/2010/04/corporate-social-distractibility/
+wp_link: /2010/04/corporate-social-distractibility/
 wp:post_type: post
 ---
 
 From Marianne M. Jennings' _The Seven Signs of Ethical Collapse: How to Spot Moral Meltdowns in Companies... Before It's Too Late_:
 
->  
+>
 
 > **Sign #7: Goodness in some areas atones for evil in others**
 

@@ -6,7 +6,7 @@ tags:
 - language
 - search
 wp:post_id: '255'
-link: http://island94.dev/2008/09/search-is-not-serendipitous/
+wp_link: /2008/09/search-is-not-serendipitous/
 wp:post_type: post
 ---
 

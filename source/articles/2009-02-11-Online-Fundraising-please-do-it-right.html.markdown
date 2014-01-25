@@ -10,7 +10,7 @@ tags:
 - nonprofit
 - practice
 wp:post_id: '456'
-link: http://island94.dev/2009/02/online-fundraising-please-do-it-right/
+wp_link: /2009/02/online-fundraising-please-do-it-right/
 wp:post_type: post
 ---
 

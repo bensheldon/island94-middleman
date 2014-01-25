@@ -11,17 +11,17 @@ tags:
 - Thanksgiving
 - turkey
 wp:post_id: '18'
-link: http://island94.dev/2005/11/thanksgiving-reloaded/
+wp_link: /2005/11/thanksgiving-reloaded/
 wp:post_type: post
 ---
 
->  
+>
 
 > I have been writing blog postings offline on my commute to and from work but just forget to post them when I get home. Sorry for any delays.
 
-[ ![](http://static.flickr.com/20/68517300_e2619db2fd_m.jpg) ](href=http://www.flickr.com/photos/atomicworkshop/68517300/)  
-    
-This last Sunday, Jessica and I headed over to one of my coworker’s homes up in Sommerville to nosh on another turkey (squash lasagna for vegetarian Jessica), and all the fixins’ meal. It was delicious.  
+[ ![](http://static.flickr.com/20/68517300_e2619db2fd_m.jpg) ](href=http://www.flickr.com/photos/atomicworkshop/68517300/)
+
+This last Sunday, Jessica and I headed over to one of my coworker’s homes up in Sommerville to nosh on another turkey (squash lasagna for vegetarian Jessica), and all the fixins’ meal. It was delicious.
 
 Danielle, the gracious host, had her dad over cooking the Turkey (20 lbs!) in a galvanized trash can. He’s a big Boy Scout and tells me he has lots of other tricks up his sleave. Judging from the moist and flavorful trash-can-turkey, I would go camping with him any day—or dinner—of the week.
 

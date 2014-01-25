@@ -8,7 +8,7 @@ tags:
 - peace
 - zen
 wp:post_id: '1752'
-link: http://island94.dev/2010/02/washing-of-dishes-requires-great-peace-of-mind/
+wp_link: /2010/02/washing-of-dishes-requires-great-peace-of-mind/
 wp:post_type: post
 ---
 

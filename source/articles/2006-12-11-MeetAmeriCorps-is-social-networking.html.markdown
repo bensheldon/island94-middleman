@@ -13,7 +13,7 @@ tags:
 - webdesign
 - website
 wp:post_id: '111'
-link: http://island94.dev/2006/12/meetamericorps-is-social-networking/
+wp_link: /2006/12/meetamericorps-is-social-networking/
 wp:post_type: post
 ---
 

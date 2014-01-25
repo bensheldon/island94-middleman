@@ -7,7 +7,7 @@ tags:
 - humanity
 - interactions
 wp:post_id: '903'
-link: http://island94.dev/2010/04/the-economy-its-made-of-people/
+wp_link: /2010/04/the-economy-its-made-of-people/
 wp:post_type: post
 ---
 

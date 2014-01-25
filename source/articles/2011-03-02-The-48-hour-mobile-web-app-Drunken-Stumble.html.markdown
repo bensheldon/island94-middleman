@@ -9,13 +9,13 @@ tags:
 - project-management
 - webdesign
 wp:post_id: '2501'
-link: http://island94.dev/2011/03/the-48-hour-mobile-web-app-drunken-stumble/
+wp_link: /2011/03/the-48-hour-mobile-web-app-drunken-stumble/
 wp:post_type: post
 ---
 
 [ ![](2011-03-02-The-48-hour-mobile-web-app-Drunken-Stumble/drunkenlogo-500x190.png "drunkenlogo") ](http://drunkenstumble.com)
 
-    
+
 
 Last weekend I participated in the [Boston Hack Day Challenge](http://beta.boston.com/hackday), a 48 hour (so I'm not sure why they called it a hack _day_) competition sponsored by the Boston Globe and held in the MassChallenge workspace. The goal of the event was to develop tools that would improve the lives of Bostonians. My team won "Best Mobile App" as well as the "Crowd Favorite" award for the pub crawl app we built: [Drunken Stumble](http://drunkenstumble.com).
 

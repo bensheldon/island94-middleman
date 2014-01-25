@@ -6,7 +6,7 @@ tags:
 - participation
 - you-should-ask-me-for-advice
 wp:post_id: '2206'
-link: http://island94.dev/2010/09/be-manically-participatory/
+wp_link: /2010/09/be-manically-participatory/
 wp:post_type: post
 ---
 

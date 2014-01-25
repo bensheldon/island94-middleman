@@ -7,7 +7,7 @@ tags:
 - freedom-of-speech
 - speech
 wp:post_id: '1591'
-link: http://island94.dev/2009/12/invoking-the-first-amendment/
+wp_link: /2009/12/invoking-the-first-amendment/
 wp:post_type: post
 ---
 

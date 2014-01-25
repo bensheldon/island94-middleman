@@ -8,7 +8,7 @@ tags:
 - planning
 - reality
 wp:post_id: '937'
-link: http://island94.dev/2009/11/metaphor-death/
+wp_link: /2009/11/metaphor-death/
 wp:post_type: post
 ---
 

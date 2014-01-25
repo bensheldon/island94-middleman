@@ -7,7 +7,7 @@ tags:
 - walking
 - weird
 wp:post_id: '77'
-link: http://island94.dev/2006/07/no-chirps-for-lowell/
+wp_link: /2006/07/no-chirps-for-lowell/
 wp:post_type: post
 ---
 

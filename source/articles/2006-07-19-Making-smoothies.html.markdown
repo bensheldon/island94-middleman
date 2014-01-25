@@ -12,7 +12,7 @@ tags:
 - video
 - weather
 wp:post_id: '75'
-link: http://island94.dev/2006/07/making-smoothies/
+wp_link: /2006/07/making-smoothies/
 wp:post_type: post
 ---
 
@@ -22,7 +22,7 @@ Boston is still scorching and nothing is better than some ground up fruit and ic
 
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-MakingSmoothies470-837.jpg) ](http://blip.tv/file/get/Bensheldon-MakingSmoothies470.mp4?source=3)
 
-    
+
 
   [Watch the Video](http://blip.tv/file/get/Bensheldon-MakingSmoothies470.mp4?source=3)
 

@@ -8,7 +8,7 @@ tags:
 - nonprofits
 - resume
 wp:post_id: '2261'
-link: http://island94.dev/2011/04/social-media-community-architect-and-manager/
+wp_link: /2011/04/social-media-community-architect-and-manager/
 wp:post_type: post
 ---
 
@@ -18,15 +18,15 @@ Exploring the recesses of my email I came across some bad ideas I gave to a good
 
 >
 
->  
+>
 
 1. social (which is the buzzword of online social networking);
 
->  
+>
 
 2. community (which is both online and offline and has a certain fuzziness to it); and
 
->  
+>
 
 3. something that describes the process of creation... and management.
 
@@ -44,67 +44,67 @@ Exploring the recesses of my email I came across some bad ideas I gave to a good
 
 >
 
->  
+>
 
 - Community Technologist
 
->  
+>
 
 - Online Community Manager
 
->  
+>
 
 - strategic planning for your online social network initiatives
 
->  
+>
 
 - Building and Executing Social Media Business Strategy
 
->  
+>
 
 - Rich Media Developer
 
->  
+>
 
 - Interactive Marketing Executive
 
->  
+>
 
 - Technology Coordinator
 
->  
+>
 
 - Community Architect
 
->  
+>
 
 - community & communications coordinator
 
->  
+>
 
 - New Media
 
->  
+>
 
 - hybrid social media
 
->  
+>
 
 - collaboration technology
 
->  
+>
 
 - listening technology
 
->  
+>
 
 - Emerging
 
->  
+>
 
 - Link Development
 
->  
+>
 
 - Interactive
 

@@ -11,7 +11,7 @@ tags:
 - photos
 - Saul
 wp:post_id: '72'
-link: http://island94.dev/2006/07/canoes-on-the-mystic-river/
+wp_link: /2006/07/canoes-on-the-mystic-river/
 wp:post_type: post
 ---
 

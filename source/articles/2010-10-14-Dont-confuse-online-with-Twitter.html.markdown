@@ -8,7 +8,7 @@ tags:
 - online
 - social media
 wp:post_id: '2241'
-link: http://island94.dev/2010/10/dont-confuse-online-with-twitter/
+wp_link: /2010/10/dont-confuse-online-with-twitter/
 wp:post_type: post
 ---
 

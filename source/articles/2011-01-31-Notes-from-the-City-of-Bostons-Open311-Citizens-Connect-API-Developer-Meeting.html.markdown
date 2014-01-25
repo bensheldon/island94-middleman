@@ -8,7 +8,7 @@ tags:
 - government
 - meeting
 wp:post_id: '2463'
-link: http://island94.dev/2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/
+wp_link: /2011/01/notes-from-the-city-of-bostons-open311-developer-meeting/
 wp:post_type: post
 ---
 

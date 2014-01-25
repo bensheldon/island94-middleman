@@ -6,7 +6,7 @@ tags:
 - thanks
 - volunteer
 wp:post_id: '2391'
-link: http://island94.dev/2010/12/de-nada-una-pequena-casa/
+wp_link: /2010/12/de-nada-una-pequena-casa/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - mentor
 - remembrance
 wp:post_id: '191'
-link: http://island94.dev/2007/12/remember-paul/
+wp_link: /2007/12/remember-paul/
 wp:post_type: post
 ---
 

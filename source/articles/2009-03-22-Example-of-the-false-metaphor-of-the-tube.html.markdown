@@ -3,7 +3,7 @@ title: Example of the (false) metaphor of the tube
 date: '2009-03-22'
 tags: []
 wp:post_id: '580'
-link: http://island94.dev/2009/03/example-of-the-false-metaphor-of-the-tube/
+wp_link: /2009/03/example-of-the-false-metaphor-of-the-tube/
 wp:post_type: post
 ---
 

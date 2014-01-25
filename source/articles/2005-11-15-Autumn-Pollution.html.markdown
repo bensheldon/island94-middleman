@@ -10,7 +10,7 @@ tags:
 - pollution
 - trash
 wp:post_id: '7'
-link: http://island94.dev/2005/11/autumn-pollution/
+wp_link: /2005/11/autumn-pollution/
 wp:post_type: post
 ---
 

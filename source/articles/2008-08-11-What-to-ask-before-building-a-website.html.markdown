@@ -5,7 +5,7 @@ tags:
 - consulting
 - webdesign
 wp:post_id: '239'
-link: http://island94.dev/2008/08/what-to-ask-before-building-a-website/
+wp_link: /2008/08/what-to-ask-before-building-a-website/
 wp:post_type: post
 ---
 

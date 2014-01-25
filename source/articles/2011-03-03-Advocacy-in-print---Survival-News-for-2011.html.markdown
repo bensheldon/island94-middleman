@@ -9,7 +9,7 @@ tags:
 - welfare
 - women
 wp:post_id: '2537'
-link: http://island94.dev/2011/03/advocacy-in-print-survival-news-for-2011/
+wp_link: /2011/03/advocacy-in-print-survival-news-for-2011/
 wp:post_type: post
 ---
 

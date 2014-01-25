@@ -7,7 +7,7 @@ tags:
 - honesty
 - justice
 wp:post_id: '193'
-link: http://island94.dev/2007/12/detective-nonsense/
+wp_link: /2007/12/detective-nonsense/
 wp:post_type: post
 ---
 

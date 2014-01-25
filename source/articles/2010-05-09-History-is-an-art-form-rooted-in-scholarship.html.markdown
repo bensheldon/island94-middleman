@@ -5,7 +5,7 @@ tags:
 - history
 - ideology
 wp:post_id: '1913'
-link: http://island94.dev/2010/05/history-is-an-art/
+wp_link: /2010/05/history-is-an-art/
 wp:post_type: post
 ---
 

@@ -5,7 +5,7 @@ tags:
 - etymology
 - language
 wp:post_id: '199'
-link: http://island94.dev/2008/01/to-decimate/
+wp_link: /2008/01/to-decimate/
 wp:post_type: post
 ---
 

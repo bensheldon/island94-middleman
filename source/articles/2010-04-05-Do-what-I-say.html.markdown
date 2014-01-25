@@ -7,7 +7,7 @@ tags:
 - practice
 - society
 wp:post_id: '1867'
-link: http://island94.dev/2010/04/do-what-i-say/
+wp_link: /2010/04/do-what-i-say/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - editing
 - writing
 wp:post_id: '1966'
-link: http://island94.dev/2010/05/write-first-outline-later/
+wp_link: /2010/05/write-first-outline-later/
 wp:post_type: post
 ---
 

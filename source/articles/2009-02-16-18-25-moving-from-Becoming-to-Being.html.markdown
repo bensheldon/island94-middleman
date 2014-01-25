@@ -9,7 +9,7 @@ tags:
 - life
 - millenials
 wp:post_id: '487'
-link: http://island94.dev/2009/02/18-25-moving-from-becoming-to-being/
+wp_link: /2009/02/18-25-moving-from-becoming-to-being/
 wp:post_type: post
 ---
 
@@ -29,7 +29,7 @@ The difficulties of the 18-25 year old range have to do with what I call _moving
 
 - **Paths: **You have to make your own.  When I went to school, there was one path: college.  After that (and if not that) it all got a little fuzzy. And if you didn't go to college---or were never planning on it--- this struck you a whole lot earlier.  There isn't anyone setting goals for you anymore: it's up to you to figure out where you want to go, and how you want to get there.  There are a lot less options for filling in the blanks in personal and professional development too.  Compare the number of Adult Ed classes that are available to the number of Youth Extracurriculars---it's depressing.
 
-- **Reinvention: **  
+- **Reinvention: **
 
 Remember ever starting your first day at a new school? Planning what you'd wear, the stories you'd tell, the new persona you'd create so they'd think you're cooler than you were before.  Not so easy anymore; it doesn't come on a regular schedule of every 3-5 years.  There is a whole lot more baggage you're carrying around that makes it that much harder to form as clean a slate as possible. That makes it a lot harder to put some distance between your boneheadedness then and your (slightly-) less boneheadness now.
 

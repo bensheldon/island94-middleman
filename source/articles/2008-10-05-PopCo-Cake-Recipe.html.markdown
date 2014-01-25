@@ -6,7 +6,7 @@ tags:
 - food
 - recipe
 wp:post_id: '257'
-link: http://island94.dev/2008/10/popco-cake-recipe/
+wp_link: /2008/10/popco-cake-recipe/
 wp:post_type: post
 ---
 

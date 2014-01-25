@@ -6,7 +6,7 @@ tags:
 - photos
 - Santa Barbara
 wp:post_id: '59'
-link: http://island94.dev/2006/07/views-of-isla-vista/
+wp_link: /2006/07/views-of-isla-vista/
 wp:post_type: post
 ---
 

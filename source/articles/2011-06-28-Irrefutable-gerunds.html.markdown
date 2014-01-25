@@ -6,7 +6,7 @@ tags:
 - language
 - nonprofits
 wp:post_id: '2726'
-link: http://island94.dev/2011/06/irrefutable-gerunds/
+wp_link: /2011/06/irrefutable-gerunds/
 wp:post_type: post
 ---
 

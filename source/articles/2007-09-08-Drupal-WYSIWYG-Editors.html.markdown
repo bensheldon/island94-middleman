@@ -6,7 +6,7 @@ tags:
 - geeking
 - modules
 wp:post_id: '152'
-link: http://island94.dev/2007/09/drupal-wysiwyg-editors/
+wp_link: /2007/09/drupal-wysiwyg-editors/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - ponty
 - sleep
 wp:post_id: '2020'
-link: http://island94.dev/2010/06/get-your-own/
+wp_link: /2010/06/get-your-own/
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2010/06/cat-in-a-box.jpg

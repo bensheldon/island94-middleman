@@ -7,7 +7,7 @@ tags:
 - logo
 - nonprofit
 wp:post_id: '123'
-link: http://island94.dev/2007/03/but-its-just-a-logo/
+wp_link: /2007/03/but-its-just-a-logo/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - databases
 - employment
 wp:post_id: '2944'
-link: http://island94.dev/2011/10/the-work-itself-isnt-inhumane/
+wp_link: /2011/10/the-work-itself-isnt-inhumane/
 wp:post_type: post
 ---
 

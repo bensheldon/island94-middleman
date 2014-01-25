@@ -3,11 +3,11 @@ title: Anxiety Reading
 date: '2009-08-24'
 tags: []
 wp:post_id: '694'
-link: http://island94.dev/2009/08/anxiety-reading/
+wp_link: /2009/08/anxiety-reading/
 wp:post_type: post
 ---
 
-Fiction writer Dawes Green was on [Studio360 on Saturday night](http://http://www.studio360.org/episodes/2009/08/21) and he made mention of how people have changed since he last published a novel 14 years ago:  
+Fiction writer Dawes Green was on [Studio360 on Saturday night](http://http://www.studio360.org/episodes/2009/08/21) and he made mention of how people have changed since he last published a novel 14 years ago:
 
 > People aren’t reading books so much. They text and Twitter and Google a lot—anxiety reading—but they’re too jumpy for books.
 

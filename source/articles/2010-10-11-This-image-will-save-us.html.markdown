@@ -6,7 +6,7 @@ tags:
 - creative-commons
 - graphics
 wp:post_id: '2230'
-link: http://island94.dev/2010/10/this-image-will-save-us/
+wp_link: /2010/10/this-image-will-save-us/
 wp:post_type: post
 ---
 

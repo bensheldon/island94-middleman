@@ -6,7 +6,7 @@ tags:
 - privilege
 - rhetoric
 wp:post_id: '1875'
-link: http://island94.dev/2010/04/leaders-and-privileged-voices/
+wp_link: /2010/04/leaders-and-privileged-voices/
 wp:post_type: post
 ---
 

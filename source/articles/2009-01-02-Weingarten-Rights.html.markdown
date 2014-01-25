@@ -8,7 +8,7 @@ tags:
 - rights
 - union
 wp:post_id: '278'
-link: http://island94.dev/2009/01/weingarten-rights/
+wp_link: /2009/01/weingarten-rights/
 wp:post_type: post
 ---
 
@@ -20,7 +20,7 @@ I found my union card today and with it was a little [Weingarten Rights](http://
 
 > RULE 2: After the employee makes the request, the employer must choose from among three options. The Employer must either: grant the request and delay questioning until the union representative arrives and has a chance to consult privately with the employee; deny the request and end the interview immediately; or give the employee a choice of having the interview without representation or ending the interview.
 
->  
+>
 
 > RULE 3: If the employer denies the request for union representation, and continues to ask questions, it commits an unfair labor practice and the employee has a right to refuse to answer. The employer may not discipline the employee for such a refusal.
 

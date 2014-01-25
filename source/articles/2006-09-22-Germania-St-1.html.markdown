@@ -7,7 +7,7 @@ tags:
 - fiction
 - subway. Germania Street
 wp:post_id: '98'
-link: http://island94.dev/2006/09/germania-st-1/
+wp_link: /2006/09/germania-st-1/
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - zilch
 wp:post_id: '2114'
-link: http://island94.dev/2010/07/zilch-for-a-nonprofit/
+wp_link: /2010/07/zilch-for-a-nonprofit/
 wp:post_type: post
 ---
 

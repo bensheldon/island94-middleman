@@ -8,7 +8,7 @@ tags:
 - progressive
 - rhetoric
 wp:post_id: '621'
-link: http://island94.dev/2009/07/americas/
+wp_link: /2009/07/americas/
 wp:post_type: post
 ---
 
@@ -18,15 +18,15 @@ My friend Thomas posted a status message to Facebook "wonders why Republicans ha
 
 >
 
->  
+>
 
 1. a pluralist society striving for a more representative government and greater civil liberties
 
->  
+>
 
 2. a consensus society seeking a return to a more stable civic life built upon firm social and ethical principles
 
->  
+>
 
 3. a geo-political demarcation for a group of people equally as unexceptional as everyone else.
 

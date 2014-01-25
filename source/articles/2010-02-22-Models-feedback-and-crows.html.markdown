@@ -7,7 +7,7 @@ tags:
 - models
 - thinking
 wp:post_id: '1792'
-link: http://island94.dev/2010/02/models-feedback-and-crows/
+wp_link: /2010/02/models-feedback-and-crows/
 wp:post_type: post
 ---
 

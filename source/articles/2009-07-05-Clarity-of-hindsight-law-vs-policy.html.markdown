@@ -7,7 +7,7 @@ tags:
 - process
 - screwed
 wp:post_id: '620'
-link: http://island94.dev/2009/07/clarity-of-hindsight-law-vs-policy/
+wp_link: /2009/07/clarity-of-hindsight-law-vs-policy/
 wp:post_type: post
 ---
 

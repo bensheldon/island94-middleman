@@ -7,7 +7,7 @@ tags:
 - philosophy
 - rationality
 wp:post_id: '1919'
-link: http://island94.dev/2010/05/a-definition-that-is-good-enough/
+wp_link: /2010/05/a-definition-that-is-good-enough/
 wp:post_type: post
 ---
 

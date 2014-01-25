@@ -9,7 +9,7 @@ tags:
 - Inkscape
 - Open Source
 wp:post_id: '63'
-link: http://island94.dev/2006/03/making-art-with-inkscape/
+wp_link: /2006/03/making-art-with-inkscape/
 wp:post_type: post
 failed_files:
 - http://island94.org/files/digitalbicycle-guy-thumb.png

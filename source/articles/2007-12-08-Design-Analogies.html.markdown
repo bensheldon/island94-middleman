@@ -6,7 +6,7 @@ tags:
 - process
 - strategic planning
 wp:post_id: '188'
-link: http://island94.dev/2007/12/design-analogies/
+wp_link: /2007/12/design-analogies/
 wp:post_type: post
 ---
 

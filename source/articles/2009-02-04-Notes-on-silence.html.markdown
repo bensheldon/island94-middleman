@@ -7,7 +7,7 @@ tags:
 - shut-up
 - silence
 wp:post_id: '416'
-link: http://island94.dev/2009/02/notes-on-silence/
+wp_link: /2009/02/notes-on-silence/
 wp:post_type: post
 ---
 
@@ -27,9 +27,9 @@ Trying to google through Christian quotations, I found little in the way of dire
 
 As a contemporary quote, I like [Cloud Cult](http://www.cloudcult.com/)'s "The Deaf Girls Song", off of _ [The Meaning of 8](http://www.amazon.com/Meaning-8-Cloud-Cult/dp/B000NQR7RK)_:
 
->  
+>
 
-> Did you hear about the deaf girl  
-The one whose song's gone number one  
-Three minutes of silence on the radio  
+> Did you hear about the deaf girl
+The one whose song's gone number one
+Three minutes of silence on the radio
 It's the best damn gift for everyone

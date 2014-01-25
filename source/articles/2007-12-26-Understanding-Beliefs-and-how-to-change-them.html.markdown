@@ -6,7 +6,7 @@ tags:
 - communications
 - psychology
 wp:post_id: '195'
-link: http://island94.dev/2007/12/understanding-beliefs-and-how-to-change-them/
+wp_link: /2007/12/understanding-beliefs-and-how-to-change-them/
 wp:post_type: post
 ---
 

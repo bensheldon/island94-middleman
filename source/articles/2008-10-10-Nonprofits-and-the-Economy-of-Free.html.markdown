@@ -9,7 +9,7 @@ tags:
 - society
 - strategy
 wp:post_id: '259'
-link: http://island94.dev/2008/10/nonprofits-and-the-economy-of-free/
+wp_link: /2008/10/nonprofits-and-the-economy-of-free/
 wp:post_type: post
 ---
 

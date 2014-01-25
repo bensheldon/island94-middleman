@@ -7,7 +7,7 @@ tags:
 - navigation
 - portfolio
 wp:post_id: '3012'
-link: http://island94.dev/2012/07/hard-data-on-the-status-of-open311/
+wp_link: /2012/07/hard-data-on-the-status-of-open311/
 wp:post_type: post
 ---
 

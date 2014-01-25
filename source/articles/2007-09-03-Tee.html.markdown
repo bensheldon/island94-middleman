@@ -6,7 +6,7 @@ tags:
 - programming
 - unix
 wp:post_id: '143'
-link: http://island94.dev/2007/09/tee/
+wp_link: /2007/09/tee/
 wp:post_type: post
 ---
 

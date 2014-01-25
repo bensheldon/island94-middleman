@@ -5,7 +5,7 @@ tags:
 - boilerplate
 - contest
 wp:post_id: '2723'
-link: http://island94.dev/2011/06/app-contest-submission-boilerplate/
+wp_link: /2011/06/app-contest-submission-boilerplate/
 wp:post_type: post
 ---
 

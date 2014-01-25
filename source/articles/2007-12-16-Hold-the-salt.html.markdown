@@ -7,7 +7,7 @@ tags:
 - recipe
 - teach back
 wp:post_id: '190'
-link: http://island94.dev/2007/12/hold-the-salt/
+wp_link: /2007/12/hold-the-salt/
 wp:post_type: post
 ---
 

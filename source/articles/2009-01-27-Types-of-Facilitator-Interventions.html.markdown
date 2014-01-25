@@ -8,13 +8,13 @@ tags:
 - listening
 - process
 wp:post_id: '369'
-link: http://island94.dev/2009/01/types-of-facilitator-interventions/
+wp_link: /2009/01/types-of-facilitator-interventions/
 wp:post_type: post
 ---
 
 Flipping through _ [The Facilitator's Fieldbook (Second Edition)](http://www.amazon.com/Facilitators-Fieldbook-2nd-Tom-Justice/dp/0814473148/ref=sr_1_1?ie=UTF8&s=books&qid=1233072760&sr=1-1)_ I really liked their listing/categorization of the different Types of Process Consultation.  It's a straighforward breaking apart of the different methods one might use to facilitate an interaction (_normal-speak translation_: talk to people)
 
->  
+>
 1. **Active Listening**: Paying close attention to both what is being said and the processes that are occurring, leading to highlighting clarification, summarizing, and consensus building.
 2. **Inquiry**: Questions and probes to raise data, focus attention, and/or stimulate diagnostic thinking; surfacing data for the group to look at.
 3. **Observation and feedback**: Seeing what is going on with an individual or the group and then (a) describing in behavioral terms what they are doing; (b) reflecting their emotional state; and (c) interpreting the underling dynamics of what is going on.
@@ -32,9 +32,9 @@ The book also breaks out some other dimensions of your interaction:
 
 | **Non-directive** | **<--->** | **Directive** |
 | **Cognitive** | **<--->** | **Emotional** |
-| **Reflective**  
-**(Diagnostic)** | **<--->** | **Active  
+| **Reflective**
+**(Diagnostic)** | **<--->** | **Active
 (Doing)** |
 | **Exploratory** | **<--->** | **Confrontative** |
-| **Participating  
+| **Participating
 alongside the group** | **<--->** | **Participating in the group** |

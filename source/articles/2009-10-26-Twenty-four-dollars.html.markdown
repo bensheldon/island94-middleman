@@ -7,7 +7,7 @@ tags:
 - money
 - vague-title
 wp:post_id: '887'
-link: http://island94.dev/2009/10/twenty-four-dollars/
+wp_link: /2009/10/twenty-four-dollars/
 wp:post_type: post
 ---
 

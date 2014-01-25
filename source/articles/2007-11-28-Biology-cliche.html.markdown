@@ -7,13 +7,13 @@ tags:
 - cliche
 - science
 wp:post_id: '175'
-link: http://island94.dev/2007/11/biology-cliche/
+wp_link: /2007/11/biology-cliche/
 wp:post_type: post
 ---
 
 >
 
->  
+>
 
 - [The Santa Clause psp](http://www.iucn-tftsg.org/?the_santa_clause)
 

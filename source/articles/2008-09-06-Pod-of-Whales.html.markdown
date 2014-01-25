@@ -6,7 +6,7 @@ tags:
 - art
 - drawing
 wp:post_id: '252'
-link: http://island94.dev/2008/09/pod-of-whales/
+wp_link: /2008/09/pod-of-whales/
 wp:post_type: post
 ---
 

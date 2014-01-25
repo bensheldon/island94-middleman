@@ -7,7 +7,7 @@ tags:
 - prize
 - sour-grapes
 wp:post_id: '2773'
-link: http://island94.dev/2011/07/donorschoose-contest-update-consolation-prize-edition/
+wp_link: /2011/07/donorschoose-contest-update-consolation-prize-edition/
 wp:post_type: post
 ---
 

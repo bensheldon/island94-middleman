@@ -3,7 +3,7 @@ title: A rhetoric for writing in the post-digital era
 date: '2010-03-22'
 tags: []
 wp:post_id: '1846'
-link: http://island94.dev/2010/03/a-rhetoric-for-writing-in-the-post-digital-era/
+wp_link: /2010/03/a-rhetoric-for-writing-in-the-post-digital-era/
 wp:post_type: post
 ---
 
@@ -41,15 +41,15 @@ I love this rhetoric from Georgetown University's [Martin Irvine](http://www9.ge
 
 >
 
->  
+>
 
 - 1. **Write to be read, not to "express yourself" or "get your ideas out."** Use the rhetorical structure of explanatory or interpretive writing, and provide a sense of entering a shared dialogue on your topic.
 
->  
+>
 
 - 2. **Meet your reader’s/audience’s expectations for the genre you are writing.** Know the structure and rules of the genre you are writing.
 
->  
+>
 
 - 3. **Develop your "voice" as reliable and authoritative** by providing the standard signs of this reliability and authority: documentation of evidence and references to other research that allows a reader to locate your argument in a context of information (shows that you've done your homework and background research), clear examples for illustrating your points, logical transitions between points.
 

@@ -6,7 +6,7 @@ tags:
 - Open Source
 - oss
 wp:post_id: '124'
-link: http://island94.dev/2007/03/arguments-ive-heard-against-open-source/
+wp_link: /2007/03/arguments-ive-heard-against-open-source/
 wp:post_type: post
 ---
 

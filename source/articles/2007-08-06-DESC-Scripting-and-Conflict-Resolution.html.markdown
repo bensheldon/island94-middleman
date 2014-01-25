@@ -7,7 +7,7 @@ tags:
 - management
 - supervisory skills
 wp:post_id: '137'
-link: http://island94.dev/2007/08/desc-scripting-and-conflict-resolution/
+wp_link: /2007/08/desc-scripting-and-conflict-resolution/
 wp:post_type: post
 ---
 

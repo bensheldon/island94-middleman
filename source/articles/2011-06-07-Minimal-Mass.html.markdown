@@ -5,7 +5,7 @@ tags:
 - development
 - structure
 wp:post_id: '2691'
-link: http://island94.dev/2011/06/minimal-mass/
+wp_link: /2011/06/minimal-mass/
 wp:post_type: post
 ---
 
@@ -31,23 +31,23 @@ This was inspired by Ryan Sholin [announcing the closure of ReportOn](http://www
 
 >
 
->  
+>
 
 - Reporters don't want to talk about unpublished stories in public.
 
->  
+>
 
 - Unless they're looking for sources.
 
->  
+>
 
 - There are  [some](http://twitter.com/) [great](http://facebook.com/) [places](http://helpareporter.com/) on the Internet to find sources.
 
->  
+>
 
 - When they do talk about unpublished stories among themselves, they do it in familiar, well-lit places, like email or the telephone. Not in your application.
 
->  
+>
 
 - Actually, keep this in mind: Unless what you're building meets  [a very journalism-specific need](http://www.documentcloud.org/home), you're probably grinding your gears to build something " [for journalists](http://blog.journotwit.com/journotwit-has-closed)" when they just need  [a great communication tool](http://tweetdeck.com/), independent of any particular niche or category of users.
 

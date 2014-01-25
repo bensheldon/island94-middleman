@@ -5,7 +5,7 @@ tags:
 - cleaving
 - language
 wp:post_id: '241'
-link: http://island94.dev/2008/08/are-you-ahw-or-arr/
+wp_link: /2008/08/are-you-ahw-or-arr/
 wp:post_type: post
 ---
 

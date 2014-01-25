@@ -8,7 +8,7 @@ tags:
 - maps
 - photos
 wp:post_id: '80'
-link: http://island94.dev/2006/07/piecing-together-cambrige/
+wp_link: /2006/07/piecing-together-cambrige/
 wp:post_type: post
 ---
 

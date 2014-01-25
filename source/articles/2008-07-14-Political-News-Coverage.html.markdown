@@ -7,7 +7,7 @@ tags:
 - media
 - politics
 wp:post_id: '233'
-link: http://island94.dev/2008/07/political-news-coverage/
+wp_link: /2008/07/political-news-coverage/
 wp:post_type: post
 ---
 

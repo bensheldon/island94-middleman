@@ -7,7 +7,7 @@ tags:
 - mississippi
 - navigation
 wp:post_id: '1668'
-link: http://island94.dev/2010/01/notes-of-the-first-water/
+wp_link: /2010/01/notes-of-the-first-water/
 wp:post_type: post
 ---
 

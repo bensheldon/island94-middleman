@@ -6,7 +6,7 @@ tags:
 - drawing
 - idea
 wp:post_id: '2268'
-link: http://island94.dev/2010/10/stop-being-a-weenie-and-just-go-make-something/
+wp_link: /2010/10/stop-being-a-weenie-and-just-go-make-something/
 wp:post_type: post
 ---
 

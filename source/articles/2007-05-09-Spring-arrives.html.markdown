@@ -8,7 +8,7 @@ tags:
 - spring
 - Washington DC
 wp:post_id: '131'
-link: http://island94.dev/2007/05/spring-arrives/
+wp_link: /2007/05/spring-arrives/
 wp:post_type: post
 ---
 
@@ -16,4 +16,4 @@ wp:post_type: post
 
 Spring came a lot earlier to Washington, DC than it did to New England, but the mercury is topping 80 today in Boston. Above, I'm at the Cherry Blossom Festival in Washington, DC last month. Below is the one of the multitudinous dandelions that have sprung up around UMass Boston.
 
-[ ![Dandelions at UMass Boston](http://farm1.static.flickr.com/194/489864761_ffcbfa0a22.jpg) ](http://www.flickr.com/photos/bensheldon/489864761/ "Photo Sharing")  
+[ ![Dandelions at UMass Boston](http://farm1.static.flickr.com/194/489864761_ffcbfa0a22.jpg) ](http://www.flickr.com/photos/bensheldon/489864761/ "Photo Sharing")

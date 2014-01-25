@@ -6,7 +6,7 @@ tags:
 - literature
 - philosophy
 wp:post_id: '183'
-link: http://island94.dev/2007/12/struck-by-cain/
+wp_link: /2007/12/struck-by-cain/
 wp:post_type: post
 ---
 

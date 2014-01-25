@@ -9,7 +9,7 @@ tags:
 - ownership
 - the-beatles
 wp:post_id: '748'
-link: http://island94.dev/2009/10/but-licensed-in-how-many-dimensions/
+wp_link: /2009/10/but-licensed-in-how-many-dimensions/
 wp:post_type: post
 ---
 
@@ -23,7 +23,7 @@ My boss came in this morning to gripe about how a media service, [Mixcloud](http
 
 >
 
->  
+>
 
 - [порно онлайн огромный](http://narkoz.ucoz.ru/news/2010-01-04-36)
 

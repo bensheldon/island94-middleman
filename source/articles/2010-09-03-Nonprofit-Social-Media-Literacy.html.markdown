@@ -8,13 +8,13 @@ tags:
 - nonprofit
 - social media
 wp:post_id: '2181'
-link: http://island94.dev/2010/09/nonprofit-social-media-literacy/
+wp_link: /2010/09/nonprofit-social-media-literacy/
 wp:post_type: post
 ---
 
 A [comment](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/#comment-616) I made back in April on a blog post entitled " [4 Poor Excuses for Avoiding Social Media](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/)" that asked the question "Are there good reasons to avoid social media?":
 
->  
+>
 
 > Not to be a hater, but how about: “Social Media is based upon an exploitative business model that seeks to monetize your relationships and personal/private information.”
 
@@ -30,7 +30,7 @@ A [comment](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/
 
 And a [response](http://lowhangingfruit.us/2010/04/19/social-media-avoidance-excuses/#comment-652) in followup to this being a topic that "rarely gets mentioned outside of geek circles":
 
->  
+>
 
 > I think you’re right that this barely gets mentioned outside of geek (and media literacy) circles. That’s what makes it pernicious. It’s not obvious how these tools work and who they enrich.
 

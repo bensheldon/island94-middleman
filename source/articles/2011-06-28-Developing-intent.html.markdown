@@ -6,7 +6,7 @@ tags:
 - development
 - organizing
 wp:post_id: '2725'
-link: http://island94.dev/2011/06/developing-intent/
+wp_link: /2011/06/developing-intent/
 wp:post_type: post
 ---
 
@@ -44,43 +44,43 @@ A [comment](http://laptopburns.wordpress.com/2011/05/03/why-apps-cant-transform-
 
 Tony Roberts also connects the dots in a previous post entitled ["People’s Power: have we got an app for that?](http://laptopburns.wordpress.com/2011/02/18/peoples-power-have-we-got-an-app-for-that/)":
 
->  
+>
 
 >
 
->  
+>
 
 - providing market info to privileged individuals is not development
 
->  
+>
 
 - development requires solutions that serve the common good
 
->  
+>
 
 - resource distribution is currently grossly uneven
 
->  
+>
 
 - more equitable redistribution requires reversing power relationships
 
->  
+>
 
 - this will be resisted by powerful elites
 
->  
+>
 
 - reversing power-relationships will therefore require collective action
 
->  
+>
 
 - technology can not be a substitute for people’s collective action
 
->  
+>
 
 - people’s capacity and intent can be amplified with ICTs
 
->  
+>
 
 - equalising power & redistributing resources is a political project
 

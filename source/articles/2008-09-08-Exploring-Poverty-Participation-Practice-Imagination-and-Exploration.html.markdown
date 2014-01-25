@@ -8,7 +8,7 @@ tags:
 - poverty
 - religion
 wp:post_id: '254'
-link: http://island94.dev/2008/09/exploring-poverty-participation-practice-imagination-and-exploration/
+wp_link: /2008/09/exploring-poverty-participation-practice-imagination-and-exploration/
 wp:post_type: post
 ---
 

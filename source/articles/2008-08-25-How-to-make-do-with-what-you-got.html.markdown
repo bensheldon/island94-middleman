@@ -6,7 +6,7 @@ tags:
 - language
 - nonprofit
 wp:post_id: '247'
-link: http://island94.dev/2008/08/how-to-make-do-with-what-you-got/
+wp_link: /2008/08/how-to-make-do-with-what-you-got/
 wp:post_type: post
 ---
 
@@ -18,11 +18,11 @@ The following substitutional characteristics are how I try to make do with what 
 
 |
 
-|  
+|
 
 ### If you lack \_\_\_\_\_\_...
 
-|  
+|
 
 ### ...stress your \_\_\_\_\_\_.
 

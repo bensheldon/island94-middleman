@@ -7,7 +7,7 @@ tags:
 - me
 - things
 wp:post_id: '266'
-link: http://island94.dev/2008/10/birthday-wishlist/
+wp_link: /2008/10/birthday-wishlist/
 wp:post_type: post
 ---
 

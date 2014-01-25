@@ -9,7 +9,7 @@ tags:
 - portfolio
 - technology
 wp:post_id: '1620'
-link: http://island94.dev/2009/12/easier-drawn-than-said/
+wp_link: /2009/12/easier-drawn-than-said/
 wp:post_type: post
 ---
 

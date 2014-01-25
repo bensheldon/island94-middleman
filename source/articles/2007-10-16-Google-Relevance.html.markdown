@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - search
 wp:post_id: '160'
-link: http://island94.dev/2007/10/google-relevance/
+wp_link: /2007/10/google-relevance/
 wp:post_type: post
 ---
 
@@ -14,7 +14,7 @@ On Slashdot today was an [entry](http://slashdot.org/article.pl?sid=07/10/16/135
 
 Fun, but the interesting thing was a [comment](http://slashdot.org/comments.pl?sid=329457&cid=20998511) from the comments:
 
->  
+>
 
 > Should read: What if Google was a useless site...
 

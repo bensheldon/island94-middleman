@@ -9,7 +9,7 @@ tags:
 - portfolio
 - yawn
 wp:post_id: '1776'
-link: http://island94.dev/2010/02/good-enough-data/
+wp_link: /2010/02/good-enough-data/
 wp:post_type: post
 ---
 

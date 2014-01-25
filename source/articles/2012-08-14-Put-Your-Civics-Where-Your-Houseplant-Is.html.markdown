@@ -7,7 +7,7 @@ tags:
 - gamification
 - portfolio
 wp:post_id: '3018'
-link: http://island94.dev/2012/08/put-your-civics-where-your-houseplant-is/
+wp_link: /2012/08/put-your-civics-where-your-houseplant-is/
 wp:post_type: post
 ---
 

@@ -6,7 +6,7 @@ tags:
 - detective story
 - fiction
 wp:post_id: '130'
-link: http://island94.dev/2007/04/new-england-construction/
+wp_link: /2007/04/new-england-construction/
 wp:post_type: post
 ---
 

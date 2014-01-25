@@ -8,7 +8,7 @@ tags:
 - modeling
 - philosophy
 wp:post_id: '172'
-link: http://island94.dev/2007/11/creating-models/
+wp_link: /2007/11/creating-models/
 wp:post_type: post
 ---
 

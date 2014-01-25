@@ -7,7 +7,7 @@ tags:
 - whine
 published: false
 wp:post_id: '1884'
-link: http://island94.dev/2010/04/broken-ladders/
+wp_link: /2010/04/broken-ladders/
 wp:post_type: post
 ---
 

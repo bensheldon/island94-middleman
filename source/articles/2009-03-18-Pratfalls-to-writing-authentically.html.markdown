@@ -6,13 +6,13 @@ tags:
 - authenticity
 - writing
 wp:post_id: '540'
-link: http://island94.dev/2009/03/pratfalls-to-writing-authentically/
+wp_link: /2009/03/pratfalls-to-writing-authentically/
 wp:post_type: post
 ---
 
 I go back and forth with my mom---a library media teacher---about information literacy: for me, the future of communications is not about authority, but authenticity. Below is a list of self-deceptions writers put into their writing from _Writing to Be Read_ by Ken Macrorie (also author of [Telling Writing](http://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533)) :
 
->  
+>
 
 > No writer knows how often he deceives himself and his reader until he becomes a professional and listens to the complaints of editors and readers. Then he often sees that he has unconsciously
 

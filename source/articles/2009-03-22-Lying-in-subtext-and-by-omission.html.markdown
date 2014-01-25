@@ -7,7 +7,7 @@ tags:
 - politics
 - writing
 wp:post_id: '573'
-link: http://island94.dev/2009/03/lying-in-subtext-and-by-omission/
+wp_link: /2009/03/lying-in-subtext-and-by-omission/
 wp:post_type: post
 ---
 

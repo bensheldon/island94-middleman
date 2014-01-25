@@ -7,7 +7,7 @@ tags:
 - life
 - nostalgia
 wp:post_id: '2804'
-link: http://island94.dev/2011/08/7-years-in-boston/
+wp_link: /2011/08/7-years-in-boston/
 wp:post_type: post
 ---
 

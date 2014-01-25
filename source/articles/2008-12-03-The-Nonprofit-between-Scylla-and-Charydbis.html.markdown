@@ -8,7 +8,7 @@ tags:
 - nonprofit
 - random
 wp:post_id: '275'
-link: http://island94.dev/2008/12/the-nonprofit-between-scylla-and-charydbis/
+wp_link: /2008/12/the-nonprofit-between-scylla-and-charydbis/
 wp:post_type: post
 ---
 

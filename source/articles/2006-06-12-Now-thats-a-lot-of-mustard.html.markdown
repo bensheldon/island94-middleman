@@ -8,7 +8,7 @@ tags:
 - San Francisco
 - Vloggercon
 wp:post_id: '48'
-link: http://island94.dev/2006/06/now-that's-a-lot-of-mustard/
+wp_link: /2006/06/now-that's-a-lot-of-mustard/
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - time
 - Washington
 wp:post_id: '92'
-link: http://island94.dev/2006/08/rubbed-away-in-dc/
+wp_link: /2006/08/rubbed-away-in-dc/
 wp:post_type: post
 ---
 

@@ -5,13 +5,13 @@ tags:
 - health
 - hygiene
 wp:post_id: '228'
-link: http://island94.dev/2008/06/fluoride-teeth-and-brushing-advice/
+wp_link: /2008/06/fluoride-teeth-and-brushing-advice/
 wp:post_type: post
 ---
 
 Ever since Dr. Strangelove I've found the fluoride controversy interesting and scary (for many reasons). I can't verify any of this, but from a Digg article entitled [Fluoride's glory may be cresting](http://digg.com/health/Fluoride_s_glory_may_be_cresting), here was a comment that seemed to have enough info to worthwhilely put it here:
 
->  
+>
 
 > Fluoride replaces the hydroxyl ion in the naturally occurring calcium hydroxyapatite causing a stronger nuclear bond. In that respect it strengthens the tooth. The problems associated with flouride come from poor understanding of the inherent dangers of ingestion.
 

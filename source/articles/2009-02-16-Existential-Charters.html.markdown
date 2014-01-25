@@ -7,7 +7,7 @@ tags:
 - law
 - politics
 wp:post_id: '482'
-link: http://island94.dev/2009/02/existential-charters/
+wp_link: /2009/02/existential-charters/
 wp:post_type: post
 ---
 

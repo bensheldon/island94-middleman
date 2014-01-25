@@ -6,7 +6,7 @@ tags:
 - social media
 - will-it-blend
 wp:post_id: '2140'
-link: http://island94.dev/2010/08/social-media-strategy-and-the-dodo-bird-effect/
+wp_link: /2010/08/social-media-strategy-and-the-dodo-bird-effect/
 wp:post_type: post
 ---
 

@@ -4,13 +4,13 @@ date: '2013-09-30'
 tags: []
 published: false
 wp:post_id: '3110'
-link: http://island94.dev/?p=3110
+wp_link: /?p=3110
 wp:post_type: post
 ---
 
 http://www.reddit.com/r/rails/comments/1mligj/how\_to\_organize\_rspec/ccakk4u
 
->  
+>
 
 > I think you have 2 separate questions:
 

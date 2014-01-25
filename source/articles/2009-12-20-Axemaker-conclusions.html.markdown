@@ -8,7 +8,7 @@ tags:
 - science
 - technology
 wp:post_id: '1609'
-link: http://island94.dev/2009/12/axemaker-conclusions/
+wp_link: /2009/12/axemaker-conclusions/
 wp:post_type: post
 ---
 

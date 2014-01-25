@@ -7,7 +7,7 @@ tags:
 - risk
 - statistics
 wp:post_id: '181'
-link: http://island94.dev/2007/12/fat-facts/
+wp_link: /2007/12/fat-facts/
 wp:post_type: post
 ---
 

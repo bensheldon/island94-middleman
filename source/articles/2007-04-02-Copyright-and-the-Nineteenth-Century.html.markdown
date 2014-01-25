@@ -9,7 +9,7 @@ tags:
 - law
 - Mark Twain
 wp:post_id: '125'
-link: http://island94.dev/2007/04/copyright-and-the-nineteenth-century/
+wp_link: /2007/04/copyright-and-the-nineteenth-century/
 wp:post_type: post
 ---
 
@@ -25,7 +25,7 @@ The free-spirited atmosphere created by a lack of international copyright affect
 
 At this time the authors often banded together in copyright clubs or leagues to protest. [James Russell Lowell](http://en.wikipedia.org/wiki/James_Russell_Lowell), noted poet and president of American Copyright League penned this motto:
 
->  
+>
 
 > In vain we call old notions fudge,
 

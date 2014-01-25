@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - taxes
 wp:post_id: '253'
-link: http://island94.dev/2008/09/why-are-nonprofits-tax-exempt/
+wp_link: /2008/09/why-are-nonprofits-tax-exempt/
 wp:post_type: post
 ---
 

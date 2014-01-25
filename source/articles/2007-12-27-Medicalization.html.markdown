@@ -5,7 +5,7 @@ tags:
 - medicine
 - psychology
 wp:post_id: '196'
-link: http://island94.dev/2007/12/medicalization/
+wp_link: /2007/12/medicalization/
 wp:post_type: post
 ---
 

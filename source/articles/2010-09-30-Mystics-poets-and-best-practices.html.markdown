@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - poetry
 wp:post_id: '2215'
-link: http://island94.dev/2010/09/mystics-poets-and-best-practices/
+wp_link: /2010/09/mystics-poets-and-best-practices/
 wp:post_type: post
 ---
 

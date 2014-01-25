@@ -7,7 +7,7 @@ tags:
 - hippostrophe
 - punctuation
 wp:post_id: '1733'
-link: http://island94.dev/2010/01/amperlamb/
+wp_link: /2010/01/amperlamb/
 wp:post_type: post
 ---
 

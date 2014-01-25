@@ -6,7 +6,7 @@ tags:
 - language
 - wordplay
 wp:post_id: '1770'
-link: http://island94.dev/2010/02/quality-of-life-mind-and-language/
+wp_link: /2010/02/quality-of-life-mind-and-language/
 wp:post_type: post
 ---
 
@@ -14,7 +14,7 @@ wp:post_type: post
 
 From "Business of Design", a section of David Barringer's excellent book _There's nothing funny about design_:
 
->  
+>
 
 > **Definitions**
 

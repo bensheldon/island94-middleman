@@ -3,7 +3,7 @@ title: Meet AmeriCorps no more
 date: '2011-09-21'
 tags: []
 wp:post_id: '2888'
-link: http://island94.dev/2011/09/meet-americorps-no-more/
+wp_link: /2011/09/meet-americorps-no-more/
 wp:post_type: post
 ---
 

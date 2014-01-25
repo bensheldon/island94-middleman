@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - poverty
 wp:post_id: '214'
-link: http://island94.dev/2008/04/progressive-terminology-for-discussing-poverty/
+wp_link: /2008/04/progressive-terminology-for-discussing-poverty/
 wp:post_type: post
 ---
 
@@ -31,7 +31,7 @@ Because of constructive criticism of some of my organization's archaic language,
 - For a grant proposal, look at the language the grantmaker is using and follow their lead. (thanks [Dennis](http://caasomerville.org)!)
 - Think of the program as asset based rather than deficit based: people who benefit end up being associated with the problem and not the solution (thanks [Alan](http://homeinc.org)!).
 - "Describing the populations we want to serve as 'marginalized' or 'most vulnerable' makes our donors feel good about themselves, but at the risk of objectifying people, using a dominant culture's description of them as somehow Other. We try to incorporate this awareness into our outreach materials by assuming that the people we serve will be reading the materials. How would they feel about this description? How would they describe themselves? Does a description assume that the people have brought their situation on themselves? Does it assume that the people are simply victims and not actors in their lives? Does the language carry implicit judgment? Calling an activity 'drug abuse' carries many more judgments and assumptions than calling it 'drug use.' (thanks [Kathy](http://www.ccaa.org)!)
--  
+-
 
 "'Working poor is a helpful phrase for those who are working, which reminds people that we aren't talking about 'welfare queens', a term I fear may still have resonance....I like to remind people what the actual Federal Poverty Guidelines are. We know, but many people outside our profession don't actually know how low it is, and if you take a minute and ask people to think about how it compares to their own household income, you can see people digest what that means." (thanks [Michelle](http://caasomerville.org )!)
 

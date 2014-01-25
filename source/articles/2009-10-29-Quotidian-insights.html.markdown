@@ -3,7 +3,7 @@ title: Quotidian insights
 date: '2009-10-29'
 tags: []
 wp:post_id: '905'
-link: http://island94.dev/2009/10/quotidian-insights/
+wp_link: /2009/10/quotidian-insights/
 wp:post_type: post
 ---
 

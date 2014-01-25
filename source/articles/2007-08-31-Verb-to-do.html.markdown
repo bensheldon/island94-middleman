@@ -6,7 +6,7 @@ tags:
 - word usage
 - writing
 wp:post_id: '142'
-link: http://island94.dev/2007/08/verb-to-do/
+wp_link: /2007/08/verb-to-do/
 wp:post_type: post
 ---
 

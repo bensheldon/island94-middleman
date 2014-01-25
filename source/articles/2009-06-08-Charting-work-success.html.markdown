@@ -9,7 +9,7 @@ tags:
 - graphics
 - management
 wp:post_id: '605'
-link: http://island94.dev/2009/06/charting-work-success/
+wp_link: /2009/06/charting-work-success/
 wp:post_type: post
 ---
 

@@ -7,9 +7,9 @@ tags:
 - night
 - photos
 wp:post_id: '28'
-link: http://island94.dev/2006/01/ny-nightlife/
+wp_link: /2006/01/ny-nightlife/
 wp:post_type: post
 ---
 
-[ ![](http://static.flickr.com/35/91590114_6bdb10871a_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590114/)  
+[ ![](http://static.flickr.com/35/91590114_6bdb10871a_m.jpg) ](http://www.flickr.com/photos/atomicworkshop/91590114/)
 I was in New York a few weeks ago for work/pleasure and stayed at my old roommate Greg’s place near 47th and Lexington. I snapped this one while coming back from B&H Photo where I talked on a panel about digital media distribution.

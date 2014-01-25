@@ -6,7 +6,7 @@ tags:
 - jargon
 - plants
 wp:post_id: '167'
-link: http://island94.dev/2007/11/chill-units/
+wp_link: /2007/11/chill-units/
 wp:post_type: post
 ---
 

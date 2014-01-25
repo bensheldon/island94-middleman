@@ -6,7 +6,7 @@ tags:
 - journalism
 - seed
 wp:post_id: '11'
-link: http://island94.dev/2005/11/scooped!/
+wp_link: /2005/11/scooped!/
 wp:post_type: post
 ---
 

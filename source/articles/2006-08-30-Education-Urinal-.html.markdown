@@ -6,7 +6,7 @@ tags:
 - education
 - urinal
 wp:post_id: '94'
-link: http://island94.dev/2006/08/education-urinal/
+wp_link: /2006/08/education-urinal/
 wp:post_type: post
 ---
 

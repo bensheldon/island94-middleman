@@ -5,7 +5,7 @@ tags:
 - math
 - panlexicon
 wp:post_id: '2142'
-link: http://island94.dev/2010/08/p-np-and-panlexicon/
+wp_link: /2010/08/p-np-and-panlexicon/
 wp:post_type: post
 ---
 

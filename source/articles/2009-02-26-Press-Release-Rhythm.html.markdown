@@ -7,7 +7,7 @@ tags:
 - sales
 - weasel-words
 wp:post_id: '504'
-link: http://island94.dev/2009/02/press-release-rhythm/
+wp_link: /2009/02/press-release-rhythm/
 wp:post_type: post
 ---
 

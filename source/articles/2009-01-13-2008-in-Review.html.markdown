@@ -3,7 +3,7 @@ title: 2008 in Review
 date: '2009-01-13'
 tags: []
 wp:post_id: '325'
-link: http://island94.dev/2009/01/2008-in-review/
+wp_link: /2009/01/2008-in-review/
 wp:post_type: post
 ---
 
@@ -15,7 +15,7 @@ To follow up on [last year's navel gazing](http://island94.org/2008/01/2007-in-r
 
 _California_: [Santa Barbara](http://flickr.com/photos/bensheldon/sets/72157608001469904/), [San Luis Obispo](http://flickr.com/photos/bensheldon/sets/72157607765763069/), [Los Angeles](http://flickr.com/photos/bensheldon/sets/72157612438585629/), Poway;
 
-_Northwest_: Seattle, CA; [Portland and Silver Falls, Oregon](http://flickr.com/photos/bensheldon/sets/72157606272583024/);  
+_Northwest_: Seattle, CA; [Portland and Silver Falls, Oregon](http://flickr.com/photos/bensheldon/sets/72157606272583024/);
 
 _Midwest_: [Denver, CO](http://flickr.com/photos/bensheldon/sets/72157612531812134/); [Madison, WI](http://flickr.com/photos/bensheldon/sets/72157612483392227/);
 

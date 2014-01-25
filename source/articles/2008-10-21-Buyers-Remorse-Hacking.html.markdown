@@ -6,7 +6,7 @@ tags:
 - computers
 - consumption
 wp:post_id: '264'
-link: http://island94.dev/2008/10/buyers-remorse-hacking/
+wp_link: /2008/10/buyers-remorse-hacking/
 wp:post_type: post
 ---
 
@@ -24,7 +24,7 @@ I love reading Mac vs. PC pissing contests. The fact is, a computer, for most co
 
 >
 
->  
+>
 
 > We're not talking about subjective value-feelings here; we're talking about intentional manipulation by a sleak advertising campaign that turns people into drones who really do believe that there is something magical in a Mac that other computers don't have.
 

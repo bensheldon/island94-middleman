@@ -9,7 +9,7 @@ tags:
 - time lapse
 - video
 wp:post_id: '78'
-link: http://island94.dev/2006/07/gone-bicycling/
+wp_link: /2006/07/gone-bicycling/
 wp:post_type: post
 ---
 
@@ -17,7 +17,7 @@ The heatwave in Boston finally broke yesterday bringing some much needed coolnes
 
   [ ![](http://blip.tv/uploadedFiles/Bensheldon-GoneBicycling633.jpg) ](http://blip.tv/file/get/Bensheldon-GoneBicycling824.mp4?source=3)
 
-    
+
 
   [Watch the Video](http://blip.tv/file/get/Bensheldon-GoneBicycling824.mp4?source=3)
 

@@ -10,7 +10,7 @@ tags:
 - press
 - subsidies
 wp:post_id: '1678'
-link: http://island94.dev/2010/01/american-press-subsidies/
+wp_link: /2010/01/american-press-subsidies/
 wp:post_type: post
 ---
 

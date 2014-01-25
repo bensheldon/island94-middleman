@@ -7,7 +7,7 @@ tags:
 - knowledge
 - thinking
 wp:post_id: '2996'
-link: http://island94.dev/2012/02/methodological-belief/
+wp_link: /2012/02/methodological-belief/
 wp:post_type: post
 ---
 
@@ -23,7 +23,7 @@ From Peter Elbow's ["The Believing Game"](http://works.bepress.com/cgi/viewconte
 
 And from the asterisk:
 
->  
+>
 
 > \*I’m on slippery ground when I equate the doubting game with critical thinking, since critical thinking has come to mean almost any and every kind of thinking felt to be good. Consider the opening definition at the website of the Foundation for Critical Thinking:
 

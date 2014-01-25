@@ -3,7 +3,7 @@ title: San Diego is Burning
 date: '2007-10-22'
 tags: []
 wp:post_id: '163'
-link: http://island94.dev/2007/10/san-diego-is-burning/
+wp_link: /2007/10/san-diego-is-burning/
 wp:post_type: post
 ---
 

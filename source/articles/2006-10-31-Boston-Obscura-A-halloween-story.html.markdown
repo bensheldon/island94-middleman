@@ -8,7 +8,7 @@ tags:
 - history
 - spooky
 wp:post_id: '107'
-link: http://island94.dev/2006/10/boston-obscura-a-halloween-story/
+wp_link: /2006/10/boston-obscura-a-halloween-story/
 wp:post_type: post
 ---
 

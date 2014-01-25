@@ -6,7 +6,7 @@ tags:
 - nonprofit
 - strategic planning
 wp:post_id: '133'
-link: http://island94.dev/2007/07/planning-strategic-planning/
+wp_link: /2007/07/planning-strategic-planning/
 wp:post_type: post
 ---
 
