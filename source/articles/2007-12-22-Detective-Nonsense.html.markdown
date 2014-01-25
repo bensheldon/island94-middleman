@@ -6,7 +6,6 @@ tags:
 - crime
 - honesty
 - justice
-wp:post_id: '193'
 wp_link: "/2007/12/detective-nonsense/"
 wp:post_type: post
 redirects:

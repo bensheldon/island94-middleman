@@ -7,7 +7,6 @@ tags:
 - New York
 - photos
 - walking
-wp:post_id: '86'
 wp_link: "/2006/08/central-park-pictures/"
 wp:post_type: post
 failed_files:

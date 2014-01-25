@@ -5,7 +5,6 @@ tags:
 - accessibility
 - evaluation
 - happiness
-wp:post_id: '2433'
 wp_link: "/2011/05/capturing-well-being-not-simply-access-and-speed/"
 wp:post_type: post
 redirects:

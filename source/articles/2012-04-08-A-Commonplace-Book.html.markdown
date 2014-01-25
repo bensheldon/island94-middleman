@@ -6,7 +6,6 @@ tags:
 - knowledge
 - meta
 - recollection
-wp:post_id: '3009'
 wp_link: "/2012/04/a-commonplace-book/"
 wp:post_type: post
 redirects:

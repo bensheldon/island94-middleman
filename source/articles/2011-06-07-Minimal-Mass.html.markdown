@@ -4,7 +4,6 @@ date: '2011-06-07'
 tags:
 - development
 - structure
-wp:post_id: '2691'
 wp_link: "/2011/06/minimal-mass/"
 wp:post_type: post
 redirects:

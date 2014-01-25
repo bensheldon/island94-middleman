@@ -4,7 +4,6 @@ date: '2008-07-13'
 tags:
 - food
 - kitchen cooking
-wp:post_id: '232'
 wp_link: "/2008/07/how-to-use-a-fridge-crisper/"
 wp:post_type: post
 redirects:

@@ -8,7 +8,6 @@ tags:
 - language
 - memory
 - telecommunications
-wp:post_id: '882'
 wp_link: "/2009/10/kick-in-the-baud/"
 wp:post_type: post
 redirects:

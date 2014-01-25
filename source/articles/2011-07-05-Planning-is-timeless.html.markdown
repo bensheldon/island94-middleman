@@ -5,7 +5,6 @@ tags:
 - management
 - planning
 - politics
-wp:post_id: '2739'
 wp_link: "/2011/07/planning-is-timeless/"
 wp:post_type: post
 failed_files:

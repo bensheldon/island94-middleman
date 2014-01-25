@@ -6,7 +6,6 @@ tags:
 - language
 - linguistics
 - perspectives
-wp:post_id: '918'
 wp_link: "/2009/10/why-framing-matters/"
 wp:post_type: post
 redirects:

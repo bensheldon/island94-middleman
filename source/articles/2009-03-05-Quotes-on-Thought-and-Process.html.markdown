@@ -2,7 +2,6 @@
 title: Quotes on Thought and Process
 date: '2009-03-05'
 tags: []
-wp:post_id: '500'
 wp_link: "/2009/03/quotes-on-thought-and-process/"
 wp:post_type: post
 redirects:

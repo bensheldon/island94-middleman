@@ -7,7 +7,6 @@ tags:
 - language
 - photography
 - visuals
-wp:post_id: '1774'
 wp_link: "/2010/02/cleaving-the-visual-experience/"
 wp:post_type: post
 redirects:

@@ -2,7 +2,6 @@
 title: Community mapping class interview & outcomes
 date: '2011-10-11'
 tags: []
-wp:post_id: '2919'
 wp_link: "/2011/10/community-mapping-class-interview-outcomes/"
 wp:post_type: post
 redirects:

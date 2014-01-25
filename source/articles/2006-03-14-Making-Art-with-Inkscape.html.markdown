@@ -8,7 +8,6 @@ tags:
 - graphics
 - Inkscape
 - Open Source
-wp:post_id: '63'
 wp_link: "/2006/03/making-art-with-inkscape/"
 wp:post_type: post
 failed_files:

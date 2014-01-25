@@ -6,7 +6,6 @@ tags:
 - hyperlinks
 - publishing
 - web
-wp:post_id: '2397'
 wp_link: "/2011/01/adding-hyperlinks-to-print-publications/"
 wp:post_type: post
 redirects:

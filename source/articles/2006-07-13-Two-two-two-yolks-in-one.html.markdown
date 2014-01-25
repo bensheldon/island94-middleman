@@ -7,7 +7,6 @@ tags:
 - food
 - freaky
 - video
-wp:post_id: '68'
 wp_link: "/2006/07/two-two-two-yolks-in-one/"
 wp:post_type: post
 redirects:

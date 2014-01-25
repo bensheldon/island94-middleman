@@ -3,7 +3,6 @@ title: 7 Nonprofit Challenges
 date: '2008-06-19'
 tags:
 - nonprofit
-wp:post_id: '226'
 wp_link: "/2008/06/7-nonprofit-challenges/"
 wp:post_type: post
 redirects:

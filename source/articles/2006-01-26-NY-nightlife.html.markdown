@@ -6,7 +6,6 @@ tags:
 - New York
 - night
 - photos
-wp:post_id: '28'
 wp_link: "/2006/01/ny-nightlife/"
 wp:post_type: post
 redirects:

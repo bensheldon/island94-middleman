@@ -8,7 +8,6 @@ tags:
 - history
 - law
 - Mark Twain
-wp:post_id: '125'
 wp_link: "/2007/04/copyright-and-the-nineteenth-century/"
 wp:post_type: post
 redirects:

@@ -4,7 +4,6 @@ date: '2008-05-07'
 tags:
 - dessert
 - recipe
-wp:post_id: '220'
 wp_link: "/2008/05/jp-cafe-brownies/"
 wp:post_type: post
 redirects:

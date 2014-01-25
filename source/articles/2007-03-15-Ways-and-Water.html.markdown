@@ -12,7 +12,6 @@ tags:
 - surfing
 - timelapse
 - water
-wp:post_id: '122'
 wp_link: "/2007/03/ways-and-water/"
 wp:post_type: post
 redirects:

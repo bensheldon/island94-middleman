@@ -6,7 +6,6 @@ tags:
 - service
 - statistics
 - volunteering
-wp:post_id: '177'
 wp_link: "/2007/12/volunteer-logic/"
 wp:post_type: post
 redirects:

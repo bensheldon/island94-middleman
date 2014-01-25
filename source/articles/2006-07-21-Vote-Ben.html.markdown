@@ -6,7 +6,6 @@ tags:
 - me
 - photos
 - politics
-wp:post_id: '79'
 wp_link: "/2006/07/vote-ben/"
 wp:post_type: post
 redirects:

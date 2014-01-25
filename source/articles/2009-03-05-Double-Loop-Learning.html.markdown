@@ -2,7 +2,6 @@
 title: Double Loop Learning
 date: '2009-03-05'
 tags: []
-wp:post_id: '531'
 wp_link: "/2009/03/double-loop-learning/"
 wp:post_type: post
 redirects:

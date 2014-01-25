@@ -6,7 +6,6 @@ tags:
 - first-amendment
 - freedom-of-speech
 - speech
-wp:post_id: '1591'
 wp_link: "/2009/12/invoking-the-first-amendment/"
 wp:post_type: post
 redirects:

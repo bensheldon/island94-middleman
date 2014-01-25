@@ -6,7 +6,6 @@ tags:
 - critical-thinking
 - knowledge
 - thinking
-wp:post_id: '2996'
 wp_link: "/2012/02/methodological-belief/"
 wp:post_type: post
 redirects:

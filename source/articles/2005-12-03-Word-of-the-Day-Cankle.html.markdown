@@ -5,7 +5,6 @@ tags:
 - aquarium
 - Jessica
 - vocabulary
-wp:post_id: '23'
 wp_link: "/2005/12/word-of-the-day-cankle/"
 wp:post_type: post
 redirects:

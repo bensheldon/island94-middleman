@@ -5,7 +5,6 @@ tags:
 - nonprofit
 - participation
 - you-should-ask-me-for-advice
-wp:post_id: '2206'
 wp_link: "/2010/09/be-manically-participatory/"
 wp:post_type: post
 redirects:

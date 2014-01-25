@@ -5,7 +5,6 @@ tags:
 - education
 - javascript
 - programming
-wp:post_id: '3066'
 wp_link: "/2012/12/a-gentle-conceptual-introduction-to-node-js/"
 wp:post_type: post
 redirects:

@@ -12,7 +12,6 @@ tags:
 - VISTA
 - webdesign
 - website
-wp:post_id: '111'
 wp_link: "/2006/12/meetamericorps-is-social-networking/"
 wp:post_type: post
 redirects:

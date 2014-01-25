@@ -8,7 +8,6 @@ tags:
 - New York
 - Park
 - solar
-wp:post_id: '89'
 wp_link: "/2006/08/solar-powered-art/"
 wp:post_type: post
 failed_files:

@@ -6,7 +6,6 @@ tags:
 - contemporary
 - internet
 - protest
-wp:post_id: '2987'
 wp_link: "/2012/01/protest-shirts/"
 wp:post_type: post
 redirects:

@@ -4,7 +4,6 @@ date: '2007-09-06'
 tags:
 - advertisement
 - weird
-wp:post_id: '149'
 wp_link: "/2007/09/toe-straighteners/"
 wp:post_type: post
 redirects:

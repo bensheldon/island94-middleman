@@ -4,7 +4,6 @@ date: '2008-06-15'
 tags:
 - Drupal
 - technology
-wp:post_id: '223'
 wp_link: "/2008/06/conference-notes-managing-nonprofit-technology-projects/"
 wp:post_type: post
 redirects:

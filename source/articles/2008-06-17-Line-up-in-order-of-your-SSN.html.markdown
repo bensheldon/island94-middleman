@@ -4,7 +4,6 @@ date: '2008-06-17'
 tags:
 - math
 - taxes
-wp:post_id: '225'
 wp_link: "/2008/06/line-up-in-order-of-your-ssn/"
 wp:post_type: post
 redirects:

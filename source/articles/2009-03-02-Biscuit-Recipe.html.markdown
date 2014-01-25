@@ -3,7 +3,6 @@ title: Biscuit Recipe
 date: '2009-03-02'
 tags: []
 published: false
-wp:post_id: '510'
 wp_link: "/?p=510"
 wp:post_type: post
 redirects:

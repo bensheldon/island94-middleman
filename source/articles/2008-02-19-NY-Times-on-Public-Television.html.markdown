@@ -4,7 +4,6 @@ date: '2008-02-19'
 tags:
 - broadcasting
 - tv
-wp:post_id: '201'
 wp_link: "/2008/02/ny-times-on-public-television/"
 wp:post_type: post
 redirects:

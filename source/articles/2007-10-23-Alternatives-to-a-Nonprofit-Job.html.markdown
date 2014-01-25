@@ -7,7 +7,6 @@ tags:
 - civic literacy
 - nonprofit
 - strategy
-wp:post_id: '164'
 wp_link: "/2007/10/alternatives-to-a-nonprofit-job/"
 wp:post_type: post
 redirects:

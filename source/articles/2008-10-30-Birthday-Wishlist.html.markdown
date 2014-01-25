@@ -6,7 +6,6 @@ tags:
 - consumption
 - me
 - things
-wp:post_id: '266'
 wp_link: "/2008/10/birthday-wishlist/"
 wp:post_type: post
 redirects:

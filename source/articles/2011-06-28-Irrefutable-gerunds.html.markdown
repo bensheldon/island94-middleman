@@ -5,7 +5,6 @@ tags:
 - development
 - language
 - nonprofits
-wp:post_id: '2726'
 wp_link: "/2011/06/irrefutable-gerunds/"
 wp:post_type: post
 redirects:

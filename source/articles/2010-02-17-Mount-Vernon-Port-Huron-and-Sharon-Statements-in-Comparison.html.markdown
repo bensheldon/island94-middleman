@@ -5,7 +5,6 @@ tags:
 - language
 - politics
 - statements
-wp:post_id: '1764'
 wp_link: "/2010/02/mount-vernon-port-huron-and-sharon-statements-in-comparison/"
 wp:post_type: post
 redirects:

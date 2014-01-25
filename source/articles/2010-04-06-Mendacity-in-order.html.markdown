@@ -7,7 +7,6 @@ tags:
 - lying
 - taxonomy
 - typology
-wp:post_id: '1880'
 wp_link: "/2010/04/mendacity-in-order/"
 wp:post_type: post
 redirects:

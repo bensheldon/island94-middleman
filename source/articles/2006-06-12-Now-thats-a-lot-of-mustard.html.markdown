@@ -7,7 +7,6 @@ tags:
 - Presidio
 - San Francisco
 - Vloggercon
-wp:post_id: '48'
 wp_link: "/2006/06/now-that's-a-lot-of-mustard/"
 wp:post_type: post
 redirects:

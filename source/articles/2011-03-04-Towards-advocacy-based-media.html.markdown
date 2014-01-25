@@ -6,7 +6,6 @@ tags:
 - media
 - politics
 - sensationalism
-wp:post_id: '2534'
 wp_link: "/2011/03/towards-advocacy-based-media/"
 wp:post_type: post
 redirects:

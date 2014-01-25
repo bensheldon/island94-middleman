@@ -7,7 +7,6 @@ tags:
 - Independence Day
 - panorama
 - photos
-wp:post_id: '64'
 wp_link: "/2006/07/charles-on-the-4th/"
 wp:post_type: post
 redirects:

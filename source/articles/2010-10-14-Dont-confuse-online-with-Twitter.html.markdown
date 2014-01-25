@@ -7,7 +7,6 @@ tags:
 - nonprofit
 - online
 - social media
-wp:post_id: '2241'
 wp_link: "/2010/10/dont-confuse-online-with-twitter/"
 wp:post_type: post
 redirects:

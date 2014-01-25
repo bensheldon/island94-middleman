@@ -5,7 +5,6 @@ tags:
 - blog
 - meta
 - poverty
-wp:post_id: '262'
 wp_link: "/2008/10/blog-action-day-poverty/"
 wp:post_type: post
 redirects:

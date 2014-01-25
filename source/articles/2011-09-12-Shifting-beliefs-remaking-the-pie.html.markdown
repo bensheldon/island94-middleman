@@ -7,7 +7,6 @@ tags:
 - politics
 - re-imagining
 - telecommunications
-wp:post_id: '2819'
 wp_link: "/2011/09/shifting-beliefs-remaking-the-pie/"
 wp:post_type: post
 redirects:

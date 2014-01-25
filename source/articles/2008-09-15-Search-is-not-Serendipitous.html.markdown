@@ -5,7 +5,6 @@ tags:
 - internet
 - language
 - search
-wp:post_id: '255'
 wp_link: "/2008/09/search-is-not-serendipitous/"
 wp:post_type: post
 redirects:

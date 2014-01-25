@@ -4,7 +4,6 @@ date: '2010-08-29'
 tags:
 - math
 - panlexicon
-wp:post_id: '2142'
 wp_link: "/2010/08/p-np-and-panlexicon/"
 wp:post_type: post
 redirects:

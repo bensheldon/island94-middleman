@@ -5,7 +5,6 @@ tags:
 - cooking
 - flour
 - recipe
-wp:post_id: '145'
 wp_link: "/2007/09/pasta-dough-recipe/"
 wp:post_type: post
 redirects:

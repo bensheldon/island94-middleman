@@ -6,7 +6,6 @@ tags:
 - containers
 - drinks
 - milk
-wp:post_id: '109'
 wp_link: "/2006/11/the-drink/"
 wp:post_type: post
 redirects:

@@ -3,7 +3,6 @@ title: ''
 date: '2011-06-15'
 tags: []
 published: false
-wp:post_id: '2712'
 wp_link: "/?p=2712"
 wp:post_type: post
 redirects:

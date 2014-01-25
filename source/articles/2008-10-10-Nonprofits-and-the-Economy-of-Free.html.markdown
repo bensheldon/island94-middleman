@@ -8,7 +8,6 @@ tags:
 - nonprofit
 - society
 - strategy
-wp:post_id: '259'
 wp_link: "/2008/10/nonprofits-and-the-economy-of-free/"
 wp:post_type: post
 redirects:

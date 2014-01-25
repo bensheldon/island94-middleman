@@ -5,7 +5,6 @@ tags:
 - design
 - religion
 - technology
-wp:post_id: '261'
 wp_link: "/2008/10/graphical-organization-of-the-talmud/"
 wp:post_type: post
 redirects:

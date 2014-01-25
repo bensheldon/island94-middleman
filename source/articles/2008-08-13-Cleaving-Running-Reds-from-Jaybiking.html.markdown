@@ -5,7 +5,6 @@ tags:
 - bicycle
 - cleave
 - language
-wp:post_id: '240'
 wp_link: "/2008/08/cleaving-running-reds-from-jaybiking/"
 wp:post_type: post
 redirects:

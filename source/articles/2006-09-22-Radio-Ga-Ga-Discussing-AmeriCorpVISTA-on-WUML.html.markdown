@@ -7,7 +7,6 @@ tags:
 - Lowell
 - radio
 - VISTA
-wp:post_id: '99'
 wp_link: "/2006/09/radio-ga-ga-discussing-americorp-vista-on-wuml/"
 wp:post_type: post
 failed_files:

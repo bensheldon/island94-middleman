@@ -6,7 +6,6 @@ tags:
 - ethics
 - mba
 - pedagogy
-wp:post_id: '1907'
 wp_link: "/2010/04/ethical-omissions/"
 wp:post_type: post
 redirects:

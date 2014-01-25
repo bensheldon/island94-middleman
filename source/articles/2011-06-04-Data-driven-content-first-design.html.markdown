@@ -7,7 +7,6 @@ tags:
 - design
 - development
 - layout
-wp:post_id: '2682'
 wp_link: "/2011/06/data-driven-content-first-design/"
 wp:post_type: post
 redirects:

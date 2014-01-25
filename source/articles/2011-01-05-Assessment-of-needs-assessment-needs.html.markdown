@@ -5,7 +5,6 @@ tags:
 - assessment
 - needs
 - technology
-wp:post_id: '2404'
 wp_link: "/2011/01/assessment-of-needs-assessment-needs/"
 wp:post_type: post
 failed_files:

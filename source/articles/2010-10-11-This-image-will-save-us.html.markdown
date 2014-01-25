@@ -5,7 +5,6 @@ tags:
 - art
 - creative-commons
 - graphics
-wp:post_id: '2230'
 wp_link: "/2010/10/this-image-will-save-us/"
 wp:post_type: post
 redirects:

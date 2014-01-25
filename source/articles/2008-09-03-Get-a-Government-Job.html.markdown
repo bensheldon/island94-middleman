@@ -5,7 +5,6 @@ tags:
 - politics
 - research
 - search
-wp:post_id: '250'
 wp_link: "/2008/09/get-a-government-job/"
 wp:post_type: post
 redirects:

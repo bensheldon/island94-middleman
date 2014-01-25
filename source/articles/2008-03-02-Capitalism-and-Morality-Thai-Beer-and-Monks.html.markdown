@@ -5,7 +5,6 @@ tags:
 - economics
 - morality
 - thailand
-wp:post_id: '205'
 wp_link: "/2008/03/capitalism-and-morality-thai-beer-and-monks/"
 wp:post_type: post
 redirects:

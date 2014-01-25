@@ -5,7 +5,6 @@ tags:
 - design
 - management
 - practice
-wp:post_id: '2644'
 wp_link: "/2011/05/reductionist-function-and-practice/"
 wp:post_type: post
 redirects:

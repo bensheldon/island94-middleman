@@ -8,7 +8,6 @@ tags:
 - map
 - time
 - Washington
-wp:post_id: '92'
 wp_link: "/2006/08/rubbed-away-in-dc/"
 wp:post_type: post
 redirects:

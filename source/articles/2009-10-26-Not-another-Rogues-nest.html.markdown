@@ -6,7 +6,6 @@ tags:
 - island-94
 - mississippi
 - slant-rhyme
-wp:post_id: '890'
 wp_link: "/2009/10/not-another-rogues-nest/"
 wp:post_type: post
 failed_files:

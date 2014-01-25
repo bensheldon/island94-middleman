@@ -7,7 +7,6 @@ tags:
 - interactions
 - listening
 - process
-wp:post_id: '369'
 wp_link: "/2009/01/types-of-facilitator-interventions/"
 wp:post_type: post
 redirects:

@@ -6,7 +6,6 @@ tags:
 - fiction
 - Germania Street
 - illustration
-wp:post_id: '102'
 wp_link: "/2006/10/germania-st-3/"
 wp:post_type: post
 redirects:

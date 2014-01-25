@@ -6,7 +6,6 @@ tags:
 - media
 - media-literacy
 - politics
-wp:post_id: '1916'
 wp_link: "/2010/05/jfk-accuses-media-of-sensationalism-triviality/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - design
 - forms
 - paper
-wp:post_id: '2111'
 wp_link: "/2010/07/the-medium-is-the-method/"
 wp:post_type: post
 redirects:

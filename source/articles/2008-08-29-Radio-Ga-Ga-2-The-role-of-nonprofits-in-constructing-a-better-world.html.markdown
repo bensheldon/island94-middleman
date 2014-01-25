@@ -8,7 +8,6 @@ tags:
 - portfolio
 - radio
 - society
-wp:post_id: '249'
 wp_link: "/2008/08/radio-ga-ga-2-the-role-of-nonprofits-in-constructing-a-better-world/"
 wp:post_type: post
 redirects:

@@ -6,7 +6,6 @@ tags:
 - portfolio
 - satire
 - the-new-web-2-0
-wp:post_id: '2731'
 wp_link: "/2011/07/a-modest-web-app-proposal/"
 wp:post_type: post
 redirects:

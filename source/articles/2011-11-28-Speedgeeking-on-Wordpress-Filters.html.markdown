@@ -5,7 +5,6 @@ tags:
 - nerdery
 - web-development
 - wordpress
-wp:post_id: '2957'
 wp_link: "/2011/11/speedgeeking-on-wordpress-filters/"
 wp:post_type: post
 redirects:

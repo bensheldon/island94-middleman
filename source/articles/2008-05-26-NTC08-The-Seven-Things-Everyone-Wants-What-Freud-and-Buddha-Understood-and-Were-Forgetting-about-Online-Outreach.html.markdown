@@ -9,7 +9,6 @@ tags:
 - notes
 - nten
 - outreach
-wp:post_id: '221'
 wp_link: "/2008/05/ntc08-the-seven-things-everyone-wants/"
 wp:post_type: post
 redirects:

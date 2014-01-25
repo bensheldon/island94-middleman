@@ -5,7 +5,6 @@ tags:
 - blog
 - design
 - Drupal
-wp:post_id: '62'
 wp_link: "/2006/07/a-new-look/"
 wp:post_type: post
 redirects:

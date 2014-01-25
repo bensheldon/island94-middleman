@@ -7,7 +7,6 @@ tags:
 - everything
 - food
 - success
-wp:post_id: '562'
 wp_link: "/2009/03/3-fortunes/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - help
 - programming
 - unix
-wp:post_id: '143'
 wp_link: "/2007/09/tee/"
 wp:post_type: post
 redirects:

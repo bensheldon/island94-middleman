@@ -6,7 +6,6 @@ tags:
 - history
 - politics
 - quote
-wp:post_id: '153'
 wp_link: "/2007/09/politics-of-fear/"
 wp:post_type: post
 redirects:

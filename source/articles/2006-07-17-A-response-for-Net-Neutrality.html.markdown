@@ -5,7 +5,6 @@ tags:
 - internet
 - Net Neutrality
 - response
-wp:post_id: '74'
 wp_link: "/2006/07/a-response-for-net-neutrality/"
 wp:post_type: post
 redirects:

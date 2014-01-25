@@ -6,7 +6,6 @@ tags:
 - development
 - editing
 - writing
-wp:post_id: '1966'
 wp_link: "/2010/05/write-first-outline-later/"
 wp:post_type: post
 redirects:

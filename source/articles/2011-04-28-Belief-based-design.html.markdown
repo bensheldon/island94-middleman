@@ -5,7 +5,6 @@ tags:
 - beliefs
 - design
 - values
-wp:post_id: '2635'
 wp_link: "/2011/04/belief-based-design/"
 wp:post_type: post
 redirects:

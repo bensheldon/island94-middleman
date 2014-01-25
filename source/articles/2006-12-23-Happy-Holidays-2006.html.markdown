@@ -8,7 +8,6 @@ tags:
 - holidays
 - peace on earth
 - video
-wp:post_id: '114'
 wp_link: "/2006/12/happy-holidays-2006/"
 wp:post_type: post
 redirects:

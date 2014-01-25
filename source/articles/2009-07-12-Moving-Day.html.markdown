@@ -12,7 +12,6 @@ tags:
 - museum
 - pluralism
 - politics
-wp:post_id: '631'
 wp_link: "/2009/07/moving-day/"
 wp:post_type: post
 redirects:

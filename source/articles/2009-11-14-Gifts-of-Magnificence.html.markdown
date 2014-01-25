@@ -10,7 +10,6 @@ tags:
 - nonprofits
 - philanthropy
 - philosophy
-wp:post_id: '1032'
 wp_link: "/2009/11/gifts-of-magnificence/"
 wp:post_type: post
 redirects:

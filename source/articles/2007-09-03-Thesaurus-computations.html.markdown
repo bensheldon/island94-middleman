@@ -3,7 +3,6 @@ title: Thesaurus computations
 date: '2007-09-03'
 tags:
 - thesaurus
-wp:post_id: '147'
 wp_link: "/2007/09/thesaurus-computations/"
 wp:post_type: post
 redirects:

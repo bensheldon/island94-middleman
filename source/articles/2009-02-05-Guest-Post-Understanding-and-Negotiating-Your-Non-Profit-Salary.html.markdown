@@ -3,7 +3,6 @@ title: 'Guest Post: Understanding and Negotiating Your Non-Profit Salary'
 date: '2009-02-05'
 tags: []
 published: false
-wp:post_id: '432'
 wp_link: "/?p=432"
 wp:post_type: post
 redirects:

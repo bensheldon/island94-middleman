@@ -7,7 +7,6 @@ tags:
 - media
 - propoganda
 - rhetoric
-wp:post_id: '1038'
 wp_link: "/2009/11/ace-advertising/"
 wp:post_type: post
 redirects:

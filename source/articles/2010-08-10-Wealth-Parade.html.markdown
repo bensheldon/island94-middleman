@@ -5,7 +5,6 @@ tags:
 - language
 - metaphor
 - wealth
-wp:post_id: '2121'
 wp_link: "/2010/08/wealth-parade/"
 wp:post_type: post
 redirects:

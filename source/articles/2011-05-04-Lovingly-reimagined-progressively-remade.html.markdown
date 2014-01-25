@@ -5,7 +5,6 @@ tags:
 - commies
 - imagination
 - politics
-wp:post_id: '2639'
 wp_link: "/2011/05/lovingly-reimagined-progressively-remade/"
 wp:post_type: post
 redirects:

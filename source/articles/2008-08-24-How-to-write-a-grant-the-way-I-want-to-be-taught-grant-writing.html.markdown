@@ -6,7 +6,6 @@ tags:
 - grant writing
 - how to
 - nonprofit
-wp:post_id: '245'
 wp_link: "/2008/08/how-to-write-a-grant-the-way-i-want-to-be-taught-grant-writing/"
 wp:post_type: post
 redirects:

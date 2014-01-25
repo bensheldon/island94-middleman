@@ -10,7 +10,6 @@ tags:
 - nonprofit
 - politics
 - save-the-world
-wp:post_id: '668'
 wp_link: "/2009/08/good-advice-to-live-by/"
 wp:post_type: post
 redirects:

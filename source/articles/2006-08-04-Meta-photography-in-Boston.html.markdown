@@ -6,7 +6,6 @@ tags:
 - Danielle
 - meta
 - photos
-wp:post_id: '81'
 wp_link: "/2006/08/meta-photography-in-boston/"
 wp:post_type: post
 redirects:

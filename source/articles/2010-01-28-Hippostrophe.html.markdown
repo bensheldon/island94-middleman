@@ -6,7 +6,6 @@ tags:
 - animal
 - hippostrophe
 - punctuation
-wp:post_id: '1738'
 wp_link: "/2010/01/hippostrophe/"
 wp:post_type: post
 redirects:

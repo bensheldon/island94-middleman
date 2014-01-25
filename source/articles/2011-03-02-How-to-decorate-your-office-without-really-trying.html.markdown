@@ -5,7 +5,6 @@ tags:
 - furniture
 - nostalgia
 - shelving
-wp:post_id: '2512'
 wp_link: "/2011/03/how-to-decorate-your-office-without-really-trying/"
 wp:post_type: post
 redirects:

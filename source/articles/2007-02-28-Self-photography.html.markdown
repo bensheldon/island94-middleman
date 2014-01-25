@@ -6,7 +6,6 @@ tags:
 - photography
 - video
 - vlogarm
-wp:post_id: '120'
 wp_link: "/2007/02/self-photography/"
 wp:post_type: post
 redirects:

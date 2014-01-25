@@ -5,7 +5,6 @@ tags:
 - authenticity
 - philosophy
 - provenance
-wp:post_id: '2452'
 wp_link: "/2011/01/authenticity-and-such/"
 wp:post_type: post
 redirects:

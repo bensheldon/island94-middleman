@@ -2,7 +2,6 @@
 title: 2008 in Review
 date: '2009-01-13'
 tags: []
-wp:post_id: '325'
 wp_link: "/2009/01/2008-in-review/"
 wp:post_type: post
 redirects:

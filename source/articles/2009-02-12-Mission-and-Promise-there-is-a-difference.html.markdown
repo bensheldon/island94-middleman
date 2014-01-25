@@ -6,7 +6,6 @@ tags:
 - mission
 - nonprofit
 - purpose
-wp:post_id: '468'
 wp_link: "/2009/02/mission-and-promise-there-is-a-difference/"
 wp:post_type: post
 redirects:

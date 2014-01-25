@@ -6,7 +6,6 @@ tags:
 - photos
 - train
 - winter
-wp:post_id: '27'
 wp_link: "/2006/01/ghost-train/"
 wp:post_type: post
 redirects:

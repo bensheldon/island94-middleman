@@ -2,7 +2,6 @@
 title: Catastophizing and other thought distortions
 date: '2009-10-20'
 tags: []
-wp:post_id: '822'
 wp_link: "/2009/10/catastophizing-and-other-thought-distortions/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - comic
 - drawing
 - internet
-wp:post_id: '248'
 wp_link: "/2008/08/makes-you-crazy/"
 wp:post_type: post
 redirects:

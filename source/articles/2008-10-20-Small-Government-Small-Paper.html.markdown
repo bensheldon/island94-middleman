@@ -7,7 +7,6 @@ tags:
 - paper
 - politics
 - story
-wp:post_id: '263'
 wp_link: "/2008/10/small-government-small-paper/"
 wp:post_type: post
 redirects:

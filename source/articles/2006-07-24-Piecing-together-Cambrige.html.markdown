@@ -7,7 +7,6 @@ tags:
 - community mapping
 - maps
 - photos
-wp:post_id: '80'
 wp_link: "/2006/07/piecing-together-cambrige/"
 wp:post_type: post
 redirects:

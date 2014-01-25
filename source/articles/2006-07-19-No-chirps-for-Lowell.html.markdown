@@ -6,7 +6,6 @@ tags:
 - pedestrian
 - walking
 - weird
-wp:post_id: '77'
 wp_link: "/2006/07/no-chirps-for-lowell/"
 wp:post_type: post
 redirects:

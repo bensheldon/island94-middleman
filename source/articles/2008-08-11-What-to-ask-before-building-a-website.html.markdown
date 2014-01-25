@@ -4,7 +4,6 @@ date: '2008-08-11'
 tags:
 - consulting
 - webdesign
-wp:post_id: '239'
 wp_link: "/2008/08/what-to-ask-before-building-a-website/"
 wp:post_type: post
 redirects:

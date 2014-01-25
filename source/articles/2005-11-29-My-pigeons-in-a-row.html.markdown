@@ -6,7 +6,6 @@ tags:
 - birds
 - Lowell
 - photos
-wp:post_id: '19'
 wp_link: "/2005/11/my-pigeons-in-a-row/"
 wp:post_type: post
 redirects:

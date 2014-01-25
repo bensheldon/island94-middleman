@@ -9,7 +9,6 @@ tags:
 - philosophy
 - reflection
 - self
-wp:post_id: '446'
 wp_link: "/2009/02/self-language-and-consciousness/"
 wp:post_type: post
 redirects:

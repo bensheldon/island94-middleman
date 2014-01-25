@@ -4,7 +4,6 @@ date: '2008-07-05'
 tags:
 - danger
 - food
-wp:post_id: '230'
 wp_link: "/2008/07/tragic-food/"
 wp:post_type: post
 redirects:

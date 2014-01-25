@@ -5,7 +5,6 @@ tags:
 - entrepreneurialism
 - failure
 - zen
-wp:post_id: '2669'
 wp_link: "/2011/05/failure-on-balance/"
 wp:post_type: post
 redirects:

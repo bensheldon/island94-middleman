@@ -2,7 +2,6 @@
 title: Reading List
 date: '2007-12-16'
 tags: []
-wp:post_id: '189'
 wp_link: "/2007/12/reading-list/"
 wp:post_type: post
 redirects:

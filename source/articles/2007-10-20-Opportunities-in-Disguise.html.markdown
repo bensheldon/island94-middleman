@@ -4,7 +4,6 @@ date: '2007-10-20'
 tags:
 - do-gooding
 - quote
-wp:post_id: '162'
 wp_link: "/2007/10/opportunities-in-disguise/"
 wp:post_type: post
 redirects:

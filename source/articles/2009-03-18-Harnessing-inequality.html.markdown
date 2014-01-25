@@ -9,7 +9,6 @@ tags:
 - nptech
 - online
 - participation
-wp:post_id: '508'
 wp_link: "/2009/03/harnessing-inequality/"
 wp:post_type: post
 redirects:

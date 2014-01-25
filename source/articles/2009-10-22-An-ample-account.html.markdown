@@ -8,7 +8,6 @@ tags:
 - mississippi
 - publishing
 - reminisce
-wp:post_id: '872'
 wp_link: "/2009/10/an-ample-account/"
 wp:post_type: post
 failed_files:

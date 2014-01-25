@@ -5,7 +5,6 @@ tags:
 - meaning
 - word usage
 - writing
-wp:post_id: '142'
 wp_link: "/2007/08/verb-to-do/"
 wp:post_type: post
 redirects:

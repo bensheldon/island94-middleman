@@ -7,7 +7,6 @@ tags:
 - politics
 - progressive
 - rhetoric
-wp:post_id: '621'
 wp_link: "/2009/07/americas/"
 wp:post_type: post
 redirects:

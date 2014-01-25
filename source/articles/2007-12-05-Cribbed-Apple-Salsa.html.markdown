@@ -5,7 +5,6 @@ tags:
 - delicious
 - recipe
 - salsa
-wp:post_id: '184'
 wp_link: "/2007/12/cribbed-apple-salsa/"
 wp:post_type: post
 redirects:

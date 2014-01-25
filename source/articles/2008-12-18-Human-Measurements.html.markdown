@@ -2,7 +2,6 @@
 title: Human Measurements
 date: '2008-12-18'
 tags: []
-wp:post_id: '277'
 wp_link: "/2008/12/human-measurements/"
 wp:post_type: post
 redirects:

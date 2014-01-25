@@ -8,7 +8,6 @@ tags:
 - maps
 - participation-gap
 - public-data
-wp:post_id: '2322'
 wp_link: "/2010/12/public-data-vs-self-reporting/"
 wp:post_type: post
 redirects:

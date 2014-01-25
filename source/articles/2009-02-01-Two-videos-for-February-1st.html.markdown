@@ -8,7 +8,6 @@ tags:
 - jamaica-plain
 - rain
 - videos
-wp:post_id: '407'
 wp_link: "/2009/02/two-videos-for-february-1st/"
 wp:post_type: post
 redirects:

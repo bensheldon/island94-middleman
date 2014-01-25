@@ -5,7 +5,6 @@ tags:
 - leadership
 - privilege
 - rhetoric
-wp:post_id: '1875'
 wp_link: "/2010/04/leaders-and-privileged-voices/"
 wp:post_type: post
 redirects:

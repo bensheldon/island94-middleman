@@ -4,7 +4,6 @@ date: '2008-06-20'
 tags:
 - internet
 - search
-wp:post_id: '227'
 wp_link: "/2008/06/lumifi-search-widget/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - best-practice
 - nonprofit
 - poetry
-wp:post_id: '2215'
 wp_link: "/2010/09/mystics-poets-and-best-practices/"
 wp:post_type: post
 redirects:

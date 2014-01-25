@@ -5,7 +5,6 @@ tags:
 - mapping
 - sarcasm
 - uncrime
-wp:post_id: '2696'
 wp_link: "/2011/06/uncrime-mapping/"
 wp:post_type: post
 failed_files:

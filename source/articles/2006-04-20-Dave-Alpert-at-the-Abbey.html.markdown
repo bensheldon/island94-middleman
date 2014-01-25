@@ -7,7 +7,6 @@ tags:
 - bootleg
 - Dave Alpert
 - mp3
-wp:post_id: '41'
 wp_link: "/2006/04/dave-alpert-at-the-abbey/"
 wp:post_type: post
 failed_files:

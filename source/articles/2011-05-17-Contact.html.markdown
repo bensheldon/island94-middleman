@@ -2,7 +2,6 @@
 title: Contact
 date: '2011-05-17'
 tags: []
-wp:post_id: '2657'
 wp_link: "/contact/"
 wp:post_type: page
 redirects:

@@ -6,7 +6,6 @@ tags:
 - identity
 - logo
 - nonprofit
-wp:post_id: '123'
 wp_link: "/2007/03/but-its-just-a-logo/"
 wp:post_type: post
 redirects:

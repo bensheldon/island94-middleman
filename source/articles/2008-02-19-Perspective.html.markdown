@@ -5,7 +5,6 @@ tags:
 - aging
 - philosophy
 - politics
-wp:post_id: '202'
 wp_link: "/2008/02/perspective/"
 wp:post_type: post
 redirects:

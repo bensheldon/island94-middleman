@@ -6,7 +6,6 @@ tags:
 - pr
 - sales
 - weasel-words
-wp:post_id: '504'
 wp_link: "/2009/02/press-release-rhythm/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - architecture
 - detective story
 - fiction
-wp:post_id: '130'
 wp_link: "/2007/04/new-england-construction/"
 wp:post_type: post
 redirects:

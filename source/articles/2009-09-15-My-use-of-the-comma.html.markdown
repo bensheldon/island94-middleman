@@ -5,7 +5,6 @@ tags:
 - authorship
 - punctuation
 - writing
-wp:post_id: '735'
 wp_link: "/2009/09/my-use-of-the-comma/"
 wp:post_type: post
 redirects:

@@ -6,7 +6,6 @@ tags:
 - career
 - nonprofit
 - strategy
-wp:post_id: '134'
 wp_link: "/2007/07/should-i-get-a-nonprofit-job/"
 wp:post_type: post
 redirects:

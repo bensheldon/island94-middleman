@@ -7,7 +7,6 @@ tags:
 - media
 - news
 - press
-wp:post_id: '2365'
 wp_link: "/2010/12/boston-bike-crash-map-in-the-news/"
 wp:post_type: post
 failed_files:

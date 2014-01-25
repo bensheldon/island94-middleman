@@ -6,7 +6,6 @@ tags:
 - employment
 - example
 - writing
-wp:post_id: '274'
 wp_link: "/2008/12/how-to-write-a-cover-letter-for-a-job-application/"
 wp:post_type: post
 redirects:

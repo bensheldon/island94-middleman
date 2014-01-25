@@ -6,7 +6,6 @@ tags:
 - Netherlands
 - travel
 - Travels with Lisa
-wp:post_id: '65'
 wp_link: "/2006/07/zandvoort/"
 wp:post_type: post
 redirects:

@@ -12,7 +12,6 @@ tags:
 - song
 - trees
 - video
-wp:post_id: '112'
 wp_link: "/2006/12/happy-birthday-rebecca/"
 wp:post_type: post
 failed_files:

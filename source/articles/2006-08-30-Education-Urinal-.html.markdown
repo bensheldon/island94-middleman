@@ -5,7 +5,6 @@ tags:
 - DC
 - education
 - urinal
-wp:post_id: '94'
 wp_link: "/2006/08/education-urinal/"
 wp:post_type: post
 redirects:

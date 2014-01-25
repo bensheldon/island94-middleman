@@ -5,7 +5,6 @@ tags:
 - conference
 - keynote
 - nonprofits
-wp:post_id: '155'
 wp_link: "/2007/09/opinion-on-nonprofits/"
 wp:post_type: post
 redirects:

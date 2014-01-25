@@ -5,7 +5,6 @@ tags:
 - marketing
 - nonprofit
 - questions
-wp:post_id: '258'
 wp_link: "/2008/10/questions-for-external-brand-interviews/"
 wp:post_type: post
 redirects:

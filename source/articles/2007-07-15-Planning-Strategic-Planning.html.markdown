@@ -5,7 +5,6 @@ tags:
 - advice
 - nonprofit
 - strategic planning
-wp:post_id: '133'
 wp_link: "/2007/07/planning-strategic-planning/"
 wp:post_type: post
 redirects:

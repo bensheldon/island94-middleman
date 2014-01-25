@@ -3,7 +3,6 @@ title: Nonprofit Discretionary Tests
 date: '2009-07-02'
 tags: []
 published: false
-wp:post_id: '619'
 wp_link: "/?p=619"
 wp:post_type: post
 redirects:

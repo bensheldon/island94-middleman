@@ -6,7 +6,6 @@ tags:
 - math
 - numbers
 - scrabble
-wp:post_id: '1826'
 wp_link: "/2010/03/frequency-of-occurrence-of-letters-in-english/"
 wp:post_type: post
 redirects:

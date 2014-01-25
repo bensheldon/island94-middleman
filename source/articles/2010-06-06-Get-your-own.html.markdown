@@ -6,7 +6,6 @@ tags:
 - oh-hai
 - ponty
 - sleep
-wp:post_id: '2020'
 wp_link: "/2010/06/get-your-own/"
 wp:post_type: post
 failed_files:

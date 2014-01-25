@@ -5,7 +5,6 @@ tags:
 - language
 - nonprofit
 - service
-wp:post_id: '265'
 wp_link: "/2008/10/community-organizer-equals-community-outreach-minister/"
 wp:post_type: post
 redirects:

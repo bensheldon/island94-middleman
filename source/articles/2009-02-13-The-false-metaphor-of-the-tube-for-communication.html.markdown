@@ -8,7 +8,6 @@ tags:
 - information
 - internet
 - philosophy
-wp:post_id: '475'
 wp_link: "/2009/02/the-false-metaphor-of-the-tube-for-communication/"
 wp:post_type: post
 redirects:

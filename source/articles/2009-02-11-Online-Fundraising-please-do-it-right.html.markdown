@@ -9,7 +9,6 @@ tags:
 - fundraising
 - nonprofit
 - practice
-wp:post_id: '456'
 wp_link: "/2009/02/online-fundraising-please-do-it-right/"
 wp:post_type: post
 redirects:

@@ -7,7 +7,6 @@ tags:
 - planes
 - smithsonian
 - space
-wp:post_id: '93'
 wp_link: "/2006/08/planes-galore/"
 wp:post_type: post
 failed_files:

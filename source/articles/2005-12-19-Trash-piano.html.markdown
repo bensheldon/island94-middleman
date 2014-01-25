@@ -6,7 +6,6 @@ tags:
 - photos
 - piano
 - Southie
-wp:post_id: '26'
 wp_link: "/2005/12/trash-piano/"
 wp:post_type: post
 redirects:

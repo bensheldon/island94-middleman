@@ -6,7 +6,6 @@ tags:
 - nmba
 - nonprofit
 - zilch
-wp:post_id: '2114'
 wp_link: "/2010/07/zilch-for-a-nonprofit/"
 wp:post_type: post
 redirects:

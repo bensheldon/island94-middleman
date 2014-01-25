@@ -6,7 +6,6 @@ tags:
 - religion
 - shut-up
 - silence
-wp:post_id: '416'
 wp_link: "/2009/02/notes-on-silence/"
 wp:post_type: post
 redirects:

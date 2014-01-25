@@ -10,7 +10,6 @@ tags:
 - Santa Barbara
 - solstice
 - summer
-wp:post_id: '55'
 wp_link: "/2006/07/santa-barbara-summer-solstice-2006/"
 wp:post_type: post
 failed_files:

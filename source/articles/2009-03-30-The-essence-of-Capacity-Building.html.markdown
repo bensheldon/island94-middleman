@@ -6,7 +6,6 @@ tags:
 - deep-thoughts
 - nonprofit
 - nptech
-wp:post_id: '596'
 wp_link: "/2009/03/the-essence-of-capacity-building/"
 wp:post_type: post
 redirects:

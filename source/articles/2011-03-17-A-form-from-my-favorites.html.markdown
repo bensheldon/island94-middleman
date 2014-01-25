@@ -6,7 +6,6 @@ tags:
 - human-interface
 - pride
 - webdesign
-wp:post_id: '2549'
 wp_link: "/2011/03/a-form-from-my-favorites/"
 wp:post_type: post
 redirects:

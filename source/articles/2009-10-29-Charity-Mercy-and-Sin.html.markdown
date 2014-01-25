@@ -7,7 +7,6 @@ tags:
 - philanthropy
 - religion
 - sin
-wp:post_id: '927'
 wp_link: "/2009/10/charity-mercy-and-sin/"
 wp:post_type: post
 redirects:

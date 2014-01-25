@@ -7,7 +7,6 @@ tags:
 - graphic
 - looks-like-a-nail
 - political
-wp:post_id: '2236'
 wp_link: "/2010/10/when-all-you-have-is-a-hammer/"
 wp:post_type: post
 redirects:

@@ -7,7 +7,6 @@ tags:
 - funding
 - nonprofit
 - starvation
-wp:post_id: '931'
 wp_link: "/2009/10/starvation-begets-starvation/"
 wp:post_type: post
 redirects:

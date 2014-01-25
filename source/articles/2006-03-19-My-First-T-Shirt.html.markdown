@@ -7,7 +7,6 @@ tags:
 - DigitalBicycle
 - fashion
 - shirt
-wp:post_id: '30'
 wp_link: "/2006/03/my-first-t-shirt/"
 wp:post_type: post
 redirects:

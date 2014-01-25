@@ -7,7 +7,6 @@ tags:
 - imperative
 - technology
 - zen
-wp:post_id: '1749'
 wp_link: "/2010/02/criticism-for-everyone/"
 wp:post_type: post
 redirects:

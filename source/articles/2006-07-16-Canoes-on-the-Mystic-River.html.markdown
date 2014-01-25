@@ -10,7 +10,6 @@ tags:
 - Mystic River
 - photos
 - Saul
-wp:post_id: '72'
 wp_link: "/2006/07/canoes-on-the-mystic-river/"
 wp:post_type: post
 redirects:

@@ -5,7 +5,6 @@ tags:
 - advice
 - authenticity
 - writing
-wp:post_id: '540'
 wp_link: "/2009/03/pratfalls-to-writing-authentically/"
 wp:post_type: post
 redirects:

@@ -6,7 +6,6 @@ tags:
 - Lowell
 - photos
 - winter
-wp:post_id: '24'
 wp_link: "/2005/12/a-hole-in-the-ice/"
 wp:post_type: post
 redirects:

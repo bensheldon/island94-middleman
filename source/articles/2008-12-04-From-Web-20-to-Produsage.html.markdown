@@ -7,7 +7,6 @@ tags:
 - produsage
 - social media
 - Web 2.0
-wp:post_id: '276'
 wp_link: "/2008/12/from-web-2-to-produsage/"
 wp:post_type: post
 redirects:

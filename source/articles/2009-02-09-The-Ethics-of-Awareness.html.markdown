@@ -7,7 +7,6 @@ tags:
 - hypocrisy
 - knowledge
 - relativism
-wp:post_id: '437'
 wp_link: "/2009/02/the-ethics-of-awareness/"
 wp:post_type: post
 redirects:

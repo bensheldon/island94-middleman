@@ -5,7 +5,6 @@ tags:
 - civic literacy
 - critique
 - nonprofit
-wp:post_id: '171'
 wp_link: "/2007/11/criticism-of-civic-literacy/"
 wp:post_type: post
 redirects:

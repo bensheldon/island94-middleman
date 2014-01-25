@@ -6,7 +6,6 @@ tags:
 - competiitions
 - language
 - rhetoric
-wp:post_id: '2815'
 wp_link: "/2011/09/where-rhetoric-is-substance/"
 wp:post_type: post
 redirects:

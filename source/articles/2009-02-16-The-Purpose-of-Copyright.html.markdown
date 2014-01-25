@@ -7,7 +7,6 @@ tags:
 - history
 - law
 - rhetoric
-wp:post_id: '491'
 wp_link: "/2009/02/the-purpose-of-copyright/"
 wp:post_type: post
 redirects:
