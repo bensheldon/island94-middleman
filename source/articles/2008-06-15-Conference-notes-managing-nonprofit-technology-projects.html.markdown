@@ -5,8 +5,11 @@ tags:
 - Drupal
 - technology
 wp:post_id: '223'
-wp_link: /2008/06/conference-notes-managing-nonprofit-technology-projects/
+wp_link: "/2008/06/conference-notes-managing-nonprofit-technology-projects/"
 wp:post_type: post
+redirects:
+- "/2008/06/conference-notes:-managing-nonprofit-technology-projects-/"
+- "/2008/06/conference-notes:-managing-nonprofit-technology-projects-/"
 ---
 
 Notes from Rebecca below on managing nonprofit technology projects

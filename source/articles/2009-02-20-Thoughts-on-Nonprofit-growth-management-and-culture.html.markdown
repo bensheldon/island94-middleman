@@ -8,7 +8,7 @@ tags:
 - nonprofit
 - values
 wp:post_id: '502'
-wp_link: /2009/02/thoughts-on-nonprofit-growth-management-and-culture/
+wp_link: "/2009/02/thoughts-on-nonprofit-growth-management-and-culture/"
 wp:post_type: post
 ---
 

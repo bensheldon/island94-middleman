@@ -7,8 +7,10 @@ tags:
 - logo
 - nonprofit
 wp:post_id: '123'
-wp_link: /2007/03/but-its-just-a-logo/
+wp_link: "/2007/03/but-its-just-a-logo/"
 wp:post_type: post
+redirects:
+- "/2007/03/but-it\\'s-just-a-logo/"
 ---
 
 I'm currently helping out a small group of [Digital Storytellers](http://www.storycenter.org/index1.html) in the process of designing and launching a new community website. We put the project out as a Request for Proposals (RFP) and are now working with a webdeveloper. As a webdeveloper myself, I've learned a lot about the process from the other side.

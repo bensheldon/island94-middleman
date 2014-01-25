@@ -8,7 +8,7 @@ tags:
 - systemic-change
 - technology
 wp:post_id: '635'
-wp_link: /2009/07/media-and-radical-technology/
+wp_link: "/2009/07/media-and-radical-technology/"
 wp:post_type: post
 ---
 

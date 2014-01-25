@@ -3,7 +3,7 @@ title: Now exhale
 date: '2013-09-17'
 tags: []
 wp:post_id: '3107'
-wp_link: /2013/09/now-exhale/
+wp_link: "/2013/09/now-exhale/"
 wp:post_type: post
 ---
 

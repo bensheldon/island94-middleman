@@ -3,7 +3,7 @@ title: Critical Thinking contextualized
 date: '2009-12-29'
 tags: []
 wp:post_id: '1628'
-wp_link: /2009/12/critical-thinking-contextualized/
+wp_link: "/2009/12/critical-thinking-contextualized/"
 wp:post_type: post
 ---
 

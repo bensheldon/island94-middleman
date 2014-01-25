@@ -6,7 +6,7 @@ tags:
 - movie
 - politics
 wp:post_id: '186'
-wp_link: /2007/12/king-corn/
+wp_link: "/2007/12/king-corn/"
 wp:post_type: post
 ---
 

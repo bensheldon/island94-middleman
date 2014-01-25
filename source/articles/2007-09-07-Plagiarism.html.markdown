@@ -7,7 +7,7 @@ tags:
 - musings
 - plagiarism
 wp:post_id: '150'
-wp_link: /2007/09/plagiarism/
+wp_link: "/2007/09/plagiarism/"
 wp:post_type: post
 ---
 

@@ -10,7 +10,7 @@ tags:
 - project
 - publishing
 wp:post_id: '1795'
-wp_link: /2010/02/laying-out-latest-layout/
+wp_link: "/2010/02/laying-out-latest-layout/"
 wp:post_type: post
 ---
 

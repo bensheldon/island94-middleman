@@ -7,7 +7,7 @@ tags:
 - Television
 - video
 wp:post_id: '119'
-wp_link: /2007/02/the-future-of-cable-access/
+wp_link: "/2007/02/the-future-of-cable-access/"
 wp:post_type: post
 ---
 

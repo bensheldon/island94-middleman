@@ -3,7 +3,7 @@ title: Content Map
 date: '2005-11-26'
 tags: []
 wp:post_id: '15'
-wp_link: /2005/11/content-map/
+wp_link: "/2005/11/content-map/"
 wp:post_type: post
 ---
 

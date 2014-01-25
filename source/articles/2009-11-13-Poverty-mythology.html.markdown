@@ -3,7 +3,7 @@ title: Poverty mythology
 date: '2009-11-13'
 tags: []
 wp:post_id: '1019'
-wp_link: /2009/11/poverty-mythology/
+wp_link: "/2009/11/poverty-mythology/"
 wp:post_type: post
 ---
 

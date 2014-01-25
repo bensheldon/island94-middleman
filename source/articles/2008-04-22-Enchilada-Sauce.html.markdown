@@ -5,7 +5,7 @@ tags:
 - food
 - recipe
 wp:post_id: '217'
-wp_link: /2008/04/enchilada-sauce/
+wp_link: "/2008/04/enchilada-sauce/"
 wp:post_type: post
 ---
 

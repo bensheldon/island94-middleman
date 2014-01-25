@@ -6,7 +6,7 @@ tags:
 - language
 - wordplay
 wp:post_id: '1770'
-wp_link: /2010/02/quality-of-life-mind-and-language/
+wp_link: "/2010/02/quality-of-life-mind-and-language/"
 wp:post_type: post
 ---
 

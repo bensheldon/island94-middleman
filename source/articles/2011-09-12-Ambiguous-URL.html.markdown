@@ -6,7 +6,7 @@ tags:
 - urls
 - web
 wp:post_id: '2822'
-wp_link: /2011/09/ambiguous-url/
+wp_link: "/2011/09/ambiguous-url/"
 wp:post_type: post
 ---
 

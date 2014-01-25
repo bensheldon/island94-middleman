@@ -6,7 +6,7 @@ tags:
 - humans
 - nonprofit
 wp:post_id: '2025'
-wp_link: /2010/06/forces-of-organizational-entry/
+wp_link: "/2010/06/forces-of-organizational-entry/"
 wp:post_type: post
 ---
 

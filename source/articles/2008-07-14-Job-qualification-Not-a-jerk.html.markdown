@@ -6,8 +6,10 @@ tags:
 - hiring
 - jobs
 wp:post_id: '234'
-wp_link: /2008/07/job-qualification-not-a-jerk/
+wp_link: "/2008/07/job-qualification-not-a-jerk/"
 wp:post_type: post
+redirects:
+- "/2008/07/job-qualification:-not-a-jerk/"
 ---
 
 [Home Alone movie](http://www.womeningreen.org/?home_alone)

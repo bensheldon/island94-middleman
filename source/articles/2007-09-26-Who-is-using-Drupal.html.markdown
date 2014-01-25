@@ -6,7 +6,7 @@ tags:
 - examples
 - webdesign
 wp:post_id: '157'
-wp_link: /2007/09/who-is-using-drupal?/
+wp_link: "/2007/09/who-is-using-drupal?/"
 wp:post_type: post
 ---
 

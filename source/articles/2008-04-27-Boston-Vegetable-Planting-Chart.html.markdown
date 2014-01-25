@@ -9,7 +9,7 @@ tags:
 - navigation
 - portfolio
 wp:post_id: '218'
-wp_link: /2008/04/boston-vegetable-planting-chart/
+wp_link: "/2008/04/boston-vegetable-planting-chart/"
 wp:post_type: post
 ---
 

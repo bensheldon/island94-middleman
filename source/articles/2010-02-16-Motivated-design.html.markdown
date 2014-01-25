@@ -6,7 +6,7 @@ tags:
 - dialogue
 - philosophy
 wp:post_id: '1762'
-wp_link: /2010/02/motivated-design/
+wp_link: "/2010/02/motivated-design/"
 wp:post_type: post
 ---
 

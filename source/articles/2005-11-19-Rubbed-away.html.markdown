@@ -7,7 +7,7 @@ tags:
 - subway
 - T
 wp:post_id: '9'
-wp_link: /2005/11/rubbed-away/
+wp_link: "/2005/11/rubbed-away/"
 wp:post_type: post
 ---
 

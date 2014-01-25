@@ -4,7 +4,7 @@ date: '2008-02-27'
 tags:
 - spreadsheets
 wp:post_id: '203'
-wp_link: /2008/02/excel-escape-characters/
+wp_link: "/2008/02/excel-escape-characters/"
 wp:post_type: post
 ---
 

@@ -8,7 +8,7 @@ tags:
 - poetry
 - rocks
 wp:post_id: '161'
-wp_link: /2007/10/puddingstone/
+wp_link: "/2007/10/puddingstone/"
 wp:post_type: post
 ---
 

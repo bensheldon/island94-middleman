@@ -3,7 +3,7 @@ title: On the bookshelf
 date: '2006-03-21'
 tags: []
 wp:post_id: '32'
-wp_link: /2006/03/on-the-bookshelf/
+wp_link: "/2006/03/on-the-bookshelf/"
 wp:post_type: post
 ---
 

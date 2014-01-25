@@ -9,7 +9,7 @@ tags:
 - nagging
 - religion
 wp:post_id: '845'
-wp_link: /2009/10/god-didnt-do-best-practices/
+wp_link: "/2009/10/god-didnt-do-best-practices/"
 wp:post_type: post
 ---
 

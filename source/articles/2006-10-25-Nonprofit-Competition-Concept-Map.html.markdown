@@ -7,8 +7,10 @@ tags:
 - operations
 - strategy
 wp:post_id: '104'
-wp_link: /2006/10/nonprofit-competition-concept-map/
+wp_link: "/2006/10/nonprofit-competition-concept-map/"
 wp:post_type: post
+redirects:
+- "/2006/10/nonprofit-competition-&-concept-map/"
 ---
 
 At this summer's CTCnet Conference the thing I most took away--or rather, repeated to the most number of people--was something said by the keynote speaker, Ami Dar, the creator of Idealist.org.

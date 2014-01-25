@@ -6,7 +6,7 @@ tags:
 - language
 - politics
 wp:post_id: '246'
-wp_link: /2008/08/failure-of-confidence/
+wp_link: "/2008/08/failure-of-confidence/"
 wp:post_type: post
 ---
 

@@ -5,8 +5,10 @@ tags:
 - evaluation
 - ranking
 wp:post_id: '267'
-wp_link: /2008/11/when-good-is-better-than-best/
+wp_link: "/2008/11/when-good-is-better-than-best/"
 wp:post_type: post
+redirects:
+- "/2008/11/when-\"good\"-is-better-than-\"best\"/"
 ---
 
 I ran across this interesting quote from Bruce Schneier on a competition for choosing a [new general secure hash function](http://www.schneier.com/blog/archives/2008/10/the_skein_hash.html):

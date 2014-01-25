@@ -10,7 +10,7 @@ tags:
 - tao
 - zen
 wp:post_id: '1754'
-wp_link: /2010/02/a-temperance-of-words/
+wp_link: "/2010/02/a-temperance-of-words/"
 wp:post_type: post
 ---
 

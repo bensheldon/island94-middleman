@@ -9,7 +9,7 @@ tags:
 - ownership
 - the-beatles
 wp:post_id: '748'
-wp_link: /2009/10/but-licensed-in-how-many-dimensions/
+wp_link: "/2009/10/but-licensed-in-how-many-dimensions/"
 wp:post_type: post
 ---
 

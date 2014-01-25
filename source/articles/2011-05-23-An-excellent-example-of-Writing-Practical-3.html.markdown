@@ -8,7 +8,7 @@ tags:
 - strategy
 - writing
 wp:post_id: '2663'
-wp_link: /2011/05/an-excellent-example-of-writing-practical-3/
+wp_link: "/2011/05/an-excellent-example-of-writing-practical-3/"
 wp:post_type: post
 ---
 

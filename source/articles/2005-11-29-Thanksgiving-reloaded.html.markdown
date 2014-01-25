@@ -11,7 +11,7 @@ tags:
 - Thanksgiving
 - turkey
 wp:post_id: '18'
-wp_link: /2005/11/thanksgiving-reloaded/
+wp_link: "/2005/11/thanksgiving-reloaded/"
 wp:post_type: post
 ---
 

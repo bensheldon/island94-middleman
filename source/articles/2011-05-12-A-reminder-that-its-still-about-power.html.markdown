@@ -8,7 +8,7 @@ tags:
 - philanthropy
 - power
 wp:post_id: '2648'
-wp_link: /2011/05/a-reminder-that-its-still-about-power/
+wp_link: "/2011/05/a-reminder-that-its-still-about-power/"
 wp:post_type: post
 ---
 

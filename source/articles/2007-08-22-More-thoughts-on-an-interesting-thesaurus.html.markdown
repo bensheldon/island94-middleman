@@ -8,7 +8,7 @@ tags:
 - panlexicon
 - thesaurus
 wp:post_id: '139'
-wp_link: /2007/08/more-thoughts-on-an-interesting-thesaurus/
+wp_link: "/2007/08/more-thoughts-on-an-interesting-thesaurus/"
 wp:post_type: post
 ---
 

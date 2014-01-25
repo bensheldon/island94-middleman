@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - trade
 wp:post_id: '2201'
-wp_link: /2010/09/commodity-work/
+wp_link: "/2010/09/commodity-work/"
 wp:post_type: post
 ---
 

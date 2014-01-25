@@ -8,7 +8,7 @@ tags:
 - photo
 - photography
 wp:post_id: '707'
-wp_link: /2009/09/my-featured-dead-cockroach/
+wp_link: "/2009/09/my-featured-dead-cockroach/"
 wp:post_type: post
 ---
 

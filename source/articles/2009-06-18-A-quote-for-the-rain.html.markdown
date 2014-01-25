@@ -3,7 +3,7 @@ title: A quote for the rain
 date: '2009-06-18'
 tags: []
 wp:post_id: '612'
-wp_link: /2009/06/a-quote-for-the-rain/
+wp_link: "/2009/06/a-quote-for-the-rain/"
 wp:post_type: post
 ---
 

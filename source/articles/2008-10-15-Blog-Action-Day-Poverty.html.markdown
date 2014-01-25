@@ -6,8 +6,10 @@ tags:
 - meta
 - poverty
 wp:post_id: '262'
-wp_link: /2008/10/blog-action-day-poverty/
+wp_link: "/2008/10/blog-action-day-poverty/"
 wp:post_type: post
+redirects:
+- "/2008/10/blog-action-day:-poverty/"
 ---
 
 Today is [Blog Action Day](http://blogactionday.org/) and this year's topic is **Poverty**. Since I've [recently written](http://island94.org/tags/poverty) about poverty directly, today I'll be more lateral:

@@ -7,7 +7,7 @@ tags:
 - science
 - visualizations
 wp:post_id: '2275'
-wp_link: /2010/10/life-before-the-chart/
+wp_link: "/2010/10/life-before-the-chart/"
 wp:post_type: post
 ---
 

@@ -3,7 +3,7 @@ title: Judging reality and experience
 date: '2009-06-23'
 tags: []
 wp:post_id: '617'
-wp_link: /2009/06/judging-reality-and-experience/
+wp_link: "/2009/06/judging-reality-and-experience/"
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - language
 - organizing
 wp:post_id: '2095'
-wp_link: /2010/06/typology-versus-taxonomy/
+wp_link: "/2010/06/typology-versus-taxonomy/"
 wp:post_type: post
 ---
 

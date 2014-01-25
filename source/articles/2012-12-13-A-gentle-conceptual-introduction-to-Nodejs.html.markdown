@@ -6,7 +6,7 @@ tags:
 - javascript
 - programming
 wp:post_id: '3066'
-wp_link: /2012/12/a-gentle-conceptual-introduction-to-node-js/
+wp_link: "/2012/12/a-gentle-conceptual-introduction-to-node-js/"
 wp:post_type: post
 files:
 - http://www.island94.org/wp-content/uploads/2012/12/javascript-600x170.png

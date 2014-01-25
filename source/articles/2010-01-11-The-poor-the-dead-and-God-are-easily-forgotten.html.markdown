@@ -10,7 +10,7 @@ tags:
 - poverty
 - religion
 wp:post_id: '1681'
-wp_link: /2010/01/the-poor-the-dead-and-god-are-easily-forgotten/
+wp_link: "/2010/01/the-poor-the-dead-and-god-are-easily-forgotten/"
 wp:post_type: post
 ---
 

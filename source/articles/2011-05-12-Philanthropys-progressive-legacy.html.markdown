@@ -7,7 +7,7 @@ tags:
 - politics
 - progressivism
 wp:post_id: '2652'
-wp_link: /2011/05/philanthropys-progressive-legacy/
+wp_link: "/2011/05/philanthropys-progressive-legacy/"
 wp:post_type: post
 ---
 

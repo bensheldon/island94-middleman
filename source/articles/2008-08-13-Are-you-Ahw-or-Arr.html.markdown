@@ -5,8 +5,10 @@ tags:
 - cleaving
 - language
 wp:post_id: '241'
-wp_link: /2008/08/are-you-ahw-or-arr/
+wp_link: "/2008/08/are-you-ahw-or-arr/"
 wp:post_type: post
+redirects:
+- "/2008/08/are-you-ahw-or-arr"
 ---
 
 Via some [fun copy](http://gadgets.boingboing.net/2008/08/12/toastabags-grill-che.html) on BoingBoing Gadgets ("These "Toastabags" (phonemologically Bostonian, apparently...") and someone's [analytical comment](http://gadgets.boingboing.net/2008/08/12/toastabags-grill-che.html#comment-258382)

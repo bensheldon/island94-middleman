@@ -8,8 +8,10 @@ tags:
 - nonprofit
 - rhetoric
 wp:post_id: '2298'
-wp_link: /2010/11/goofus-gallant-mba/
+wp_link: "/2010/11/goofus-gallant-mba/"
 wp:post_type: post
+redirects:
+- "/2010/11/goofus-gallant-mbas/"
 ---
 
 [ ![](2010-11-09-Goofus-Gallant-MBA/Goofus-and-Gallant-MBA-500x223.png "Goofus and Gallant MBA") ](2010-11-09-Goofus-Gallant-MBA/Goofus-and-Gallant-MBA.png)

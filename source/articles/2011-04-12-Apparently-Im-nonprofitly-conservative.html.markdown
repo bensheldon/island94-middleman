@@ -7,7 +7,7 @@ tags:
 - policy
 - reform
 wp:post_id: '2455'
-wp_link: /2011/04/apparently-im-nonprofitly-conservative/
+wp_link: "/2011/04/apparently-im-nonprofitly-conservative/"
 wp:post_type: post
 ---
 

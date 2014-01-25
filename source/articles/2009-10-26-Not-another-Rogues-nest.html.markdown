@@ -7,10 +7,12 @@ tags:
 - mississippi
 - slant-rhyme
 wp:post_id: '890'
-wp_link: /2009/10/not-another-rogues-nest/
+wp_link: "/2009/10/not-another-rogues-nest/"
 wp:post_type: post
 failed_files:
 - http://www.island94.org/wp-content/uploads/2009/10/navigator-p161.jpg
+redirects:
+- "/2009/10/a-crow-but-not-a-rogues-nest/"
 ---
 
 [ ![navigator-p161](2009-10-26-Not-another-Rogues-nest/navigator-p161-500x851.jpg "navigator-p161") ](2009-10-26-Not-another-Rogues-nest/navigator-p161.jpeg)

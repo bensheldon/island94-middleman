@@ -7,7 +7,7 @@ tags:
 - newspapers
 - writing
 wp:post_id: '858'
-wp_link: /2009/10/speak-up-for-democracy/
+wp_link: "/2009/10/speak-up-for-democracy/"
 wp:post_type: post
 ---
 

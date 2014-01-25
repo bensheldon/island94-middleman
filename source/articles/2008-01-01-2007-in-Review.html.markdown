@@ -5,8 +5,10 @@ tags:
 - navel gazing
 - review
 wp:post_id: '198'
-wp_link: /2008/01/2007-in-review/
+wp_link: "/2008/01/2007-in-review/"
 wp:post_type: post
+redirects:
+- "/2008/01/2007-in-review-/"
 ---
 
 .!.

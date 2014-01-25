@@ -7,7 +7,7 @@ tags:
 - nonprofit
 - typology
 wp:post_id: '2088'
-wp_link: /2010/06/typology-of-social-giving-transactions/
+wp_link: "/2010/06/typology-of-social-giving-transactions/"
 wp:post_type: post
 ---
 

@@ -7,7 +7,7 @@ tags:
 - politics
 - rhetoric
 wp:post_id: '599'
-wp_link: /2009/05/business-rhetoric/
+wp_link: "/2009/05/business-rhetoric/"
 wp:post_type: post
 ---
 

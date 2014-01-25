@@ -4,7 +4,7 @@ date: '2012-11-18'
 tags:
 - navigation-2
 wp:post_id: '3028'
-wp_link: /2012/11/3028/
+wp_link: "/2012/11/3028/"
 wp:post_type: nav_menu_item
 ---
 

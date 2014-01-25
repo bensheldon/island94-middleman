@@ -8,7 +8,7 @@ tags:
 - rights
 - union
 wp:post_id: '278'
-wp_link: /2009/01/weingarten-rights/
+wp_link: "/2009/01/weingarten-rights/"
 wp:post_type: post
 ---
 

@@ -6,7 +6,7 @@ tags:
 - language
 - nonprofit
 wp:post_id: '247'
-wp_link: /2008/08/how-to-make-do-with-what-you-got/
+wp_link: "/2008/08/how-to-make-do-with-what-you-got/"
 wp:post_type: post
 ---
 

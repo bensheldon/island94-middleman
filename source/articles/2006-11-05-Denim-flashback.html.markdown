@@ -14,7 +14,7 @@ tags:
 - Southie
 - weather
 wp:post_id: '108'
-wp_link: /2006/11/denim-flashback/
+wp_link: "/2006/11/denim-flashback/"
 wp:post_type: post
 ---
 

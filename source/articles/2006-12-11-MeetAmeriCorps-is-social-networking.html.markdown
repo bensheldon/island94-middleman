@@ -13,8 +13,10 @@ tags:
 - webdesign
 - website
 wp:post_id: '111'
-wp_link: /2006/12/meetamericorps-is-social-networking/
+wp_link: "/2006/12/meetamericorps-is-social-networking/"
 wp:post_type: post
+redirects:
+- "/2006/12/meetamericorps-is-\"social-networking\"!/"
 ---
 
 My pet project, [MeetAmeriCorps.com](http://meetamericorps.com) has finally passed that development milestone that marks a "social network": Buddylists. To be a little more haute, we've decided to call them "contact lists", but the concept is the same: you can demarcate people who you like/know/want-to-be-on-your-contact-list.

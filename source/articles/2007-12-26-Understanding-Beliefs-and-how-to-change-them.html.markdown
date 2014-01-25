@@ -6,8 +6,10 @@ tags:
 - communications
 - psychology
 wp:post_id: '195'
-wp_link: /2007/12/understanding-beliefs-and-how-to-change-them/
+wp_link: "/2007/12/understanding-beliefs-and-how-to-change-them/"
 wp:post_type: post
+redirects:
+- "/2007/12/understanding-beliefs-(and-how-to-change-them)/"
 ---
 
 It's the holiday season which seems to make a lot of people think about beliefs. I'm thinking about this great book on my desk entitled [Communication Planning: An Integrated Approach](http://www.amazon.com/Communication-Planning-Integrated-Approach-Relations/dp/0761913149) by Sherry Devereaux Ferguson and reading the section on understanding the psychology of audiences (Chapter 7).

@@ -6,7 +6,7 @@ tags:
 - quotes
 - self
 wp:post_id: '1872'
-wp_link: /2010/04/quotes-on-self/
+wp_link: "/2010/04/quotes-on-self/"
 wp:post_type: post
 ---
 

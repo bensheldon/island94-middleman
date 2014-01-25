@@ -7,7 +7,7 @@ tags:
 - postmodern
 - zen
 wp:post_id: '559'
-wp_link: /2010/06/zen-and-the-art-of-postmodern-philosophy/
+wp_link: "/2010/06/zen-and-the-art-of-postmodern-philosophy/"
 wp:post_type: post
 ---
 

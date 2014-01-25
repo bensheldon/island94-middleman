@@ -5,7 +5,7 @@ tags:
 - language
 - politics
 wp:post_id: '204'
-wp_link: /2008/03/reject-or-denounce/
+wp_link: "/2008/03/reject-or-denounce/"
 wp:post_type: post
 ---
 

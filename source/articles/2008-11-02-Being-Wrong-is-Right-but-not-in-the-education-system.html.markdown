@@ -5,7 +5,7 @@ tags:
 - aging
 - children
 wp:post_id: '268'
-wp_link: /2008/11/being-wrong-is-right-but-not-in-the-education-system/
+wp_link: "/2008/11/being-wrong-is-right-but-not-in-the-education-system/"
 wp:post_type: post
 ---
 

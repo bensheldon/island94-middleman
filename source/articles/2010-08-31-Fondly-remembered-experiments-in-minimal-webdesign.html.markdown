@@ -9,7 +9,7 @@ tags:
 - taxonomy
 - webdesign
 wp:post_id: '2152'
-wp_link: /2010/08/fondly-remembered-experiments-in-minimal-webdesign/
+wp_link: "/2010/08/fondly-remembered-experiments-in-minimal-webdesign/"
 wp:post_type: post
 ---
 

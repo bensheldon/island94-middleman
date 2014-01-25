@@ -6,7 +6,7 @@ tags:
 - development
 - organizing
 wp:post_id: '2725'
-wp_link: /2011/06/developing-intent/
+wp_link: "/2011/06/developing-intent/"
 wp:post_type: post
 ---
 

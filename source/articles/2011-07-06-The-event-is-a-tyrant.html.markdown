@@ -7,7 +7,7 @@ tags:
 - news
 - writing
 wp:post_id: '2749'
-wp_link: /2011/07/the-event-is-a-tyrant/
+wp_link: "/2011/07/the-event-is-a-tyrant/"
 wp:post_type: post
 ---
 

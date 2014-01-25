@@ -6,7 +6,7 @@ tags:
 - Drupal
 - webdesign
 wp:post_id: '260'
-wp_link: /2008/10/making-recaptcha-not-suck/
+wp_link: "/2008/10/making-recaptcha-not-suck/"
 wp:post_type: post
 ---
 

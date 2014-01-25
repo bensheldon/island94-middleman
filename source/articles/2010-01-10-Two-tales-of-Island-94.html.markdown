@@ -6,7 +6,7 @@ tags:
 - mississippi
 - story
 wp:post_id: '1673'
-wp_link: /2010/01/two-tales-of-island-94/
+wp_link: "/2010/01/two-tales-of-island-94/"
 wp:post_type: post
 ---
 

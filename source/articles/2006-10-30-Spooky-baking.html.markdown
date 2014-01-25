@@ -12,7 +12,7 @@ tags:
 - medford
 - photos
 wp:post_id: '105'
-wp_link: /2006/10/spooky-baking/
+wp_link: "/2006/10/spooky-baking/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/halloween_cooke_tableau.png

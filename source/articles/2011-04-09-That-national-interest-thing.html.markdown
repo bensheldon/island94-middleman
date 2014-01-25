@@ -7,7 +7,7 @@ tags:
 - nonprofits
 - politics
 wp:post_id: '2563'
-wp_link: /2011/04/that-national-interest-thing/
+wp_link: "/2011/04/that-national-interest-thing/"
 wp:post_type: post
 ---
 

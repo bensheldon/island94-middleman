@@ -8,7 +8,7 @@ tags:
 - philanthropy
 - spam
 wp:post_id: '1743'
-wp_link: /2010/02/ethical-flexibility-for-export/
+wp_link: "/2010/02/ethical-flexibility-for-export/"
 wp:post_type: post
 ---
 

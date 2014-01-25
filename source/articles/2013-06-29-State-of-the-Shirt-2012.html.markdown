@@ -6,7 +6,7 @@ tags:
 - review
 - summary
 wp:post_id: '3093'
-wp_link: /2013/06/state-of-the-shirt-2012/
+wp_link: "/2013/06/state-of-the-shirt-2012/"
 wp:post_type: post
 files:
 - http://www.island94.org/wp-content/uploads/2013/06/dayoftheshirt-2012.png

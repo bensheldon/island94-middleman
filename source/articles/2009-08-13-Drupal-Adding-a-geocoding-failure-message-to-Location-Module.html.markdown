@@ -11,7 +11,7 @@ tags:
 - stupid
 - warning
 wp:post_id: '676'
-wp_link: /2009/08/drupal-adding-a-geocoding-failure-message/
+wp_link: "/2009/08/drupal-adding-a-geocoding-failure-message/"
 wp:post_type: post
 ---
 

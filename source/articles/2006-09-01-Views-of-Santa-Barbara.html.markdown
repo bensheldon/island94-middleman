@@ -3,7 +3,7 @@ title: Views of Santa Barbara
 date: '2006-09-01'
 tags: []
 wp:post_id: '95'
-wp_link: /2006/09/views-of-santa-barbara/
+wp_link: "/2006/09/views-of-santa-barbara/"
 wp:post_type: post
 ---
 

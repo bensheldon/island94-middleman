@@ -9,7 +9,7 @@ tags:
 - technology
 - welcome
 wp:post_id: '810'
-wp_link: /2009/10/welcome-grassroots-users-of-technology/
+wp_link: "/2009/10/welcome-grassroots-users-of-technology/"
 wp:post_type: post
 ---
 

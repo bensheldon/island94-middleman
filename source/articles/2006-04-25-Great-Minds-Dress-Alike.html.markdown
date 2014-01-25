@@ -7,7 +7,7 @@ tags:
 - Participatory Culture
 - shirt
 wp:post_id: '42'
-wp_link: /2006/04/great-minds-dress-alike/
+wp_link: "/2006/04/great-minds-dress-alike/"
 wp:post_type: post
 ---
 

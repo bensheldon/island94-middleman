@@ -12,7 +12,7 @@ tags:
 - nptech
 - technology
 wp:post_id: '110'
-wp_link: /2006/11/nonprofit-technology-sandwich/
+wp_link: "/2006/11/nonprofit-technology-sandwich/"
 wp:post_type: post
 ---
 

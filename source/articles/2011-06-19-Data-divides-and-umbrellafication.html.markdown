@@ -6,7 +6,7 @@ tags:
 - data
 - data-leadership
 wp:post_id: '2716'
-wp_link: /2011/06/data-divides-and-umbrellafication/
+wp_link: "/2011/06/data-divides-and-umbrellafication/"
 wp:post_type: post
 ---
 

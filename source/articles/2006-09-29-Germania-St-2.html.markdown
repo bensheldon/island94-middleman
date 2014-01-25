@@ -9,8 +9,10 @@ tags:
 - painting
 - watercolor
 wp:post_id: '100'
-wp_link: /2006/09/germania-st-2/
+wp_link: "/2006/09/germania-st-2/"
 wp:post_type: post
+redirects:
+- "/2006/09/germania-st-"
 ---
 
 [ ![Germania St. #2](http://static.flickr.com/108/256026865_cf2e71cdc8_o.jpg) ](http://www.flickr.com/photos/bensheldon/256026865/ "Photo Sharing")

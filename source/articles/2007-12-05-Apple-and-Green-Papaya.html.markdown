@@ -6,7 +6,7 @@ tags:
 - experiment
 - recipe
 wp:post_id: '185'
-wp_link: /2007/12/apple-and-green-papaya/
+wp_link: "/2007/12/apple-and-green-papaya/"
 wp:post_type: post
 ---
 

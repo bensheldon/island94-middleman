@@ -4,7 +4,7 @@ date: '2007-08-26'
 tags:
 - Drupal
 wp:post_id: '140'
-wp_link: /2007/08/unintuitive:-check/
+wp_link: "/2007/08/unintuitive:-check/"
 wp:post_type: post
 ---
 

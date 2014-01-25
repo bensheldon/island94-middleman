@@ -6,7 +6,7 @@ tags:
 - geeking
 - osx
 wp:post_id: '151'
-wp_link: /2007/09/setting-up-octave-and-gnuplot-on-osx/
+wp_link: "/2007/09/setting-up-octave-and-gnuplot-on-osx/"
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - office
 - productivity
 wp:post_id: '106'
-wp_link: /2006/10/office-faceoff/
+wp_link: "/2006/10/office-faceoff/"
 wp:post_type: post
 ---
 

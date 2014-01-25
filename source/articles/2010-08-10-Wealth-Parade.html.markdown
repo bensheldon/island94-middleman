@@ -6,8 +6,10 @@ tags:
 - metaphor
 - wealth
 wp:post_id: '2121'
-wp_link: /2010/08/wealth-parade/
+wp_link: "/2010/08/wealth-parade/"
 wp:post_type: post
+redirects:
+- "/2010/08/wealth-procession/"
 ---
 
 From _The Number's Game: the commonsense guide to understanding numbers in the news, in politics and life_, by Michael Blastland and Andrew Dilnot; on wealth and averages:

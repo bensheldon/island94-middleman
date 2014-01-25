@@ -6,7 +6,7 @@ tags:
 - economics
 - politics
 wp:post_id: '180'
-wp_link: /2007/12/consumption-and-deregulation/
+wp_link: "/2007/12/consumption-and-deregulation/"
 wp:post_type: post
 ---
 

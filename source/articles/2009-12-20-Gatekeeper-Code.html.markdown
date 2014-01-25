@@ -7,7 +7,7 @@ tags:
 - programming-code
 - weeding
 wp:post_id: '1599'
-wp_link: /2009/12/gatekeeper-code/
+wp_link: "/2009/12/gatekeeper-code/"
 wp:post_type: post
 ---
 

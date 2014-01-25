@@ -7,7 +7,7 @@ tags:
 - me
 - nonprofit
 wp:post_id: '2785'
-wp_link: /2011/07/similar-message-wider-audience/
+wp_link: "/2011/07/similar-message-wider-audience/"
 wp:post_type: post
 ---
 

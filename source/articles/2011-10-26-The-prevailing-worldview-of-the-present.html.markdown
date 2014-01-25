@@ -8,7 +8,7 @@ tags:
 - ideology
 - religion
 wp:post_id: '2933'
-wp_link: /2011/10/the-prevailing-worldview-of-the-present/
+wp_link: "/2011/10/the-prevailing-worldview-of-the-present/"
 wp:post_type: post
 ---
 

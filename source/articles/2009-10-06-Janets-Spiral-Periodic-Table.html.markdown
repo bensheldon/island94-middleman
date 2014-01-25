@@ -3,7 +3,7 @@ title: Janets Spiral Periodic Table
 date: '2009-10-06'
 tags: []
 wp:post_id: '763'
-wp_link: /2009/10/janets-spiral-periodic-table/
+wp_link: "/2009/10/janets-spiral-periodic-table/"
 wp:post_type: post
 ---
 

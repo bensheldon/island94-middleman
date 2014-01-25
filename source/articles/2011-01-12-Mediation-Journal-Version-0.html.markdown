@@ -7,7 +7,7 @@ tags:
 - publishing
 - writing
 wp:post_id: '2409'
-wp_link: /2011/01/mediation-journal-version-0/
+wp_link: "/2011/01/mediation-journal-version-0/"
 wp:post_type: post
 ---
 

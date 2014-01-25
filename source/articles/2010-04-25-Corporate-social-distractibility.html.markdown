@@ -6,7 +6,7 @@ tags:
 - ethics
 - nonprofits
 wp:post_id: '1901'
-wp_link: /2010/04/corporate-social-distractibility/
+wp_link: "/2010/04/corporate-social-distractibility/"
 wp:post_type: post
 ---
 

@@ -6,8 +6,10 @@ tags:
 - politics
 - synonyms
 wp:post_id: '224'
-wp_link: /2008/06/other-words-for-lie/
+wp_link: "/2008/06/other-words-for-lie/"
 wp:post_type: post
+redirects:
+- "/2008/06/other-words-for-\"lie\"/"
 ---
 
 It's another election year which means that politics are flying.

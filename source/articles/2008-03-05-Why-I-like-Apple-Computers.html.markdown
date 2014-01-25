@@ -7,7 +7,7 @@ tags:
 - navelgazing
 - technology
 wp:post_id: '209'
-wp_link: /2008/03/why-i-like-apple-computers/
+wp_link: "/2008/03/why-i-like-apple-computers/"
 wp:post_type: post
 ---
 

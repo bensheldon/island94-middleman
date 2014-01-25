@@ -8,8 +8,10 @@ tags:
 - politics
 - story
 wp:post_id: '263'
-wp_link: /2008/10/small-government-small-paper/
+wp_link: "/2008/10/small-government-small-paper/"
 wp:post_type: post
+redirects:
+- "/2008/10/small-government-/-small-paper/"
 ---
 
 The story of the _slightly smaller_ Government-Letter sized paper (from [Wikipedia](http://en.wikipedia.org/wiki/Paper_size#North_American_paper_sizes)):

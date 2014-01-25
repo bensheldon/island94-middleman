@@ -7,7 +7,7 @@ tags:
 - sailboats
 - sailing
 wp:post_id: '70'
-wp_link: /2006/07/sails-on-the-charles/
+wp_link: "/2006/07/sails-on-the-charles/"
 wp:post_type: post
 ---
 

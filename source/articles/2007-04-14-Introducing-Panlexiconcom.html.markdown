@@ -11,7 +11,7 @@ tags:
 - webdesign
 - website
 wp:post_id: '128'
-wp_link: /2007/04/introducing-panlexicon-com/
+wp_link: "/2007/04/introducing-panlexicon-com/"
 wp:post_type: post
 ---
 

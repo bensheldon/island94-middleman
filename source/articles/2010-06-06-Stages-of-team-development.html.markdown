@@ -8,7 +8,7 @@ tags:
 - stages
 - teams
 wp:post_id: '2014'
-wp_link: /2010/06/stages-of-team-development/
+wp_link: "/2010/06/stages-of-team-development/"
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - harbor
 - photos
 wp:post_id: '96'
-wp_link: /2006/09/evening-cruise-on-boston-harbor/
+wp_link: "/2006/09/evening-cruise-on-boston-harbor/"
 wp:post_type: post
 ---
 

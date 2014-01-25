@@ -8,7 +8,7 @@ tags:
 - social media
 - technology
 wp:post_id: '2332'
-wp_link: /2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/
+wp_link: "/2010/12/this-is-me-not-being-cynical-about-nonprofit-innovation/"
 wp:post_type: post
 ---
 

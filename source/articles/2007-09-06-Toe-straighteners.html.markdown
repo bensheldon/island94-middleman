@@ -5,7 +5,7 @@ tags:
 - advertisement
 - weird
 wp:post_id: '149'
-wp_link: /2007/09/toe-straighteners/
+wp_link: "/2007/09/toe-straighteners/"
 wp:post_type: post
 ---
 

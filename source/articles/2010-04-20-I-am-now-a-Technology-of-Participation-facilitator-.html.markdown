@@ -8,7 +8,7 @@ tags:
 - portfolio
 - teamwork
 wp:post_id: '1894'
-wp_link: /2010/04/i-am-now-a-technology-of-participation-facilitator/
+wp_link: "/2010/04/i-am-now-a-technology-of-participation-facilitator/"
 wp:post_type: post
 ---
 

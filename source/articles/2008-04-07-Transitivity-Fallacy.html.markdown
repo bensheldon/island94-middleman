@@ -5,7 +5,7 @@ tags:
 - career
 - trust
 wp:post_id: '211'
-wp_link: /2008/04/transitivity-fallacy/
+wp_link: "/2008/04/transitivity-fallacy/"
 wp:post_type: post
 ---
 

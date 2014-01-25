@@ -9,7 +9,7 @@ tags:
 - project-management
 - webdesign
 wp:post_id: '2501'
-wp_link: /2011/03/the-48-hour-mobile-web-app-drunken-stumble/
+wp_link: "/2011/03/the-48-hour-mobile-web-app-drunken-stumble/"
 wp:post_type: post
 ---
 

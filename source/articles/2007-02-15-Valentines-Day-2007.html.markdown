@@ -11,7 +11,7 @@ tags:
 - storm
 - valentines day
 wp:post_id: '118'
-wp_link: /2007/02/valentines-day-2007/
+wp_link: "/2007/02/valentines-day-2007/"
 wp:post_type: post
 ---
 

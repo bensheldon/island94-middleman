@@ -8,7 +8,7 @@ tags:
 - photos
 - walking
 wp:post_id: '86'
-wp_link: /2006/08/central-park-pictures/
+wp_link: "/2006/08/central-park-pictures/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/centralpark.png

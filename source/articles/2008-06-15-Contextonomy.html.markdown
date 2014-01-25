@@ -4,7 +4,7 @@ date: '2008-06-15'
 tags:
 - language
 wp:post_id: '222'
-wp_link: /2008/06/contextonomy/
+wp_link: "/2008/06/contextonomy/"
 wp:post_type: post
 ---
 

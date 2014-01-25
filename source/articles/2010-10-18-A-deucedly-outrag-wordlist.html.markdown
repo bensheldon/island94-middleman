@@ -9,7 +9,7 @@ tags:
 - search
 - wordlist
 wp:post_id: '2266'
-wp_link: /2010/10/a-deucedly-outrag-wordlist/
+wp_link: "/2010/10/a-deucedly-outrag-wordlist/"
 wp:post_type: post
 ---
 

@@ -8,7 +8,7 @@ tags:
 - scraping
 - webdesign
 wp:post_id: '2629'
-wp_link: /2011/04/shirt-sales-scraped-daily/
+wp_link: "/2011/04/shirt-sales-scraped-daily/"
 wp:post_type: post
 ---
 

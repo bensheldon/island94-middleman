@@ -9,7 +9,7 @@ tags:
 - racism
 - speech
 wp:post_id: '1686'
-wp_link: /2010/01/insufficient-funds/
+wp_link: "/2010/01/insufficient-funds/"
 wp:post_type: post
 ---
 

@@ -9,7 +9,7 @@ tags:
 - Park
 - solar
 wp:post_id: '89'
-wp_link: /2006/08/solar-powered-art/
+wp_link: "/2006/08/solar-powered-art/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/solaronegroup.png

@@ -7,7 +7,7 @@ tags:
 - cybernetics
 - technology
 wp:post_id: '176'
-wp_link: /2007/11/close-to-the-machine/
+wp_link: "/2007/11/close-to-the-machine/"
 wp:post_type: post
 ---
 

@@ -4,7 +4,7 @@ date: '2011-06-08'
 tags: []
 published: false
 wp:post_id: '2689'
-wp_link: /?p=2689
+wp_link: "/?p=2689"
 wp:post_type: post
 ---
 

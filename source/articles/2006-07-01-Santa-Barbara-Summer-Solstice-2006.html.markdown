@@ -11,7 +11,7 @@ tags:
 - solstice
 - summer
 wp:post_id: '55'
-wp_link: /2006/07/santa-barbara-summer-solstice-2006/
+wp_link: "/2006/07/santa-barbara-summer-solstice-2006/"
 wp:post_type: post
 failed_files:
 - http://island94.org/files/Solstice-thumb.png

@@ -8,7 +8,7 @@ tags:
 - principles
 - values
 wp:post_id: '1891'
-wp_link: /2010/04/principles-of-organizational-development-practice/
+wp_link: "/2010/04/principles-of-organizational-development-practice/"
 wp:post_type: post
 ---
 
