@@ -1,6 +1,8 @@
 Island94 Middleman
 ========================
 
+[![Build Status](https://travis-ci.org/bensheldon/island94-middleman.png?branch=master)](https://travis-ci.org/bensheldon/island94-middleman)
+
 A middle-man based single page static website that automatically deploys to an s3 bucket via Travis-CI.
 
 Installation & usage
