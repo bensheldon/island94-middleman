@@ -92,6 +92,10 @@ GEM
     middleman-pry (0.0.2)
       middleman-core (>= 3.1.0)
       pry (>= 0.9.12)
+    middleman-s3_redirect (3.0.3)
+      fog (>= 1.10.1)
+      middleman-core (>= 3.0.0)
+      parallel
     middleman-s3_sync (3.0.20)
       colorize
       fog (>= 1.10.1)
@@ -113,6 +117,7 @@ GEM
     net-ssh (2.7.0)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
+    parallel (0.9.2)
     pmap (1.0.1)
     pry (0.9.12.4)
       coderay (~> 1.0)
@@ -170,6 +175,7 @@ DEPENDENCIES
   middleman-blog
   middleman-livereload (~> 3.1.0)
   middleman-pry
+  middleman-s3_redirect
   middleman-s3_sync
   middleman_writer!
   rake

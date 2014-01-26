@@ -11,6 +11,7 @@ gem "middleman-blog"
 
 gem "middleman-livereload", "~> 3.1.0"
 gem 'middleman-s3_sync'
+gem 'middleman-s3_redirect'
 gem 'middleman-pry'
 
 gem "middleman_writer", git: 'git://github.com/bensheldon/middleman_writer.git'
