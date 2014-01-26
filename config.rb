@@ -40,7 +40,7 @@ activate :blog do |blog|
 
   blog.permalink = "{year}/{month}/{title}.html"
   # Matcher for blog source files
-  blog.sources = "articles/{year}-{month}-{day}-{title}.html"
+  blog.sources = "articles/{year}-{month}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
@@ -117,7 +117,7 @@ configure :build do
 end
 
 activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = 'sheldoncalderon.com'
+  s3_sync.bucket                     = 'island94.org'
   s3_sync.region                     = 'us-east-1'
   s3_sync.aws_access_key_id          = ENV['AWS_ACCESS_KEY_ID']
   s3_sync.aws_secret_access_key      = ENV['AWS_SECRET_ACCESS_KEY']
@@ -128,6 +128,14 @@ activate :s3_sync do |s3_sync|
   s3_sync.reduced_redundancy_storage = false
   s3_sync.acl                        = 'public-read'
   s3_sync.encryption                 = false
+end
+
+activate :s3_redirect do |s3_redirect|
+  s3_redirect.bucket                     = 'island94.org'
+  s3_redirect.region                     = 'us-east-1'
+  s3_redirect.aws_access_key_id          = ENV['AWS_ACCESS_KEY_ID']
+  s3_redirect.aws_secret_access_key      = ENV['AWS_SECRET_ACCESS_KEY']
+  s3_redirect.after_build            = false
 end
 
 ready do
