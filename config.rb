@@ -141,17 +141,27 @@ end
 ready do
   # global redirects
   data.global_redirects.each do |target, sources|
-    # puts "#{target} -> #{sources}"
     Array(sources).each do |source|
-      redirect source, to: target
+      # puts "#{source} -> #{target}"
+      if ::Middleman::Extensions.registered.has_key?(:s3_redirect)
+        puts "S3 REDIRECT"
+        redirect "/#{source}", "/#{target}"
+      else
+        redirect source, to: target
+      end
     end
   end
 
   # blog redirects
   blog.articles.each do |article|
     article.data.fetch('redirects', []).each do |source|
-      # puts "#{source} -> #{article.request_path}"
-      redirect source, to: article.request_path
+      target = article.request_path
+      # puts "#{source} -> #{target}"
+      if ::Middleman::Extensions.registered.has_key?(:s3_redirect)
+        redirect "/#{source}", "/#{target}"
+      else
+        redirect source, to: target
+      end
     end
   end
 end
