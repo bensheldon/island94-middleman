@@ -6,6 +6,7 @@ gem "rake"
 gem "middleman", "~>3.2.0"
 gem 'haml'
 gem 'redcarpet'
+gem 'nokogiri'
 
 gem "middleman-blog"
 

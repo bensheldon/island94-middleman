@@ -187,6 +187,7 @@ DEPENDENCIES
   middleman-s3_redirect
   middleman-s3_sync
   middleman_writer!
+  nokogiri
   rails-assets-foundation
   rake
   redcarpet
