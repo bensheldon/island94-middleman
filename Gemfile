@@ -1,13 +1,15 @@
 source 'http://rubygems.org'
+source 'https://rails-assets.org'
 
 gem "rake"
 
 gem "middleman", "~>3.2.0"
 gem 'haml'
-gem 'bootstrap-sass', '~> 3.0.2.0'
-gem 'bourbon'
+gem 'redcarpet'
 
 gem "middleman-blog"
+
+gem 'rails-assets-foundation'
 
 gem "middleman-livereload", "~> 3.1.0"
 gem 'middleman-s3_sync'
