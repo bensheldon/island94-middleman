@@ -4,20 +4,20 @@ pageable: true
 per_page: 10
 ---
 
-
-- if paginate && num_pages > 1
-  %p
-    Page #{page_number} of #{num_pages}
-  - if prev_page
-    %p= link_to 'Previous page', prev_page
-- page_articles.each_with_index do |article, i|
-  %h2
-    = link_to article.title, article
-    %span= article.date.strftime('%b %e')
-  /
-    use article.summary(250) if you have Nokogiri available to show just
-    the first 250 characters
-  = article.body
-- if paginate
-  - if next_page
-    %p= link_to 'Next page', next_page
+%section.articles-list
+  .row
+    .medium-6.columns
+      %h2 Popular articles
+      %ol
+        %li= link_to "How to write a cover letter for a job application"
+        %li= link_to  "Setting up octave and gnuplot on osx"
+        %li= link_to  "Stages of team development"
+        %li= link_to  "Sdding class to wordpress linked images"
+        %li= link_to  "A gentle conceptual introduction to node js"
+    .medium-6.columns
+      %h2 Newest articles
+      %ol
+        - blog.articles[0...5].each do |article|
+          %li
+            %a{:href => article.url}
+              = article.title

@@ -1,0 +1,16 @@
+- wrap_layout :layout do
+  .row
+    .column
+      %article.article
+        %header
+          %h1
+            %a{:href => current_article.url}
+              = current_article.title
+          %p
+            Authored on
+            %time{pubdate: '', datetime: current_article.date.strftime('%Y-%m-%d')}
+              = current_article.date.strftime('%B %e, %Y')
+
+        .row
+          .column
+            = yield

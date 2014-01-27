@@ -42,7 +42,7 @@ activate :blog do |blog|
   # Matcher for blog source files
   blog.sources = "articles/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
+  blog.layout = "article"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -144,7 +144,6 @@ ready do
     Array(sources).each do |source|
       # puts "#{source} -> #{target}"
       if ::Middleman::Extensions.registered.has_key?(:s3_redirect)
-        puts "S3 REDIRECT"
         redirect "/#{source}", "/#{target}"
       else
         redirect source, to: target
