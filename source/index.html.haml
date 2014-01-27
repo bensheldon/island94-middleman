@@ -4,7 +4,14 @@ pageable: true
 per_page: 10
 ---
 
-%section.articles-list
+%section.explore
+  .row
+    .column
+      %form#search{:action => "http://google.com/search", :method => "get"}
+        %fieldset{:role => "search"}
+          %input{:name => "q", :type => "hidden", :value => "site:island94.org"}
+          %input.search{:name => "q", :placeholder => "Search (via Google)", :results => "0", :type => "text"}
+
   .row
     .medium-6.columns
       %h2 Popular articles

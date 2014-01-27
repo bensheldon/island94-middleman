@@ -10,7 +10,13 @@
             Authored on
             %time{pubdate: '', datetime: current_article.date.strftime('%Y-%m-%d')}
               = current_article.date.strftime('%B %e, %Y')
-
         .row
           .column
             = yield
+        %nav.row
+          .small-6.columns
+            - if current_article.next_article
+              = link_to "← Next: #{current_article.next_article.title}", current_article.next_article
+          .small-6.columns.text-right
+            - if current_article.previous_article
+              = link_to "Previously: #{current_article.previous_article.title} →", current_article.previous_article
