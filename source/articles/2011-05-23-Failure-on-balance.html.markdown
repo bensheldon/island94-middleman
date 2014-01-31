@@ -13,8 +13,4 @@ redirects:
 
 From Chris Rabb's _Invisible Capital_:
 
->
-
 > The often-vaunted entrepreneurial travails of the elite Silicon Valley cohort are emblematic of the kind of entrepreneurial culture that values failure not only as an accepted part of business life, but an expected and highly valued precondition for greater opportunity and professional insight. (Of course, if the financial and professional downsides of shutting down a new venture do not irreparably hurt one's financial net worth or tamper with one's safety net or job prospects, it's far easier to be philosophical about the benefits of "failure.")
-
->
