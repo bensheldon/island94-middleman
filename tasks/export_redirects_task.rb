@@ -5,7 +5,7 @@ class ExportRedirects < Thor
 
   namespace :export_redirects
 
-  desc "export_redirects", "Synchronise your Middleman build to S3 and more"
+  desc "export_redirects", "Export frontmatter redirects to a csv"
   def export_redirects
     app = ::Middleman::Application.server.inst
     text = ""
@@ -14,7 +14,7 @@ class ExportRedirects < Thor
     app.data.global_redirects.each do |target, sources|
     Array(sources).each do |source|
       text << "http://#{host}/#{source}, http://#{host}/#{target}\n"
-      text << "http://www.#{host}/#{source}, http://www.#{host}/#{target}\n"
+      text << "http://#{host}/#{source}, http://www.#{host}/#{target}\n"
     end
   end
 
@@ -23,7 +23,7 @@ class ExportRedirects < Thor
         target = article.request_path
 
         text << "http://#{host}/#{source}, http://#{host}/#{target}\n"
-        text << "http://www.#{host}/#{source}, http://www.#{host}/#{target}\n"
+        text << "http://#{host}/#{source}, http://www.#{host}/#{target}\n"
       end
     end
 
