@@ -21,7 +21,6 @@
             - if current_article.previous_article
               = link_to "Previously: #{current_article.previous_article.title} →", current_article.previous_article
         %footer
-          :plain
           #disqus_thread
           :javascript
             var disqus_shortname = 'island94';
