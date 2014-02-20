@@ -20,3 +20,18 @@
           .small-6.columns.text-right
             - if current_article.previous_article
               = link_to "Previously: #{current_article.previous_article.title} →", current_article.previous_article
+        %footer
+          :plain
+          #disqus_thread
+          :javascript
+            var disqus_shortname = 'island94';
+  
+            (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          %noscript
+            Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          :plain
+            <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
