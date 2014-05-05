@@ -23,3 +23,8 @@ gem "middleman_writer", git: 'git://github.com/bensheldon/middleman_writer.git'
 gem "builder", "~> 3.0"
 gem 'kramdown'
 gem 'coderay'
+
+group :development do
+  gem 'rspec', '~> 2.14.0'
+  gem 'capybara', '~> 2.1.0'
+end
