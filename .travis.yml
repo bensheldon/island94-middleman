@@ -6,6 +6,9 @@ env:
   global:
     - secure: "cK+ggQnLrzNarGVTONw3e1mwqYGGaQIP3yfSfKrx/akWhApZwuQRaC/bOMdEjhFo/Mi0VQE0dFiWELAaUcEnNtag65WURzT7UIevg88oxe/rx01Dot2TnZjrRQ5XZH1DQFUcFsmPw8JvQfiBCggpHMmTiklqQlZVDx1pyrSP3M8="
     - secure: "KLXC4gmwTJF+MPkHC+8P5cFvaDR5VhzERsgN2A3VDzAMb2eZwM0oYVCB/6IbVA84M2YVcgEylm1yYB3tOqp8EinzCrv3FvAScKEPx/vVl6Fnu+dcZwKEKx0H/m0kwrDnI0ihFui7bPT7THSLAqj9FEKskkb87DpSoW14Ikrkr8c="
+before_install:
+  - gem update bundler
+  - bundle config build.nokogiri --use-system-libraries
 script:
   - bundle exec rspec
   - bundle exec middleman build
