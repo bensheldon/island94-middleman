@@ -11,12 +11,11 @@
     = stylesheet_link_tag "application"
 
   %body
-    %nav
-      .row
-        .column
-          %h1#logo
-            %span.site-name Island 94
-            = link_to image_tag('island-logo.png', alt: "Island 94", title: "Island 94"), '/'
-    .row
-      .column
-        = yield
+    .container
+      %h1#logo
+        %span.site-name Island 94
+        = link_to image_tag('island-logo.png', alt: "Island 94", title: "Island 94"), '/'
+    .container
+      = yield
+
+  = partial('layouts/google_analytics')

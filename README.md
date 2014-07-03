@@ -36,7 +36,7 @@ Duplicating joyful deployments
 This was accomplished with a combination of:
 
 1. Creating an AWS S3 bucket
-2. Creating a new Amazon User through the IAM panel with a custom group policy locked to the bucket because you probably shouldn't put your main AWS users credentials in Travis (even if encrypted); and be sue to include both the `/` and `/*` permisisons for the bucket resource:
+2. Creating a new Amazon User through the IAM panel with a custom group policy locked to the bucket because you probably shouldn't put your main AWS users credentials in Travis (even if encrypted); and be sure to include both the `/` and `/*` permisisons for the bucket resource:
 
         {
           "Version": "2012-10-17",
