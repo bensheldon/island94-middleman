@@ -26,6 +26,6 @@ gem 'kramdown'
 gem 'coderay'
 
 group :development do
-  gem 'rspec', '~> 2.14.0'
-  gem 'capybara', '~> 2.1.0'
+  gem 'rspec', '~> 3.0.0'
+  gem 'capybara', '~> 2.3.0'
 end

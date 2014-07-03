@@ -1,4 +1,5 @@
 require 'middleman'
+require 'middleman-blog'
 require 'rspec'
 require 'capybara/rspec'
 
