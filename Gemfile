@@ -23,3 +23,8 @@ gem 'coderay'
 
 gem 'middleman-livereload', '~> 3.3.0'
 gem 'middleman-pry'
+
+group :development do
+  gem 'rspec', '~> 3.0.0'
+  gem 'capybara', '~> 2.3.0'
+end
