@@ -25,6 +25,6 @@ gem 'middleman-livereload', '~> 3.3.0'
 gem 'middleman-pry'
 
 group :development do
-  gem 'rspec', '~> 3.0.0'
-  gem 'capybara', '~> 2.3.0'
+  gem 'rspec', '~> 3.1.0'
+  gem 'capybara', '~> 2.4.0'
 end
