@@ -3,28 +3,28 @@ source 'https://rails-assets.org'
 
 gem 'rake'
 
-gem 'middleman', '~>3.3.0'
+gem 'middleman'
 gem 'haml'
 gem 'redcarpet'
 gem 'nokogiri'
 
 gem 'middleman-blog'
 
-gem 'bootstrap-sass', '~> 3.2.0'
-gem 'middleman-sprockets', '~> 3.3.2'
+gem 'bootstrap-sass'
+gem 'middleman-sprockets'
 
 gem 'middleman-s3_sync'
 gem 'middleman-s3_redirect'
 
 # For feed.xml.builder
-gem 'builder', '~> 3.0'
+gem 'builder'
 gem 'kramdown'
 gem 'coderay'
 
-gem 'middleman-livereload', '~> 3.3.0'
+gem 'middleman-livereload'
 gem 'middleman-pry'
 
 group :development do
-  gem 'rspec', '~> 3.1.0'
-  gem 'capybara', '~> 2.4.0'
+  gem 'rspec'
+  gem 'capybara'
 end
