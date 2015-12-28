@@ -213,11 +213,12 @@ GEM
       fog (>= 1.25.0)
       middleman-core (>= 3.0.0)
       parallel
-    middleman-s3_sync (4.0.0)
+    middleman-s3_sync (3.3.7)
       ansi (~> 1.5.0)
-      fog-aws (>= 0.1.1)
+      fog-aws (>= 0.7.0)
       map
-      middleman-core (>= 3.3.0)
+      middleman-core (~> 3.3)
+      mime-types (>= 3.0)
       parallel
       ruby-progressbar
       unf
@@ -232,7 +233,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.3)
     multi_json (1.11.2)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
     padrino-helpers (0.12.5)
       i18n (~> 0.6, >= 0.6.7)
