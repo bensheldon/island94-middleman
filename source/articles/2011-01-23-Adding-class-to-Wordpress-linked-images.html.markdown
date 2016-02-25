@@ -25,12 +25,12 @@ Adding the following code to your Wordpress theme's `functions.php` file will au
  */
 function give_linked_images_class($html, $id, $caption, $title, $align, $url, $size, $alt = '' ) {
   // Separate classes with spaces, e.g. 'img image-link'
-  $classes = 'img'; 
+  $classes = 'img';
 
   // check if there are already classes assigned to the anchor
   if ( preg_match('/<a.*? class=".*?">/', $html) ) {
     $html = preg_replace('/(<a.*? class=".*?)(".\?>)/', '$1 ' . $classes . '$2', $html);
-  } 
+  }
   else {
     $html = preg_replace('/(<a.*?)>/', '$1 class="' . $classes . '" >', $html);
   }

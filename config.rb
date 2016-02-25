@@ -92,6 +92,15 @@ activate :livereload
 #   end
 # end
 
+
+set :markdown_engine, :kramdown
+set :markdown, layout_engine: :haml,
+               input: 'GFM',
+               tables: true,
+               autolink: true,
+               smartypants: true,
+               fenced_code_blocks: true
+
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
