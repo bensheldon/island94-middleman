@@ -1,0 +1,6 @@
+// https://github.com/twbs/bootstrap-sass/blob/master/templates/project/_bootstrap-variables.sass
+
+$font-size-base: 16px;
+$line-height-base: 24/16;
+// Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+$line-height-computed: floor(($font-size-base * $line-height-base)); // ~20px
